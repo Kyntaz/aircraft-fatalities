@@ -1,0 +1,42 @@
+value,color
+Cause undetermined,#3957ff
+Centre of Gravity outside limits,#d3fe14
+Controlled Flight Into Terrain,#c9080a
+Distraction in cockpit,#fec7f8
+Ditching,#0b7b3e
+Engine separation,#0bf0e9
+Flightcrew  un(der)qualified,#c203c8
+Flightcrew incapacitation,#906407
+"Flightcrew member's alcohol, drug usage",#98ba7f
+Forced landing on runway,#fe6794
+Forced landing outside airport,#10b0ff
+Fuel starvation,#ac7bff
+Fuselage failure,#fee7c0
+Hijack,#964c63
+Icing,#1da49c
+Insufficient rest / fatigue,#0ad811
+Landing or takeoff on wrong runway,#bbd9fd
+Lightningstrike,#fe6cfe
+Locked rudders/ailerons/gustlock,#297192
+Loss of control,#d1a09c
+Loss of situational awareness,#78579e
+Low visibility,#81ffad
+Mid air collision,#739400
+Missing,#ca6949
+Navigational error,#d9bf01
+Overloaded,#646a58
+Runway excursion,#bb73a9
+Runway incursion,#ccf6e9
+Sabotage,#9cb4b6
+Shot down from the ground,#b6a7d4
+Shutdown of wrong engine,#9e8c62
+Simulated engine failure,#6e83c8
+Tail failure,#01af64
+Thunderstorm,#a71afd
+Turbulence,#cfe589
+Uncontained engine failure,#d4ccd1
+VFR flight in IMC,#fd4109
+Windshear/downdraft,#bf8f0e
+Wing failure,#2f786e
+Wrong installation of parts,#4ed1a5
+Wrong takeoff configuration (flaps/trim),#d8bb7d

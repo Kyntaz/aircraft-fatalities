@@ -1,0 +1,228 @@
+/* inconsolata-700 - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 700;
+  src: url('assets/fonts/inconsolata-v16-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Inconsolata Bold'), local('Inconsolata-Bold'),
+       url('assets/fonts/inconsolata-v16-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/inconsolata-v16-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('assets/fonts/inconsolata-v16-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('assets/fonts/inconsolata-v16-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/inconsolata-v16-latin-700.svg#Inconsolata') format('svg'); /* Legacy iOS */
+}
+
+/* lato-regular - latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('assets/fonts/lato-v14-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Lato Regular'), local('Lato-Regular'),
+       url('assets/fonts/lato-v14-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('assets/fonts/lato-v14-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('assets/fonts/lato-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('assets/fonts/lato-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('assets/fonts/lato-v14-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
+}
+
+
+html, body {
+  font-family: 'Lato', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  background-color: #fff;
+  color: #595959;
+}
+
+text {
+  fill: #595959;
+}
+
+button, input, textarea {
+  font-family: 'Lato', sans-serif;
+}
+
+*:focus {
+  outline: 0 !important;
+}
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Inconsolata', monospace;
+  margin: 0;
+}
+
+.fixedPage {
+  overflow: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.filter-button {
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+}
+
+.filter-button.selected {
+  background: #99c3e9;
+  font-weight: bold;
+}
+
+.color-square {
+  height: 15px;
+  width: 15px;
+  margin-left: 5px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+#filter-input-container input {
+  width: 100%;
+}
+
+.clear-filters {
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  background: #ef6161;
+  color: white;
+}
+
+.visualizations-container {
+  height: 90%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.visualizations-container > div:nth-child(1) {
+  height: 45%;
+}
+
+.visualizations-container > div:nth-child(2) {
+  height: 45%;
+}
+
+.visualizations-container > div:nth-child(3) {
+  height: 12%;
+}
+
+.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(0,0,0,.23);
+  border-bottom-width: 1px;
+  box-shadow: 0px 3px 5px rgba(0,0,0,.12);
+}
+
+
+/**
+ *
+ * LINECHART
+ *
+ */
+
+.lineChart-line {
+  fill: none;
+  stroke-width: 3;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+  fill: #ffab00;
+  stroke: #fff;
+}
+
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+.measure-button.active rect {
+  fill: #dce2e7;
+}
+
+.measure-button.selected rect {
+  fill: #99c3e9;
+}
+
+
+/**
+ *
+ * Timeline
+ *
+ */
+
+ .line {
+  fill: none;
+  stroke: #ffab00;
+  stroke-width: 3;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+
+/**
+*
+* Globe
+*
+*/
+
+#globe-info {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 12px;
+  background-color: white;
+  box-shadow: 1px 1px 4px grey;
+  padding: 8px;
+  pointer-events: none;
+  opacity: 0;
+  color: #000;
+}
+
+#globe-info .title {
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+}
+
+#globe-info table {
+  font-size: 12px;
+}
+
+#globe-info table tr td:nth-child(1) {
+  padding-right: 10px;
+}
+
+#globe-info table tr td:nth-child(2) {
+  text-align: end;
+}
+
+#globe-info table tr {
+  border-bottom-style: solid;
+  border-bottom-color: rgba(0,0,0,.32);
+  border-bottom-width: 1px;
+}

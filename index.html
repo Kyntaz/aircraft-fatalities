@@ -1,0 +1,94 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Aircraft Fatalities - Information Visualization</title>
+    <link rel="stylesheet" href="assets/css/pintsize.min.css" />
+    <link rel="stylesheet" href="assets/css/fm.tagator.jquery.css" />
+    <link rel="stylesheet" href="assets/css/sk.d3.min.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="flex flex--center header" style="margin-bottom: 10px">
+      <div class="col--2 flex flex--middle flex--around">
+        <h2> Aircraft Fatalities </h2>
+        <h2 style="margin-right: 20px"> | </h2>
+      </div>
+      <div class="col--3 flex flex--middle flex--between">
+        <h2>Filters:</h2>
+        <button class="filter-button selected">Countries</button>
+        <button class="filter-button">Causes</button>
+        <button class="filter-button">Natures</button>
+      </div>
+      <div class="col--5 flex flex--middle" style="margin-left: 40px">
+        <h2 style="margin-right:10px">Select:</h2>
+        <div id="filter-input-container" style="flex-grow: 1">
+          <input id="filter-input" type="text" placeholder="Select filter options" />
+        </div>
+      </div>
+      <div class="col--1 flex flex--middle" style="margin-left: 40px">
+        <button class="clear-filters"><h3>Clear</h3></button>
+      </div>
+    </div>
+    <div class="visualizations-container">
+      <div class="flex">
+        <div id="globe" class="col--6 flex flex--center flex--middle">
+        </div>
+        <div id="line-chart" class="col--6">
+        </div>
+      </div>
+      <div class="flex">
+        <div id="sankey" class="col--6">
+        </div>
+        <div id="word-cloud" class="col--6">
+        </div>
+      </div>
+      <div id="timeline" class="flex">
+      </div>
+
+      <div id="globe-info">
+        <div class="title">
+          Crash Report
+        </div>
+        <table>
+          <tr>
+            <td> Year </td>
+            <td id="globe-info_year"> 1941 </td>
+          </tr>
+          <tr>
+            <td> Company Country </td>
+            <td id="globe-info_comp-country"> United States </td>
+          </tr>
+          <tr>
+            <td> Cause </td>
+            <td id="globe-info_cause"> Ducks </td>
+          </tr>
+          <tr>
+            <td> Flight Nature </td>
+            <td id="globe-info_nature"> Sightseeing </td>
+          </tr>
+          <tr>
+            <td> # Passengers </td>
+            <td id="globe-info_passengers"> - Infinity </td>
+          </tr>
+          <tr>
+            <td> # Deaths </td>
+            <td id="globe-info_deaths"> Infinity </td>
+          </tr>
+        </table>
+      </div>
+
+    <script src="assets/js/d3.min.js"></script>
+    <script src="assets/js/alasql.min.js"></script>
+    <script src="assets/js/d3.layout.cloud.js"></script>
+    <script src="assets/js/sk.d3.min.js"></script>
+    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="assets/js/fm.tagator.jquery.js"></script>
+    <script src="src/main.js"></script>
+    <script src="src/3dglobe.js"></script>
+    <script src="src/lineChart.js"></script>
+    <script src="src/sankey.js"></script>
+    <script src="src/timeline.js"></script>
+    <script src="src/wordCloud.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1033 @@
+company_country,fatality_id,aircraft_type,nature,total_occupants,total_fatalities,departure_latitude,departure_longitude,destination_latitude,destination_longitude,crash_latitude,crash_longitude,cause,year
+Colombia,19700530-1 ,Hawker Siddeley HS-748-245 Srs.,Scheduled Passenger,42,0,4.7,-74.146947,7.10086,-73.120683,22.995653,-82.407165,Cause undetermined,1970
+France,19701231-0 ,Nord 262E                      ,Non Scheduled Passenger,30,30,36.7,3.215408,39.862597,4.218647,37.43,3.52,Missing,1970
+Germany,19701218-0 ,MBB HFB-320 Hansa Jet          ,Ferry/positioning,2,0,53.6,9.988228,50.865917,7.142744,53.111173,4.763855,Cause undetermined,1970
+India,19700829-0 ,Fokker F-27 Friendship 400     ,Scheduled Passenger,39,39,24.9,92.978742,26.106092,91.585939,25.087,93.035,Cause undetermined,1970
+Israel,19700906-1 ,Boeing 707-458                 ,International Scheduled Passenger,148,1,52.3,4.763889,40.639751,-73.778925,51.4775,-0.461389,Hijack,1970
+Italy,19701104-0 ,Handley Page HPR-7 Herald 203  ,Training,2,0,41.8,12.594936,41.799361,12.594936,41.799361,12.594936,Cause undetermined,1970
+Mexico,19700524-0 ,Boeing 727                     ,Scheduled Passenger,79,0,20.9,-89.657672,19.436303,-99.072097,22.995653,-82.407165,Cause undetermined,1970
+Philippines,19700602-0 ,Fokker F-27 Friendship 100     ,Scheduled Passenger,44,1,14.5,121.019581,10.642511,122.929617,11.548,122.746,Cause undetermined,1970
+Tajikistan,19700903-0 ,Yakovlev 40                    ,Scheduled Passenger,21,21,43.1,74.477556,40.215394,69.694708,40.83,70.35,Controlled Flight Into Terrain,1970
+Ukraine,19700808-1 ,Antonov 10A                    ,Scheduled Passenger,114,1,49.2,28.613889,45.052222,33.975139,47.267,28.913,Uncontained engine failure,1970
+United States of America,19701228-0 ,de Havilland DH-125-1A         ,Executive,2,2,45.8,-108.542889,43.564361,-116.222861,43.643781,-116.061895,Controlled Flight Into Terrain,1970
+United States of America,19701129-0 ,Fairchild C-123K Provider      ,Military,44,42,11.6,108.95,11.998153,109.219372,11.851,109.036,Controlled Flight Into Terrain,1970
+United States of America,19701127-0 ,Fairchild C-123K Provider      ,Military,79,79,10.8,106.651856,12.2275,109.192778,12.149431,108.981628,Controlled Flight Into Terrain,1970
+United States of America,19700702-0 ,Shorts SC.7 Skyvan 3-200       ,Cargo,2,2,40.6,-73.778925,38.852083,-77.037722,38.868124,-77.041582,Cause undetermined,1970
+United States of America,19700530-0 ,Martin 4-0-4                   ,Scheduled Passenger,33,1,33.9,-84.301972,26.58659935,-81.863296508,33.6676,-84.34,Cause undetermined,1970
+United States of America,19700525-1 ,Boeing 727                     ,Scheduled Passenger,74,0,42,-87.904842,40.639751,-73.778925,22.995653,-82.407165,Cause undetermined,1970
+United States of America,19700427-0 ,Kaiser-Frazer AC-119G Shadow   ,Military,8,6,10.8,106.651856,10.818797,106.651856,10.81605,106.65185,Cause undetermined,1970
+United States of America,19701109-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,6,0,44.9,-93.216922,43.878986,-91.256711,43.878986,-91.256711,Cause undetermined,1970
+United States of America,19701015-0 ,Canadian Vickers PBV-1A Canso (,Test,5,2,45.6,-89.467472,45.631194,-89.467472,45.631194,-89.467472,Icing,1970
+United States of America,19701008-0 ,Lockheed C-121J Super Constella,Military,80,0,-43.5,172.532225,-77.867358,167.056572,-77.867358,167.056572,Cause undetermined,1970
+United States of America,19700913-0 ,Boeing 707-331B                ,International Scheduled Passenger,0,0,50,8.543125,40.639751,-73.778925,32.106111,36.16,Hijack,1970
+United States of America,19700908-0 ,McDonnell Douglas DC-9-32      ,Scheduled Passenger,94,0,42,-87.904842,38.174389,-85.736,38.174389,-85.736,Cause undetermined,1970
+United States of America,19700826-1 ,Douglas C-124C Globemaster II  ,Military,7,7,47.1,-122.476475,55.2056,-162.724264,55.42,-161.9,Controlled Flight Into Terrain,1970
+United States of America,19700820-0 ,McDonnell Douglas DC-9         ,Scheduled Passenger,82,0,33.6,-84.426944,32.127583,-81.202139,22.995653,-82.407165,Hijack,1970
+United States of America,19700818-1 ,Howard 350                     ,Ferry/positioning,2,0,28.5,-82.4554167,25.907,-80.278389,25.907,-80.278389,Cause undetermined,1970
+United States of America,19700808-0 ,Convair CV-990-30A-8 Coronado  ,Ferry/positioning,8,0,19.4,-99.072097,16.756892,-99.753586,16.76068,-99.76798,Cause undetermined,1970
+United States of America,19700802-0 ,Boeing 747-121                 ,Non Scheduled Passenger,379,0,40.6,-73.778925,18.439417,-66.001833,22.995653,-82.407165,Hijack,1970
+Ecuador,19711103-0 ,Douglas C-47B-1-DL (DC-3)      ,Ferry/positioning,3,3,3.5,-76.381583,4.701594,-74.146947,4.816667,-75.366667,Cause undetermined,1971
+France,19711019-1 ,Nord 2501 Noratlas             ,Military,6,6,49.3,4.05,49.31,4.05,49.055,4.01,Cause undetermined,1971
+Hungary,19710916-2 ,Tupolev 134                    ,International Scheduled Passenger,49,49,47.4,19.255592,50.345,30.894722,50.307,30.885,Cause undetermined,1971
+India,19711209-0 ,Hindustan Aeronautics Ltd. HAL-,Scheduled Passenger,31,21,8.5,76.920114,9.834508,78.093378,9.68719,77.390305,Cause undetermined,1971
+Japan,19710730-1 ,Boeing 727-281                 ,Scheduled Passenger,162,162,42.8,141.692283,35.552258,139.779694,39.716321,140.957269,Mid air collision,1971
+Pakistan,19711212-1 ,Fokker F-27 Friendship 200     ,Unknown,4,4,24.9,67.160797,29.476194,60.906056,29,61.8,Cause undetermined,1971
+Sudan,19711206-0 ,Fokker F-27 Friendship 200     ,Scheduled Passenger,42,10,15.6,32.553161,9.558969,31.652242,4.786,33.59,Cause undetermined,1971
+Ukraine,19711112-0 ,Antonov 24B                    ,Scheduled Passenger,48,48,50.4,30.451111,49.23972,28.613889,49.24276,28.6138,Cause undetermined,1971
+United States of America,19711212-2 ,Grumman C-2A Greyhound         ,Military,10,10,16,121,10.818797,106.651856,13.3,117.7,Cause undetermined,1971
+United States of America,19711112-1 ,Lockheed C-130E Hercules       ,Military,11,10,34.9,-92.146553,34.918167,-92.146553,34.918167,-92.146553,Loss of control,1971
+United States of America,19711021-0 ,ATECO Westwind II              ,Scheduled Passenger,16,16,41.9,-87.608727,40.664203,-89.693258,40.6928,-89.7397,Controlled Flight Into Terrain,1971
+United States of America,19710916-0 ,McDonnell Douglas C-9A Nighting,Military,3,3,38.5,-89.835183,38.545178,-89.835183,38.564392,-89.875106,Cause undetermined,1971
+United States of America,19710820-0 ,Convair CV-580                 ,Scheduled Passenger,53,0,39.3,-81.439203,40.491467,-80.232872,40.491467,-80.232872,Cause undetermined,1971
+United States of America,19710725-0 ,Boeing 707-321C                ,Cargo,4,4,13.5,144.795983,14.508647,121.019581,14.645278,121.316944,Cause undetermined,1971
+United States of America,19710611-0 ,Boeing 727                     ,Scheduled Passenger,26,1,42,-87.904842,40.639751,-73.778925,40.639751,-73.778925,Hijack,1971
+United States of America,19710606-0 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,49,49,33.9,-118.408075,40.788389,-111.977772,34.2,-117.95,Mid air collision,1971
+United States of America,19710603-1 ,Boeing KC-135Q Stratotanker    ,Military,5,5,40.5,-3.445872,40.496747,-3.445872,40.652,-3.052,Cause undetermined,1971
+Angola,19720521-0 ,Fokker F-27 Friendship 200     ,Scheduled Passenger,25,22,-8.9,13.231178,-12.371233,13.536625,-12.3462,13.5224,Low visibility,1972
+Australia,19720717-1 ,Douglas C-47A-1-DK (DC-3)      ,Cargo,2,0,-5.2,145.7887,-5.643303,143.895411,-5.634866,143.891343,Cause undetermined,1972
+Australia,19720828-0 ,de Havilland Canada DHC-4A Cari,Military,29,25,-6.7,146.995833,-9.443383,147.22005,-7.5,146.732,Cause undetermined,1972
+Belgium,19720508-0 ,Boeing 707-329                 ,International Scheduled Passenger,101,3,48.1,16.569722,32.011389,34.886667,32.011389,34.886667,Cause undetermined,1972
+Canada,19721117-1 ,Douglas C-47A-30-DK (DC-3C)    ,Non Scheduled Passenger,3,3,64,-22.605556,47.61861,-52.751945,48.166,-50.711,Fuel starvation,1972
+Colombia,19720729-1 ,Douglas DC-3A                  ,Scheduled Passenger,17,17,4.2,-73.613761,5.319114,-72.383975,4.76,-73.34,Mid air collision,1972
+Egypt,19721205-0 ,Boeing 707-366C                ,Training,6,6,30.1,31.405556,30.121944,31.405556,29.05,31.03333,Engine separation,1972
+Ethiopia,19720910-0 ,Douglas C-47-DL (DC-3)         ,Scheduled Passenger,11,11,14.1,38.7125,12.532336,37.431797,12.6,37.477,Wing failure,1972
+France,19721027-0 ,Vickers 724 Viscount           ,Scheduled Passenger,68,60,45.7,4.944275,45.786661,3.169169,45.812649,3.707,Controlled Flight Into Terrain,1972
+Germany,19720814-0 ,Ilyushin 62                    ,Non Scheduled Passenger,156,156,52.4,13.5225,42.569583,27.515236,52.306859,13.688614,Cause undetermined,1972
+Germany,19720527-1 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,13,8,54.2,7.915833,53.783,7.917,54.1849,7.9106,Cause undetermined,1972
+Greece,19721021-0 ,NAMC YS-11A-500                ,Scheduled Passenger,53,37,39.6,19.911667,37.898333,23.729444,37.8473,23.749,Controlled Flight Into Terrain,1972
+Italy,19721030-0 ,Fokker F-27 Friendship 200     ,Scheduled Passenger,27,27,40.9,14.290781,41.138856,16.760594,41.0055,16.35918,Cause undetermined,1972
+Japan,19721128-1 ,McDonnell Douglas DC-8-62      ,International Scheduled Passenger,76,61,56,37.414589,35.552258,139.779694,55.9689,37.3848,Loss of control,1972
+Kazakhstan,19720831-0 ,Ilyushin Il-18V                ,Scheduled Passenger,102,102,49.7,73.334444,55.408786,37.906314,53.60146,58.870935,Cause undetermined,1972
+Nepal,19720913-0 ,Douglas C-47A-45-DL (DC-3)     ,Military,31,31,27.7,85.359192,27.696592,85.359192,27.6483,85.6205,Cause undetermined,1972
+Norway,19720711-0 ,de Havilland Canada DHC-6 Twin ,Military,17,17,69.1,18.540356,68.580833,15.026111,68.97,16.4,"Flightcrew member's alcohol, drug usage",1972
+Spain,19720706-0 ,Douglas DC-8-52                ,Ferry/positioning,10,10,40.5,-3.566764,27.931886,-15.386586,27.833333,-15.183333,Controlled Flight Into Terrain,1972
+Switzerland,19720828-1 ,Learjet 23                     ,Unknown,2,2,51.1,-0.190278,47.260219,11.343964,47.236,11.107,Controlled Flight Into Terrain,1972
+Ukraine,19720518-0 ,Antonov 10A                    ,Scheduled Passenger,122,122,55.6,37.261486,49.924786,36.289986,50.180126,36.406812,Wing failure,1972
+United States of America,19721231-1 ,Douglas DC-7CF                 ,Cargo,5,5,18.4,-66.001833,12.141494,-86.168178,18.456,-66.022,Cause undetermined,1972
+United States of America,19721227-0 ,Lockheed L-1329 JetStar I      ,Executive,3,3,41,-98.309639,44.385311,-74.206186,44.3979,-74.2343,Controlled Flight Into Terrain,1972
+United States of America,19721220-1 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,45,10,42,-87.904842,43.139858,-89.337514,41.978603,-87.904842,Cause undetermined,1972
+United States of America,19720808-0 ,Lockheed 18-56-24 Lodestar     ,Non Scheduled Passenger,12,0,10.3,123.979439,14.508647,121.019581,10.307542,123.979439,Cause undetermined,1972
+United States of America,19720629-1 ,Convair CV-580                 ,Scheduled Passenger,5,5,44.5,-88.129589,43.984353,-88.557042,44.176295,-88.398743,Mid air collision,1972
+United States of America,19720618-1 ,Lockheed AC-130A Spectre       ,Military,15,12,15.3,104.870231,15.251278,104.870231,16.255948,107.182888,Cause undetermined,1972
+United States of America,19720605-1 ,Lockheed C-130E Hercules       ,Military,6,6,25.1,121.551667,25.069444,121.551667,23.605,119.639,Ditching,1972
+United States of America,19720526-1 ,Lockheed P-3A Orion            ,Military,8,8,37.4,-122.048333,37.415167,-122.048333,33,-123.4,Cause undetermined,1972
+United States of America,19720517-0 ,Lockheed C-130E Hercules       ,Military,5,4,14.3,108.017,10.818797,106.651856,14.3567,108.0278,Cause undetermined,1972
+United States of America,19721208-1 ,Boeing 737-222                 ,Scheduled Passenger,61,43,38.9,-77.037722,41.785972,-87.752417,41.765253,-87.716085,Loss of control,1972
+United States of America,19721029-1 ,Boeing 727                     ,Scheduled Passenger,47,0,30,-95.341442,33.640444,-84.426944,22.995653,-82.407165,Hijack,1972
+United States of America,19721015-0 ,Howard 350                     ,Executive,8,0,40.7,-74.168667,39.871944,-75.241139,39.871944,-75.241139,Cause undetermined,1972
+United States of America,19720826-1 ,Fairchild C-123K Provider      ,Military,8,8,10.8,106.651856,14.004522,108.017158,14.0098,108.0145,Cause undetermined,1972
+Vanuatu,19721023-2 ,Britten-Norman BN-2A-6 Islander,Scheduled Passenger,8,1,-19.5,169.262,-17.699325,168.319794,-19.53,169.27,Cause undetermined,1972
+Argentina,19731204-0 ,BAC One-Eleven 521FH           ,Scheduled Passenger,74,0,-38.7,-62.169317,-43.2105,-65.270319,-38.724967,-62.169317,Cause undetermined,1973
+Azerbaijan,19730818-0 ,Antonov 24B                    ,Scheduled Passenger,64,56,40.5,50.046667,44.598333,50.341667,40.3256,50.5716,Cause undetermined,1973
+Brazil,19731023-1 ,NAMC YS-11A-211                ,Scheduled Passenger,65,8,-22.9,-43.163133,-19.851181,-43.950628,-22.91802,-43.163873,Cause undetermined,1973
+Brazil,19730711-0 ,Boeing 707-345C                ,International Scheduled Passenger,134,123,-22.8,-43.243647,48.725278,2.359444,48.707507,2.286198,Cause undetermined,1973
+Brazil,19730601-1 ,Sud Aviation SE-210 Caravelle V,Scheduled Passenger,23,23,-1.4,-48.476292,-2.585361,-44.234139,-2.585361,-44.234139,Loss of control,1973
+Colombia,19730827-1 ,Lockheed L-188A Electra        ,Scheduled Passenger,42,42,4.7,-74.146947,10.442381,-75.512961,4.643755,-74.036694,Cause undetermined,1973
+Colombia,19730530-0 ,Lockheed L-188A Electra        ,Scheduled Passenger,93,0,4.8,-75.739519,4.701594,-74.146947,-34.80985,-58.90388,Hijack,1973
+France,19731018-0 ,Boeing 727-228                 ,Scheduled Passenger,110,1,48.7,2.359444,43.660667,7.217583,43.435555,5.213611,Hijack,1973
+Georgia,19731207-1 ,Tupolev 104B                   ,Scheduled Passenger,75,16,44.2,43.081889,55.408786,37.906314,55.4082,37.888,Cause undetermined,1973
+Iceland,19730623-0 ,McDonnell Douglas DC-8-61CF    ,International Scheduled Passenger,128,0,64,-22.605556,40.639751,-73.778925,40.639751,-73.778925,Cause undetermined,1973
+India,19730531-0 ,Boeing 737-2A8                 ,Scheduled Passenger,65,48,13,80.180517,28.5665,77.103088,28.5454,77.183738,Low visibility,1973
+Japan,19730723-0 ,Boeing 747-246B                ,International Scheduled Passenger,0,0,52.3,4.763889,61.174361,-149.996361,32.096786,20.269472,Hijack,1973
+Lithuania,19731216-1 ,Tupolev 124V                   ,Scheduled Passenger,51,51,54.6,25.285767,55.591531,37.261486,55.754941,35.837402,Cause undetermined,1973
+Mexico,19730620-1 ,McDonnell Douglas DC-9-15      ,Scheduled Passenger,27,27,25.8,-100.106878,20.680083,-105.254167,20.494986,-105.014398,Cause undetermined,1973
+Spain,19731217-2 ,McDonnell Douglas DC-10-30     ,International Scheduled Passenger,168,0,40.5,-3.566764,42.364347,-71.005181,42.364347,-71.005181,Windshear/downdraft,1973
+United States of America,19731217-3 ,Boeing 707-321B                ,International Scheduled Passenger,177,30,41.8,12.250797,33.820931,35.488389,41.804475,12.250797,Cause undetermined,1973
+United States of America,19731127-2 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,26,0,40.5,-80.232872,40.916083,-81.442194,40.929353,-81.44013,Runway excursion,1973
+United States of America,19731028-0 ,Boeing 737-222                 ,Scheduled Passenger,96,0,35.2,-80.943125,36.097747,-79.937297,36.097747,-79.937297,Runway excursion,1973
+United States of America,19730927-1 ,Convair CV-600                 ,Scheduled Passenger,11,11,33.2,-92.813278,33.453722,-93.991028,34.701389,-94.333333,VFR flight in IMC,1973
+United States of America,19730828-0 ,Lockheed C-141A-10-LM Starlifte,Military,25,24,37.9,23.729444,40.496747,-3.445872,40.152032,-2.700018,Controlled Flight Into Terrain,1973
+United States of America,19730727-1 ,Boeing 727-61                  ,Training,4,0,35.4,-97.600733,35.393089,-97.600733,35.52883,-97.775245,Cause undetermined,1973
+United States of America,19730722-0 ,Boeing 707-321B                ,International Scheduled Passenger,79,78,-17.6,-149.607236,33.942536,-118.408075,-17.525005,-149.586483,Cause undetermined,1973
+Uzbekistan,19730930-1 ,Tupolev 104B                   ,Scheduled Passenger,108,108,56.7,60.802728,54.967042,73.310514,56.71,60.637,Cause undetermined,1973
+Canada,19741030-0 ,Lockheed L-188PF Electra       ,Non Scheduled Passenger,34,32,53.3,-113.579722,75.3681,-105.734,75.3536,-105.705,Controlled Flight Into Terrain,1974
+Colombia,19740807-0 ,Martin 4-0-4                   ,Training,6,2,5.2,-74.883647,5.212556,-74.883647,5.2208,-74.8837,Loss of control,1974
+Ethiopia,19741120-1 ,Douglas C-47A-30-DL (DC-3)     ,Scheduled Passenger,24,2,6.8,37.75,9.386389,34.521944,6.817,37.75,Cause undetermined,1974
+Indonesia,19740907-0 ,Fokker F-27 Friendship 600     ,Scheduled Passenger,36,33,-6.2,106.8,-5.242339,105.178939,-5.2524,105.1882,Cause undetermined,1974
+Togo,19741226-0 ,Grumman American G-1159 Gulfstr,Official state flight,6,3,13.5,2.183614,6.165611,1.254511,6.161206,1.252441,Cause undetermined,1974
+United States of America,19741211-0 ,Lockheed L-188AF Electra       ,Cargo,3,0,64.8,-147.856267,70.194722,-148.465278,70.194722,-148.465278,Runway excursion,1974
+United States of America,19741201-1 ,Boeing 727-251                 ,Ferry/positioning,3,3,40.6,-73.778925,42.940525,-78.732167,41.214722,-74.094444,Icing,1974
+United States of America,19741027-0 ,Lockheed L-100 Hercules        ,Cargo,4,4,64.8,-147.856267,66.915286,-151.528056,66.40689,-150.55,Turbulence,1974
+United States of America,19741002-0 ,Britten-Norman BN-2A Islander  ,Scheduled Passenger,2,2,17.7,-64.798556,18.337306,-64.973361,18.326,-65.04,Cause undetermined,1974
+United States of America,19740911-1 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,82,72,32.9,-80.040528,35.214011,-80.943125,35.153889,-80.926111,Distraction in cockpit,1974
+United States of America,19740818-1 ,Lockheed C-141A-LM Starlifter  ,Military,7,7,8.9,-79.598007,-16.513339,-68.192256,-16.263,-68.194,Controlled Flight Into Terrain,1974
+United States of America,19740708-0 ,Armstrong Whitworth AW-650 Argo,Unknown,3,0,64.7,-156.937417,68.348835,-166.79935,68.348835,-166.79935,Cause undetermined,1974
+Armenia,19750715-1 ,Yakovlev 40                    ,Scheduled Passenger,40,40,40.1,44.395881,41.610278,41.599694,41.6247222,41.8233,Controlled Flight Into Terrain,1975
+Australia,19751023-0 ,de Havilland DH-114 Riley Heron,Scheduled Passenger,11,11,-20.7,139.488611,-16.885833,145.755278,-16.854944,145.7343,Cause undetermined,1975
+Bulgaria,19751122-0 ,Antonov 24B                    ,Scheduled Passenger,45,3,42.7,23.406167,43.232072,27.825106,42.697,23.4261,Icing,1975
+Canada,19751103-0 ,Douglas C-47A-10-DK Dakota 3   ,Non Scheduled Passenger,26,0,72.7,-77.966667,63.75639,-68.555832,64.15404,-68.6713,Fuel starvation,1975
+Colombia,19750930-2 ,Boeing 727-24C                 ,Cargo,4,4,4.7,-74.146947,10.889589,-74.780819,10.876757,-74.792083,Cause undetermined,1975
+Colombia,19750710-0 ,Lockheed L-188AF Electra       ,Cargo,4,2,4.7,-74.146947,10.889589,-74.780819,4.701594,-74.146947,Cause undetermined,1975
+Colombia,19750503-0 ,Douglas C-47 (DC-3)            ,Scheduled Passenger,7,4,8.3,-73.358331,7.927567,-72.511547,8.07,-72.82,Cause undetermined,1975
+France,19750612-0 ,Boeing 747-128                 ,International Scheduled Passenger,394,0,19.1,72.867919,35.689167,51.313416,19.088686,72.867919,Cause undetermined,1975
+Japan,19751216-0 ,Boeing 747-246B                ,International Scheduled Passenger,121,0,61.2,-149.996361,35.552258,139.779694,61.174361,-149.996361,Cause undetermined,1975
+Jordan,19750803-1 ,Boeing 707-321C                ,Non Scheduled Passenger,188,188,49,2.441389,30.381353,-9.546311,30.707073,-9.823813,Cause undetermined,1975
+Kenya,19750827-0 ,Douglas C-47B-35-DK (DC-3)     ,Scheduled Passenger,19,0,-6.9,39.202625,-10.339058,40.181781,-10.339058,40.181781,Cause undetermined,1975
+Nicaragua,19750803-0 ,Douglas C-47 (DC-3)            ,Military,21,21,19.1,-96.187267,13.699492,-89.119861,13.16,-87.88,Cause undetermined,1975
+Philippines,19750603-0 ,BAC One-Eleven 524FF           ,Scheduled Passenger,64,1,13.2,123.746247,14.508647,121.019581,14.156634,121.588158,Cause undetermined,1975
+Portugal,19750926-1 ,Nord 2501D Noratlas            ,Military,11,11,38.9,-9.030097,39.47514,-8.364583,39.473,-8.407,Wing failure,1975
+United States of America,19751222-0 ,Boeing 707-331B                ,International Scheduled Passenger,125,0,40.6,-73.778925,45.630606,8.728111,45.630606,8.728111,Cause undetermined,1975
+United States of America,19751112-1 ,McDonnell Douglas DC-10-30CF   ,Ferry/positioning,139,0,40.6,-73.778925,50.026421,8.543125,40.628692,-73.770874,Bird strike,1975
+United States of America,19750926-0 ,Convair C-131F (CV-340)        ,Military,6,4,33.7,-117.731164,33.676132,-117.731164,33.55,-117.6584,Cause undetermined,1975
+United States of America,19750830-3 ,Fairchild F-27B                ,Scheduled Passenger,32,10,64.5,-165.445247,63.766766,-171.732824,63.764994,-171.709582,Controlled Flight Into Terrain,1975
+United States of America,19750807-0 ,Boeing 727-224                 ,Scheduled Passenger,131,0,39.8,-104.88184,37.649944,-97.433056,39.779255,-104.88184,Cause undetermined,1975
+United States of America,19750529-0 ,Lockheed 18 Learstar I         ,Illegal Flight,2,2,33.7,-97.197028,35.922295,-84.689663,35.881941,-84.704797,Cause undetermined,1975
+Uruguay,19750511-2 ,Vickers 769D Viscount          ,International Scheduled Passenger,57,0,-34.8,-56.030806,-34.559175,-58.415606,-34.559175,-58.415606,Runway excursion,1975
+Australia,19760806-0 ,GAF Nomad N.24                 ,Test,3,2,-38,144.469444,-38.039444,144.469444,-38.038076,144.465579,Tail failure,1976
+Belarus,19760909-0 ,Antonov 24RV                   ,Scheduled Passenger,46,46,48.1,37.739722,43.449928,39.956589,44.552,37.305,Mid air collision,1976
+Brazil,19760926-1 ,Learjet 25C                    ,Executive,7,7,-3,-60.049721,-23.626692,-46.655375,-22.987058,-47.162491,Controlled Flight Into Terrain,1976
+Colombia,19761025-0 ,Douglas C-47-DL (Hyper)        ,Scheduled Passenger,36,36,5.3,-72.383975,7.927567,-72.511547,5.388,-72.316,Loss of control,1976
+Colombia,19760816-0 ,Boeing 720-047B                ,International Scheduled Passenger,127,0,4.7,-74.146947,19.436303,-99.072097,19.436303,-99.072097,Cause undetermined,1976
+Cuba,19761006-0 ,Douglas DC-8-43                ,International Scheduled Passenger,73,73,13.1,-59.492456,17.935667,-76.7875,13.006,-59.51346,Sabotage,1976
+France,19760828-1 ,Sud Aviation SE-210 Caravelle I,International Scheduled Passenger,20,1,10.8,106.651856,13.912583,100.60675,10.818797,106.651856,Hijack,1976
+Greece,19761123-2 ,NAMC YS-11A-500                ,Scheduled Passenger,50,50,37.9,23.729444,39.650253,22.4655,40.137941,21.89849,Controlled Flight Into Terrain,1976
+India,19761012-0 ,Sud Aviation SE-210 Caravelle V,Scheduled Passenger,95,95,19.1,72.867919,12.994414,80.180517,19.088684,72.84248,Uncontained engine failure,1976
+Mexico,19760902-0 ,McDonnell Douglas DC-9-15      ,Scheduled Passenger,24,0,19.4,-99.072097,20.993464,-101.480847,42.589,-5.655556,Runway excursion,1976
+Panama,19761105-0 ,Douglas DC-3                   ,Cargo,2,2,12.2,-68.959803,18.58005,-72.292542,15.7,-71.1,Missing,1976
+Peru,19761230-0 ,Douglas C-54A-1-DO (DC-4)      ,Scheduled Passenger,24,24,-8.1,-79.108761,-6.508742,-76.373247,-7.83333,-79.05,Cause undetermined,1976
+Peru,19760828-0 ,Canadair CC-106 Yukon (CL-44)  ,Cargo,6,6,-12,-77.114319,10.603117,-66.990583,-5.91666,-76.08333,Cause undetermined,1976
+Portugal,19761119-0 ,CASA C-212-A2 Aviocar 100      ,Military,2,2,39.5,-8.364583,38.781311,-9.135919,38.932025,-9.037649,Controlled Flight Into Terrain,1976
+Singapore,19760821-1 ,Convair CV-880-22M-3           ,Ferry/positioning,9,0,1.4,103.867653,1.360417,103.90953,1.41695,103.867653,Centre of Gravity outside limits,1976
+Spain,19760809-2 ,Douglas C-54E-15-DO (DC-4)     ,Military,32,12,40.3,-3.723833,27.931886,-15.386586,36.2583,-5.9733,Cause undetermined,1976
+Turkey,19760919-0 ,Boeing 727-2F2                 ,Scheduled Passenger,154,154,41,28.821111,36.901492,30.791744,37.7444,30.5417,Navigational error,1976
+United States of America,19761116-0 ,McDonnell Douglas DC-9-14      ,Scheduled Passenger,86,0,39.8,-104.88184,29.984433,-95.341442,39.779255,-104.88184,Cause undetermined,1976
+United States of America,19760926-0 ,Boeing KC-135A Stratotanker    ,Military,20,15,46.4,-87.395353,44.451557,-83.394054,44.9583,-83.7106,Cause undetermined,1976
+United States of America,19760828-2 ,Lockheed C-141A-LM Starlifter  ,Military,18,18,40,-74.593667,52.361933,0.486406,52.54563,-0.160944,Thunderstorm,1976
+United States of America,19760722-0 ,Volpar Turboliner II           ,Private,5,5,55.2,-162.724264,53.9,-166.543611,53.89449,-166.54117,Cause undetermined,1976
+Argentina,19771121-0 ,BAC One-Eleven 420EL           ,Non Scheduled Passenger,79,46,-34.6,-58.415606,-41.151172,-71.157542,-41.25,-70.833,Cause undetermined,1977
+Argentina,19770807-2 ,de Havilland Canada DHC-6 Twin ,Military,6,6,-41.2,-71.157542,-41.943189,-71.532289,-41.882,-71.36,Controlled Flight Into Terrain,1977
+Costa Rica,19770630-0 ,Lockheed L-188CF Electra       ,Cargo,4,4,10,-84.208806,10.603117,-66.990583,9.84,-81.94,Missing,1977
+Ecuador,19770904-0 ,Vickers 764D Viscount          ,Scheduled Passenger,33,33,-2.2,-79.883558,-2.889467,-78.984397,-2.514,-79,VFR flight in IMC,1977
+Germany,19771013-0 ,Boeing 737-230C                ,International Scheduled Passenger,91,4,39.6,2.738808,50.026421,8.543125,2.016,45.303,Hijack,1977
+Hungary,19770921-1 ,Tupolev 134                    ,International Scheduled Passenger,53,29,41,28.821111,44.570992,26.085119,44.673,26.592,Cause undetermined,1977
+Indonesia,19771018-0 ,Hawker Siddeley HS-748-232 Srs.,Test,5,2,14.5,121.019581,14.508647,121.019581,14.4983,121.0256,Cause undetermined,1977
+Malaysia,19771204-0 ,Boeing 737-2H6                 ,Scheduled Passenger,100,100,5.3,100.276864,2.745578,101.709917,1.388745,103.531444,Hijack,1977
+Mexico,19771103-0 ,Britten-Norman BN-2A-8 Islander,Scheduled Passenger,13,13,17.5,-91.98449707,16.690269,-92.530056,16.684,-92.511,Cause undetermined,1977
+Romania,19770627-0 ,IRMA/Britten-Norman BN-2A-27 Is,Training,5,5,44.5,26.102111,44.503194,26.102111,46.4928,22.558,Cause undetermined,1977
+South Africa,19771008-1 ,Britten-Norman BN-2A Trislander,Demonstration,2,0,-25.9,27.926133,-25.938514,27.926133,-25.938514,27.926133,Cause undetermined,1977
+Ukraine,19770708-0 ,Antonov 24RV                   ,Training,7,6,42.9,41.117,48.542778,32.284999,42.88,41.075,Controlled Flight Into Terrain,1977
+United States of America,19771213-0 ,Douglas C-53 (DC-3)            ,Non Scheduled Passenger,29,29,38,-87.532364,36.124472,-86.678194,38.036997,-87.532364,Centre of Gravity outside limits,1977
+United States of America,19771107-0 ,North American Sabreliner 40   ,Executive,4,3,30,-90.02825,26.072583,-80.15275,30.073,-90.028,Cause undetermined,1977
+United States of America,19770927-1 ,Beechcraft 100 King Air        ,Executive,3,1,33.6,-86.75355,32.615111,-85.434,32.598248,-85.436441,Cause undetermined,1977
+United States of America,19770912-0 ,Douglas DC-7BF                 ,Cargo,4,4,59.5,-139.66025,61.174361,-149.996361,59.5381,-139.719,Cause undetermined,1977
+United States of America,19770720-2 ,Rausch Super 18 Hudstar        ,Cargo,2,2,43.9,-78.895,42.212444,-83.353389,43.922779,-78.895,Cause undetermined,1977
+United States of America,19770621-1 ,Lockheed EC-130Q Hercules      ,Military,16,16,19.3,166.641667,13.48345,144.795983,19.27601,166.67408,Cause undetermined,1977
+Canada,19780626-0 ,McDonnell Douglas DC-9-32      ,Scheduled Passenger,107,2,43.7,-79.630556,49.91,-97.234444,43.677223,-79.630556,Cause undetermined,1978
+Chile,19780803-0 ,Boeing 707-351B                ,International Scheduled Passenger,63,0,25.8,-80.290556,-34.819637,-58.534832,-34.810567,-58.578582,Cause undetermined,1978
+Colombia,19780716-0 ,Douglas C-47 (DC-3)            ,Military,8,8,11.5,-72.925958,11.11965,-74.230647,11.117,-74.032,Cause undetermined,1978
+India,19781119-1 ,Antonov 12                     ,Military,77,77,30.7,76.788542,34.135872,77.546514,34.0049,77.715784,Cause undetermined,1978
+Japan,19780602-0 ,Boeing 747SR-46                ,Scheduled Passenger,394,0,35.6,139.779694,34.785528,135.438222,34.785528,135.438222,Tailstrike,1978
+Romania,19781117-1 ,Antonov An-24V                 ,Military,5,5,44.6,26.085119,46.17655,21.262022,46.178243,21.24301,Cause undetermined,1978
+United States of America,19781220-0 ,Learjet 25                     ,Unknown,7,0,44.9,-93.216922,38.036997,-87.532364,44.883325,-93.216922,Wrong takeoff configuration (flaps/trim),1978
+United States of America,19781210-0 ,Lockheed C-130E Hercules       ,Military,5,5,34.9,-92.146553,36.668567,-87.496183,36.668567,-87.496183,Cause undetermined,1978
+United States of America,19781130-0 ,Lockheed C-130E Hercules       ,Military,6,6,35.2,-79.014472,32.898647,-80.040528,32.943,-80.45,Lightningstrike,1978
+United States of America,19781123-0 ,McDonnell Douglas DC-9         ,Scheduled Passenger,23,0,43.1,-89.337514,42.947222,-87.896583,43.139858,-89.337514,Hijack,1978
+United States of America,19781024-0 ,Learjet 24D                    ,Training,2,0,36.1,-115.15225,36.080056,-115.15225,36.080056,-115.15225,Cause undetermined,1978
+United States of America,19781017-0 ,Learjet 24                     ,Training,2,1,34.7,-118.218639,34.741056,-118.218639,34.741056,-118.218639,Cause undetermined,1978
+United States of America,19780924-0 ,Grumman G-159 Gulfstream I     ,Executive,20,0,36.7,-97.099778,29.645419,-95.278889,29.645419,-95.278889,Cause undetermined,1978
+United States of America,19780921-0 ,Douglas DC-3-277C              ,Ferry/positioning,4,4,26.1,-80.15275,22.989153,-82.409086,23.53226,-82.107531,Cause undetermined,1978
+United States of America,19780827-0 ,Douglas DC-6B                  ,Ferry/positioning,4,4,23.6,58.284444,34.875117,33.62485,23.555,58.532,Controlled Flight Into Terrain,1978
+United States of America,19780610-1 ,Fairchild C-119 Flying Boxcar  ,Test,4,3,44.5,-108.082825,44.516818,-108.082825,44.559,-108.16,Cause undetermined,1978
+Argentina,19791121-0 ,IAI Arava 102                  ,Non Scheduled Passenger,8,8,-51.6,-69.312636,-54.822697,-68.304264,-54.937,-68.022,Controlled Flight Into Terrain,1979
+Canada,19790930-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,16,2,49.3,-123.115833,49.483333,-123.766667,49.5072,-123.7548,Cause undetermined,1979
+Colombia,19791219-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,4,4,10.9,-74.780819,7.927567,-72.511547,8.06,-73.183,Cause undetermined,1979
+Fiji,19790712-0 ,Britten-Norman BN-2A-9 Islander,Scheduled Passenger,9,9,-18,178.559228,-16.8,178.617,-16.8225,178.7125,Cause undetermined,1979
+Germany,19790726-1 ,Boeing 707-330C                ,Cargo,3,3,-22.8,-43.243647,14.739708,-17.490225,-22.583333,-43.216667,Cause undetermined,1979
+India,19790621-0 ,Hindustan Aeronautics Ltd. HAL-,Scheduled Passenger,53,0,12.9,77.668206,12.961072,74.890381,12.961072,74.890381,Runway excursion,1979
+Indonesia,19790711-0 ,Fokker F-28 Fellowship 1000    ,Scheduled Passenger,61,61,-2.9,104.701378,3.558056,98.671722,3.25,98.5,Controlled Flight Into Terrain,1979
+Lebanon,19790723-0 ,Boeing 707-327C                ,Training,6,6,33.8,35.488389,33.820931,35.488389,33.8194,35.495753,Loss of control,1979
+Pakistan,19791126-0 ,Boeing 707-340C                ,International Scheduled Passenger,156,156,21.5,39.216389,24.906547,67.160797,21.711744,40.407379,Cause undetermined,1979
+Papua New Guinea,19791223-2 ,GAF Nomad N.22B                ,Scheduled Passenger,16,16,-9.4,147.22005,-9.1908,147.6219,-9.19231,147.62267,Cause undetermined,1979
+Switzerland,19791007-0 ,McDonnell Douglas DC-8-62      ,International Scheduled Passenger,154,14,46.2,6.10895,37.898333,23.729444,37.873969,23.741038,Runway excursion,1979
+United States of America,19791202-0 ,Learjet 24                     ,Non Scheduled Passenger,6,0,53.9,-166.543611,61.174361,-149.996361,53.9,-166.543611,Runway excursion,1979
+United States of America,19791124-0 ,Convair CV-440-86              ,Non Scheduled Passenger,46,0,26.6,-78.695553,26.072583,-80.15275,26.072583,-80.15275,Runway excursion,1979
+United States of America,19791118-2 ,Lockheed L-188CF Electra       ,Cargo,3,3,41.1,-111.973039,36.236197,-115.034253,40.728889,-112.013611,Cause undetermined,1979
+United States of America,19791115-1 ,Boeing 727                     ,Scheduled Passenger,78,0,42,-87.904842,38.852083,-77.037722,39.33,-77.975239,Sabotage,1979
+United States of America,19791031-0 ,McDonnell Douglas DC-10-10     ,International Scheduled Passenger,88,72,33.9,-118.408075,19.436303,-99.072097,19.436303,-99.072097,Cause undetermined,1979
+United States of America,19790912-0 ,Curtiss C-46A-60-CK Commando   ,Cargo,3,0,21.4,-71.142311,21.515739,-71.528528,21.5183,-71.553,Ditching,1979
+United States of America,19790816-0 ,Boeing 727                     ,International Scheduled Passenger,91,0,14.6,-90.527475,25.79325,-80.290556,25.7951,-80.286541,Hijack,1979
+United States of America,19790720-3 ,Boeing 727                     ,Scheduled Passenger,126,0,39.8,-104.88184,41.302647,-95.893789,41.302647,-95.893789,Hijack,1979
+Colombia,19801221-0 ,Sud Aviation SE-210 Caravelle V,Scheduled Passenger,70,70,11.5,-72.925958,6.219958,-75.590519,11.4222,-72.398506,Loss of control,1980
+Colombia,19801124-0 ,Douglas C-47A-35-DL (DC-3)     ,Non Scheduled Passenger,20,20,8.1,-76.716667,6.219958,-75.590519,6.757,-76.36,VFR flight in IMC,1980
+Colombia,19800910-0 ,Douglas C-47-DL (DC-3)         ,Cargo,3,3,10.9,-74.780819,4.701594,-74.146947,6.52,-74.46,Turbulence,1980
+India,19800828-0 ,Vickers 768D Viscount          ,Non Scheduled Passenger,29,0,19.1,72.867919,16.530433,80.796847,16.530433,80.796847,Cause undetermined,1980
+Italy,19800627-0 ,Douglas DC-9-15                ,Scheduled Passenger,81,81,44.5,11.288667,38.175958,13.091019,38.832042,13.425782,Cause undetermined,1980
+New Zealand,19801027-0 ,Britten-Norman BN-2A Islander  ,Cargo,1,0,-46.4,168.312992,-46.899722,168.101944,-46.89785,168.1051,Cause undetermined,1980
+Peru,19800912-1 ,Douglas DC-8-33F               ,Cargo,3,3,-12,-77.114319,-3.784739,-73.308806,-3.7134,-73.299027,Cause undetermined,1980
+Saudi Arabia,19800819-1 ,Lockheed L-1011 TriStar 200    ,Scheduled Passenger,301,301,24.7,46.725278,21.50388,39.216389,24.7325,46.73,Cause undetermined,1980
+Spain,19800813-0 ,Learjet 35A                    ,Non Scheduled Passenger,4,4,40.5,-3.566764,39.551675,2.738808,39.626284,2.778683,Controlled Flight Into Terrain,1980
+United States of America,19801130-0 ,Boeing 707-131B                ,Scheduled Passenger,133,0,38.7,-90.361389,37.618972,-122.374889,37.618972,-122.374889,Cause undetermined,1980
+United States of America,19801112-0 ,Lockheed C-141B Starlifter     ,Military,13,13,50,8.588047,30.116362,30.915445,30.083,30.856,Controlled Flight Into Terrain,1980
+United States of America,19801016-0 ,Fairchild UC-123K Provider     ,Military,5,5,34.6,-98.402166,39.813786,-82.927822,34.649833,-98.402166,Cause undetermined,1980
+United States of America,19800912-3 ,Douglas DC-3A                  ,Non Scheduled Passenger,34,34,26.7,-80.095589,26.558686,-78.695553,26.639115,-79.01505,Controlled Flight Into Terrain,1980
+United States of America,19800909-0 ,Boeing 727                     ,Scheduled Passenger,44,0,45.6,-122.5975,38.695417,-121.590778,38.6966,-121.592554,Sabotage,1980
+United States of America,19800818-0 ,McDonnell Douglas DC-9         ,Scheduled Passenger,59,0,28.1,-80.645258,33.640444,-84.426944,33.640444,-84.426944,Hijack,1980
+United States of America,19800705-0 ,Fairchild C-119 Flying Boxcar  ,Cargo,2,0,60.6,-151.245,58.676803,-156.649217,58.676803,-156.649217,Cause undetermined,1980
+United States of America,19800619-1 ,Sud Aviation SE-210 Caravelle V,Cargo,4,0,39.4,-83.792119,33.640444,-84.426944,33.640444,-84.426944,Cause undetermined,1980
+United States of America,19800612-1 ,Swearingen SA226-TC Metro II   ,Scheduled Passenger,15,13,44.9,-93.216922,40.850971,-96.75925,41.361667,-96.341667,Cause undetermined,1980
+Argentina,19810718-0 ,Canadair CL-44D4-6             ,Cargo,4,4,35.7,51.313416,34.875117,33.62485,40.1,44,Mid air collision,1981
+Colombia,19810902-0 ,Embraer EMB-110P1 Bandeirante  ,Non Scheduled Passenger,22,21,5.8,-73.105431,10.442381,-75.512961,5.5723,-71.116,Overloaded,1981
+Dominican Republic,19811216-1 ,Boeing 707-124                 ,Ferry/positioning,5,0,19.8,-70.570033,25.79325,-80.290556,25.79325,-80.290556,Cause undetermined,1981
+Lebanon,19811023-2 ,Boeing 707-331C                ,Cargo,3,0,35.8,140.386389,13.912583,100.60675,35.764722,140.386389,Cause undetermined,1981
+Mexico,19811210-0 ,Hawker Siddeley DH-125-1A      ,Non Scheduled Passenger,10,0,25.8,-100.106878,27.54375,-99.461556,27.54375,-99.461556,"Flightcrew member's alcohol, drug usage",1981
+Mexico,19810727-0 ,McDonnell Douglas DC-9-32      ,Scheduled Passenger,66,30,25.8,-100.106878,28.702875,-105.964567,28.698867,-105.964245,Cause undetermined,1981
+Netherlands,19811006-0 ,Fokker F-28 Fellowship 4000    ,Scheduled Passenger,17,17,52,4.437222,51.450139,5.374528,51.68023,4.616761,Turbulence,1981
+Slovenia,19811201-1 ,McDonnell Douglas DC-9-81 (MD-8,Non Scheduled Passenger,180,180,46.2,14.457611,41.923637,8.802917,41.760278,8.990278,Cause undetermined,1981
+United States of America,19811023-0 ,McDonnell Douglas DC-10        ,Scheduled Passenger,109,0,18.4,-66.001833,40.639751,-73.778925,40.639751,-73.778925,Hijack,1981
+United States of America,19810922-2 ,McDonnell-Douglas DC-10-30CF   ,Scheduled Passenger,71,0,25.8,-80.290556,26.072583,-80.15275,25.79325,-80.290556,Uncontained engine failure,1981
+United States of America,19810715-1 ,Beechcraft 200 Super King Air  ,Executive,6,6,57.7,-152.493856,55.1163475,-162.266227,55.110505,-162.308892,Cause undetermined,1981
+Brazil,19820903-0 ,Learjet 25B                    ,Private,10,10,-8.7,-63.902281,-9.991944,-67.804722,-10.044,-67.820504,Cause undetermined,1982
+Brazil,19820608-0 ,Boeing 727-212                 ,Scheduled Passenger,137,137,-22.8,-43.243647,-3.776283,-38.532556,-3.976083,-38.627505,Cause undetermined,1982
+Denmark,19821112-0 ,Swearingen SA226-AT Merlin IV  ,Scheduled Passenger,15,0,56,8.353906,55.617917,12.655972,55.620039,12.649959,Cause undetermined,1982
+Egypt,19821017-0 ,Boeing 707-366C                ,International Scheduled Passenger,182,0,30.1,31.405556,46.238064,6.10895,46.245193,6.121616,Cause undetermined,1982
+Georgia,19820814-0 ,Let L-410M                     ,Scheduled Passenger,11,11,42.9,41.117,42.176653,42.482583,42.856636,41.131548,Runway incursion,1982
+India,19820622-0 ,Boeing 707-437                 ,International Scheduled Passenger,111,17,2.7,101.709917,19.088686,72.867919,19.08888,72.843819,Loss of control,1982
+Nigeria,19820905-0 ,Douglas DC-8-51                ,Non Scheduled Passenger,73,0,6.6,3.321156,51.885,0.235,51.885,0.235,Cause undetermined,1982
+Papua New Guinea,19821104-0 ,Embraer EMB-110P2 Bandeirante  ,Cargo,1,0,-9.4,147.22005,-6.569828,146.726242,-9.443383,147.22005,Cause undetermined,1982
+Philippines,19820711-0 ,Hawker Siddeley HS-748-209 Srs.,Scheduled Passenger,30,1,6.1,121.011044,6.922419,122.059633,6.053672,121.011044,Cause undetermined,1982
+Turkmenistan,19821223-0 ,Antonov 26                     ,Cargo,16,16,47.3,39.818089,40.063333,53.007222,47.258208,39.818089,Overloaded,1982
+United States of America,19821207-0 ,Swearingen SA227-AC Metro III  ,Cargo,2,2,35.6,-106.089423,38.289085,-104.496572,38.021591,-104.65473,Cause undetermined,1982
+United States of America,19820831-0 ,Lockheed C-141B Starlifter     ,Military,9,9,32.9,-80.040528,32.898647,-80.040528,35.330974,-84.03021,Controlled Flight Into Terrain,1982
+United States of America,19820730-1 ,Lockheed HC-130H Hercules      ,Military,11,2,52.7,174.11362,52.828356,173.180306,52.803939,173.142169,Controlled Flight Into Terrain,1982
+United States of America,19820709-0 ,Boeing 727-235                 ,Scheduled Passenger,145,145,30,-90.258028,36.080056,-115.15225,29.9874992,-90.2355575,Windshear/downdraft,1982
+Angola,19831108-0 ,Boeing 737-2M2                 ,Scheduled Passenger,130,130,-14.9,13.575022,-8.858375,13.231178,-14.92558,13.598165,Cause undetermined,1983
+Brazil,19831007-0 ,Embraer EMB-110C Bandeirante   ,Scheduled Passenger,15,7,-20.5,-54.6725,-21.141342,-50.424722,-21.13238,-50.4191,Cause undetermined,1983
+Canada,19831217-2 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,12,2,68.3,-133.482778,69.361111,-124.05861,69.361111,-124.05861,Turbulence,1983
+Canada,19830929-0 ,Canadair CL-215-1A10           ,Demonstration,2,0,45.5,-73.741389,45.468056,-73.741389,45.468056,-73.741389,Loss of control,1983
+Canada,19830622-0 ,Douglas C-47A-10-DK Dakota 3   ,Cargo,2,2,41.4,-81.849794,43.677223,-79.630556,43.677223,-79.630556,Centre of Gravity outside limits,1983
+China,19830914-0 ,Hawker Siddeley HS-121 Trident ,Scheduled Passenger,106,11,25.2,110.319722,40.080111,116.584556,25.19139,110.320258,Cause undetermined,1983
+Colombia,19831214-0 ,Boeing 707-373C                ,Ferry/positioning,3,3,6.2,-75.590519,25.79325,-80.290556,6.213514,-75.594606,Cause undetermined,1983
+Italy,19830702-0 ,Sud Aviation SE-210 Caravelle I,Non Scheduled Passenger,89,0,45.6,8.728111,51.148056,-0.190278,45.630606,8.728111,Cause undetermined,1983
+Japan,19831219-0 ,Boeing 747-246F (SCD)          ,Cargo,3,0,35.8,140.386389,61.174361,-149.996361,61.167823,-150.005922,Runway incursion,1983
+Nigeria,19831128-1 ,Fokker F-28 Fellowship 2000    ,Scheduled Passenger,72,53,6.6,3.321156,6.474272,7.561961,6.480304,7.6045,Controlled Flight Into Terrain,1983
+Spain,19831207-0 ,Boeing 727-256                 ,International Scheduled Passenger,93,51,40.5,-3.566764,41.804475,12.250797,40.493556,-3.566764,Runway incursion,1983
+United States of America,19831220-0 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,86,0,42.4,-96.384367,43.582014,-96.741914,43.582014,-96.741914,Cause undetermined,1983
+United States of America,19831031-0 ,Douglas DC-3C                  ,Cargo,2,0,27.5,-99.461556,26.175833,-98.238611,27.54375,-99.461556,Cause undetermined,1983
+United States of America,19831015-0 ,Boeing 737                     ,Scheduled Passenger,107,0,42.9,-78.732167,40.6925,-74.168667,39.457583,-74.577167,Cause undetermined,1983
+United States of America,19831011-0 ,Boeing 747-249F                ,Cargo,6,0,50,8.543125,52.308613,4.763889,50.026421,8.543125,Cause undetermined,1983
+United States of America,19830827-1 ,Swearingen SA226-TC Metro II   ,Scheduled Passenger,4,0,34.5,-93.096207,34.729444,-92.224306,34.478033,-93.096207,Cause undetermined,1983
+United States of America,19830804-3 ,McDonnell Douglas DC-8-63CF    ,Scheduled Passenger,264,0,18.4,-66.001833,25.79325,-80.290556,22.995653,-82.407165,Hijack,1983
+United States of America,19830721-1 ,Boeing 727                     ,Scheduled Passenger,97,0,28,-82.53325,25.79325,-80.290556,25.79325,-80.290556,Hijack,1983
+United States of America,19830717-0 ,Boeing 727                     ,Scheduled Passenger,107,0,25.8,-80.290556,27.975472,-82.53325,22.995653,-82.407165,Hijack,1983
+United States of America,19830707-0 ,Boeing 737                     ,Scheduled Passenger,47,0,26.1,-80.15275,27.975472,-82.53325,22.995653,-82.407165,Hijack,1983
+United States of America,19830629-3 ,Hawker Siddeley HS-125-1A-522  ,Training,2,0,29.6,-95.278889,29.950833,-94.020694,29.645419,-95.278889,Cause undetermined,1983
+United States of America,19830611-0 ,Boeing 727-222A                ,Scheduled Passenger,142,0,42,-87.904842,27.975472,-82.53325,41.978603,-87.904842,Cause undetermined,1983
+Australia,19841125-0 ,Britten-Norman BN-2A-21 Islande,Parachuting,13,0,-34.2,150.669404,-34.222811,150.669404,-34.213931,150.663411,Cause undetermined,1984
+Canada,19840926-0 ,Cessna 500 Citation I          ,Training,2,2,43.7,-79.630556,44.974722,-79.303333,44.68,-79.316,Cause undetermined,1984
+Ecuador,19840918-1 ,Douglas DC-8-55F               ,Cargo,4,4,-0.1,-78.488214,-2.157419,-79.883558,-0.141144,-78.488214,Cause undetermined,1984
+France,19841123-0 ,Transall C-160F                ,Military,6,6,43.5,1.3675,43.545555,1.3675,43.6115,2.2624,Cause undetermined,1984
+Poland,19840916-1 ,Antonov 2T                     ,Non Scheduled Passenger,26,11,50.6,17.781667,50.633333,17.781667,50.633333,17.781667,Cause undetermined,1984
+Somalia,19841124-0 ,Boeing 707-338C                ,International Scheduled Passenger,108,0,2,45.304722,21.679564,39.156536,8.977889,38.799319,Hijack,1984
+United States of America,19841220-1 ,Learjet 35                     ,Training,3,1,31.6,-97.230519,32.847111,-96.851778,31.611289,-97.230519,Simulated engine failure,1984
+United States of America,19841201-0 ,Boeing 720-027                 ,Test,0,0,34.9,-117.883739,34.905417,-117.883739,34.905417,-117.883739,Cause undetermined,1984
+United States of America,19841023-1 ,de Havilland Canada DHC-4A Cari,Ferry/positioning,2,1,37,-25.170639,47.61861,-52.751945,43.95041,-60.287892,Fuel starvation,1984
+United States of America,19841004-0 ,MBB HFB-320 Hansa Jet          ,Executive,3,3,45.4,-98.421833,42.237928,-83.530408,45.449056,-98.421833,Landing or takeoff on wrong runway,1984
+United States of America,19840728-0 ,Learjet 25B                    ,Non Scheduled Passenger,5,0,44.5,-69.675528,41.066959,-73.707575,44.53325,-69.675528,Cause undetermined,1984
+Afghanistan,19850904-0 ,Antonov 26                     ,Scheduled Passenger,52,52,31.5,65.847822,32.367,62.183,31.6,65.577,Cause undetermined,1985
+Australia,19851010-0 ,IAI 1124 Westwind              ,Cargo,2,2,-33.9,151.177222,-27.384167,153.1175,-33.964,151.3068,Loss of control,1985
+Brazil,19850623-1 ,Embraer EMB-110P Bandeirante   ,Scheduled Passenger,17,17,-12.8,-58.917,-15.652931,-56.116719,-11.3,-57.53,Loss of control,1985
+Egypt,19851124-0 ,Boeing 737-266                 ,International Scheduled Passenger,98,60,37.9,23.729444,30.121944,31.405556,35.857497,14.4775,Hijack,1985
+India,19850623-2 ,Boeing 747-237B                ,International Scheduled Passenger,329,329,45.7,-74.038667,51.4775,-0.461389,51.06,-12.816666,Sabotage,1985
+Indonesia,19851130-0 ,Lockheed L-188C Electra        ,Scheduled Passenger,45,0,-6.2,106.8,-0.874989,100.351881,3.558056,98.671722,Cause undetermined,1985
+Ireland,19851207-0 ,Boeing 737-248                 ,International Scheduled Passenger,123,0,53.4,-6.270075,51.4775,-0.461389,53.421333,-6.270075,Cause undetermined,1985
+United States of America,19851212-2 ,Learjet 35A                    ,Executive,3,2,30.6,-96.363833,29.645419,-95.278889,30.588583,-96.363833,Loss of control,1985
+United States of America,19851119-0 ,Boeing 737                     ,Scheduled Passenger,63,0,33.4,-112.011583,34.056,-117.601194,33.434278,-112.011583,Hijack,1985
+United States of America,19851101-0 ,Cessna 208 Caravan I           ,Scheduled Passenger,4,2,60.8,-161.837997,61.540845,-165.600892,60.759273,-161.856703,Cause undetermined,1985
+United States of America,19851019-0 ,Vickers 835 Viscount           ,Non Scheduled Passenger,28,0,38,-84.605889,39.146022,-86.616683,39.146022,-86.616683,Runway excursion,1985
+United States of America,19850923-0 ,Beechcraft B99 Airliner        ,Scheduled Passenger,14,14,39.2,-76.668333,38.263843,-78.896433,38.226583,-78.777083,Flightcrew  un(der)qualified,1985
+United States of America,19850906-0 ,McDonnell Douglas DC-9-14      ,Scheduled Passenger,31,31,42.9,-87.896583,33.640444,-84.426944,42.927222,-87.901667,Uncontained engine failure,1985
+United States of America,19850827-0 ,Boeing KC-135A Stratotanker    ,Military,7,7,39.1,-121.436567,39.136089,-121.436567,39.1123,-121.425,Loss of control,1985
+United States of America,19850802-0 ,Lockheed L-1011 TriStar 1      ,Scheduled Passenger,163,134,26.1,-80.15275,32.896828,-97.037997,32.91551,-97.008955,Windshear/downdraft,1985
+United States of America,19850707-0 ,Douglas C-118A (DC-6)          ,Unknown,3,0,58.2,-157.375428,57.749967,-152.493856,58.18549,-157.375428,Cause undetermined,1985
+United States of America,19850614-0 ,Boeing 727-231                 ,International Scheduled Passenger,153,1,37.9,23.729444,41.804475,12.250797,33.825023,35.491308,Hijack,1985
+Antigua and Barbuda,19860804-0 ,de Havilland Canada DHC-6 Twin ,International Scheduled Passenger,13,13,13.7,-60.952597,13.144306,-61.210861,13.1324,-61.2332,Cause undetermined,1986
+Canada,19860720-0 ,Boeing 737-296                 ,Scheduled Passenger,64,0,52.9,-66.864444,50.223333,-66.265556,52.921944,-66.864444,Bird strike,1986
+Fiji,19860911-1 ,de Havilland DH-114 Riley Heron,Scheduled Passenger,3,1,-17.3,-178.976,-18.043267,178.559228,-17.269,-178.976,Runway excursion,1986
+Japan,19860723-0 ,Mitusbishi Mu-300 Diamond IA   ,Training,4,4,35.6,139.779694,37.955892,139.120717,38.092,138.34,Controlled Flight Into Terrain,1986
+Mozambique,19861019-0 ,Tupolev 134A-3                 ,Official state flight,44,34,-8.9,31.336389,-25.920836,32.572606,-25.911389,31.957222,Controlled Flight Into Terrain,1986
+Pakistan,19861023-1 ,Fokker F-27 Friendship 600     ,Scheduled Passenger,54,13,31.5,74.403594,33.993911,71.514581,33.892,71.516,Cause undetermined,1986
+Romania,19860905-1 ,Antonov 24RV                   ,Scheduled Passenger,55,3,44.5,26.102111,46.785111,23.686167,46.785111,23.686167,Cause undetermined,1986
+United States of America,19861210-0 ,Beechcraft 100 King Air        ,Executive,6,6,41.3,-82.10025,42.426944,-73.292778,42.50645,-73.043351,Controlled Flight Into Terrain,1986
+United States of America,19861113-0 ,Lockheed L-1011 TriStar 1      ,Scheduled Passenger,137,0,33.6,-84.426944,40.6925,-74.168667,40.6925,-74.168667,Wing failure,1986
+United States of America,19861025-0 ,Boeing 737-222                 ,Scheduled Passenger,119,0,40.7,-74.168667,35.214011,-80.943125,35.214011,-80.943125,Runway excursion,1986
+United States of America,19860929-1 ,Rockwell Sabreliner 75A        ,Unknown,4,0,35.4,-97.600733,37.044209,-100.95986,37.044209,-100.95986,Runway excursion,1986
+United States of America,19860810-0 ,McDonnell Douglas DC-10-40     ,Non Scheduled Passenger,0,0,33.9,-118.408075,41.978603,-87.904842,41.978603,-87.904842,Cargo fire/smoke,1986
+United States of America,19860802-0 ,Hawker Siddeley HS-125-1A-522  ,Private,2,2,41.6,-83.807833,38.840033,-86.445364,38.840033,-86.445364,Runway excursion,1986
+Afghanistan,19870611-0 ,Antonov 26                     ,Scheduled Passenger,55,53,31.5,65.847822,34.565853,69.212328,33.523079,69.774,Cause undetermined,1987
+Brazil,19870908-0 ,Hawker Siddeley VU-93 (HS-125-4,Military,9,9,-6.1,-50.003472,-15.862583,-47.912666,-6.117569,-49.975074,Cause undetermined,1987
+Canada,19871204-0 ,Britten-Norman BN-2A-6 Islander,Scheduled Passenger,4,4,52.4,-126.595833,49.950832,-125.270833,51.372222,-125.262222,Cause undetermined,1987
+Canada,19870616-2 ,Douglas DC-4-1009              ,Executive,4,0,60.3,-102.501944,58.1333,-103.7833,58.1333,-103.7833,Cause undetermined,1987
+Chile,19870804-2 ,Boeing 737-2A1                 ,Scheduled Passenger,33,1,-23.4,-70.4451,-22.498746,-68.904124,-22.498746,-68.904124,Cause undetermined,1987
+Egypt,19870921-0 ,Airbus A300B4-203              ,Training,5,5,30.1,31.405556,25.671028,32.706583,25.671298,32.705907,Runway excursion,1987
+Italy,19871015-0 ,ATR 42-312                     ,International Scheduled Passenger,37,37,45.4,9.276739,50.865917,7.142744,45.886843,9.277045,Icing,1987
+Myanmar,19870621-1 ,Fokker F-27 Friendship 200     ,Scheduled Passenger,45,45,20.8,96.792017,20.516758,99.256825,20.63,97.33,Controlled Flight Into Terrain,1987
+Netherlands,19870731-0 ,Fokker 100                     ,Test,12,0,52.3,4.763889,52.308613,4.763889,52.308613,4.763889,Cause undetermined,1987
+New Zealand,19871127-0 ,Cessna 208 Caravan I           ,Cargo,2,2,-41.3,174.805278,-43.489358,172.532225,-42.562918,173.590672,Insufficient rest / fatigue,1987
+New Zealand,19870720-0 ,GAF Nomad N.24A                ,Ferry/positioning,1,0,-44,170.442,-37.866661,175.332056,-44.0046,170.4426,Cause undetermined,1987
+Peru,19871208-1 ,Fokker F-27 Friendship 400M    ,Non Scheduled Passenger,43,42,-8.4,-74.574297,-12.021889,-77.114319,-11.933,-77.2,Cause undetermined,1987
+Peru,19870618-0 ,Antonov An-26                  ,Military,46,46,-12,-77.114319,-6.960030079,-76.768402099,-7.248567,-76.554899,Cause undetermined,1987
+Philippines,19870626-0 ,Hawker Siddeley HS-748-209 Srs.,Scheduled Passenger,50,50,14.5,121.019581,16.375103,120.619636,16.319645,120.804119,Controlled Flight Into Terrain,1987
+Switzerland,19871014-0 ,Lockheed L-100-30 Hercules     ,Cargo,6,6,-12.4,16.947414,-12.609025,13.403711,-12.408,16.56,Shot down from the ground,1987
+United States of America,19871227-1 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,107,0,33.6,-84.426944,30.473306,-87.187444,30.473306,-87.187444,Cause undetermined,1987
+United States of America,19871207-0 ,British Aerospace BAe-146-200  ,Scheduled Passenger,43,43,33.9,-118.408075,37.618972,-122.374889,35.5169708,-120.852736,Cause undetermined,1987
+United States of America,19871123-0 ,Beechcraft 1900C               ,Non Scheduled Passenger,21,18,57.7,-152.493856,59.645556,-151.476583,59.6391,-151.4966,Centre of Gravity outside limits,1987
+United States of America,19871115-0 ,Douglas DC-9-14                ,Scheduled Passenger,82,28,39.8,-104.88184,43.564361,-116.222861,39.779255,-104.88184,Icing,1987
+United States of America,19871015-1 ,Dassault Falcon 10             ,Demonstration,3,3,38.5,-121.102996826,37.3626,-121.929022,38.48701,-121.10179,Loss of control,1987
+United States of America,19870930-1 ,Beechcraft A100 King Air       ,Ferry/positioning,1,0,33.7,-117.868222,42.415297,-124.424922,42.415297,-124.424922,Cause undetermined,1987
+United States of America,19870822-0 ,Boeing 767-231ER               ,Scheduled Passenger,181,0,37.6,-122.374889,38.747167,-90.361389,38.545178,-89.835183,Cause undetermined,1987
+United States of America,19870820-0 ,McDonnell Douglas DC-9-31      ,Cargo,2,0,39.4,-83.792119,41.504094,-74.104839,41.504094,-74.104839,Runway incursion,1987
+United States of America,19870622-0 ,Lockheed L-100-30 Hercules     ,Cargo,3,0,40,-74.593667,39.902375,-84.219375,39.902375,-84.219375,Cause undetermined,1987
+Angola,19880721-1 ,Boeing 707-328C                ,Cargo,6,6,51.2,2.862222,6.577369,3.321156,6.67927,3.3204,Cause undetermined,1988
+Armenia,19880924-0 ,Tupolev 154B-2                 ,International Scheduled Passenger,168,0,40.1,44.395881,36.180675,37.224358,36.180675,37.224358,Cause undetermined,1988
+Austria,19881026-0 ,Cessna 501 Citation I/SP       ,Unknown,2,2,47.8,13.004333,47.260219,11.343964,47.817074,12.987556,Mid air collision,1988
+Bulgaria,19880802-1 ,Yakovlev Yak-40                ,Scheduled Passenger,37,29,42.7,23.406167,43.232072,27.825106,42.6929,23.4258,Runway excursion,1988
+Canada,19880915-1 ,British Aerospace BAe-748-FAA S,Ferry/positioning,2,2,45.5,-73.741389,45.3225,-75.669167,45.419444,-75.25694,Loss of control,1988
+China,19880831-1 ,Hawker Siddeley HS-121 Trident ,International Scheduled Passenger,89,7,23.2,113.2645,22.328833,114.194322,22.307924,114.207772,Cause undetermined,1988
+Colombia,19880706-1 ,Canadair CL-44J                ,Cargo,8,3,10.9,-74.780819,25.79325,-80.290556,10.871,-74.8,Cause undetermined,1988
+France,19881118-2 ,Swearingen SA226-TC Metro II   ,Scheduled Passenger,4,4,46.2,2.363292,48.725278,2.359444,46.23679,2.35957,Loss of control,1988
+India,19881019-0 ,Boeing 737-2A8                 ,Scheduled Passenger,135,133,19.1,72.867919,23.077242,72.63465,23.09988,72.658519,Low visibility,1988
+India,19880719-0 ,Boeing 737-2A8 Advanced        ,Scheduled Passenger,98,0,23.1,72.63465,22.336164,73.226289,40.639751,-73.778925,Cause undetermined,1988
+Kenya,19880710-0 ,Fokker F-27 Friendship 200     ,Scheduled Passenger,43,0,-1.3,36.927775,-0.086139,34.728892,-0.086139,34.728892,Cause undetermined,1988
+Philippines,19881219-0 ,Fokker F-27 Friendship 200MAR  ,Military,16,0,14.5,121.019581,12.502417,124.635778,12.502417,124.635778,Cause undetermined,1988
+United States of America,19881216-0 ,Learjet 24B                    ,Unknown,2,2,35,-89.976667,32.968559,-96.836448,27.00903,-102.04556,Cause undetermined,1988
+United States of America,19880912-2 ,McDonnell Douglas DC-10-10     ,Scheduled Passenger,207,0,42,-87.904842,39.779255,-104.88184,39.779255,-104.88184,Cause undetermined,1988
+United States of America,19880827-1 ,Boeing 727-31                  ,Scheduled Passenger,68,0,38.7,-90.361389,41.785972,-87.752417,41.978603,-87.904842,Cause undetermined,1988
+United States of America,19880727-0 ,Swearingen SA227-AC Metro III  ,Scheduled Passenger,8,0,61.2,-149.996361,59.045414,-158.50334,61.174361,-149.99636,Cause undetermined,1988
+United States of America,19880720-0 ,de Havilland Canada DHC-6 Twin ,Ferry/positioning,1,1,38.9,-77.455811,38.852083,-77.037722,38.944533,-77.455811,Wrong takeoff configuration (flaps/trim),1988
+Argentina,19890816-1 ,Fokker F-28 Fellowship 1000C   ,Passenger,65,0,-41.2,-71.157542,-38.949,-68.155711,-41.151172,-71.157542,Cause undetermined,1989
+Australia,19891114-0 ,Cessna 551 Citation II/SP      ,Ambulance,4,4,69.7,18.918919,69.055758,18.540356,68.886667,19.34,Navigational error,1989
+Brazil,19890805-0 ,Learjet 25D                    ,Executive,4,4,-16.6,-49.220686,-1.37925,-48.476292,-1.447,-48.555,Windshear/downdraft,1989
+Cameroon,19890628-2 ,British Aerospace BAe-748-435 S,Scheduled Passenger,47,3,4,9.719481,3.836039,11.523461,3.838,11.526,Runway excursion,1989
+Canada,19891026-1 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,13,0,61,-69.617778,61.588611,-71.929444,61.588611,-71.929444,Cause undetermined,1989
+Canada,19890626-3 ,Douglas C-118A (DC-6)          ,Agricultural,4,4,48.1,-65.460278,48.071111,-65.460278,48.641667,-66.04166,Controlled Flight Into Terrain,1989
+Colombia,19891105-0 ,Handley Page HPR-7 Herald 401  ,Cargo,6,6,4.7,-74.146947,3.543222,-76.381583,4.027,-75.574,Controlled Flight Into Terrain,1989
+Ecuador,19890904-0 ,Lockheed L-188C Electra        ,Scheduled Passenger,99,0,-0.1,-78.488214,0.809506,-77.708056,0.809506,-77.708056,Wheel(s) up landing,1989
+France,19891205-0 ,Airbus A320-211                ,Scheduled Passenger,142,0,48.7,2.359444,50.561942,3.089444,50.561942,3.089444,Runway incursion,1989
+France,19890919-1 ,McDonnell Douglas DC-10-30     ,International Scheduled Passenger,170,170,12.1,15.034019,49.012779,2.55,16.864687,11.95393,Sabotage,1989
+India,19890923-0 ,Dornier 228-201                ,Scheduled Passenger,11,11,18.6,73.919697,17.452417,78.461111,18.075324,75.115366,Loss of control,1989
+Kyrgyzstan,19890902-0 ,Yakovlev Yak-40                ,Scheduled Passenger,43,0,42.5,78.407778,43.061306,74.477556,43.061306,74.477556,Cause undetermined,1989
+New Zealand,19890808-0 ,Britten-Norman BN-2A-26 Islande,Non Scheduled Passenger,10,10,-44.7,169.245556,-44.673333,167.923333,-44.5,168.483333,Cause undetermined,1989
+Nigeria,19890907-0 ,BAC One-Eleven 320AZ           ,Scheduled Passenger,92,0,6.6,3.321156,5.015494,6.949594,5.015921,6.95044,Cause undetermined,1989
+Norway,19890908-0 ,Convair CV-580                 ,Non Scheduled Passenger,55,55,59.9,10.617222,53.630389,9.988228,57.7198,10.08119,Wrong installation of parts,1989
+Pakistan,19890825-1 ,Fokker F-27 Friendship 200     ,Scheduled Passenger,54,54,35.9,74.333644,33.616653,73.099233,35.667,74.6,Cause undetermined,1989
+Peru,19890621-0 ,de Havilland Canada DHC-5D Buff,Non Scheduled Passenger,59,59,-11.1,-75.3505,-12.021889,-77.114319,-11.3837,-75.6724,Controlled Flight Into Terrain,1989
+Romania,19891228-2 ,Antonov 24RV                   ,Cargo,7,7,44.6,26.085119,44.818444,20.309139,44.577511,25.35537,Shot down from the ground,1989
+Turkey,19890825-0 ,Boeing 727-247                 ,Non Scheduled Passenger,165,0,40.1,32.995083,50.911658,5.770144,40.128082,32.995083,Cause undetermined,1989
+United States of America,19891230-0 ,Boeing 737-204                 ,Scheduled Passenger,130,0,33.4,-112.011583,32.116083,-110.941028,32.116083,-110.941028,Cause undetermined,1989
+United States of America,19891127-1 ,Lockheed L-100-20 Hercules     ,Cargo,5,5,-8.6,25.252897,-14.683,16.033,-14.873,15.888,Cause undetermined,1989
+United States of America,19891004-1 ,Boeing KC-135A Stratotanker    ,Military,4,4,47,-67.885861,46.950428,-67.885861,46.75,-67.747,Cause undetermined,1989
+United States of America,19891002-1 ,Cessna 550 Citation II         ,Executive,2,2,28,-82.53325,36.284892,-78.984228,36.26408,-79.03059,Controlled Flight Into Terrain,1989
+United States of America,19890920-1 ,Boeing KC-135E Stratotanker    ,Military,7,2,64.7,-147.1015,64.665667,-147.1015,64.665667,-147.1015,Cause undetermined,1989
+United States of America,19890915-2 ,Beechcraft 100 King Air        ,Executive,6,6,28.5,-81.33305,36.7696389,-88.584666,36.790726,-88.579708,Cause undetermined,1989
+United States of America,19890719-1 ,McDonnell Douglas DC-10-10     ,Scheduled Passenger,296,111,39.8,-104.88184,41.978603,-87.904842,42.40534,-96.383382,Cause undetermined,1989
+Belgium,19900602-2 ,Embraer EMB-120RT Brasilia     ,"Aerial Work (Calibration, Photo)",2,0,50.6,5.443222,50.901389,4.484444,51.189444,4.460278,Mid air collision,1990
+Brazil,19901112-0 ,de Havilland Canada C-115 Buffa,Military,10,9,-22.8,-43.243647,-23.509119,-46.637753,-22.8283,-43.2447,Loss of control,1990
+Brazil,19900606-1 ,Fairchild FH-227B              ,Scheduled Passenger,42,22,-1.4,-48.476292,-3.253906,-52.253978,-3.262857,-52.266475,Low visibility,1990
+China,19901002-4 ,Boeing 757-21B                 ,Scheduled Passenger,122,46,23.2,113.2645,31.197875,121.336319,23.174451,113.258507,Cause undetermined,1990
+China,19901002-2 ,Boeing 707-3J6B                ,Unknown,1,0,30.6,103.947086,23.184393,113.2645,23.179136,113.259634,Cause undetermined,1990
+Colombia,19900914-1 ,Cessna 208 Caravan I           ,Non Scheduled Passenger,9,2,4.8,-75.739519,3.543222,-76.381583,4.812667,-75.739525,Cause undetermined,1990
+Ethiopia,19900725-0 ,Boeing 707-379C                ,Cargo,4,0,9,38.799319,15.291853,38.910667,8.977889,38.799319,Bird strike,1990
+France,19900731-0 ,Aérospatiale SN.601 Corvette   ,Training,3,0,46.4,4.013264,46.412536,4.013264,46.412536,4.013264,Runway excursion,1990
+Germany,19901121-3 ,Beechcraft 200 Super King Air  ,Executive,3,3,45.8,13.472222,47.260219,11.343964,47.318889,11.770833,Controlled Flight Into Terrain,1990
+Malaysia,19900825-0 ,Lockheed C-130H Hercules       ,Military,40,1,1.5,110.346472,2.264111,111.982778,2.267012,111.981068,Runway excursion,1990
+Philippines,19900724-1 ,Douglas C-47A-70-DL (DC-3)     ,Cargo,3,0,11.6,122.751669,14.508647,121.019581,13.811,121.35,Forced landing outside airport,1990
+United States of America,19901203-2 ,Boeing 727-251                 ,Scheduled Passenger,154,0,42.2,-83.353389,35.042417,-89.976667,42.216124,-83.344811,Runway incursion,1990
+United States of America,19900920-1 ,Boeing 707-321B                ,Ferry/positioning,3,1,32.5,-111.325333,32.166467,-110.883144,32.50077,-111.3181,Loss of control,1990
+United States of America,19900827-0 ,Boeing 747-422                 ,International Scheduled Passenger,343,0,-33.9,151.177222,33.942536,-118.408075,33.942536,-118.408075,Forced landing on runway,1990
+United States of America,19900722-0 ,Boeing 737-222                 ,Scheduled Passenger,27,0,35.3,-77.608833,35.214011,-80.943125,35.331444,-77.608833,Cause undetermined,1990
+United States of America,19900602-0 ,Boeing 737-2X6C                ,Ferry/positioning,4,0,61.2,-149.996361,63.888359,-160.798952,63.9958343,-160.881942,Cause undetermined,1990
+Brazil,19911111-0 ,Embraer EMB-110P1 Bandeirante  ,Scheduled Passenger,15,15,-8.1,-34.923039,-12.910994,-38.331044,-8.11636,-34.919027,Cause undetermined,1991
+Canada,19910918-0 ,Convair CV-580                 ,Cargo,2,2,46.1,-64.678611,43.173611,-79.935,44.7386,-72.6822,Fuselage failure,1991
+Colombia,19910916-1 ,Handley Page HPR-7 Herald 401  ,Cargo,7,7,4.7,-74.146947,10.889589,-74.780819,10.949,-74.734,Cause undetermined,1991
+Cuba,19910914-0 ,Tupolev 154B-2                 ,International Scheduled Passenger,112,0,23,-82.409086,19.436303,-99.072097,19.4462,-99.0513,Runway excursion,1991
+India,19910816-1 ,Boeing 737-2A8 Advanced        ,Scheduled Passenger,69,69,22.7,88.446722,24.759731,93.8972,24.46686,93.66168,Cause undetermined,1991
+Indonesia,19911025-0 ,Britten-Norman BN-2A Trislander,Scheduled Passenger,17,17,-2.2,113.942661,-2.501183,112.977058,-2.29,113,Cause undetermined,1991
+Italy,19911217-0 ,McDonnell Douglas DC-9-32      ,International Scheduled Passenger,96,0,41.8,12.250797,52.16575,20.967122,52.16575,20.967122,Cause undetermined,1991
+Libya,19911207-0 ,Boeing 707-351C                ,Scheduled Passenger,199,0,32.7,13.159011,32.096786,20.269472,32.663544,13.159011,Runway excursion,1991
+Peru,19910709-0 ,CASA C-212 Aviocar 200         ,Scheduled Passenger,15,15,-7.1,-76.582222,-8.377939,-74.574297,-5.67344,-78.66813,Cause undetermined,1991
+Romania,19910813-0 ,Ilyushin 18V                   ,Cargo,9,9,44.6,26.085119,45.809861,21.337861,45.43406,22.545391,Cause undetermined,1991
+Spain,19911103-0 ,Douglas C-47A-1-DK (DC-3)      ,Cargo,3,0,41.3,2.078464,39.551675,2.738808,41.3,2.082,Cause undetermined,1991
+Sweden,19911227-0 ,McDonnell Douglas DC-9-81 (MD-8,International Scheduled Passenger,129,0,59.7,17.918611,55.617917,12.655972,59.74645,18.1842,Cause undetermined,1991
+Ukraine,19910916-2 ,Antonov 74                     ,Cargo,13,13,60.7,114.825833,54.967042,73.310514,60.69749,114.73895,Cause undetermined,1991
+United States of America,19911211-0 ,Beechcraft Beechjet 400A       ,Executive,9,9,34.4,-85.158292,34.637194,-86.775053,34.322,-85.288,Controlled Flight Into Terrain,1991
+United States of America,19911016-1 ,Lockheed P-3A Orion            ,Ferry/positioning,2,2,34.4,-119.840372,46.916306,-114.090556,46.638,-114.1,Controlled Flight Into Terrain,1991
+United States of America,19910710-0 ,Beechcraft C99 Commuter        ,Scheduled Passenger,15,13,30.7,-88.242833,33.562944,-86.75355,33.502778,-86.874444,Thunderstorm,1991
+United States of America,19910701-0 ,Learjet 25XR                   ,Unknown,2,0,39.9,-75.241139,39.997972,-82.891889,39.997972,-82.891889,Cause undetermined,1991
+United States of America,19910601-0 ,GAF Nomad N.24A                ,Unknown,3,2,23.5,-75.78167,19.732989,-72.194739,20.981,-73.714,Cause undetermined,1991
+Australia,19920704-0 ,Boeing 727-277                 ,Scheduled Passenger,105,0,-27.4,153.1175,-33.946111,151.177222,-27.384167,153.1175,Cause undetermined,1992
+Brazil,19921126-1 ,Boeing 707-365C                ,Cargo,5,0,-3,-60.049721,25.79325,-80.290556,-3.038611,-60.049721,Cause undetermined,1992
+Brazil,19920622-2 ,Boeing 737-2A1C                ,Cargo,3,3,-9.9,-67.894072,-7.599906,-72.769489,-7.586187,-72.91627,Cause undetermined,1992
+China,19921008-0 ,Avia 14                        ,Non Scheduled Passenger,35,14,36,103.683,34.447119,108.751592,35.56,105,Cause undetermined,1992
+Colombia,19921015-0 ,Douglas DC-8-55                ,Cargo,3,0,25.8,-80.290556,6.219958,-75.590519,6.219958,-75.590519,Cause undetermined,1992
+Colombia,19920919-1 ,Curtiss C-46F-1-CU Commando    ,Cargo,11,11,4.2,-73.613761,1.253664,-70.233878,4.18,-73.6,Cause undetermined,1992
+Cuba,19921115-0 ,Ilyushin 18D                   ,Non Scheduled Passenger,34,34,18.4,-69.668925,19.7579,-70.570033,19.7635,-70.7157,Controlled Flight Into Terrain,1992
+Greece,19920910-1 ,Canadair CL-215-1A10           ,Military,2,0,38.1,23.556011,38.063831,23.556011,37.91,23.017,Cause undetermined,1992
+India,19920827-2 ,Beechcraft B200C Super King Air,Training,1,1,28.6,77.103088,28.5665,77.103088,28.566128,77.081221,Cause undetermined,1992
+Indonesia,19920724-2 ,Vickers 816 Viscount           ,Scheduled Passenger,70,70,-5.1,119.553997,-3.710264,128.089136,-3.7177,127.983978,Controlled Flight Into Terrain,1992
+Israel,19921004-2 ,Boeing 747-258F                ,Cargo,4,4,52.3,4.763889,32.011389,34.886667,52.318862,4.974884,Engine separation,1992
+Italy,19920903-0 ,Alenia G-222TCM                ,Military,4,4,43.5,16.297964,43.824583,18.331467,43.774936,17.848492,Cause undetermined,1992
+Malaysia,19920902-1 ,Fokker 50                      ,Scheduled Passenger,34,0,1.5,110.346472,2.264111,111.982778,2.264111,111.982778,Cause undetermined,1992
+Mexico,19920727-0 ,Vickers 798D Viscount          ,Ferry/positioning,4,4,19.2,-98.371447,19.436303,-99.072097,19.44,-98.736,Cause undetermined,1992
+Nepal,19920705-2 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,18,0,29.3,82.167,28.586,81.636,29.274389,82.194107,Cause undetermined,1992
+Nigeria,19920926-1 ,Lockheed C-130H Hercules       ,Military,159,159,6.6,3.321156,10.696025,7.320114,6.498272,3.287563,Cause undetermined,1992
+Thailand,19920731-0 ,Airbus A310-304                ,International Scheduled Passenger,113,113,13.9,100.60675,27.696592,85.359192,28.0525,85.450833,Cause undetermined,1992
+United States of America,19921218-0 ,Cessna 550 Citation II         ,Executive,8,8,44.9,-97.154719,45.807667,-108.542889,45.798947,-108.49634,Cause undetermined,1992
+United States of America,19921210-1 ,Volpar Turboliner II           ,Cargo,1,1,39.9,-84.219375,39.175361,-76.668333,39.202142,-76.751827,Centre of Gravity outside limits,1992
+United States of America,19921201-2 ,Lockheed C-141B Starlifter     ,Military,7,7,47.1,-122.476475,47.137681,-122.476475,48.664,-108.79,Mid air collision,1992
+United States of America,19921107-0 ,North American Rockwell Sabreli,Private,8,0,38.8,-97.652169,33.434278,-112.011583,33.434278,-112.011583,Cause undetermined,1992
+United States of America,19921001-0 ,Douglas DC-7B                  ,Fire fighting,2,2,37.9,-121.238306,37.894167,-121.238306,38.868,-120.385,Cause undetermined,1992
+United States of America,19920827-1 ,de Havilland Canada DHC-4T Cari,Test,3,3,50.6,-97.043333,50.628056,-97.043333,50.633305,-97.048057,Loss of control,1992
+United States of America,19920730-0 ,Lockheed L-1011 TriStar 1      ,Scheduled Passenger,292,0,40.6,-73.778925,37.618972,-122.374889,40.628333,-73.771667,Cause undetermined,1992
+United States of America,19920713-1 ,Shorts SC.7 Skyvan 3A-200      ,Cargo,1,1,60.8,-161.837997,61.540845,-165.600892,60.784103,-161.832192,Cause undetermined,1992
+Canada,19930726-2 ,Canadair CL-600-2B19 Regional J,Test,3,3,37.6,-97.433056,37.649944,-97.433056,37.7875,-98.866667,Cause undetermined,1993
+China,19931113-0 ,McDonnell Douglas DC-9-82 (MD-8,Scheduled Passenger,102,12,40.1,116.584556,43.907106,87.474244,43.917767,87.527335,Controlled Flight Into Terrain,1993
+China,19930810-0 ,Boeing 767-2J6ER               ,International Scheduled Passenger,150,0,24.5,118.127739,-6.125567,106.655897,25.084544,121.241721,Hijack,1993
+France,19930912-1 ,Boeing 747-428                 ,International Scheduled Passenger,272,0,33.9,-118.408075,-17.55375,-149.607236,-17.55375,-149.607236,Runway excursion,1993
+Georgia,19930923-1 ,Tupolev 134A                   ,Non Scheduled Passenger,30,1,42.9,41.117,41.669167,44.954722,42.8655,41.1233,Cause undetermined,1993
+Georgia,19930921-0 ,Tupolev 134A                   ,Non Scheduled Passenger,27,27,43.4,39.956589,42.867,41.117,42.8717,41.0927,Shot down from the ground,1993
+Germany,19930914-2 ,Airbus A320-211                ,International Scheduled Passenger,70,2,50,8.543125,52.16575,20.967122,52.159731,20.985529,Windshear/downdraft,1993
+Honduras,19930718-1 ,Boeing 737-2H6                 ,International Scheduled Passenger,94,0,14.1,-87.217197,12.141494,-86.168178,12.141494,-86.168178,Runway excursion,1993
+India,19931115-1 ,Airbus A300B2-101              ,Scheduled Passenger,262,0,13,80.180517,17.452417,78.461111,13.86589,79.488437,Cause undetermined,1993
+Indonesia,19930701-1 ,Fokker F-28 Fellowship 3000    ,Scheduled Passenger,43,41,-3.7,128.089136,-0.926358,131.121194,-0.914307,131.130774,Cause undetermined,1993
+Lebanon,19930726-0 ,Boeing 707-327C                ,Cargo,3,0,52.3,4.763889,33.820931,35.488389,52.308613,4.763889,Cause undetermined,1993
+Myanmar,19931006-0 ,Fokker F-27 Friendship 600     ,Scheduled Passenger,45,0,16.9,96.133222,10.049258,98.538006,10.049258,98.538006,Runway excursion,1993
+Nepal,19930731-1 ,Dornier 228-101                ,Scheduled Passenger,19,19,27.7,85.359192,27.683,84.433,27.738048,84.414139,Controlled Flight Into Terrain,1993
+Norway,19931027-1 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,19,6,63.5,10.939872,64.467,11.583,64.48888,11.70833,Controlled Flight Into Terrain,1993
+Philippines,19931215-2 ,Lockheed C-130H Hercules       ,Military,30,30,14.5,121.019581,13.584886,123.270239,13.611495,122.969284,Controlled Flight Into Terrain,1993
+Senegal,19931209-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,3,3,12.4,-16.746125,14.739708,-17.490225,14.77,-17.49,Mid air collision,1993
+Tajikistan,19930828-2 ,Yakovlev Yak-40                ,Non Scheduled Passenger,86,82,37.5,71.513333,38.543333,68.825,37.492793,71.517338,Overloaded,1993
+United States of America,19931215-1 ,Mitusbishi Mu-300 Diamond I    ,Private,3,3,38.5,-100.885002136,39.370622,-101.698992,39.28378,-101.57952,Loss of control,1993
+United States of America,19931203-1 ,Cessna 550 Citation II         ,Executive,2,0,41.9,-88.248611,38.830833,-94.890278,41.907778,-88.248611,Bird strike,1993
+United States of America,19931115-2 ,Boeing 727-227                 ,Scheduled Passenger,86,0,30,-95.341442,41.978603,-87.904842,41.978603,-87.904842,Cause undetermined,1993
+United States of America,19930826-1 ,Dassault Falcon 10             ,Ferry/positioning,2,0,47.5,-111.370689,43.504444,-114.296194,51.148056,-0.190278,Runway excursion,1993
+United States of America,19930817-0 ,Swearingen SA226-TC Metro II   ,Ferry/positioning,2,2,40.7,-73.413408,41.736722,-72.649444,41.74691,-72.64681,Cause undetermined,1993
+Brazil,19941014-0 ,Lockheed C-130E Hercules       ,Military,21,21,-22.8,-43.243647,-1.37925,-48.476292,-11.0378,-45.17,Cause undetermined,1994
+Canada,19941124-2 ,de Havilland Canada DHC-6 Twin ,Ferry/positioning,4,4,-67.6,-68.127402,-74.693,164.111,-67.531,-68.1347,Cause undetermined,1994
+Colombia,19941008-0 ,Antonov 32B                    ,Cargo,5,0,4.2,-73.613761,1.253664,-70.233878,1.253664,-70.233878,Cause undetermined,1994
+Ecuador,19941122-2 ,Boeing 727-23                  ,Cargo,5,0,25.8,-80.290556,-2.157419,-79.883558,25.79325,-80.290556,Cause undetermined,1994
+France,19941226-0 ,Airbus A300B2-1C               ,International Scheduled Passenger,170,7,36.7,3.215408,48.725278,2.359444,43.435555,5.213611,Hijack,1994
+France,19940628-0 ,Grumman G-159 Gulfstream I     ,Scheduled Passenger,27,0,49.4,1.1748,45.726387,5.090833,45.726387,5.090833,Cause undetermined,1994
+Gabon,19941208-0 ,ATR 72-202                     ,Scheduled Passenger,21,0,2.1,11.493195,1.543108,11.581361,1.543108,11.581361,Cause undetermined,1994
+Germany,19941214-0 ,Learjet 35A                    ,Non Scheduled Passenger,7,1,56,37.414589,53.393333,58.756667,55.972642,37.414589,Loss of control,1994
+Indonesia,19941130-0 ,Fokker F-28 Fellowship 4000    ,Scheduled Passenger,85,0,-6.1,106.655897,-6.972728,110.375364,-6.972728,110.375364,Runway excursion,1994
+Indonesia,19940708-0 ,Boeing 737-4U3                 ,Scheduled Passenger,90,0,-6.1,106.655897,3.558056,98.671722,3.558056,98.671722,Cause undetermined,1994
+Kenya,19940808-0 ,Reims Cessna F406 Caravan II   ,Cargo,3,0,-1.3,36.814833,2.014444,45.304722,-1.321719,36.814833,Cause undetermined,1994
+Mexico,19940618-1 ,Learjet 25D                    ,Non Scheduled Passenger,12,12,30,-90.02825,38.944533,-77.455811,38.910558,-77.433385,Cause undetermined,1994
+Nigeria,19941219-2 ,Boeing 707-3F9C                ,Cargo,5,3,21.7,39.156536,12.047589,8.524622,12.6933333,10.2566667,Distraction in cockpit,1994
+Nigeria,19940913-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,5,2,6.6,3.321156,9.006781,7.263175,9.12006,7.3461,Cause undetermined,1994
+Papua New Guinea,19941217-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,28,28,-5.3,141.225833,-5.317,141.75,-5.39058,141.768231,Controlled Flight Into Terrain,1994
+South Africa,19940713-1 ,Avro Shackleton MR.3           ,Military,19,0,5.3,-3.926294,38.781311,-9.135919,22.6305,-13.2374,Forced landing outside airport,1994
+Turkey,19941229-0 ,Boeing 737-4Y0                 ,Scheduled Passenger,76,57,40.1,32.995083,38.468219,43.3323,38.39879,43.228366,Controlled Flight Into Terrain,1994
+United States of America,19941214-1 ,Learjet 35A                    ,Military,2,2,36.8,-119.71814,36.776194,-119.71814,36.757747,-119.740025,Cause undetermined,1994
+United States of America,19941122-0 ,McDonnell Douglas DC-9-82 (MD-8,Scheduled Passenger,140,0,38.7,-90.361389,39.779255,-104.88184,38.747167,-90.361389,Runway incursion,1994
+United States of America,19941104-0 ,McDonnell Douglas MD-11F       ,Cargo,2,0,34.4,135.244072,61.174361,-149.996361,61.167823,-150.00592,Cause undetermined,1994
+United States of America,19940804-1 ,Beechcraft A100 King Air       ,Ferry/positioning,1,1,42.7,-73.1705556,41.066959,-73.707575,42.681075,-73.164821,Cause undetermined,1994
+United States of America,19940713-2 ,Learjet 35                     ,Non Scheduled Passenger,10,0,39.5,-74.577167,40.6925,-74.168667,39.457583,-74.577167,Cause undetermined,1994
+United States of America,19940623-1 ,de Havilland Canada DHC-3 Otter,Non Scheduled Passenger,11,7,58.5,-133.943421,58.298888,-134.4077778,58.314499,-134.040755,VFR flight in IMC,1994
+Afghanistan,19950911-0 ,Antonov 26B                    ,Scheduled Passenger,46,3,34.6,69.212328,34.400253,70.498853,34.408,70.4873,Cause undetermined,1995
+Argentina,19951108-0 ,Fokker F-27 Friendship 400M    ,Non Scheduled Passenger,53,53,-33.7,-65.387419,-31.323619,-64.207953,-31.9415,-64.9489,Controlled Flight Into Terrain,1995
+Australia,19950916-1 ,Swearingen SA227-AC Metro III  ,Training,3,2,-31.1,150.846667,-31.083889,150.846667,-31.08557,150.8578,Cause undetermined,1995
+Azerbaijan,19951205-0 ,Tupolev 134B-3                 ,Scheduled Passenger,82,52,39.2,45.458442,40.4675,50.046667,39.189444,45.458888,Shutdown of wrong engine,1995
+Cameroon,19951203-0 ,Boeing 737-2K9                 ,International Scheduled Passenger,76,71,6.4,2.384353,4.006081,9.719481,3.995066,9.708604,Cause undetermined,1995
+Colombia,19950814-0 ,Embraer EMB-110P1 Bandeirante  ,Scheduled Passenger,8,8,3,-75.294072,3.543222,-76.381583,2.998611,-76.021667,Cause undetermined,1995
+Colombia,19950509-1 ,Curtiss C-46F-1-CU Commando    ,Cargo,9,9,1.3,-70.233878,4.167875,-73.613761,4.2219,-73.607,Controlled Flight Into Terrain,1995
+Guatemala,19950809-1 ,Boeing 737-2H6                 ,International Scheduled Passenger,65,65,14.6,-90.527475,13.440947,-89.055728,13.599167,-88.849444,Controlled Flight Into Terrain,1995
+Haiti,19950820-0 ,GAF Nomad N.22B                ,Scheduled Passenger,14,0,18.6,-72.292542,18.667,-74.167,18.667,-74.167,Cause undetermined,1995
+Indonesia,19951003-1 ,CASA/Nurtanio NC-212-A4 Aviocar,Scheduled Passenger,14,1,3.6,98.671722,4.25,96.217,4.70803,96.936909,Forced landing outside airport,1995
+Indonesia,19950511-0 ,Lockheed L-100-30 Hercules     ,Cargo,6,0,-2.6,140.516372,-4.102511,138.957372,-2.576953,140.516372,Wheel(s) up landing,1995
+Malaysia,19950731-1 ,de Havilland Canada DHC-4A Cari,Military,6,3,5.3,115.250181,5.300683,115.250181,5.26789,115.27396,Ditching,1995
+Mexico,19951031-1 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,11,9,25.5,-100.928669,28.627394,-100.535211,28.723866,-100.668966,Low visibility,1995
+Mexico,19950612-1 ,Learjet 35                     ,Non Scheduled Passenger,4,0,19.1,-96.187267,31.226083,-110.975831,31.226083,-110.975831,Runway excursion,1995
+New Zealand,19950609-0 ,de Havilland Canada DHC-8-102  ,Scheduled Passenger,21,4,-37,174.791667,-40.320556,175.616944,-40.333333,175.8,Distraction in cockpit,1995
+Nigeria,19950726-0 ,McDonnell Douglas DC-9-31      ,International Scheduled Passenger,91,0,5.6,-0.166786,6.289061,-10.758722,6.289061,-10.758722,Cause undetermined,1995
+Papua New Guinea,19951222-0 ,Britten-Norman BN-2A-21 Islande,Scheduled Passenger,12,2,-5.2,145.7887,-5.733,145.217,-5.387772,145.445034,Runway excursion,1995
+Papua New Guinea,19950701-1 ,de Havilland Canada C-7A Caribo,Cargo,3,2,-9.4,147.22005,-5.278611,141.225833,-6.127101,141.271744,Cause undetermined,1995
+Sri Lanka,19950912-0 ,Antonov 32B                    ,Military,75,75,6.8,79.886208,9.792331,80.070089,6.8286,79.831515,Loss of control,1995
+United States of America,19951230-1 ,Cessna 560 Citation V          ,Unknown,2,2,41.5,-93.663083,45.932333,-89.268278,45.93894,-89.258819,Icing,1995
+United States of America,19951220-0 ,Boeing 747-136                 ,Scheduled Passenger,468,0,40.6,-73.778925,25.79325,-80.290556,40.639751,-73.778925,Cause undetermined,1995
+United States of America,19951214-0 ,Rockwell 1121 Jet Commander    ,Cargo,2,2,25.8,-80.290556,14.583272,-90.527475,14.745,-90.483,Cause undetermined,1995
+United States of America,19951012-1 ,Grumman American G-1159 Gulfstr,Executive,9,0,63.8,-68.555832,41.411689,-81.849794,41.411689,-81.849794,Cause undetermined,1995
+United States of America,19950922-1 ,Learjet 36A                    ,Ferry/positioning,4,0,46.2,6.10895,28.05155,9.642911,28.05155,9.642911,Cause undetermined,1995
+United States of America,19950916-3 ,Swearingen SA226-TC Metro II   ,Ferry/positioning,2,0,41.7,-86.31725,30.3417,-85.7973,41.708661,-86.31725,Cause undetermined,1995
+United States of America,19950906-1 ,Boeing 737-4Q8                 ,International Scheduled Passenger,78,0,25.8,-80.290556,18.58005,-72.292542,25.79325,-80.290556,Cause undetermined,1995
+United States of America,19950817-1 ,Saab 340A                      ,Scheduled Passenger,31,0,39.9,-75.241139,40.639751,-73.778925,39.871944,-75.241139,Cause undetermined,1995
+United States of America,19950803-1 ,Dornier 328-110                ,Scheduled Passenger,18,0,40.5,-122.293403,45.588722,-122.5975,45.588722,-122.5975,Cause undetermined,1995
+United States of America,19950719-1 ,Douglas C-47A-75-DL (DC-3C)    ,Ferry/positioning,2,1,42.2,-76.891611,39.12325,-94.59275,42.086254,-77.78273,Cause undetermined,1995
+United States of America,19950621-0 ,Douglas C-54G                  ,Fire fighting,2,2,33.7,-117.022526,33.733982,-117.022526,33.035667,-116.8865,Mid air collision,1995
+United States of America,19950605-0 ,Lockheed L-100-30 Hercules     ,Cargo,3,0,61.2,-149.996361,63.227442,-154.7644,63.227442,-154.7644,Tailstrike,1995
+United States of America,19950523-0 ,Learjet 35A                    ,Executive,7,0,36.4,-94.10687,19.337072,-99.566008,36.372297,-94.10687,Cause undetermined,1995
+Algeria,19960725-0 ,Boeing 767-3D6                 ,Scheduled Passenger,232,0,35.6,-0.621183,36.691014,3.215408,35.622008,-0.606357,Hijack,1996
+Angola,19960624-1 ,Antonov 26B                    ,Cargo,8,4,-8.9,13.231178,-8.75,17.983,-8.7824,17.9939,Loss of control,1996
+Argentina,19961023-0 ,Boeing 707-372C                ,Cargo,8,2,-33.4,-70.78555,-34.819637,-58.534832,-34.8177,-58.562488,Loss of control,1996
+Brazil,19961117-0 ,Embraer P-95B Bandeirulha (EMB-,Military,9,9,-12.9,-38.331044,-5.911417,-35.247717,-8.269,-35.992,Mid air collision,1996
+Brazil,19960913-1 ,Embraer EMB-110 Bandeirante    ,Cargo,2,2,-30,-51.171428,-26.224406,-48.797331,-26.1585,-48.7383,Controlled Flight Into Terrain,1996
+Canada,19961206-0 ,Beechcraft 99 Airliner         ,Scheduled Passenger,14,0,56.7,-111.221944,58.767223,-111.117222,58.767223,-111.117222,Cause undetermined,1996
+Canada,19961101-1 ,Swearingen SA226-TC Metro II   ,Scheduled Passenger,7,0,54.6,-94.493614,54.839714,-94.080833,54.839714,-94.080833,Cause undetermined,1996
+Canada,19960814-1 ,Douglas DC-4 (C-54A-15-DC)     ,Cargo,3,1,56.7,-131.086944,56.484333,-132.369833,56.689,-131.026,Cause undetermined,1996
+China,19960621-0 ,Harbin Yunshuji Y-12 II        ,Scheduled Passenger,12,2,39,121.5386,39.267,122.517,39.2693,122.6571,Controlled Flight Into Terrain,1996
+Colombia,19961130-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,15,14,6.2,-75.590519,6.202917,-77.394675,6.219166,-75.655,Overloaded,1996
+Colombia,19960702-0 ,Dornier Do 28D-2 Skyservant    ,Non Scheduled Passenger,9,0,7.1,-73.184778,6.90555,-73.4672,6.905556,-73.46722,Cause undetermined,1996
+Denmark,19960803-0 ,Gulfstream Aerospace G-1159 Gul,Military,9,9,64,-22.605556,62.063628,-7.277219,62.06402,-7.270203,Cause undetermined,1996
+Ethiopia,19961123-0 ,Boeing 767-260ER               ,International Scheduled Passenger,175,125,9,38.799319,-1.319242,36.927775,-11.359424,43.353525,Hijack,1996
+France,19960927-0 ,Dassault Falcon 10             ,Non Scheduled Passenger,4,0,48.1,3.71423721,40.493556,-3.566764,40.463112,-3.565505,Cause undetermined,1996
+India,19961228-0 ,Boeing 737-2A8F                ,Cargo,2,0,19.1,72.867919,12.949986,77.668206,12.949986,77.668206,Cause undetermined,1996
+India,19960711-1 ,Let L-410UVP-E9D               ,Scheduled Passenger,9,9,31.1,77.067933,31.876706,77.154367,32.039,76.806,Cause undetermined,1996
+Indonesia,19960711-0 ,British Aerospace BAe-748-402 S,Scheduled Passenger,48,0,-3.7,128.089136,1.549256,124.926419,-3.710264,128.089136,Cause undetermined,1996
+Ireland,19960927-1 ,Boeing 727-223F                ,Cargo,3,0,41.2,-8.681389,40.493556,-3.566764,40.463112,-3.565505,Cause undetermined,1996
+Kazakhstan,19961112-1 ,Ilyushin 76TD                  ,Cargo,37,37,42.4,69.478889,28.5665,77.103088,28.633,76.261,Mid air collision,1996
+Mexico,19960918-0 ,Fairchild C-123K Provider      ,Non Scheduled Passenger,5,5,27.7,-114.9111,31.795281,-116.602772,27.705278,-114.911111,Cause undetermined,1996
+Netherlands,19961208-0 ,Fokker 50                      ,International Scheduled Passenger,45,0,52,4.437222,51.4775,-0.461389,51.4775,-0.461389,Cause undetermined,1996
+Nigeria,19961107-0 ,Boeing 727-231                 ,Scheduled Passenger,144,144,5,6.949594,6.577369,3.321156,6.61516,3.815,Cause undetermined,1996
+Peru,19961002-0 ,Boeing 757-23A                 ,International Scheduled Passenger,70,70,-12,-77.114319,-33.392975,-70.78555,-11.7333,-77.88333,Cause undetermined,1996
+Spain,19960726-0 ,McDonnell Douglas DC-10-30     ,International Scheduled Passenger,232,0,40.5,-3.566764,22.989153,-82.409086,25.7951,-80.286541,Hijack,1996
+United States of America,19961222-0 ,McDonnell Douglas DC-8-63F     ,Test,6,6,36.1,-79.937297,36.097747,-79.937297,37.32166,-80.884333,Loss of control,1996
+United States of America,19961130-1 ,Morane Saulnier MS.760B Paris I,Private,3,3,33.7,-117.868222,33.675667,-117.868222,33.6988,-117.8552,Cause undetermined,1996
+United States of America,19961122-1 ,Lockheed HC-130P Combat King   ,Military,11,10,45.6,-122.5975,32.699219,-117.21531,40.43,-125.17,Cause undetermined,1996
+United States of America,19961022-0 ,Boeing 707-323C                ,Cargo,4,4,-0.9,-80.678808,25.79325,-80.290556,-0.958727,-80.7023,Cause undetermined,1996
+United States of America,19960905-1 ,McDonnell Douglas DC-10-10CF   ,Cargo,5,0,35,-89.976667,42.364347,-71.005181,41.504094,-74.104839,Cargo fire/smoke,1996
+United States of America,19960817-3 ,Lockheed C-130H Hercules       ,Military,9,9,43.6,-110.73775,40.639751,-73.778925,43.592,-110.557,Controlled Flight Into Terrain,1996
+United States of America,19960717-0 ,Boeing 747-131                 ,International Scheduled Passenger,230,230,40.6,-73.778925,49.012779,2.55,40.6333312,-72.6166687,Cause undetermined,1996
+Argentina,19971115-0 ,Swearingen SA226-TC Metro II   ,Scheduled Passenger,16,0,-51.6,-69.312636,-53.777667,-67.749389,-53.777667,-67.749389,Cause undetermined,1997
+Bangladesh,19971222-0 ,Fokker F-28 Fellowship 4000    ,Scheduled Passenger,89,0,23.8,90.397781,24.963242,91.866783,24.9861,91.8026,Controlled Flight Into Terrain,1997
+Brazil,19971031-2 ,Cessna 500 Citation I          ,Private,3,3,-25.5,-49.175775,-29.370199203,-50.832000732,-29.3772,-50.8467,Runway excursion,1997
+Brazil,19970709-1 ,Fokker 100                     ,Scheduled Passenger,60,1,-23.2,-45.861508,-23.626692,-46.655375,-23.546,-46.312,Sabotage,1997
+Canada,19971209-0 ,Embraer EMB-110P1 Bandeirante  ,Scheduled Passenger,17,4,49.9,-97.234444,52.045551,-95.465836,52.033333,-95.883333,Controlled Flight Into Terrain,1997
+Canada,19970906-1 ,Boeing 767-375ER               ,International Scheduled Passenger,209,0,40.1,116.584556,49.193889,-123.184444,40.083494,116.596135,Cause undetermined,1997
+Ecuador,19970822-0 ,Boeing 727-251                 ,Scheduled Passenger,56,0,-2.2,-79.883558,-0.909861,-89.615891,-0.909861,-89.615891,Cause undetermined,1997
+Germany,19970913-0 ,Tupolev Tu-154M                ,Military,24,24,13.5,2.183614,-22.486667,17.4625,-18.799668,11.290414,Cause undetermined,1997
+Greece,19971220-1 ,Lockheed C-130H Hercules       ,Military,5,5,37.9,23.729444,38.339847,23.564958,38.1,23.27,Controlled Flight Into Terrain,1997
+Indonesia,19970709-0 ,CASA/Nurtanio NC-212-AB4 Avioca,Ferry/positioning,3,3,-5.7,132.731431,-3.710264,128.089136,-3.710264,128.089136,Cause undetermined,1997
+Mongolia,19970610-0 ,Harbin Yunshuji Y-12 II        ,Scheduled Passenger,12,7,47.8,106.766639,45.738056,106.269167,45.7331,106.2675,Windshear/downdraft,1997
+Papua New Guinea,19970718-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,4,2,-6,144.970528,-6.081689,145.391881,-5.996,145.39,Controlled Flight Into Terrain,1997
+Romania,19970607-1 ,BAC One-Eleven 525FT           ,International Scheduled Passenger,26,0,44.6,26.085119,59.651944,17.918611,59.651944,17.918611,Cause undetermined,1997
+Saudi Arabia,19970906-2 ,Boeing 737-268                 ,Scheduled Passenger,85,0,17.6,44.419169,17.466875,47.121431,17.611436,44.419169,Cause undetermined,1997
+Spain,19971220-2 ,Boeing 737-3K9                 ,Scheduled Passenger,26,0,46.2,6.10895,47.464722,8.549167,46.238064,6.10895,Cause undetermined,1997
+Spain,19971010-2 ,Beechcraft 200 Super King Air  ,Non Scheduled Passenger,9,8,27.9,-15.386586,13.337961,-16.652206,13.311,-16.606,Cause undetermined,1997
+United States of America,19971228-0 ,Boeing 747-122                 ,International Scheduled Passenger,393,1,35.8,140.386389,21.31605,-157.92668,27.439203,152.825319,Forced landing on runway,1997
+United States of America,19971210-1 ,Beechcraft A100 King Air       ,Executive,2,1,37.9,-80.39944,35.387778,-80.709167,35.189624,-80.964835,Cause undetermined,1997
+United States of America,19971125-1 ,Shorts 360-100                 ,Cargo,2,0,47.5,-111.370689,45.807667,-108.542889,45.807667,-108.542889,Cause undetermined,1997
+United States of America,19971008-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,9,9,38.5,-107.894243,36.926083,-111.448361,38.323277,-108.212111,Cause undetermined,1997
+United States of America,19970913-1 ,Lockheed C-141B Starlifter     ,Military,9,9,-22.5,17.4625,-7.969597,-14.393664,-23.4,13,Cause undetermined,1997
+United States of America,19970819-0 ,Swearingen SA226-TC Metro II   ,Cargo,1,0,37.6,-97.433056,41.533972,-93.663083,41.533972,-93.663083,Cause undetermined,1997
+United States of America,19970813-0 ,Beechcraft 1900C               ,Cargo,1,0,45.6,-122.5975,47.449,-122.309306,47.449,-122.309306,Centre of Gravity outside limits,1997
+United States of America,19970807-0 ,McDonnell Douglas DC-8-61F     ,Cargo,4,4,25.8,-80.290556,18.429664,-69.668925,25.7993717,-80.3080825,Centre of Gravity outside limits,1997
+United States of America,19970721-0 ,Cessna 208 Caravan I           ,Scheduled Passenger,3,0,58.7,-156.649217,58.732881,-157.01992,58.73434,-157.014438,Low visibility,1997
+United States of America,19970630-0 ,Convair CV-240-53              ,Cargo,3,0,18.4,-66.001833,18.429664,-69.668925,18.439417,-66.001833,Cause undetermined,1997
+Angola,19981227-0 ,Antonov 12                     ,Cargo,4,4,-8.9,13.231178,-8.445727348,20.732086182,-8.8,18,Cause undetermined,1998
+Azerbaijan,19980914-0 ,Antonov 32B                    ,Cargo,5,0,4.2,34.348186,-1.968628,30.13945,4.204117,34.348186,Bird strike,1998
+Belgium,19980829-1 ,Airbus A340-211                ,International Scheduled Passenger,259,0,40.6,-73.778925,50.901389,4.484444,50.901389,4.484444,Cause undetermined,1998
+Brazil,19981228-0 ,Embraer EMB-145ER (ERJ-145ER)  ,Scheduled Passenger,40,0,-23,-47.134522,-25.528475,-49.175775,-25.528475,-49.175775,Cause undetermined,1998
+Brazil,19981021-0 ,Embraer EMB-120RT Brasilia     ,Cargo,3,3,-5.1,-42.823478,-3.776283,-38.532556,-3.770798,-38.555931,Cause undetermined,1998
+Canada,19981207-0 ,Pilatus Britten-Norman BN-2A-26,Scheduled Passenger,10,7,49.1,-68.207222,48.478056,-68.496944,49.132221,-68.207222,Icing,1998
+Canada,19980724-0 ,Cessna 500 Citation I          ,Cargo,2,0,41.8,-107.19994,33.675667,-117.868222,41.805598,-107.19994,Cause undetermined,1998
+Colombia,19980824-2 ,Antonov 32B                    ,Cargo,6,0,-4.2,-69.942658,4.276242,-74.796692,-4.193175,-69.942658,Overloaded,1998
+Cuba,19980829-0 ,Tupolev Tu-154M                ,International Scheduled Passenger,91,70,-0.1,-78.488214,-2.157419,-79.883558,-0.141144,-78.488214,Cause undetermined,1998
+France,19980730-1 ,Beechcraft 1900D               ,Scheduled Passenger,14,14,45.7,5.090833,47.760555,-3.44,47.516273,-2.995148,Mid air collision,1998
+India,19980730-0 ,HAL/Dornier 228-201            ,Scheduled Passenger,6,6,9.9,76.272022,8.482122,76.920114,9.94423,76.270856,Cause undetermined,1998
+Kenya,19981106-0 ,Beechcraft 200 Super King Air  ,Non Scheduled Passenger,3,3,-1.3,36.814833,1.99878,44.9814,-0.311564,38.350675,Cause undetermined,1998
+Mexico,19981120-1 ,Learjet 24D                    ,Military,7,0,19.4,-99.072097,19.145931,-96.187267,19.436303,-99.072097,Cause undetermined,1998
+Myanmar,19980824-1 ,Fokker F-27 Friendship 600     ,Scheduled Passenger,36,36,16.9,96.133222,20.483831,99.935353,20.52,99.9,Controlled Flight Into Terrain,1998
+Nigeria,19981114-0 ,Boeing 707-355C                ,Cargo,5,0,51.2,2.862222,6.577369,3.321156,51.198889,2.862222,Turbulence,1998
+Norway,19981128-0 ,de Havilland Canada DHC-7-102  ,Test,2,2,49.4,-2.601969,49.434956,-2.601969,50.51912,-3.753181,Loss of control,1998
+Spain,19980925-0 ,British Aerospace BAe-146-100  ,Scheduled Passenger,38,38,36.7,-4.499106,35.279817,-2.956256,35.429444,-2.987222,Controlled Flight Into Terrain,1998
+Switzerland,19980902-0 ,McDonnell Douglas MD-11        ,International Scheduled Passenger,229,229,40.6,-73.778925,46.238064,6.10895,44.4091644,-63.9736099,Cause undetermined,1998
+Thailand,19981211-0 ,Airbus A310-204                ,Scheduled Passenger,146,101,13.9,100.60675,9.132603,99.135586,9.128333,99.138056,Loss of situational awareness,1998
+United States of America,19981123-0 ,Cessna 208B Super Cargomaster  ,Cargo,2,2,49.2,-123.184444,48.646944,-123.425833,48.7305,-123.484167,Controlled Flight Into Terrain,1998
+United States of America,19981101-1 ,Boeing 737-2P6                 ,Scheduled Passenger,105,0,33.6,-84.426944,32.847111,-96.851778,33.640444,-84.426944,Cause undetermined,1998
+United States of America,19981007-0 ,Boeing 727-224                 ,Scheduled Passenger,81,0,25.8,-80.290556,29.984433,-95.341442,25.79325,-80.290556,Cause undetermined,1998
+United States of America,19980918-0 ,GAF Nomad N.22S Searchmaster L ,Ferry/positioning,2,1,18.5,-67.129444,12.188853,-68.959803,18.039,-67.893,Mid air collision,1998
+United States of America,19980911-2 ,Beechcraft 1900C               ,Cargo,1,0,61.2,-149.996361,62.060833,-163.301833,62.060833,-163.301833,Wheel(s) up landing,1998
+United States of America,19980902-2 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,86,0,45.3,-75.669167,39.871944,-75.241139,39.871944,-75.241139,Cause undetermined,1998
+United States of America,19980828-1 ,Dassault Falcon 20C            ,Unknown,2,0,31.8,-106.377583,35.042417,-89.976667,31.80725,-106.377583,Overloaded,1998
+United States of America,19980731-0 ,Douglas DC-3C                  ,Ferry/positioning,2,0,60,-154.839175,61.174361,-149.996361,61.174361,-149.996361,Cause undetermined,1998
+United States of America,19980718-0 ,Rockwell Sabreliner 75         ,Ferry/positioning,2,2,38.1,-97.274517,37.649944,-97.433056,38.287317,-96.86096,Loss of control,1998
+Angola,19991120-0 ,Reims Cessna F406 Caravan II   ,Scheduled Passenger,5,0,-8.9,13.231178,-12.609025,13.403711,-12.609025,13.403711,Cause undetermined,1999
+Argentina,19990831-0 ,Boeing 737-204C                ,Scheduled Passenger,103,63,-34.6,-58.415606,-31.323619,-64.207953,-34.56631,-58.4027,Wrong takeoff configuration (flaps/trim),1999
+Botswana,19991011-0 ,ATR 42-320                     ,Illegal Flight,1,1,-24.6,25.918208,-24.555225,25.918208,-24.555225,25.918208,Cause undetermined,1999
+Canada,19991228-0 ,Cessna 208A Caravan 675        ,Non Scheduled Passenger,6,0,49,-122.363333,45.807667,-108.542889,49.012291,-122.382184,Overloaded,1999
+Canada,19990812-0 ,Beechcraft 1900D               ,Scheduled Passenger,4,1,49.8,-64.288611,50.223333,-66.265556,50.219163,-66.231809,Controlled Flight Into Terrain,1999
+Colombia,19991110-1 ,Douglas DC-3C                  ,Cargo,5,5,0.1,-75.867,4.167875,-73.613761,1.4332,-75.3597,Cause undetermined,1999
+Egypt,19991031-0 ,Boeing 767-366ER               ,International Scheduled Passenger,217,217,40.6,-73.778925,30.121944,31.405556,40.3499984,-69.7697219,Cause undetermined,1999
+Fiji,19990724-0 ,Embraer EMB-110P1 Bandeirante  ,Scheduled Passenger,17,17,-18,178.559228,-17.755392,177.443378,-17.978,178.1669,Controlled Flight Into Terrain,1999
+Ghana,19991016-0 ,McDonnell Douglas DC-8-62F     ,Cargo,8,0,36.9,10.227217,-4.38575,15.444569,-4.38575,15.444569,Cause undetermined,1999
+India,19991026-1 ,Airbus A320-231                ,International Scheduled Passenger,92,0,22.7,88.446722,16.907305,96.133222,16.907305,96.133222,Cause undetermined,1999
+Italy,19991024-1 ,Learjet 35A                    ,Non Scheduled Passenger,3,3,40.9,14.290781,44.411953,8.841875,44.358,8.87,Controlled Flight Into Terrain,1999
+Mexico,19991109-0 ,McDonnell Douglas DC-9-31F     ,Scheduled Passenger,18,18,19.4,-102.039056,19.436303,-99.072097,19.345176,-102.068631,Loss of control,1999
+Mexico,19990709-0 ,Hawker Siddeley HS-125-1A-522  ,Cargo,4,4,25.7,-109.080806,19.337072,-99.566008,19.337072,-99.566008,Low visibility,1999
+Nepal,19991225-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,10,10,27.2,84.980122,27.696592,85.359192,27.249,85.04,Cause undetermined,1999
+Nepal,19990905-0 ,British Aerospace BAe-748-501 S,Scheduled Passenger,15,15,28.2,83.981283,27.696592,85.359192,27.71307,85.2467,Controlled Flight Into Terrain,1999
+Nicaragua,19990720-0 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,16,16,12.1,-86.168178,11.990961,-83.774086,11.866666,-84.2,VFR flight in IMC,1999
+Pakistan,19990810-0 ,Breguet 1150 Atlantic          ,Military,16,16,24.9,67.118506,24.874206,67.118506,23.9,68.266667,Cause undetermined,1999
+Philippines,19991207-0 ,Let L-410UVP-E                 ,Scheduled Passenger,17,17,14.5,121.019581,16.929861,121.753036,16.316667,121.283333,Cause undetermined,1999
+United States of America,19991231-0 ,Beechcraft 99A Airliner        ,Non Scheduled Passenger,9,0,17.7,-64.798556,17.904444,-62.843611,17.904444,-62.843611,Cause undetermined,1999
+United States of America,19991223-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,2,0,18,-66.563028,18.494861,-67.129444,18.1667,-66.7,VFR flight in IMC,1999
+United States of America,19991212-1 ,IAI 1124A Westwind II          ,Private,3,3,47.5,-122.301947,40.849998,-74.060837,41.2469,-75.5055,Cause undetermined,1999
+United States of America,19991206-0 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,2,0,60.8,-161.837997,61.864299774,-162.02600097,60.789106,-161.826457,Icing,1999
+United States of America,19991111-0 ,Beechcraft 200 Super King Air  ,Executive,3,3,41.9,-87.608727,41.708661,-86.31725,41.8527,-87.608,Cause undetermined,1999
+United States of America,19991017-0 ,McDonnell Douglas MD-11F       ,Cargo,2,0,31.2,121.336319,14.79445,120.271364,14.79445,120.271364,Cause undetermined,1999
+United States of America,19991011-3 ,Swearingen SA227-AC Metro III  ,Ferry/positioning,2,0,25.8,-80.290556,25.907,-80.278389,25.907,-80.278389,Cause undetermined,1999
+United States of America,19990926-0 ,Learjet 24A                    ,Private,5,0,27.4,-82.554389,34.272627,-83.830223,34.272627,-83.830223,Cause undetermined,1999
+United States of America,19990829-1 ,Learjet 35A                    ,Ferry/positioning,2,2,25.7,32.706583,-1.319242,36.927775,11.633742,37.9339,Shot down from the ground,1999
+United States of America,19990817-1 ,Beechcraft Hawker BH-125-600A  ,Executive,8,0,38.8,-97.652169,36.080056,-115.15225,36.080056,-115.15225,Cause undetermined,1999
+United States of America,19990816-0 ,Swearingen SA227-AC Metro III  ,Training,2,0,29.5,-98.469778,29.533694,-98.469778,29.533694,-98.469778,Wheel(s) up landing,1999
+United States of America,19990807-3 ,McDonnell Douglas DC-10-10F    ,Cargo,5,0,33.9,-118.408075,35.042417,-89.976667,35.042417,-89.976667,Cause undetermined,1999
+United States of America,19990701-1 ,Learjet 60                     ,Executive,4,0,38.9,-77.455811,41.669336,-70.280356,41.669336,-70.280356,Runway excursion,1999
+Uzbekistan,19991205-0 ,Ilyushin 114T                  ,Cargo,7,5,55.4,37.906314,41.257861,69.281186,55.427834,37.904483,Cause undetermined,1999
+Uzbekistan,19990826-0 ,Yakovlev 40                    ,Scheduled Passenger,33,2,41.3,69.281186,41.574969,60.966644,41.5593,60.9561,Controlled Flight Into Terrain,1999
+Angola,20001031-1 ,Antonov 26                     ,Non Scheduled Passenger,49,49,-9.7,20.431875,-8.858375,13.231178,-9.9,19.98,Cause undetermined,2000
+Australia,20000904-0 ,Beechcraft 200 Super King Air  ,Non Scheduled Passenger,8,8,-31.9,115.966944,-28.878056,121.314722,-18.09,140.04,Flightcrew incapacitation,2000
+Bahrain,20000823-0 ,Airbus A320-212                ,International Scheduled Passenger,143,143,30.1,31.405556,26.270834,50.63361,26.2975,50.646944,Cause undetermined,2000
+Canada,20001008-0 ,Shorts SC.7 Skyvan 3-100       ,Cargo,3,3,67.8,-115.143889,62.462778,-114.440278,66.108,-117.9,Controlled Flight Into Terrain,2000
+Canada,20000728-0 ,Grumman G-159 Gulfstream I     ,Cargo,2,0,43.7,-79.630556,45.468056,-73.741389,45.468056,-73.741389,Wrong installation of parts,2000
+Canada,20000630-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,4,0,53.4,-113.11583,62.466667,-114.35,62.46866,-114.3549,Cause undetermined,2000
+Ecuador,20000909-0 ,Dornier Do 128-2 Skyservant    ,Private,3,1,-0.9,-80.678808,-2.156,-80.7738,-2.156,-80.7734,Cause undetermined,2000
+Germany,20000712-0 ,Airbus A310-304                ,Non Scheduled Passenger,151,0,35.5,24.149678,52.461056,9.685078,48.110278,16.569722,All engine powerloss,2000
+Greece,20000715-0 ,Canadair CL-215-1A10           ,Military,2,2,39.2,22.794339,39.219619,22.794339,39.439,23.049,Cause undetermined,2000
+Hungary,20000704-0 ,Tupolev 154B-2                 ,International Scheduled Passenger,94,0,47.4,19.255592,40.519725,22.97095,40.519725,22.97095,Wheel(s) up landing,2000
+India,20000729-0 ,Beechcraft B200C Super King Air,Ambulance,5,5,28.6,77.103088,31.876706,77.154367,31.709,77.249,Controlled Flight Into Terrain,2000
+Jordan,20000705-0 ,Airbus A320                    ,International Scheduled Passenger,96,1,31.7,35.993214,33.411522,36.515558,31.7249,35.985556,Hijack,2000
+Lesotho,20001216-0 ,CASA C-212-M Aviocar 300       ,Military,13,0,-29.5,27.552503,-29.280552,29.072206,-29.280552,29.072206,Runway excursion,2000
+Mexico,20001006-0 ,McDonnell Douglas DC-9-31      ,Scheduled Passenger,88,0,19.4,-99.072097,26.008908,-98.228513,26.008908,-98.228513,Runway excursion,2000
+Philippines,20001019-2 ,Beechcraft 300 Super King Air 3,Test,5,0,1.4,103.867653,1.41695,103.867653,1.41695,103.867653,Cause undetermined,2000
+Singapore,20001031-0 ,Boeing 747-412                 ,International Scheduled Passenger,179,83,25.1,121.232822,33.942536,-118.408075,25.085398,121.23477,Landing or takeoff on wrong runway,2000
+Spain,20001130-0 ,Boeing 737-86N                 ,International Scheduled Passenger,208,0,28.9,-13.605225,52.701978,-8.924817,52.701978,-8.924817,Cause undetermined,2000
+United States of America,20001220-1 ,British Aerospace BAe-125-700A ,Non Scheduled Passenger,4,0,30.2,-97.669889,43.607333,-110.73775,43.607333,-110.73775,Runway excursion,2000
+United States of America,20001129-0 ,McDonnell Douglas DC-9-32      ,Scheduled Passenger,97,0,33.6,-84.426944,40.916083,-81.442194,33.640444,-84.426944,Cause undetermined,2000
+United States of America,20001019-1 ,Beechcraft 300 Super King Air  ,Ferry/positioning,1,0,38,-122.056888,37.3626,-121.929022,37.989666,-122.056888,Cause undetermined,2000
+United States of America,20000923-0 ,Cessna 208B Super Cargomaster  ,Cargo,1,0,44.8,-68.828139,45.4630278,-69.5516111,45.480432,-69.593086,Controlled Flight Into Terrain,2000
+United States of America,20000814-1 ,Rockwell Sabreliner 75A        ,Executive,4,2,46.4,-94.135565,42.9655,-83.743472,46.55695,-90.060224,Lightningstrike,2000
+United States of America,20000731-0 ,de Havilland Canada DHC-6 Twin ,Ferry/positioning,3,1,41.8,-88.7034144,36.023333,-78.330278,35.853,-78.77,VFR flight in IMC,2000
+United States of America,20000720-0 ,Douglas C-47A-10-DK (DC-3)     ,Cargo,2,2,25,-77.466231,26.558686,-78.695553,25.0106,-77.43,Loss of control,2000
+Brazil,20011217-0 ,Boeing 737-53A                 ,Scheduled Passenger,108,0,-22.9,-43.163133,-19.851181,-43.950628,-19.851181,-43.950628,Cause undetermined,2001
+Brazil,20011125-1 ,Beechcraft 100 King Air        ,Private,6,0,-16.6,-49.220686,-18.125555,-49.042777,-18.125555,-49.042777,Cause undetermined,2001
+Brazil,20010915-0 ,Fokker 100                     ,Scheduled Passenger,88,1,-8.1,-34.923039,-23.007383,-47.134522,-19.911,-43.966,Uncontained engine failure,2001
+Canada,20011102-0 ,Cessna 208B Grand Caravan      ,Ferry/positioning,2,0,69.4,-133.026389,68.304167,-133.482778,46.238064,6.10895,Controlled Flight Into Terrain,2001
+Canada,20010920-0 ,Swearingen SA226-AT Merlin IV  ,Cargo,2,0,58.7,-65.993611,58.096111,-68.426944,58.096111,-68.426944,Cause undetermined,2001
+Canada,20010814-0 ,Dassault Falcon 10             ,Non Scheduled Passenger,10,0,63.8,-68.555832,58.096111,-68.426944,58.096111,-68.426944,Cause undetermined,2001
+Colombia,20011216-0 ,Let L-410UVP-E                 ,Scheduled Passenger,16,16,6.2,-75.590519,5.690758,-76.641181,6.153889,-75.677778,VFR flight in IMC,2001
+Germany,20011226-0 ,Pilatus Britten-Norman BN-2B-26,Non Scheduled Passenger,9,8,53.5,8.572878,53.783,7.917,53.516824,8.558941,Icing,2001
+Germany,20011202-1 ,Dornier 328-110                ,Ferry/positioning,3,0,52.3,10.556111,53.0475,8.786667,53.0475,8.786667,Cause undetermined,2001
+Germany,20010805-0 ,Dassault Falcon 20C            ,Cargo,3,3,64,-22.605556,61.160517,-45.425978,61.112411,-45.564117,Controlled Flight Into Terrain,2001
+Ghana,20011127-0 ,Boeing 747-246F                ,Cargo,13,1,49.6,6.211517,5.015494,6.949594,4.990907,6.937252,Controlled Flight Into Terrain,2001
+Guatemala,20010918-0 ,Let L-410UVP-E                 ,International Scheduled Passenger,13,8,14.6,-90.527475,15.452639,-87.923556,14.583272,-90.527475,Centre of Gravity outside limits,2001
+Pakistan,20011017-0 ,Airbus A300B4-203              ,International Scheduled Passenger,205,0,34,71.514581,25.254997,55.364278,25.254997,55.364278,Cause undetermined,2001
+Spain,20011010-1 ,Swearingen SA226-AT Merlin IVA ,Non Scheduled Passenger,10,10,41.3,2.078464,35.623858,-0.621183,39.9850006,0.53472197,Cause undetermined,2001
+Sweden,20011008-0 ,McDonnell Douglas DC-9-87 (MD-8,International Scheduled Passenger,110,110,45.4,9.276739,55.617917,12.655972,45.4513664,9.277235984,Low visibility,2001
+Switzerland,20011220-0 ,Cessna 560 Citation V          ,Ferry/positioning,2,2,47.5,8.549167,46.9141,7.497153,47.478054,8.540833473,Loss of situational awareness,2001
+Togo,20010724-5 ,Vickers 802 Viscount           ,Cargo,3,0,12.1,15.034019,6.165611,1.254511,12.133689,15.034019,Cause undetermined,2001
+Uganda,20011214-0 ,Let L-410A                     ,Non Scheduled Passenger,6,6,1.6,30.220833,0.575,29.473889,1.242472,30.16922,Cause undetermined,2001
+United States of America,20011222-0 ,Boeing 767-323                 ,International Scheduled Passenger,197,0,49,2.55,25.79325,-80.290556,42.75065,-67.849151,Sabotage,2001
+United States of America,20011210-0 ,Learjet 24D                    ,Ferry/positioning,2,2,26.2,-97.654389,31.80725,-106.377583,31.5445,-105.622183,Loss of control,2001
+United States of America,20011209-0 ,Dassault Falcon 100            ,Executive,2,0,32.4,-90.10305,39.011152,-95.216577,39.011152,-95.216577,Cause undetermined,2001
+United States of America,20011112-0 ,Airbus A300B4-605R             ,International Scheduled Passenger,260,260,40.6,-73.778925,18.429664,-69.668925,40.577108,-73.850363,Cause undetermined,2001
+United States of America,20011010-0 ,Cessna 208 Caravan I           ,Scheduled Passenger,10,10,59,-158.50334,58.676803,-156.649217,59.0525016,-158.473495,Icing,2001
+United States of America,20010911-2 ,Boeing 757-222                 ,Scheduled Passenger,44,44,40.7,-74.168667,37.618972,-122.374889,40.050451,-78.904644,Cause undetermined,2001
+United States of America,20010911-0 ,Boeing 767-223ER               ,Scheduled Passenger,92,92,42.4,-71.005181,33.942536,-118.408075,40.712732,-74.012672,Cause undetermined,2001
+United States of America,20010828-1 ,Dassault Falcon 20C            ,Cargo,2,0,42.4,-83.009861,42.195364,-89.097211,42.409195,-83.009861,Cargo door failure,2001
+United States of America,20010824-2 ,Beechcraft 200 Super King Air  ,Ferry/positioning,1,1,39.7,-83.99199,40.1646944,-84.3084444,40.17,-84.327,Cause undetermined,2001
+United States of America,20010809-1 ,Beechcraft B200 King Air       ,Executive,6,0,32.6,-82.98529816,32.966722,-82.8381667,32.966722,-82.8381667,Loss of control,2001
+Brazil,20021007-1 ,Learjet 60                     ,Unknown,5,1,-22.2,-49.9264,-29.684099197,-52.412200927,-29.681793,-52.4032,Cause undetermined,2002
+Brazil,20020830-2 ,Fokker 100                     ,Scheduled Passenger,38,0,-12.9,-38.331044,-23.432075,-46.469511,-23.007383,-47.134522,Cause undetermined,2002
+Brazil,20020830-0 ,Embraer EMB-120ER Brasilia     ,Scheduled Passenger,31,23,-8.2,-70.783269,-9.868889,-67.898056,-10.01438,-67.809557,Loss of control,2002
+Canada,20021112-0 ,Cessna 550 Citation II         ,Ambulance,4,0,49.2,-123.184444,53.254333,-131.813833,53.254333,-131.813833,Cause undetermined,2002
+China,20020902-0 ,Cessna 650 Citation VI         ,Survey/research,3,3,28,102.184361,27.989083,102.184361,28.013315,102.032282,Controlled Flight Into Terrain,2002
+Colombia,20020614-1 ,Douglas DC-9-14                ,Scheduled Passenger,71,0,1.6,-75.564372,2.950258,-75.294072,2.959156,-75.29136,Runway excursion,2002
+Denmark,20021224-0 ,Swearingen SA227-AC Metro III  ,Ferry/positioning,2,0,57.2,-2.197778,57.092789,9.849164,57.201944,-2.197778,Loss of control,2002
+Iceland,20021016-0 ,Boeing 747-267B                ,Non Scheduled Passenger,446,0,51.1,-114.020278,54.509189,-1.429406,54.509189,-1.429406,Tailstrike,2002
+Indonesia,20021107-1 ,IRMA/Britten-Norman BN-2A-21 Is,Scheduled Passenger,10,7,3.3,117.565569,3.867,115.683,3.316196,117.567924,Cause undetermined,2002
+Israel,20021128-1 ,Boeing 757-3E7                 ,Non Scheduled Passenger,271,0,-4,39.59425,32.011389,34.886667,-4.043157,39.588675,Shot down from the ground,2002
+Japan,20020626-0 ,Boeing 767-281                 ,Training,3,0,24.8,125.144722,24.826667,125.144722,24.837232,125.142876,Tailstrike,2002
+Luxembourg,20021106-0 ,Fokker 50                      ,International Scheduled Passenger,22,20,52.5,13.403944,49.626575,6.211517,49.656171,6.273835,Cause undetermined,2002
+Mexico,20021031-0 ,McDonnell Douglas DC-9-32      ,Scheduled Passenger,90,0,20.5,-103.311167,25.778489,-100.106878,25.778489,-100.106878,Runway excursion,2002
+Nepal,20020717-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,4,4,29.3,82.167,28.586,81.636,28.673457,81.634632,Controlled Flight Into Terrain,2002
+Netherlands,20020615-0 ,de Havilland Canada DHC-8-311  ,Test,5,0,50.9,5.770144,50.911658,5.770144,50.911658,5.770144,Cause undetermined,2002
+Panama,20021229-0 ,IRMA/Britten-Norman BN-2A-7 Isl,Ferry/positioning,1,1,9.3,-82.250842,8.973333,-79.55555,8.69497,-80.907351,Cause undetermined,2002
+Philippines,20021111-0 ,Fokker F-27 Friendship 600     ,Scheduled Passenger,34,19,14.5,121.019581,18.178092,120.531522,14.536802,120.96927,Cause undetermined,2002
+Ukraine,20021223-0 ,Antonov 140                    ,Non Scheduled Passenger,44,44,41,39.789728,32.750721,51.861694,32.986332,51.055102,Controlled Flight Into Terrain,2002
+United States of America,20021217-1 ,Cessna 208B Super Cargomaster  ,Cargo,1,1,39.8,-88.865689,42.195364,-89.097211,42.1686096,-89.15139,Turbulence,2002
+United States of America,20021108-1 ,IAI 1124A Westwind II          ,Ferry/positioning,2,2,36.1,-115.15225,36.45819,-105.672429,36.603361,-120.854861,Loss of control,2002
+United States of America,20021025-0 ,Beechcraft A100 King Air       ,Non Scheduled Passenger,8,8,44.9,-93.06,47.4251111,-92.4980833,47.4212,-92.449,Loss of control,2002
+United States of America,20020929-0 ,Swearingen SA227-AC Metro III  ,Non Scheduled Passenger,21,0,33.9,-118.335186,35.952361,-112.146972,33.922451,-118.331314,Cause undetermined,2002
+United States of America,20020828-1 ,Airbus A320-231                ,Scheduled Passenger,159,0,30,-95.341442,33.434278,-112.011583,33.4402313,-112.002197,Cause undetermined,2002
+United States of America,20020726-0 ,Boeing 727-232F                ,Cargo,3,0,35,-89.976667,30.396528,-84.350333,30.389535,-84.361521,Controlled Flight Into Terrain,2002
+United States of America,20020617-0 ,Lockheed C-130A Hercules       ,Fire fighting,3,3,39,-119.751194,39.000306,-119.751194,38.56679,-119.50081,Wing failure,2002
+Algeria,20030630-0 ,Lockheed C-130H Hercules       ,Military,5,5,36.5,2.876111,36.545834,2.876111,36.523003,2.84591,Cause undetermined,2003
+Argentina,20031026-0 ,Fairchild FH-227B              ,Cargo,5,5,-34.8,-58.534832,-27.445503,-58.761864,-34.898518,-58.294353,Loss of control,2003
+Brazil,20031220-1 ,Boeing 737-76N                 ,Scheduled Passenger,149,0,-23.6,-46.655375,-26.879999,-48.65139,-26.879999,-48.65139,Runway excursion,2003
+Brazil,20031020-0 ,Fokker F-27 Friendship 600     ,Scheduled Passenger,23,0,-7.6,-72.769489,-8.155256,-70.783269,-8.155256,-70.783269,Cause undetermined,2003
+Canada,20030911-0 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,8,8,51.4,-90.214167,52.708611,-88.541946,52.779102,-88.576338,Cause undetermined,2003
+Costa Rica,20030703-0 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,13,0,8.7,-83.64218,9.993861,-84.208806,10.45,-83.7,Cause undetermined,2003
+France,20030622-0 ,Canadair CL-600-2B19 Regional J,Scheduled Passenger,24,1,47.2,-1.610725,48.447911,-4.418539,48.455046,-4.368718,Controlled Flight Into Terrain,2003
+Gabon,20031219-0 ,Boeing 737-3Y0                 ,Scheduled Passenger,131,0,-1.7,13.438036,0.4586,9.412283,0.4586,9.412283,Runway excursion,2003
+Guinea,20031225-0 ,Boeing 727-223                 ,International Scheduled Passenger,163,141,6.4,2.384353,24.178728,23.313958,6.349727,2.373021,Centre of Gravity outside limits,2003
+Guyana,20031108-0 ,Shorts SC.7 Skyvan 3M-100      ,Non Scheduled Passenger,7,2,6.8,-58.1,6.667,-60.85,6.728474,-58.153581,Forced landing outside airport,2003
+Kenya,20031207-0 ,Fokker F-28 Fellowship 4000    ,Scheduled Passenger,27,0,-1.3,36.814833,4.204117,34.348186,4.204117,34.348186,Runway excursion,2003
+Malawi,20031227-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,9,0,-11.4,34.011776,-13.789378,33.781,-11.45078,34.014267,Runway excursion,2003
+Peru,20030706-0 ,McDonnell Douglas DC-10-30CF   ,Cargo,4,0,16.7,-22.949444,-25.528475,-49.175775,-25.528475,-49.175775,Cause undetermined,2003
+South Africa,20031129-3 ,Boeing 747-258C                ,Cargo,9,0,50.9,4.484444,6.577369,3.321156,6.577369,3.321156,Cause undetermined,2003
+South Africa,20030719-0 ,Swearingen SA226-TC Metro II   ,Non Scheduled Passenger,14,14,-1.3,36.814833,0.533,37.533,-0.158614,37.317965,Controlled Flight Into Terrain,2003
+Sudan,20030708-0 ,Boeing 737-2J8C                ,Scheduled Passenger,117,116,19.4,37.234075,15.589497,32.553161,19.433298,37.283876,Loss of control,2003
+Sweden,20030917-0 ,British Aerospace 3212 Jetstrea,Scheduled Passenger,2,0,67.2,23.068911,65.543758,22.121989,65.537026,22.140776,Cause undetermined,2003
+Turkey,20030617-0 ,McDonnell Douglas MD-88        ,Non Scheduled Passenger,149,0,53.1,6.579444,50.911658,5.770144,53.11972,6.579444,Centre of Gravity outside limits,2003
+Ukraine,20030526-0 ,Yakovlev 42D                   ,Non Scheduled Passenger,75,75,43.1,74.477556,40.995108,39.789728,40.8068,39.6567,Controlled Flight Into Terrain,2003
+United States of America,20031223-0 ,Learjet 24B                    ,Ferry/positioning,2,2,34,-117.636611,43.504444,-114.296194,34.712222,-117.29886,Loss of control,2003
+United States of America,20031218-0 ,McDonnell Douglas MD-10F       ,Cargo,7,0,37.7,-122.220722,35.042417,-89.976667,35.039858,-89.971907,Cause undetermined,2003
+United States of America,20031203-0 ,Swearingen SA226-TC Metro II   ,Cargo,1,0,39.9,-104.673178,37.927517,-100.724414,39.861656,-104.67318,Ground collision,2003
+United States of America,20031118-1 ,Swearingen SA226-TC Metro II   ,Cargo,1,0,39.5,-107.72694,39.122414,-108.526736,39.122414,-108.526736,Cause undetermined,2003
+United States of America,20031112-0 ,Learjet 24D                    ,Executive,4,0,38.6,-90.156221,41.126211,-100.683656,38.5312652,-90.0948181,Bird strike,2003
+United States of America,20030925-0 ,Grumman HU-16C Albatross       ,Private,3,2,27.5,-80.368278,27.495056,-80.368278,27.5083,-80.4,Cause undetermined,2003
+United States of America,20030919-1 ,Learjet 25B                    ,Cargo,2,1,31.8,-106.377583,29.374207,-100.927157,29.3646,-100.916548,Runway excursion,2003
+United States of America,20030817-0 ,Reims Cessna F406 Caravan II   ,Cargo,2,2,71.3,-156.766003,70.638,-159.99475,71.02,-157.9,Cause undetermined,2003
+United States of America,20030814-0 ,Learjet 35A                    ,Ferry/positioning,5,0,26.2,-80.170706,21.036528,-86.877083,21.036528,-86.877083,Wheel(s) up landing,2003
+United States of America,20030804-0 ,Learjet 35A                    ,Ferry/positioning,2,2,40.7,-73.413408,41.330056,-72.045139,41.343167,-72.035167,Loss of control,2003
+Bangladesh,20041008-0 ,Fokker F-28 Fellowship 4000    ,Scheduled Passenger,83,0,23.8,90.397781,24.963242,91.866783,24.963242,91.866783,Runway excursion,2004
+Brazil,20041023-0 ,Boeing 707-330C                ,Cargo,3,0,-3,-60.049721,-23.432075,-46.469511,-3.038611,-60.049721,Cause undetermined,2004
+Canada,20041224-0 ,Beechcraft A100 King Air       ,Scheduled Passenger,6,0,60.1,-77.286944,58.096111,-68.426944,58.096111,-68.426944,Cause undetermined,2004
+Canada,20040921-0 ,Swearingen SA227-AC Metro III  ,Passenger,11,0,59.2,-105.833,55.15139,-105.261944,55.15139,-105.261944,Wrong installation of parts,2004
+China,20041121-0 ,Canadair CL-600-2B19 Regional J,Scheduled Passenger,53,53,40.7,109.983,31.197875,121.336319,40.60596,109.773187,Icing,2004
+Kenya,20040818-0 ,Cessna 208B Grand Caravan      ,Cargo,3,3,-1.7,29.238464,-1.416667,28.033333,-1.52,29.25,Controlled Flight Into Terrain,2004
+Mexico,20040728-0 ,Rockwell Sabreliner 60         ,Executive,6,0,32.5,-116.970158,32.630634,-115.241637,32.630634,-115.241637,Runway excursion,2004
+Netherlands,20041128-1 ,Boeing 737-406                 ,International Scheduled Passenger,146,0,52.3,4.763889,41.297078,2.078464,41.296572,2.079945,Bird strike,2004
+Norway,20040929-1 ,Dornier 228-212                ,Scheduled Passenger,9,0,68.4,17.385833,67.269167,14.365278,67.269167,14.365278,Hijack,2004
+Panama,20040816-0 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,7,0,9,-79.55555,7.987836,-80.409739,8.954336,-79.604647,Cause undetermined,2004
+South Africa,20041001-0 ,Embraer EMB-110P1 Bandeirante  ,Non Scheduled Passenger,4,0,4,9.719481,3.722556,11.553269,4.006081,9.719481,Cause undetermined,2004
+Sudan,20041005-0 ,Antonov 12                     ,Cargo,4,4,13.2,30.232675,4.872006,31.601117,10.85417,31.934423,Loss of control,2004
+Turkey,20040725-0 ,Fokker 100                     ,Non Scheduled Passenger,108,0,51.3,6.766775,40.976892,28.821111,40.976892,28.821111,Cause undetermined,2004
+United States of America,20041206-0 ,Cessna 208B Grand Caravan      ,Cargo,2,2,40.8,-111.977772,43.504444,-114.296194,43.3655509,-114.229598,Icing,2004
+United States of America,20041204-0 ,Convair CV-340-70              ,Cargo,2,0,25.9,-80.278389,25.038958,-77.466231,25.934076,-80.144372,Overloaded,2004
+United States of America,20041122-0 ,Gulfstream Aerospace G-1159A Gu,Ferry/positioning,3,3,32.8,-96.851778,29.645419,-95.278889,29.602074,-95.325848,Controlled Flight Into Terrain,2004
+United States of America,20041024-0 ,Learjet 35A                    ,Ferry/positioning,5,5,32.6,-116.98025,35.040222,-106.609194,32.588814,-116.836529,Controlled Flight Into Terrain,2004
+United States of America,20040929-0 ,IRMA/Pilatus Britten-Norman BN-,Cargo,1,1,18.3,-67.148472,18.456828,-66.098139,18.4833335,-66.4499969,Cause undetermined,2004
+United States of America,20040923-0 ,Cessna 208B Super Cargomaster  ,Cargo,1,0,46.3,-96.156686,46.218722,-97.64325,46.193055,-97.653611,Low visibility,2004
+United States of America,20040825-0 ,Cessna 550 Citation II         ,Private,3,0,27.5,-80.368278,27.071611,-82.440333,27.071611,-82.440333,Cause undetermined,2004
+United States of America,20040813-0 ,Convair CV-580                 ,Cargo,2,1,35,-89.976667,39.046156,-84.663953,39.014284,-84.646925,Distraction in cockpit,2004
+Azerbaijan,20051223-0 ,Antonov 140-100                ,International Scheduled Passenger,23,23,40.5,50.046667,43.86005,51.091978,40.589301,50.034569,Loss of control,2005
+Colombia,20050816-0 ,McDonnell Douglas DC-9-82 (MD-8,Non Scheduled Passenger,160,160,9.1,-79.383453,14.591033,-61.003175,9.669166,-72.6025,Loss of control,2005
+Croatia,20051030-0 ,Let L-410UVP-E19A              ,Cargo,3,3,45.7,9.704166,45.742931,16.068778,45.671569,9.682905,Cause undetermined,2005
+Equatorial Guinea,20050716-0 ,Antonov 24B                    ,Scheduled Passenger,60,60,3.8,8.708717,1.905469,9.805681,3.7,8.916667,Cause undetermined,2005
+France,20050802-0 ,Airbus A340-313X               ,International Scheduled Passenger,309,0,49,2.55,43.677223,-79.630556,43.677223,-79.630556,Runway excursion,2005
+Indonesia,20051130-0 ,CASA/Nurtanio NC-212-A4 Aviocar,Scheduled Passenger,15,0,3.6,98.671722,2.410278,96.325556,2.410278,96.325556,Runway excursion,2005
+Indonesia,20050721-0 ,IPTN/CASA CN-235M-10           ,Military,23,3,5.5,95.420372,5.226681,96.950342,5.226681,96.950342,Cause undetermined,2005
+Netherlands,20050919-0 ,Swearingen SA227-AC Metro III  ,Non Scheduled Passenger,19,0,52,4.437222,52.453856,-1.748028,51.960479,4.446978,Cause undetermined,2005
+Nigeria,20051210-0 ,McDonnell Douglas DC-9-32      ,Scheduled Passenger,110,108,9,7.263175,5.015494,6.949594,5.018972,6.950303,Windshear/downdraft,2005
+Nigeria,20050629-0 ,Fokker 100                     ,Scheduled Passenger,91,0,6.6,3.321156,9.006781,7.263175,6.577369,3.321156,Cause undetermined,2005
+Philippines,20050719-0 ,Yakovlev 40                    ,Scheduled Passenger,23,0,14.5,121.019581,11.924503,121.95405,11.924503,121.95405,Cause undetermined,2005
+Thailand,20050911-0 ,NAMC YS-11-500R                ,Scheduled Passenger,28,0,13.9,100.60675,16.699856,98.545056,16.699856,98.545056,Runway excursion,2005
+Tunisia,20050806-0 ,ATR 72-202                     ,Non Scheduled Passenger,39,16,41.1,16.760594,33.875031,10.775461,38.208889,13.46566104,Wrong installation of parts,2005
+United States of America,20051108-0 ,Embraer EMB-110P1 Bandeirante  ,Cargo,1,0,42.9,-71.435667,44.807444,-68.828139,42.9483337,-71.4400024,Cause undetermined,2005
+United States of America,20051024-0 ,Cessna 208B Grand Caravan      ,Ferry/positioning,2,0,63.5,-162.277993,63.888359,-160.798952,63.637345,-160.825912,Controlled Flight Into Terrain,2005
+United States of America,20050901-0 ,Dassault Falcon 20D            ,Ferry/positioning,2,0,41.3,-82.177639,38.747167,-90.361389,41.34031,-82.188772,Bird strike,2005
+United States of America,20050829-0 ,de Havilland Canada DHC-8-202Q ,Scheduled Passenger,23,0,42.4,-122.8735,45.588722,-122.5975,45.588722,-122.5975,Cause undetermined,2005
+United States of America,20050722-0 ,Cessna 208B Grand Caravan      ,Cargo,1,0,33.4,-110.667361,32.853313,-109.634971,33.358542,-110.700607,Cause undetermined,2005
+United States of America,20050715-0 ,Learjet 35A                    ,Ambulance,4,0,39.2,-106.868861,39.642556,-106.917694,39.642556,-106.917694,Cause undetermined,2005
+Bahrain,20060907-0 ,Boeing 727-277                 ,Cargo,3,0,5.6,-0.166786,6.577369,3.321156,6.577369,3.321156,Cause undetermined,2006
+Brazil,20060929-0 ,Boeing 737-8EH                 ,Scheduled Passenger,154,154,-3,-60.049721,-15.862583,-47.912666,-10.483333,-53.25,Mid air collision,2006
+Canada,20060908-0 ,Airbus A319-112                ,International Scheduled Passenger,109,0,40.8,-73.872608,43.677223,-79.630556,40.777245,-73.872608,Cause undetermined,2006
+Colombia,20061122-0 ,Cessna 208 Caravan I           ,Military,3,3,6.2,-75.423119,4.216442,-74.635047,4.073302,-74.682217,Controlled Flight Into Terrain,2006
+Colombia,20060817-1 ,Boeing 727-224F                ,Cargo,3,0,4.7,-74.146947,10.889589,-74.780819,4.701594,-74.146947,Cause undetermined,2006
+Germany,20061129-0 ,Grob G.180A SPn                ,Demonstration,1,1,48.1,10.524333,48.108833,10.524333,48.09766,10.54445,Tail failure,2006
+Indonesia,20061224-0 ,Boeing 737-4Y0                 ,Scheduled Passenger,164,0,-6.1,106.655897,-5.061853,119.553997,-5.053521,119.544301,Cause undetermined,2006
+Indonesia,20061010-1 ,de Havilland Canada DHC-4A Cari,Unknown,5,0,-3.7,137.957778,-3.588611,138.396944,-3.588611,138.396944,Cause undetermined,2006
+Latvia,20061116-1 ,Antonov 74                     ,Cargo,3,0,43.6,13.362319,41.804475,12.250797,43.6136,13.3586,Cause undetermined,2006
+Mexico,20060705-0 ,North American Sabreliner 40   ,Cargo,2,0,21,-101.480847,19.436303,-99.072097,19.436303,-99.072097,Cause undetermined,2006
+Nepal,20060703-0 ,de Havilland Canada DHC-6 Twin ,Cargo,3,0,28.1,81.667006,29.502000809,81.668998718,29.503611,81.668333,Cause undetermined,2006
+Nigeria,20060917-0 ,Dornier 228-212                ,Military,18,13,9,7.263175,6.621128,9.32001,6.783333,9.066667,Controlled Flight Into Terrain,2006
+Paraguay,20060828-0 ,GAF Nomad N.22B                ,Non Scheduled Passenger,12,0,-25.1,-64.121,-24.855978,-65.486169,-24.892194,-65.498694,Forced landing outside airport,2006
+Philippines,20061102-0 ,Yakovlev 40A                   ,Ferry/positioning,3,0,14.5,121.019581,11.924503,121.95405,11.924503,121.95405,Cause undetermined,2006
+Sierra Leone,20061101-1 ,Antonov 12BP                   ,Cargo,9,0,-1.3,36.927775,4.204117,34.348186,4.203885,34.354935,Cause undetermined,2006
+Turkey,20061003-0 ,Boeing 737-4Y0                 ,International Scheduled Passenger,113,0,41.4,19.720561,40.976892,28.821111,40.659505,17.945582,Hijack,2006
+United States of America,20061012-0 ,Beechcraft 200 Super King Air  ,Test,3,0,38.3,-76.550111,38.315361,-76.550111,38.315361,-76.550111,Cause undetermined,2006
+United States of America,20060908-1 ,Embraer ERJ 170-100 SE (ERJ-170,Scheduled Passenger,70,0,40.8,-73.872608,41.978603,-87.904842,40.777245,-73.872608,Cause undetermined,2006
+United States of America,20060828-1 ,Raytheon Hawker 800XP          ,Executive,5,0,33.1,-117.280083,39.499108,-119.768108,38.844722,-119.497222,Mid air collision,2006
+United States of America,20060728-0 ,McDonnell Douglas MD-10-10F    ,Cargo,3,0,47.4,-122.309306,35.042417,-89.976667,35.043353,-89.987343,Cause undetermined,2006
+United States of America,20060710-2 ,Cessna 560 Citation V          ,Executive,2,0,36.3,-119.392889,46.251261,-114.124968,46.257862,-114.125108,Runway excursion,2006
+United States of America,20060626-0 ,Hawker Siddeley DH-125-3A      ,Executive,8,0,10.6,-66.990583,10.107139,-64.689161,10.107139,-64.689161,Cause undetermined,2006
+Brazil,20070822-1 ,Embraer EMB-110P1 Bandeirante  ,Unknown,2,2,-25.5,-49.175775,-23.181697,-46.943472,-25.484811,-49.142962,Cause undetermined,2007
+Brazil,20070716-0 ,ATR 42-300                     ,Scheduled Passenger,25,0,-22.3,-49.0538,-23.626692,-46.655375,-23.626692,-46.655375,Runway excursion,2007
+Cambodia,20071017-0 ,Antonov An-12BP                ,Cargo,5,0,11.5,104.844139,1.350189,103.994433,11.557398,104.61,Cause undetermined,2007
+Canada,20071111-0 ,Bombardier BD-700-1A11 Global 5,Executive,10,0,43.2,-79.935,45.87,-63.461111,45.87,-63.461111,Cause undetermined,2007
+Canada,20070708-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,5,1,59,-125.773889,53.889444,-122.678889,59.01,-125.773889,Cause undetermined,2007
+Colombia,20070827-0 ,Antonov 32B                    ,Cargo,4,0,1.3,-70.233878,1.253664,-70.233878,1.253664,-70.233878,Cause undetermined,2007
+Colombia,20070731-0 ,Douglas DC-3C                  ,Passenger,10,0,2.6,-72.639358,4.167875,-73.613761,2.69,-72.75444,Cause undetermined,2007
+Germany,20071226-0 ,Canadair CL-600-2B16 Challenger,Executive,4,1,43.4,77.040508,13.689689,100.742483,43.356452,77.0454,Icing,2007
+Haiti,20070831-1 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,6,0,18.6,-72.292542,19.732989,-72.194739,18.576,-72.2269,Cause undetermined,2007
+India,20070701-0 ,ATR-72-212A (ATR-72-500)       ,Scheduled Passenger,53,0,23.3,77.337375,22.721786,75.801086,22.721786,75.801086,Cause undetermined,2007
+Indonesia,20071101-0 ,Boeing 737-230 Adv.            ,Scheduled Passenger,94,0,-6.1,106.655897,-7.926556,112.714514,-7.93139,112.714891,Cause undetermined,2007
+Kenya,20070806-0 ,Beechcraft B200 Super King Air ,Ferry/positioning,2,0,-1.3,36.814833,-0.463508,39.648297,-0.463508,39.648297,Cause undetermined,2007
+Kyrgyzstan,20070723-2 ,Antonov 24B                    ,Cargo,9,1,9.6,41.859842,11.547331,43.159481,9.683333,41.85,Cause undetermined,2007
+Mexico,20071105-0 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,15,0,24.8,-107.474717,22.94845,-109.938733,24.757744,-107.49117,Cause undetermined,2007
+Mexico,20070705-0 ,North American CT-39A Sabreline,Cargo,3,3,24.8,-107.474717,24.072694,-110.362475,24.775157,-107.467999,Cause undetermined,2007
+Myanmar,20070829-1 ,Fokker F-28 Fellowship 4000    ,Scheduled Passenger,60,0,10,98.538006,14.098683,98.205119,14.098683,98.205119,Runway excursion,2007
+Panama,20071031-0 ,Fokker F-27 Friendship 200     ,Scheduled Passenger,13,0,9,-79.55555,9.340853,-82.250842,8.978086,-79.555178,Cause undetermined,2007
+Philippines,20071026-0 ,Airbus A320-214                ,Scheduled Passenger,154,0,14.5,121.019581,8.951322,125.477972,8.946579,125.4883,Runway excursion,2007
+South Africa,20070926-0 ,Reims Cessna F406 Caravan II   ,Survey/research,2,2,0,32.443503,1.758059978,31.736700058,0.0355,32.4391,Cause undetermined,2007
+Spain,20071028-0 ,Boeing 737-85P                 ,Non Scheduled Passenger,122,0,33.8,35.488389,50.474253,19.080019,50.474,19.106,Cause undetermined,2007
+Sudan,20070729-1 ,Antonov An-32B                 ,Unknown,8,0,4.9,31.601117,10.529817,32.501126,10.532944,32.501404,Cause undetermined,2007
+Sweden,20071027-0 ,de Havilland Canada DHC-8-402 Q,International Scheduled Passenger,44,0,60.3,5.218142,55.617917,12.655972,55.611,12.646379,Cause undetermined,2007
+Sweden,20070909-0 ,de Havilland Canada DHC-8-402 Q,Scheduled Passenger,73,0,55.6,12.655972,57.092789,9.849164,57.097212,9.865079,Cause undetermined,2007
+United States of America,20071218-0 ,Cessna 208B Grand Caravan      ,Cargo,2,0,60.8,-161.837997,61.523861,-166.146639,60.761,-161.8526,Icing,2007
+United States of America,20071106-0 ,Beechcraft A100 King Air       ,Executive,2,2,34,-117.636611,36.318667,-119.392889,33.9755,-117.6601,Cause undetermined,2007
+United States of America,20071027-1 ,Cessna 650 Citation III        ,Private,4,0,40.7,-73.413408,39.457583,-74.577167,39.457583,-74.577167,Cause undetermined,2007
+United States of America,20071014-0 ,Rockwell Sabreliner 65         ,Ferry/positioning,2,0,39.1,-94.59275,38.830833,-94.890278,38.830833,-94.890278,Cause undetermined,2007
+United States of America,20070920-0 ,Shorts SC.7 Skyvan 3-100       ,Ferry/positioning,1,1,62.9,-152.628422,61.174361,-149.996361,62.860627,-152.628422,Cause undetermined,2007
+United States of America,20070903-0 ,North American Rockwell Sabreli,Executive,6,0,10,-84.208806,10.442381,-75.512961,9.996519,-84.200152,Cause undetermined,2007
+United States of America,20070630-0 ,Cessna 500 Citation I          ,Private,2,1,33.9,-98.4904,35.080807,-92.424961,35.081484,-92.433187,Runway excursion,2007
+Belgium,20081027-0 ,Boeing 747-228F (SCD)          ,Cargo,6,0,50.9,4.484444,14.739708,-17.490225,50.903524,4.471195,Cause undetermined,2008
+Belize,20080907-0 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,5,0,17.5,-88.183,17.539144,-88.308203,17.48609,-88.2238,Cause undetermined,2008
+Brazil,20081123-0 ,Beechcraft B200 Super King Air ,Private,10,2,-5.1,-42.823478,-8.126794,-34.923039,-8.0688,-34.9383,Fuel starvation,2008
+Canada,20081213-0 ,Dornier 228-202                ,Non Scheduled Passenger,14,0,74.7,-94.969444,69.108055,-105.138333,69.090591,-105.072234,Controlled Flight Into Terrain,2008
+Canada,20081111-0 ,Beechcraft 100 King Air        ,Cargo,2,0,59.6,-108.481002808,59.25,-105.833,59.25,-105.833,Wheel(s) up landing,2008
+Colombia,20080823-2 ,de Havilland Canada DHC-8-301  ,International Scheduled Passenger,31,0,12.2,-68.959803,10.889589,-74.780819,10.89155,-74.77925,Cause undetermined,2008
+Indonesia,20080827-0 ,Boeing 737-2H6                 ,Scheduled Passenger,130,0,-6.1,106.655897,-1.638017,103.644378,-1.64609,103.6542,Cause undetermined,2008
+Ireland,20081110-0 ,Boeing 737-8AS                 ,International Scheduled Passenger,172,0,49.9,7.263892,41.799361,12.594936,41.807821,12.58893,Cause undetermined,2008
+Italy,20081128-0 ,Dassault Falcon 900EX          ,Executive,6,0,45.4,9.276739,40.657633,17.947033,40.657633,17.947033,Tailstrike,2008
+South Africa,20081218-1 ,Beechcraft 200 Super King Air  ,Executive,4,0,-25.8,25.548028,-25.938514,27.926133,-25.938514,27.926133,Cause undetermined,2008
+South Africa,20081101-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,6,0,-25.7,28.224231,-24.471017,27.8947,-24.390167,27.89266,Runway excursion,2008
+Spain,20080731-1 ,McDonnell Douglas MD-88        ,International Scheduled Passenger,122,0,48.1,16.569722,40.493556,-3.566764,48.110278,16.569722,Cause undetermined,2008
+Sudan,20080627-1 ,Antonov 12BK                   ,Cargo,8,7,15.6,32.553161,4.872006,31.601117,9.679276,31.655731,Cause undetermined,2008
+United States of America,20081223-0 ,Raytheon 390 Premier I         ,Private,4,0,39.1,-94.59275,40.023653,-91.87378,40.023653,-91.87378,Runway excursion,2008
+United States of America,20081101-1 ,CASA C-212 Aviocar 200         ,Cargo,2,0,60.8,-161.837997,60.541389,-165.087222,60.560654,-165.082197,Cause undetermined,2008
+United States of America,20081012-0 ,Beechcraft 100 King Air        ,Ferry/positioning,1,1,-22.3,-49.0538,-23.478036,-47.490003,-22.3607,-49.02,Cause undetermined,2008
+United States of America,20080919-0 ,Learjet 60                     ,Executive,6,4,33.9,-81.119539,34.209806,-118.489972,33.937089,-81.1053,Cause undetermined,2008
+United States of America,20080901-0 ,Convair CV-580                 ,Test,3,3,39.8,-82.927822,40.821417,-82.516639,39.790534,-82.969694,Wrong installation of parts,2008
+United States of America,20080731-0 ,British Aerospace BAe-125-800A ,Executive,8,8,39.5,-74.577167,44.1233889,-93.2606111,44.131548,-93.275932,Cause undetermined,2008
+United States of America,20080706-0 ,McDonnell Douglas DC-9-15F     ,Cargo,2,1,32.4,-93.8256,25.549497,-100.928669,25.559284,-100.929079,Cause undetermined,2008
+Vanuatu,20081219-0 ,Britten-Norman BN-2A-20 Islande,Scheduled Passenger,10,2,-14.9,166.558056,-15.501253,167.222603,-15.05,166.715667,Overloaded,2008
+Australia,20091118-0 ,IAI 1124A Westwind II          ,Ambulance,6,0,-13.8,-172.008336,-29.041625,167.938742,-29.034,167.91,Ditching,2009
+Bahamas,20091220-1 ,Swearingen SA227-AC Metro III  ,Passenger,21,0,25,-77.466231,19.732989,-72.194739,19.732989,-72.194739,Cause undetermined,2009
+Brazil,20091012-0 ,Embraer EMB-500 Phenom 100     ,Private,4,0,-23.5,-46.637753,-22.975339,-44.307142,-22.975339,-44.307142,Runway excursion,2009
+Canada,20091209-0 ,Beechcraft A100 King Air       ,Scheduled Passenger,4,2,48.1,-77.782778,48.520833,-71.050556,48.5344,-71.135,Controlled Flight Into Terrain,2009
+Congo,20090826-0 ,Antonov 12BK                   ,Cargo,6,6,-4.8,11.886597,-4.2517,15.253031,-4.321212,15.156466,Cause undetermined,2009
+Germany,20090629-1 ,Britten-Norman BN-2B-26 Islande,Scheduled Passenger,6,0,53.7,7.820278168,53.783,7.917,53.783,7.917,Cause undetermined,2009
+India,20091110-0 ,ATR 72-212A (ATR-72-500)       ,Scheduled Passenger,42,0,21.8,72.185181,19.088686,72.867919,19.090874,72.864418,Cause undetermined,2009
+Indonesia,20091102-1 ,PZL-Mielec M28-05PI Skytruck   ,Military,4,4,-2.6,140.516372,-3.702778,137.957778,-3.678333,138.2825,Cause undetermined,2009
+Indonesia,20090802-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,15,15,-2.6,140.516372,-4.907842,140.629167,-4.704167,140.614,Controlled Flight Into Terrain,2009
+Japan,20090928-0 ,NAMC YS-11M-A-624              ,Military,11,0,34.1,132.23575,34.045322,131.052144,34.045322,131.052144,Runway excursion,2009
+Papua New Guinea,20090811-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,13,13,-9.4,147.22005,-8.888056,147.73055,-8.986352,147.758217,Controlled Flight Into Terrain,2009
+Philippines,20091211-0 ,Beechcraft B300 Super King Air ,Unknown,2,0,14.5,121.019581,10.91188,124.437842,10.916619,124.440931,Runway excursion,2009
+Philippines,20090823-0 ,Dornier 328-100                ,Scheduled Passenger,35,0,11.9,121.95405,14.508647,121.019581,14.508647,121.019581,Runway excursion,2009
+South Africa,20090924-0 ,British Aerospace 4121 Jetstrea,Ferry/positioning,3,1,-30,30.950519,-29.648975,30.398667,-29.960713,30.971045,Shutdown of wrong engine,2009
+Thailand,20090804-0 ,ATR 72-212A (ATR-72-500)       ,Scheduled Passenger,72,1,8.1,98.986178,9.547794,100.062272,9.549178,100.061422,Runway excursion,2009
+United States of America,20091225-0 ,Airbus A330-323X               ,International Scheduled Passenger,289,0,52.3,4.763889,42.212444,-83.353389,44.50812,-75.269446,Sabotage,2009
+United States of America,20091217-0 ,Dassault Falcon 20D            ,Unknown,2,2,18.6,-69.9856,26.197279,-80.170706,20.9776,-73.4864,Loss of control,2009
+United States of America,20091105-0 ,Grumman G-111 Albatross        ,Ferry/positioning,3,0,27.5,-80.368278,27.265972,-80.851111,27.49729,-80.390439,Cause undetermined,2009
+United States of America,20091026-1 ,Beechcraft B100 King Air       ,Private,4,4,29.2,-99.743598938,28.823083,-81.80872,27.69,-98.419,Cause undetermined,2009
+United States of America,20091013-1 ,Beechcraft C-12C Huron (A200 Su,Military,3,3,34.9,69.265,34.946244,69.265,35.5,70.85,Cause undetermined,2009
+United States of America,20090828-0 ,Boeing E-3C Sentry (707-300)   ,Military,32,0,36.2,-115.034253,36.236197,-115.034253,36.236197,-115.034253,Cause undetermined,2009
+Zimbabwe,20091128-0 ,McDonnell Douglas MD-11F       ,Cargo,7,3,31.1,121.805214,43.061306,74.477556,31.1687,121.77745,Cause undetermined,2009
+Argentina,20101024-0 ,Antonov 2T                     ,Parachuting,10,0,-36.2,-66.9462,-36.2361,-66.9462,-36.25,-66.947,Forced landing outside airport,2010
+Brazil,20100812-0 ,Learjet 55C                    ,Executive,3,0,-22.9,-43.163133,-22.808903,-43.243647,-22.90433,-43.16318,Runway excursion,2010
+Canada,20100922-1 ,Beechcraft B100 King Air       ,Scheduled Passenger,6,0,47,-70.515833,45.5175,-73.416944,47.001944,-70.515833,Cause undetermined,2010
+China,20100824-0 ,Embraer ERJ 190-100 LR  (ERJ-19,Scheduled Passenger,96,44,45.6,126.250328,47.752,129.019,47.747778,129.04277,Low visibility,2010
+Colombia,20101106-0 ,Douglas DC-3C                  ,Cargo,3,0,4.2,-73.613761,3.5917,-70.3128,3.629256,-70.323439,Cause undetermined,2010
+Cuba,20101104-0 ,ATR 72-212                     ,Scheduled Passenger,68,68,20,-75.835878,22.989153,-82.409086,21.755,-79.47,Icing,2010
+Georgia,20101128-0 ,Ilyushin 76TD                  ,Cargo,8,8,24.9,67.160797,15.589497,32.553161,24.89418,67.106767,Cause undetermined,2010
+Germany,20100727-0 ,McDonnell Douglas MD-11F       ,Cargo,2,0,50,8.543125,24.95764,46.698776,24.959,46.68,Cause undetermined,2010
+Indonesia,20101102-0 ,Boeing 737-4Y0                 ,Scheduled Passenger,175,0,-6.1,106.655897,-0.150711,109.403892,-0.1605,109.407,Cause undetermined,2010
+Italy,20100924-0 ,Airbus A319-132                ,Scheduled Passenger,129,0,41.8,12.250797,38.175958,13.091019,38.1734,13.084,Cause undetermined,2010
+Mexico,20101124-0 ,Antonov 32B                    ,Military,5,5,25.8,-100.106878,19.755278,-99.016389,25.7743,-100.1088,Cause undetermined,2010
+Mozambique,20101203-0 ,Beechcraft 1900C-1             ,Scheduled Passenger,17,0,-15.1,39.2818,-25.920836,32.572606,-25.8903,32.5913,Cause undetermined,2010
+Nepal,20101215-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,22,22,27.3,86.67,27.696592,85.359192,27.333333,86.416667,Cause undetermined,2010
+Pakistan,20100728-0 ,Airbus A321-231                ,Scheduled Passenger,152,152,24.9,67.160797,33.616653,73.099233,33.744333,73.043472,Controlled Flight Into Terrain,2010
+Peru,20101113-0 ,Swearingen SA227-AC Metro III  ,Scheduled Passenger,19,0,-9.3,-77.598392,-13.706408,-73.350378,-13.706,-73.3505,Cause undetermined,2010
+Poland,20100825-2 ,Antonov 26B                    ,Cargo,4,0,59.4,24.832844,60.317222,24.963333,59.4133,24.8435,Premature gear retraction on take-off,2010
+Romania,20100705-0 ,Antonov 2T                     ,Military,14,12,44,28.606611,43.985214,28.606611,43.9868,28.6073,Cause undetermined,2010
+United States of America,20101001-0 ,Cessna 550 Citation II         ,Executive,7,0,28,-82.53325,35.918989,-75.695539,35.91331,-75.701,Runway excursion,2010
+United States of America,20100809-0 ,de Havilland Canada DHC-3T Texa,Non Scheduled Passenger,9,5,59.4,-158.839,59.282,-157.635,59.32383,-158.3875,Controlled Flight Into Terrain,2010
+United States of America,20100728-1 ,McDonnell Douglas C-17A Globema,Military,4,4,61.3,-149.806503,61.250986,-149.806503,61.27,-149.756,Loss of control,2010
+Canada,20111027-0 ,Beechcraft 100 King Air        ,Scheduled Passenger,9,2,49.2,-123.184444,49.956112,-119.377778,49.1815,-123.1514,Cause undetermined,2011
+Canada,20110922-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,9,2,62.1,-112.576111,62.466667,-114.35,62.46709,-114.34679,Cause undetermined,2011
+Chile,20110902-1 ,CASA C-212 Aviocar 300DF       ,Military,21,21,-33.4,-70.78555,-33.665832,-78.92861,-33.686389,-78.933333,Windshear/downdraft,2011
+Ecuador,20110916-0 ,Embraer ERJ 190-100 IGW (ERJ-19,Scheduled Passenger,103,0,-4,-79.371925,-0.141144,-78.488214,-0.12445,-78.49043,Runway excursion,2011
+France,20111213-0 ,Airbus A319-111                ,International Scheduled Passenger,119,0,53.6,9.988228,49.012779,2.55,49.012779,2.55,Cause undetermined,2011
+Haiti,20110920-0 ,Beechcraft 99A Airliner        ,Scheduled Passenger,3,3,18.6,-72.292542,19.732989,-72.194739,19.598,-72.23,Cause undetermined,2011
+India,20111014-1 ,Cessna 550 Citation II         ,Training,4,0,19.1,72.867919,21.115269,72.742836,21.115269,72.742836,Failure to follow AD and SB's,2011
+Indonesia,20111220-0 ,Boeing 737-36M                 ,Scheduled Passenger,137,0,-6.1,106.655897,-7.788181,110.431758,-7.788,110.4428,Runway excursion,2011
+Indonesia,20111123-0 ,Cessna 208B Grand Caravan      ,Cargo,2,1,-3.4,135.496406,-3.7396,137.032,-3.7405,137.027,Loss of control,2011
+Indonesia,20110909-0 ,Cessna 208B Grand Caravan      ,Cargo,2,2,-4.1,138.957372,-4.6,138.383,-4.4161,139.003,Overloaded,2011
+Kyrgyzstan,20111228-0 ,Tupolev 134A-3                 ,Scheduled Passenger,88,0,43.1,74.477556,40.608989,72.793269,40.61,72.79,Cause undetermined,2011
+Morocco,20110726-0 ,Lockheed C-130H Hercules       ,Military,80,80,23.7,-15.931994,29.0271,-10.0521,29.067,-9.942,Cause undetermined,2011
+Nepal,20111121-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,12,0,28.1,81.667006,29.521304,82.46943,29.521304,82.46943,Runway excursion,2011
+Nepal,20110925-0 ,Beechcraft 1900D               ,Scheduled Passenger,19,19,27.7,85.359192,27.696592,85.359192,27.6244,85.3788,Cause undetermined,2011
+Papua New Guinea,20111013-0 ,de Havilland Canada DHC-8-102  ,Scheduled Passenger,32,28,-6.6,146.726242,-5.207083,145.7887,-5.321,145.652,Forced landing outside airport,2011
+Sudan,20111002-0 ,Fokker 50                      ,Scheduled Passenger,45,0,15.6,32.553161,9.558969,31.652242,15.589497,32.553161,Wheel(s) up landing,2011
+United States of America,20111228-1 ,Cessna 650 Citation VII        ,Private,8,0,26.2,-80.170706,40.849998,-74.060837,26.197279,-80.170706,Cause undetermined,2011
+United States of America,20110923-0 ,de Havilland Canada DHC-3T Texa,Non Scheduled Passenger,3,1,57.2,-153.269722,57.749967,-152.493856,57.6952,-152.5254,Loss of control,2011
+Yemen,20111025-0 ,Antonov 26                     ,Military,15,4,15.5,44.219739,13.174701,44.7651,13.174701,44.7651,Cause undetermined,2011
+Algeria,20121109-0 ,CASA C-295M                    ,Military,6,6,49,2.441389,36.503613,2.814167,44.485,3.122,Cause undetermined,2012
+Brazil,20121111-0 ,Cessna 525B CitationJet CJ3    ,Unknown,3,0,-27.7,-48.547181,-23.626692,-46.655375,23.61929,-46.65876,Cause undetermined,2012
+Canada,20121222-0 ,Swearingen SA227-AC Metro III  ,Scheduled Passenger,9,1,49.9,-97.234444,56.536944,-79.25,56.535,-79.262,Controlled Flight Into Terrain,2012
+Canada,20121030-1 ,Cessna 560 Citation V          ,Ferry/positioning,2,0,53.6,-113.520556,53.309723,-113.579722,53.309723,-113.579722,Cause undetermined,2012
+Honduras,20121231-0 ,British Aerospace 3101 Jetstrea,Scheduled Passenger,19,0,16.3,-86.522683,15.452639,-87.923556,15.452639,-87.923556,Runway excursion,2012
+Kazakhstan,20121225-1 ,Antonov 72-100                 ,Military,27,27,51,71.466944,42.364167,69.478889,42.307,69.239,Controlled Flight Into Terrain,2012
+Kenya,20121115-0 ,Fokker 50                      ,Non Scheduled Passenger,57,0,15.6,32.553161,8.767,27.4,8.767,27.4,Cause undetermined,2012
+Myanmar,20121225-0 ,Fokker 100                     ,Scheduled Passenger,71,1,21.7,95.977928,20.750375,96.792017,20.7262,96.792,VFR flight in IMC,2012
+Nepal,20120921-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,7,0,29,82.819099426,28.103633,81.667006,28.984032,82.819416,Runway excursion,2012
+Peru,20121217-0 ,Antonov An-26-100              ,Cargo,4,4,-12,-77.114319,-11.85494,-72.93933,-12.137722,-75.717056,Icing,2012
+Spain,20121113-0 ,Swearingen SA226-TC Metro II   ,Ferry/positioning,2,0,37.8,-0.812389,42.080833,-0.32333,37.774972,-0.812389,Runway excursion,2012
+Turkey,20121014-0 ,Boeing 737-8KN (WL)            ,International Scheduled Passenger,196,0,36.9,30.791744,63.457556,10.939872,36.901492,30.791744,Cause undetermined,2012
+United States of America,20121219-0 ,Beechcraft B100 King Air       ,Executive,2,2,32.9,-111.4264734,48.2838333,-115.49022,48.366,-115.446,Controlled Flight Into Terrain,2012
+United States of America,20121117-0 ,Cessna 550 Citation II         ,Test,2,0,34.2,-82.159083,34.2487222,-82.159083,34.2487222,-82.159083,Cause undetermined,2012
+United States of America,20121013-0 ,McDonnell Douglas MD-11F       ,Cargo,3,0,25.8,-80.290556,-23.007383,-47.134522,-23.007383,-47.134522,Cause undetermined,2012
+United States of America,20120918-0 ,Beechcraft Beechjet 400        ,Executive,3,0,32.9,-80.040528,32.822222,-83.56194,32.822222,-83.56194,Runway excursion,2012
+Argentina,20131107-0 ,Boeing 737-7Q8 (WL)            ,Scheduled Passenger,88,0,-34.6,-58.415606,-26.840861,-65.104944,-34.558324,-58.413345,Ground collision,2013
+Canada,20131110-0 ,Swearingen SA227-AC Metro III  ,Scheduled Passenger,7,5,50.1,-91.905278,51.066944,-93.793056,51.0614,-93.784,Cause undetermined,2013
+Canada,20130925-0 ,Cessna 208B Grand Caravan      ,Training,1,1,46.5,-84.509445,46.485001,-84.509445,57.6,-86.3,Cause undetermined,2013
+Chile,20130909-0 ,Dornier 228-202K               ,Ferry/positioning,2,2,-31.9,-70.617044,-32.94961,-71.47858,-32.965415,-71.501307,Cause undetermined,2013
+Germany,20131124-0 ,McDonnell Douglas MD-11F       ,Cargo,3,0,14.7,-17.490225,-23.007383,-47.134522,-23.007383,-47.134522,Cause undetermined,2013
+Malaysia,20131010-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,16,2,5.9,116.051181,6.922500134,116.835998535,6.9243,116.8351,Turbulence,2013
+Mexico,20131119-0 ,Learjet 35A                    ,Ferry/positioning,4,4,26.1,-80.15275,20.522403,-86.925644,26.135972,-80.077028,Flightcrew  un(der)qualified,2013
+Mexico,20130908-1 ,Learjet 35A                    ,Unknown,7,0,37.6,-122.374889,29.095858,-111.047858,29.095858,-111.047858,Runway excursion,2013
+Nigeria,20131003-0 ,Embraer EMB-120RT Brasilia     ,Non Scheduled Passenger,20,16,6.6,3.321156,7.246739,5.301008,6.5641,3.325,Loss of control,2013
+Philippines,20131019-0 ,British Aerospace BAe-146-200  ,Non Scheduled Passenger,75,0,14.5,121.019581,14.418611,122.039167,14.418611,122.039167,Runway excursion,2013
+Saudi Arabia,20131210-0 ,Gulfstream G550                ,Non Scheduled Passenger,5,0,25,46.698776,51.885,0.235,51.885,0.235,Cause undetermined,2013
+Sudan,20130806-1 ,Fokker 50                      ,Scheduled Passenger,55,0,15.6,32.553161,13.153219,30.232675,15.589497,32.553161,Cause undetermined,2013
+Switzerland,20131203-0 ,Airbus A320-214                ,International Scheduled Passenger,64,0,47.5,8.549167,51.4775,-0.461389,51.4775,-0.461389,Tailstrike,2013
+Thailand,20130908-0 ,Airbus A330-321                ,International Scheduled Passenger,302,0,23.4,113.298786,13.689689,100.742483,13.6856,100.7588,Runway excursion,2013
+United States of America,20131217-0 ,Raytheon 390 Premier I         ,Private,2,2,33.8,-84.521361,30.042417,-90.02825,33.8183,-84.473,"Flightcrew member's alcohol, drug usage",2013
+United States of America,20131205-0 ,Boeing 767-332ER (WL)          ,International Scheduled Passenger,203,0,40.5,-3.566764,40.639751,-73.778925,40.493556,-3.566764,Cause undetermined,2013
+United States of America,20131129-1 ,Cessna 208B Grand Caravan      ,Scheduled Passenger,10,4,60.8,-161.837997,62.060833,-163.301833,62.0442,-163.2786,Controlled Flight Into Terrain,2013
+United States of America,20131023-0 ,Beechcraft 1900C               ,Scheduled Passenger,15,0,61.2,-149.996361,59.645556,-151.476583,59.645556,-151.476583,Cause undetermined,2013
+United States of America,20131015-0 ,Embraer EMB-500 Phenom 100     ,Ferry/positioning,2,0,39.1,-94.59275,37.747583,-97.22111,37.747583,-97.22111,Runway excursion,2013
+United States of America,20130929-1 ,Cessna 525A CitationJet CJ2    ,Private,4,4,43.5,-114.296194,34.015833,-118.451306,34.0126,-118.4566,Runway excursion,2013
+United States of America,20130814-0 ,Airbus A300F4-622R             ,Cargo,2,2,38.2,-85.736,33.562944,-86.75355,33.5826,-86.746,Insufficient rest / fatigue,2013
+United States of America,20130717-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,11,0,42,-87.904842,40.783226,-91.125506,41.978603,-87.904842,Cause undetermined,2013
+Argentina,20140914-0 ,Beechcraft 300LW Super King Air,Private,2,2,-34.9,-61.3021,-34.559175,-58.415606,-34.4089,-58.65661,Loss of control,2014
+Bahamas,20141109-0 ,Learjet 35A                    ,Executive,9,9,25,-77.466231,26.558686,-78.695553,26.5295,-78.768,Low visibility,2014
+Bangladesh,20140720-2 ,ATR 72-212                     ,Scheduled Passenger,48,0,23.8,90.397781,21.452194,91.963889,21.452194,91.963889,Cause undetermined,2014
+Brazil,20140813-0 ,Cessna 560XLS+ Citation XLS+   ,Unknown,7,7,-22.9,-43.163133,-23.925206,-46.2875,-23.9593,-46.3265,Loss of control,2014
+Dominican Republic,20141012-0 ,British Aerospace 3101 Jetstrea,Non Scheduled Passenger,13,0,18.4,-66.001833,18.567367,-68.363431,18.567367,-68.363431,Runway excursion,2014
+France,20141024-0 ,Reims Cessna F406 Caravan II   ,Test,3,0,47.8,-3.44,47.760555,-3.44,47.760555,-3.44,Wheel(s) up landing,2014
+Germany,20141020-1 ,Dornier 328-110                ,Non Scheduled Passenger,34,0,48.7,11.534,52.319167,10.556111,52.319167,10.556111,Cause undetermined,2014
+Guyana,20141228-1 ,Britten-Norman BN-2A-6 Islander,Cargo,2,2,5.3,-59.151112,4.9187,-59.4509,5.24,-59.3,Cause undetermined,2014
+Indonesia,20140909-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,12,0,-2.6,140.516372,-3.702778,137.957778,-3.702778,137.957778,Runway excursion,2014
+Ireland,20141007-0 ,Boeing 737-8AS (WL)            ,International Scheduled Passenger,94,0,53.4,-6.270075,55.95,-3.3725,53.421333,-6.270075,Cause undetermined,2014
+Ireland,20140628-1 ,Boeing 737-8AS (WL)            ,International Scheduled Passenger,167,0,49.9,7.263892,51.885,0.235,51.885,0.235,Cause undetermined,2014
+Jordan,20141005-1 ,Airbus A340-212                ,International Scheduled Passenger,180,0,31.7,35.993214,40.639751,-73.778925,40.639751,-73.778925,Ground collision,2014
+Kenya,20141114-0 ,British Aerospace BAe-748-399 L,Cargo,3,2,4.9,31.601117,7.3282,31.4221,7.33,31.4216,Cause undetermined,2014
+Kenya,20140702-0 ,Fokker 50                      ,Cargo,4,4,-1.3,36.927775,2.014444,45.304722,-1.278,36.966,Cause undetermined,2014
+Pakistan,20140624-0 ,Airbus A310-324ET              ,International Scheduled Passenger,190,1,25,46.698776,33.993911,71.514581,33.976,71.515,Shot down from the ground,2014
+Papua New Guinea,20140920-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,9,4,-8.6,147.2525,-9.443383,147.22005,-9.3361111,147.2366667,Controlled Flight Into Terrain,2014
+Sri Lanka,20141212-0 ,Antonov 32B                    ,Military,5,5,7.2,79.865833,6.821994,79.886208,6.8741,79.969,Cause undetermined,2014
+Ukraine,20141228-2 ,Antonov 26                     ,Cargo,6,6,-3.3,29.318519,-4.816028,11.886597,-3.235,28.97,Cause undetermined,2014
+Ukraine,20140830-0 ,Antonov 12BK                   ,Cargo,7,7,22.8,5.450836,12.533544,-7.949944,22.672,5.448,Cause undetermined,2014
+United States of America,20141208-0 ,Embraer EMB-500 Phenom 100     ,Private,3,3,35.9,-79.06583,39.168333,-77.166,39.179,-77.1808,Icing,2014
+United States of America,20141124-0 ,Gulfstream Aerospace G-1159 Gul,Private,7,0,51.3,0.0325,48.936944,-54.568056,51.32932,0.0313,Cause undetermined,2014
+United States of America,20141030-0 ,Beechcraft B200 Super King Air ,Ferry/positioning,1,1,37.6,-97.433056,34.545278,-94.202778,37.6602,-97.425,Cause undetermined,2014
+United States of America,20141022-0 ,Boeing 757-232 (WL)            ,Scheduled Passenger,190,0,44.9,-93.216922,33.942536,-118.408075,44.883325,-93.216922,Ground collision,2014
+United States of America,20140620-0 ,Boeing 767-36NER               ,Non Scheduled Passenger,81,0,44.6,26.085119,34.565853,69.212328,34.565853,69.212328,Tailstrike,2014
+Australia,20150925-1 ,Cessna 550 Citation Bravo      ,Ferry/positioning,2,0,-28.8,153.26,-29.21829,152.61611,-28.838523,153.26264,Cause undetermined,2015
+Brazil,20151014-0 ,Cessna 208B Grand Caravan      ,Survey/research,3,3,3.5,-76.381583,3.543222,-76.381583,3.61265,-76.559447,VFR flight in IMC,2015
+Canada,20150816-2 ,Beechcraft A100 King Air       ,Non Scheduled Passenger,4,0,44.9,-63.50861,46.34111,-60.979722,46.34111,-60.979722,Cause undetermined,2015
+Colombia,20150731-2 ,CASA CN-235M-200               ,Military,11,11,5.5,-74.655833,10.435042,-73.249506,10.08371,-73.246383,Cause undetermined,2015
+Egypt,20151012-0 ,Airbus A300B4-203F             ,Cargo,6,0,30.1,31.405556,2.014444,45.304722,2.132,45.130362,Cause undetermined,2015
+Germany,20150906-1 ,Antonov 2TD                    ,Ferry/positioning,1,0,51.7,11.96166,51.363,11.940833,51.363,11.940833,Cause undetermined,2015
+Ghana,20151006-0 ,British Aerospace BAe-146-300  ,Scheduled Passenger,76,0,5.6,-0.166786,9.557192,-0.863214,9.55242,-0.868021,Cause undetermined,2015
+India,20151222-0 ,Beechcraft B200 Super King Air ,Military,10,10,28.6,77.103088,23.314828,85.321633,28.562639,77.074333,Loss of control,2015
+Indonesia,20151221-0 ,Embraer ERJ 190-200 LR  (ERJ-19,Scheduled Passenger,125,0,-8.8,121.660644,-10.171583,123.671136,-10.167499,123.684785,Cause undetermined,2015
+Indonesia,20151002-1 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,10,10,-2.6,120.324383,-5.061853,119.553997,-3.431337,120.070015,VFR flight in IMC,2015
+Indonesia,20150816-0 ,ATR 42-300                     ,Scheduled Passenger,54,54,-2.6,140.516372,-4.907842,140.629167,-4.821483,140.499217,Controlled Flight Into Terrain,2015
+Japan,20150828-0 ,Viking Air DHC-6 Twin Otter 400,Scheduled Passenger,14,0,26.2,127.645869,26.592500687,127.240997314,26.592145,127.240173,Runway excursion,2015
+Maldives,20150702-0 ,de Havilland Canada DHC-6 Twin ,Scheduled Passenger,14,0,5.5,73.422199,5.546623,73.465386,5.518583,73.48285,Centre of Gravity outside limits,2015
+Mexico,20151116-0 ,Learjet 60                     ,Ferry/positioning,2,0,19.3,-99.566008,17.601569,-101.460536,17.602064,-101.456995,VFR flight in IMC,2015
+Peru,20151023-0 ,Boeing 737-3K2                 ,Scheduled Passenger,139,0,-12,-77.114319,-13.535722,-71.938781,-13.5359,-71.937054,Cause undetermined,2015
+Slovakia,20150820-0 ,Let L-410MA                    ,Parachuting,19,3,49,18.192199707,48.996898651,18.192199707,49.086611,18.177639,Mid air collision,2015
+United Arab Emirates,20151002-0 ,de Havilland Canada DHC-6 Twin ,Parachuting,1,0,25.1,55.134173,25.090975,55.134173,25.09152,55.137702,Cause undetermined,2015
+United States of America,20151110-1 ,British Aerospace BAe-125-700A ,Unknown,9,9,39.6,-84.225,41.0375,-81.466917,41.054884,-81.42348,Cause undetermined,2015
+United States of America,20151002-2 ,Lockheed C-130J-30 Super Hercul,Military,11,11,34.4,70.498853,34.946244,69.265,34.40764,70.48892,Locked rudders/ailerons/gustlock,2015
+United States of America,20150906-0 ,de Havilland Canada DHC-6 Twin ,Executive,3,0,36.1,-78.371385,36.08515,-78.371385,36.08515,-78.3713856,Loss of control,2015
+United States of America,20150821-0 ,Eclipse 500                    ,Private,3,0,44,-88.557042,41.371498108,-73.482200622,41.369592,-73.490771,Cause undetermined,2015
+United States of America,20150812-0 ,Cessna 208B Super Cargomaster  ,Cargo,1,0,18.4,-66.001833,17.311194,-62.718667,17.6,-63.2667,Cause undetermined,2015
+United States of America,20150723-0 ,IAI 1125 Astra                 ,Executive,7,0,39.2,-76.668333,42.114222,-87.901494,39.175361,-76.668333,Passenger door failure,2015
+Canada,20161227-1 ,Cessna 208B Grand Caravan      ,Private,4,0,53,-112.816111,56.653333,-111.221944,56.6505,-111.202266,Cause undetermined,2016
+Colombia,20161220-0 ,Boeing 727-2J0 (F) Adv.        ,Cargo,6,5,6.2,-67.493164,4.701594,-74.146947,6.191083,-67.566639,Loss of control,2016
+Colombia,20160930-0 ,Cessna 208B Grand Caravan      ,Non Scheduled Passenger,11,4,6.2,-75.590519,7.091667,-77.740277,6.201472,-75.655028,Forced landing outside airport,2016
+India,20160722-0 ,Antonov 32                     ,Military,29,29,12.9,80.121902466,11.641528,92.730031,12.935,82.8347,Cause undetermined,2016
+Indonesia,20161203-0 ,PZL-Mielec M28 Skytruck        ,Military,13,13,-2.2,106.139064,1.121028,104.118753,0.287433,104.837683,Cause undetermined,2016
+Indonesia,20160925-0 ,Learjet 31A                    ,Ambulance,8,0,-7.8,110.431758,-6.266608,106.891117,-6.266397,106.890236,Runway excursion,2016
+Libya,20161223-0 ,Airbus A320-214                ,Scheduled Passenger,118,0,27,14.472525,32.663544,13.159011,35.851487,14.4671,Hijack,2016
+Luxembourg,20161024-0 ,Swearingen SA227-AT Expediter  ,Official state flight,5,5,35.9,14.4775,35.857497,14.4775,35.843259,14.491616,Cause undetermined,2016
+Malaysia,20161221-0 ,Beechcraft B200T Super King Air,Military,4,1,2.7,101.709917,5.465917,100.391167,5.46146,100.392379,Cause undetermined,2016
+Pakistan,20161207-0 ,ATR 42-500                     ,Scheduled Passenger,47,47,35.9,71.800578,33.616653,73.099233,34.01893,73.152251,Cause undetermined,2016
+United States of America,20161229-0 ,Cessna 525C Citation CJ4       ,Private,6,6,41.5,-81.683333,40.079778,-83.073028,41.541143,-81.697318,Insufficient rest / fatigue,2016
+United States of America,20161204-1 ,Cessna 500 Citation I          ,Executive,1,0,37.4,-121.929022,38.289085,-104.496572,38.536658,-106.92629,Runway excursion,2016
+United States of America,20161030-0 ,Beechcraft 100 King Air        ,Private,10,0,38.4,-85.73819,31.151814,-81.391253,38.3654167,-85.73819,Runway excursion,2016
+United States of America,20161028-1 ,McDonnell Douglas MD-10-10F    ,Cargo,2,0,35,-89.976667,26.072583,-80.15275,26.077186,-80.144879,Cause undetermined,2016
+United States of America,20161013-1 ,Cessna 525B CitationJet CJ3+   ,Executive,6,0,40.4,-79.930275,41.920799255,-71.491401672,41.929053,-71.485205,Runway excursion,2016
+United States of America,20160827-0 ,Boeing 737-7H4 (WL)            ,Scheduled Passenger,104,0,30,-90.258028,28.429392,-81.308994,30.157343,-88.95383,Uncontained engine failure,2016
+United States of America,20160809-0 ,Boeing 737-832 (WL)            ,Scheduled Passenger,166,0,40.6,-73.778925,40.788389,-111.977772,40.639751,-73.778925,Cause undetermined,2016
+United States of America,20160721-0 ,Cessna 208B Grand Caravan      ,Parachuting,15,0,45,-92.391273,44.964363,-92.391273,44.963591,-92.392133,Runway excursion,2016
+Angola,20171012-0 ,Embraer EMB-120ER              ,Ambulance,7,7,-7.4,20.818481,-8.858375,13.231178,-8.24863,19.510271,Cause undetermined,2017
+Belize,20171117-0 ,Cessna 208B Grand Caravan      ,Passenger,7,0,16.5,-88.35,16.1,-88.8,16.537613,-88.358475,Cause undetermined,2017
+Canada,20171213-0 ,ATR 42-320                     ,Scheduled Passenger,25,1,59.3,-107.181999206,59.25,-105.833,59.338658,-107.198661,Cause undetermined,2017
+Canada,20171021-0 ,Beechcraft 200 Super King Air  ,Ambulance,7,0,55.2,-105.261944,53.214167,-105.672778,53.218038,-105.676815,Wheel(s) up landing,2017
+Kazakhstan,20171003-0 ,Antonov An-28                  ,Ambulance,5,5,43.4,77.040508,42.364167,69.478889,43.447245,76.741325,Cause undetermined,2017
+Nepal,20171128-0 ,de Havilland Canada DHC-6 Twin ,Non Scheduled Passenger,16,0,30,81.818889,28.586,81.636,29.969918,81.820421,Runway excursion,2017
+Papua New Guinea,20171223-0 ,Britten-Norman BN-2A Islander  ,Cargo,1,1,-6.1,147.107493,-6.569828,146.726242,-6.191389,146.769722,Controlled Flight Into Terrain,2017
+Ethiopia,20180830-0 ,de Havilland Canada DHC-6 Twin ,Military,18,18,9.6,41.859842,8.7163,39.0059,8.629998,39.111612,Cause undetermined,2018
+Indonesia,20181010-1 ,Cessna 208B Grand Caravan EX   ,Unknown,2,0,-4.5,136.887375,-3.81611,137.424722,-3.814719,137.424454,Runway excursion,2018
+Mexico,20180731-0 ,Embraer ERJ-190AR              ,Scheduled Passenger,105,0,24.1,-104.528014,19.436303,-99.072097,24.138186,-104.517453,Windshear/downdraft,2018
+South Africa,20180710-0 ,Convair CV-340                 ,Non Scheduled Passenger,19,1,-25.7,28.224231,-25.333822,27.173358,-25.670485,28.283754,Cause undetermined,2018
+United States of America,20180927-0 ,Dassault Falcon 50             ,Private,4,2,27.9,-82.687417,34.847944,-82.35,34.839404,-82.3485,Runway excursion,2018
+United States of America,20180807-1 ,Dassault Falcon 20D            ,Cargo,2,0,20.6,-100.185658,27.54375,-99.461556,22.2882,-100.9647,Forced landing outside airport,2018
+United States of America,20180721-0 ,Douglas C-47B (DC-3)           ,Private,13,0,30.7,-98.238601,38.707401276,-93.17590332,30.73431,-98.239517,Loss of control,2018

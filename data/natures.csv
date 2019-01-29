@@ -1,0 +1,22 @@
+value,color
+"Aerial Work (Calibration, Photo)",#3957ff
+Agricultural,#d3fe14
+Ambulance,#c9080a
+Cargo,#fec7f8
+Demonstration,#0b7b3e
+Executive,#0bf0e9
+Ferry/positioning,#c203c8
+Fire fighting,#fd9b39
+Illegal Flight,#888593
+International Scheduled Passenger,#906407
+Military,#98ba7f
+Non Scheduled Passenger,#fe6794
+Official state flight,#10b0ff
+Parachuting,#ac7bff
+Passenger,#fee7c0
+Private,#964c63
+Scheduled Passenger,#1da49c
+Survey/research,#0ad811
+Test,#bbd9fd
+Training,#fe6cfe
+Unknown,#297192

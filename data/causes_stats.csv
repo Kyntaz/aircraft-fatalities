@@ -1,0 +1,2010 @@
+year,key,fatalities,count
+1970,Cause undetermined,49,15
+1970,Centre of Gravity outside limits,0,0
+1970,Controlled Flight Into Terrain,151,5
+1970,Distraction in cockpit,0,0
+1970,Ditching,0,0
+1970,Engine separation,0,0
+1970,Flightcrew  un(der)qualified,0,0
+1970,Flightcrew incapacitation,0,0
+1970,"Flightcrew member's alcohol, drug usage",0,0
+1970,Forced landing on runway,0,0
+1970,Forced landing outside airport,0,0
+1970,Fuel starvation,0,0
+1970,Fuselage failure,0,0
+1970,Hijack,1,4
+1970,Icing,2,1
+1970,Insufficient rest / fatigue,0,0
+1970,Landing or takeoff on wrong runway,0,0
+1970,Lightningstrike,0,0
+1970,Locked rudders/ailerons/gustlock,0,0
+1970,Loss of control,0,0
+1970,Loss of situational awareness,0,0
+1970,Low visibility,0,0
+1970,Mid air collision,0,0
+1970,Missing,30,1
+1970,Navigational error,0,0
+1970,Overloaded,0,0
+1970,Runway excursion,0,0
+1970,Runway incursion,0,0
+1970,Sabotage,0,0
+1970,Shot down from the ground,0,0
+1970,Shutdown of wrong engine,0,0
+1970,Simulated engine failure,0,0
+1970,Tail failure,0,0
+1970,Thunderstorm,0,0
+1970,Turbulence,0,0
+1970,Uncontained engine failure,1,1
+1970,VFR flight in IMC,0,0
+1970,Windshear/downdraft,0,0
+1970,Wing failure,0,0
+1970,Wrong installation of parts,0,0
+1970,Wrong takeoff configuration (flaps/trim),0,0
+1971,Cause undetermined,163,12
+1971,Centre of Gravity outside limits,0,0
+1971,Controlled Flight Into Terrain,16,1
+1971,Distraction in cockpit,0,0
+1971,Ditching,0,0
+1971,Engine separation,0,0
+1971,Flightcrew  un(der)qualified,0,0
+1971,Flightcrew incapacitation,0,0
+1971,"Flightcrew member's alcohol, drug usage",0,0
+1971,Forced landing on runway,0,0
+1971,Forced landing outside airport,0,0
+1971,Fuel starvation,0,0
+1971,Fuselage failure,0,0
+1971,Hijack,1,1
+1971,Icing,0,0
+1971,Insufficient rest / fatigue,0,0
+1971,Landing or takeoff on wrong runway,0,0
+1971,Lightningstrike,0,0
+1971,Locked rudders/ailerons/gustlock,0,0
+1971,Loss of control,10,1
+1971,Loss of situational awareness,0,0
+1971,Low visibility,0,0
+1971,Mid air collision,211,2
+1971,Missing,0,0
+1971,Navigational error,0,0
+1971,Overloaded,0,0
+1971,Runway excursion,0,0
+1971,Runway incursion,0,0
+1971,Sabotage,0,0
+1971,Shot down from the ground,0,0
+1971,Shutdown of wrong engine,0,0
+1971,Simulated engine failure,0,0
+1971,Tail failure,0,0
+1971,Thunderstorm,0,0
+1971,Turbulence,0,0
+1971,Uncontained engine failure,0,0
+1971,VFR flight in IMC,0,0
+1971,Windshear/downdraft,0,0
+1971,Wing failure,0,0
+1971,Wrong installation of parts,0,0
+1971,Wrong takeoff configuration (flaps/trim),0,0
+1972,Cause undetermined,400,17
+1972,Centre of Gravity outside limits,0,0
+1972,Controlled Flight Into Terrain,112,5
+1972,Distraction in cockpit,0,0
+1972,Ditching,6,1
+1972,Engine separation,6,1
+1972,Flightcrew  un(der)qualified,0,0
+1972,Flightcrew incapacitation,0,0
+1972,"Flightcrew member's alcohol, drug usage",17,1
+1972,Forced landing on runway,0,0
+1972,Forced landing outside airport,0,0
+1972,Fuel starvation,3,1
+1972,Fuselage failure,0,0
+1972,Hijack,0,0
+1972,Icing,0,0
+1972,Insufficient rest / fatigue,0,0
+1972,Landing or takeoff on wrong runway,0,0
+1972,Lightningstrike,0,0
+1972,Locked rudders/ailerons/gustlock,0,0
+1972,Loss of control,104,2
+1972,Loss of situational awareness,0,0
+1972,Low visibility,22,1
+1972,Mid air collision,22,2
+1972,Missing,0,0
+1972,Navigational error,0,0
+1972,Overloaded,0,0
+1972,Runway excursion,0,0
+1972,Runway incursion,0,0
+1972,Sabotage,0,0
+1972,Shot down from the ground,0,0
+1972,Shutdown of wrong engine,0,0
+1972,Simulated engine failure,0,0
+1972,Tail failure,0,0
+1972,Thunderstorm,0,0
+1972,Turbulence,0,0
+1972,Uncontained engine failure,0,0
+1972,VFR flight in IMC,0,0
+1972,Windshear/downdraft,0,0
+1972,Wing failure,133,2
+1972,Wrong installation of parts,0,0
+1972,Wrong takeoff configuration (flaps/trim),0,0
+1973,Cause undetermined,539,13
+1973,Centre of Gravity outside limits,0,0
+1973,Controlled Flight Into Terrain,24,1
+1973,Distraction in cockpit,0,0
+1973,Ditching,0,0
+1973,Engine separation,0,0
+1973,Flightcrew  un(der)qualified,0,0
+1973,Flightcrew incapacitation,0,0
+1973,"Flightcrew member's alcohol, drug usage",0,0
+1973,Forced landing on runway,0,0
+1973,Forced landing outside airport,0,0
+1973,Fuel starvation,0,0
+1973,Fuselage failure,0,0
+1973,Hijack,1,3
+1973,Icing,0,0
+1973,Insufficient rest / fatigue,0,0
+1973,Landing or takeoff on wrong runway,0,0
+1973,Lightningstrike,0,0
+1973,Locked rudders/ailerons/gustlock,0,0
+1973,Loss of control,23,1
+1973,Loss of situational awareness,0,0
+1973,Low visibility,48,1
+1973,Mid air collision,0,0
+1973,Missing,0,0
+1973,Navigational error,0,0
+1973,Overloaded,0,0
+1973,Runway excursion,0,0
+1973,Runway incursion,0,0
+1973,Sabotage,0,0
+1973,Shot down from the ground,0,0
+1973,Shutdown of wrong engine,0,0
+1973,Simulated engine failure,0,0
+1973,Tail failure,0,0
+1973,Thunderstorm,0,0
+1973,Turbulence,0,0
+1973,Uncontained engine failure,0,0
+1973,VFR flight in IMC,11,1
+1973,Windshear/downdraft,0,0
+1973,Wing failure,0,0
+1973,Wrong installation of parts,0,0
+1973,Wrong takeoff configuration (flaps/trim),0,0
+1974,Cause undetermined,40,5
+1974,Centre of Gravity outside limits,0,0
+1974,Controlled Flight Into Terrain,39,2
+1974,Distraction in cockpit,72,1
+1974,Ditching,0,0
+1974,Engine separation,0,0
+1974,Flightcrew  un(der)qualified,0,0
+1974,Flightcrew incapacitation,0,0
+1974,"Flightcrew member's alcohol, drug usage",0,0
+1974,Forced landing on runway,0,0
+1974,Forced landing outside airport,0,0
+1974,Fuel starvation,0,0
+1974,Fuselage failure,0,0
+1974,Hijack,0,0
+1974,Icing,3,1
+1974,Insufficient rest / fatigue,0,0
+1974,Landing or takeoff on wrong runway,0,0
+1974,Lightningstrike,0,0
+1974,Locked rudders/ailerons/gustlock,0,0
+1974,Loss of control,2,1
+1974,Loss of situational awareness,0,0
+1974,Low visibility,0,0
+1974,Mid air collision,0,0
+1974,Missing,0,0
+1974,Navigational error,0,0
+1974,Overloaded,0,0
+1974,Runway excursion,0,0
+1974,Runway incursion,0,0
+1974,Sabotage,0,0
+1974,Shot down from the ground,0,0
+1974,Shutdown of wrong engine,0,0
+1974,Simulated engine failure,0,0
+1974,Tail failure,0,0
+1974,Thunderstorm,0,0
+1974,Turbulence,4,1
+1974,Uncontained engine failure,0,0
+1974,VFR flight in IMC,0,0
+1974,Windshear/downdraft,0,0
+1974,Wing failure,0,0
+1974,Wrong installation of parts,0,0
+1974,Wrong takeoff configuration (flaps/trim),0,0
+1975,Cause undetermined,237,14
+1975,Centre of Gravity outside limits,0,0
+1975,Controlled Flight Into Terrain,50,2
+1975,Distraction in cockpit,0,0
+1975,Ditching,0,0
+1975,Engine separation,0,0
+1975,Flightcrew  un(der)qualified,0,0
+1975,Flightcrew incapacitation,0,0
+1975,"Flightcrew member's alcohol, drug usage",0,0
+1975,Forced landing on runway,0,0
+1975,Forced landing outside airport,0,0
+1975,Fuel starvation,0,0
+1975,Fuselage failure,0,0
+1975,Hijack,0,0
+1975,Icing,3,1
+1975,Insufficient rest / fatigue,0,0
+1975,Landing or takeoff on wrong runway,0,0
+1975,Lightningstrike,0,0
+1975,Locked rudders/ailerons/gustlock,0,0
+1975,Loss of control,0,0
+1975,Loss of situational awareness,0,0
+1975,Low visibility,0,0
+1975,Mid air collision,0,0
+1975,Missing,0,0
+1975,Navigational error,0,0
+1975,Overloaded,0,0
+1975,Runway excursion,0,0
+1975,Runway incursion,0,0
+1975,Sabotage,0,0
+1975,Shot down from the ground,0,0
+1975,Shutdown of wrong engine,0,0
+1975,Simulated engine failure,0,0
+1975,Tail failure,0,0
+1975,Thunderstorm,0,0
+1975,Turbulence,0,0
+1975,Uncontained engine failure,0,0
+1975,VFR flight in IMC,0,0
+1975,Windshear/downdraft,0,0
+1975,Wing failure,11,1
+1975,Wrong installation of parts,0,0
+1975,Wrong takeoff configuration (flaps/trim),0,0
+1976,Cause undetermined,62,7
+1976,Centre of Gravity outside limits,0,0
+1976,Controlled Flight Into Terrain,59,3
+1976,Distraction in cockpit,0,0
+1976,Ditching,0,0
+1976,Engine separation,0,0
+1976,Flightcrew  un(der)qualified,0,0
+1976,Flightcrew incapacitation,0,0
+1976,"Flightcrew member's alcohol, drug usage",0,0
+1976,Forced landing on runway,0,0
+1976,Forced landing outside airport,0,0
+1976,Fuel starvation,0,0
+1976,Fuselage failure,0,0
+1976,Hijack,1,1
+1976,Icing,0,0
+1976,Insufficient rest / fatigue,0,0
+1976,Landing or takeoff on wrong runway,0,0
+1976,Lightningstrike,0,0
+1976,Locked rudders/ailerons/gustlock,0,0
+1976,Loss of control,36,1
+1976,Loss of situational awareness,0,0
+1976,Low visibility,0,0
+1976,Mid air collision,46,1
+1976,Missing,2,1
+1976,Navigational error,154,1
+1976,Overloaded,0,0
+1976,Runway excursion,0,0
+1976,Runway incursion,0,0
+1976,Sabotage,73,1
+1976,Shot down from the ground,0,0
+1976,Shutdown of wrong engine,0,0
+1976,Simulated engine failure,0,0
+1976,Tail failure,2,1
+1976,Thunderstorm,18,1
+1976,Turbulence,0,0
+1976,Uncontained engine failure,95,1
+1976,VFR flight in IMC,0,0
+1976,Windshear/downdraft,0,0
+1976,Wing failure,0,0
+1976,Wrong installation of parts,0,0
+1976,Wrong takeoff configuration (flaps/trim),0,0
+1977,Cause undetermined,121,11
+1977,Centre of Gravity outside limits,29,1
+1977,Controlled Flight Into Terrain,12,2
+1977,Distraction in cockpit,0,0
+1977,Ditching,0,0
+1977,Engine separation,0,0
+1977,Flightcrew  un(der)qualified,0,0
+1977,Flightcrew incapacitation,0,0
+1977,"Flightcrew member's alcohol, drug usage",0,0
+1977,Forced landing on runway,0,0
+1977,Forced landing outside airport,0,0
+1977,Fuel starvation,0,0
+1977,Fuselage failure,0,0
+1977,Hijack,104,2
+1977,Icing,0,0
+1977,Insufficient rest / fatigue,0,0
+1977,Landing or takeoff on wrong runway,0,0
+1977,Lightningstrike,0,0
+1977,Locked rudders/ailerons/gustlock,0,0
+1977,Loss of control,0,0
+1977,Loss of situational awareness,0,0
+1977,Low visibility,0,0
+1977,Mid air collision,0,0
+1977,Missing,4,1
+1977,Navigational error,0,0
+1977,Overloaded,0,0
+1977,Runway excursion,0,0
+1977,Runway incursion,0,0
+1977,Sabotage,0,0
+1977,Shot down from the ground,0,0
+1977,Shutdown of wrong engine,0,0
+1977,Simulated engine failure,0,0
+1977,Tail failure,0,0
+1977,Thunderstorm,0,0
+1977,Turbulence,0,0
+1977,Uncontained engine failure,0,0
+1977,VFR flight in IMC,33,1
+1977,Windshear/downdraft,0,0
+1977,Wing failure,0,0
+1977,Wrong installation of parts,0,0
+1977,Wrong takeoff configuration (flaps/trim),0,0
+1978,Cause undetermined,105,11
+1978,Centre of Gravity outside limits,0,0
+1978,Controlled Flight Into Terrain,4,1
+1978,Distraction in cockpit,0,0
+1978,Ditching,0,0
+1978,Engine separation,0,0
+1978,Flightcrew  un(der)qualified,0,0
+1978,Flightcrew incapacitation,0,0
+1978,"Flightcrew member's alcohol, drug usage",0,0
+1978,Forced landing on runway,0,0
+1978,Forced landing outside airport,0,0
+1978,Fuel starvation,0,0
+1978,Fuselage failure,0,0
+1978,Hijack,0,0
+1978,Icing,0,0
+1978,Insufficient rest / fatigue,0,0
+1978,Landing or takeoff on wrong runway,0,0
+1978,Lightningstrike,6,1
+1978,Locked rudders/ailerons/gustlock,0,0
+1978,Loss of control,0,0
+1978,Loss of situational awareness,0,0
+1978,Low visibility,0,0
+1978,Mid air collision,0,0
+1978,Missing,0,0
+1978,Navigational error,0,0
+1978,Overloaded,0,0
+1978,Runway excursion,0,0
+1978,Runway incursion,0,0
+1978,Sabotage,0,0
+1978,Shot down from the ground,0,0
+1978,Shutdown of wrong engine,0,0
+1978,Simulated engine failure,0,0
+1978,Tail failure,0,0
+1978,Thunderstorm,0,0
+1978,Turbulence,0,0
+1978,Uncontained engine failure,0,0
+1978,VFR flight in IMC,0,0
+1978,Windshear/downdraft,0,0
+1978,Wing failure,0,0
+1978,Wrong installation of parts,0,0
+1978,Wrong takeoff configuration (flaps/trim),0,0
+1979,Cause undetermined,265,8
+1979,Centre of Gravity outside limits,0,0
+1979,Controlled Flight Into Terrain,69,2
+1979,Distraction in cockpit,0,0
+1979,Ditching,0,0
+1979,Engine separation,0,0
+1979,Flightcrew  un(der)qualified,0,0
+1979,Flightcrew incapacitation,0,0
+1979,"Flightcrew member's alcohol, drug usage",0,0
+1979,Forced landing on runway,0,0
+1979,Forced landing outside airport,0,0
+1979,Fuel starvation,0,0
+1979,Fuselage failure,0,0
+1979,Hijack,0,0
+1979,Icing,0,0
+1979,Insufficient rest / fatigue,0,0
+1979,Landing or takeoff on wrong runway,0,0
+1979,Lightningstrike,0,0
+1979,Locked rudders/ailerons/gustlock,0,0
+1979,Loss of control,6,1
+1979,Loss of situational awareness,0,0
+1979,Low visibility,0,0
+1979,Mid air collision,0,0
+1979,Missing,0,0
+1979,Navigational error,0,0
+1979,Overloaded,0,0
+1979,Runway excursion,14,4
+1979,Runway incursion,0,0
+1979,Sabotage,0,0
+1979,Shot down from the ground,0,0
+1979,Shutdown of wrong engine,0,0
+1979,Simulated engine failure,0,0
+1979,Tail failure,0,0
+1979,Thunderstorm,0,0
+1979,Turbulence,0,0
+1979,Uncontained engine failure,0,0
+1979,VFR flight in IMC,0,0
+1979,Windshear/downdraft,0,0
+1979,Wing failure,0,0
+1979,Wrong installation of parts,0,0
+1979,Wrong takeoff configuration (flaps/trim),0,0
+1980,Cause undetermined,403,10
+1980,Centre of Gravity outside limits,0,0
+1980,Controlled Flight Into Terrain,51,3
+1980,Distraction in cockpit,0,0
+1980,Ditching,0,0
+1980,Engine separation,0,0
+1980,Flightcrew  un(der)qualified,0,0
+1980,Flightcrew incapacitation,0,0
+1980,"Flightcrew member's alcohol, drug usage",0,0
+1980,Forced landing on runway,0,0
+1980,Forced landing outside airport,0,0
+1980,Fuel starvation,0,0
+1980,Fuselage failure,0,0
+1980,Hijack,0,0
+1980,Icing,0,0
+1980,Insufficient rest / fatigue,0,0
+1980,Landing or takeoff on wrong runway,0,0
+1980,Lightningstrike,0,0
+1980,Locked rudders/ailerons/gustlock,0,0
+1980,Loss of control,70,1
+1980,Loss of situational awareness,0,0
+1980,Low visibility,0,0
+1980,Mid air collision,0,0
+1980,Missing,0,0
+1980,Navigational error,0,0
+1980,Overloaded,0,0
+1980,Runway excursion,0,0
+1980,Runway incursion,0,0
+1980,Sabotage,0,0
+1980,Shot down from the ground,0,0
+1980,Shutdown of wrong engine,0,0
+1980,Simulated engine failure,0,0
+1980,Tail failure,0,0
+1980,Thunderstorm,0,0
+1980,Turbulence,3,1
+1980,Uncontained engine failure,0,0
+1980,VFR flight in IMC,20,1
+1980,Windshear/downdraft,0,0
+1980,Wing failure,0,0
+1980,Wrong installation of parts,0,0
+1980,Wrong takeoff configuration (flaps/trim),0,0
+1981,Cause undetermined,216,5
+1981,Centre of Gravity outside limits,0,0
+1981,Controlled Flight Into Terrain,0,0
+1981,Distraction in cockpit,0,0
+1981,Ditching,0,0
+1981,Engine separation,0,0
+1981,Flightcrew  un(der)qualified,0,0
+1981,Flightcrew incapacitation,0,0
+1981,"Flightcrew member's alcohol, drug usage",0,0
+1981,Forced landing on runway,0,0
+1981,Forced landing outside airport,0,0
+1981,Fuel starvation,0,0
+1981,Fuselage failure,0,0
+1981,Hijack,0,0
+1981,Icing,0,0
+1981,Insufficient rest / fatigue,0,0
+1981,Landing or takeoff on wrong runway,0,0
+1981,Lightningstrike,0,0
+1981,Locked rudders/ailerons/gustlock,0,0
+1981,Loss of control,0,0
+1981,Loss of situational awareness,0,0
+1981,Low visibility,0,0
+1981,Mid air collision,4,1
+1981,Missing,0,0
+1981,Navigational error,0,0
+1981,Overloaded,21,1
+1981,Runway excursion,0,0
+1981,Runway incursion,0,0
+1981,Sabotage,0,0
+1981,Shot down from the ground,0,0
+1981,Shutdown of wrong engine,0,0
+1981,Simulated engine failure,0,0
+1981,Tail failure,0,0
+1981,Thunderstorm,0,0
+1981,Turbulence,17,1
+1981,Uncontained engine failure,0,0
+1981,VFR flight in IMC,0,0
+1981,Windshear/downdraft,0,0
+1981,Wing failure,0,0
+1981,Wrong installation of parts,0,0
+1981,Wrong takeoff configuration (flaps/trim),0,0
+1982,Cause undetermined,150,8
+1982,Centre of Gravity outside limits,0,0
+1982,Controlled Flight Into Terrain,11,2
+1982,Distraction in cockpit,0,0
+1982,Ditching,0,0
+1982,Engine separation,0,0
+1982,Flightcrew  un(der)qualified,0,0
+1982,Flightcrew incapacitation,0,0
+1982,"Flightcrew member's alcohol, drug usage",0,0
+1982,Forced landing on runway,0,0
+1982,Forced landing outside airport,0,0
+1982,Fuel starvation,0,0
+1982,Fuselage failure,0,0
+1982,Hijack,0,0
+1982,Icing,0,0
+1982,Insufficient rest / fatigue,0,0
+1982,Landing or takeoff on wrong runway,0,0
+1982,Lightningstrike,0,0
+1982,Locked rudders/ailerons/gustlock,0,0
+1982,Loss of control,17,1
+1982,Loss of situational awareness,0,0
+1982,Low visibility,0,0
+1982,Mid air collision,0,0
+1982,Missing,0,0
+1982,Navigational error,0,0
+1982,Overloaded,16,1
+1982,Runway excursion,0,0
+1982,Runway incursion,11,1
+1982,Sabotage,0,0
+1982,Shot down from the ground,0,0
+1982,Shutdown of wrong engine,0,0
+1982,Simulated engine failure,0,0
+1982,Tail failure,0,0
+1982,Thunderstorm,0,0
+1982,Turbulence,0,0
+1982,Uncontained engine failure,0,0
+1982,VFR flight in IMC,0,0
+1982,Windshear/downdraft,145,1
+1982,Wing failure,0,0
+1982,Wrong installation of parts,0,0
+1982,Wrong takeoff configuration (flaps/trim),0,0
+1983,Cause undetermined,151,12
+1983,Centre of Gravity outside limits,2,1
+1983,Controlled Flight Into Terrain,53,1
+1983,Distraction in cockpit,0,0
+1983,Ditching,0,0
+1983,Engine separation,0,0
+1983,Flightcrew  un(der)qualified,0,0
+1983,Flightcrew incapacitation,0,0
+1983,"Flightcrew member's alcohol, drug usage",0,0
+1983,Forced landing on runway,0,0
+1983,Forced landing outside airport,0,0
+1983,Fuel starvation,0,0
+1983,Fuselage failure,0,0
+1983,Hijack,0,0
+1983,Icing,0,0
+1983,Insufficient rest / fatigue,0,0
+1983,Landing or takeoff on wrong runway,0,0
+1983,Lightningstrike,0,0
+1983,Locked rudders/ailerons/gustlock,0,0
+1983,Loss of control,0,0
+1983,Loss of situational awareness,0,0
+1983,Low visibility,0,0
+1983,Mid air collision,0,0
+1983,Missing,0,0
+1983,Navigational error,0,0
+1983,Overloaded,0,0
+1983,Runway excursion,0,0
+1983,Runway incursion,51,2
+1983,Sabotage,0,0
+1983,Shot down from the ground,0,0
+1983,Shutdown of wrong engine,0,0
+1983,Simulated engine failure,0,0
+1983,Tail failure,0,0
+1983,Thunderstorm,0,0
+1983,Turbulence,2,1
+1983,Uncontained engine failure,0,0
+1983,VFR flight in IMC,0,0
+1983,Windshear/downdraft,0,0
+1983,Wing failure,0,0
+1983,Wrong installation of parts,0,0
+1983,Wrong takeoff configuration (flaps/trim),0,0
+1984,Cause undetermined,23,7
+1984,Centre of Gravity outside limits,0,0
+1984,Controlled Flight Into Terrain,0,0
+1984,Distraction in cockpit,0,0
+1984,Ditching,0,0
+1984,Engine separation,0,0
+1984,Flightcrew  un(der)qualified,0,0
+1984,Flightcrew incapacitation,0,0
+1984,"Flightcrew member's alcohol, drug usage",0,0
+1984,Forced landing on runway,0,0
+1984,Forced landing outside airport,0,0
+1984,Fuel starvation,1,1
+1984,Fuselage failure,0,0
+1984,Hijack,0,0
+1984,Icing,0,0
+1984,Insufficient rest / fatigue,0,0
+1984,Landing or takeoff on wrong runway,3,1
+1984,Lightningstrike,0,0
+1984,Locked rudders/ailerons/gustlock,0,0
+1984,Loss of control,0,0
+1984,Loss of situational awareness,0,0
+1984,Low visibility,0,0
+1984,Mid air collision,0,0
+1984,Missing,0,0
+1984,Navigational error,0,0
+1984,Overloaded,0,0
+1984,Runway excursion,0,0
+1984,Runway incursion,0,0
+1984,Sabotage,0,0
+1984,Shot down from the ground,0,0
+1984,Shutdown of wrong engine,0,0
+1984,Simulated engine failure,1,1
+1984,Tail failure,0,0
+1984,Thunderstorm,0,0
+1984,Turbulence,0,0
+1984,Uncontained engine failure,0,0
+1984,VFR flight in IMC,0,0
+1984,Windshear/downdraft,0,0
+1984,Wing failure,0,0
+1984,Wrong installation of parts,0,0
+1984,Wrong takeoff configuration (flaps/trim),0,0
+1985,Cause undetermined,54,5
+1985,Centre of Gravity outside limits,0,0
+1985,Controlled Flight Into Terrain,0,0
+1985,Distraction in cockpit,0,0
+1985,Ditching,0,0
+1985,Engine separation,0,0
+1985,Flightcrew  un(der)qualified,14,1
+1985,Flightcrew incapacitation,0,0
+1985,"Flightcrew member's alcohol, drug usage",0,0
+1985,Forced landing on runway,0,0
+1985,Forced landing outside airport,0,0
+1985,Fuel starvation,0,0
+1985,Fuselage failure,0,0
+1985,Hijack,61,3
+1985,Icing,0,0
+1985,Insufficient rest / fatigue,0,0
+1985,Landing or takeoff on wrong runway,0,0
+1985,Lightningstrike,0,0
+1985,Locked rudders/ailerons/gustlock,0,0
+1985,Loss of control,28,4
+1985,Loss of situational awareness,0,0
+1985,Low visibility,0,0
+1985,Mid air collision,0,0
+1985,Missing,0,0
+1985,Navigational error,0,0
+1985,Overloaded,0,0
+1985,Runway excursion,0,0
+1985,Runway incursion,0,0
+1985,Sabotage,329,1
+1985,Shot down from the ground,0,0
+1985,Shutdown of wrong engine,0,0
+1985,Simulated engine failure,0,0
+1985,Tail failure,0,0
+1985,Thunderstorm,0,0
+1985,Turbulence,0,0
+1985,Uncontained engine failure,31,1
+1985,VFR flight in IMC,0,0
+1985,Windshear/downdraft,134,1
+1985,Wing failure,0,0
+1985,Wrong installation of parts,0,0
+1985,Wrong takeoff configuration (flaps/trim),0,0
+1986,Cause undetermined,29,3
+1986,Centre of Gravity outside limits,0,0
+1986,Controlled Flight Into Terrain,44,3
+1986,Distraction in cockpit,0,0
+1986,Ditching,0,0
+1986,Engine separation,0,0
+1986,Flightcrew  un(der)qualified,0,0
+1986,Flightcrew incapacitation,0,0
+1986,"Flightcrew member's alcohol, drug usage",0,0
+1986,Forced landing on runway,0,0
+1986,Forced landing outside airport,0,0
+1986,Fuel starvation,0,0
+1986,Fuselage failure,0,0
+1986,Hijack,0,0
+1986,Icing,0,0
+1986,Insufficient rest / fatigue,0,0
+1986,Landing or takeoff on wrong runway,0,0
+1986,Lightningstrike,0,0
+1986,Locked rudders/ailerons/gustlock,0,0
+1986,Loss of control,0,0
+1986,Loss of situational awareness,0,0
+1986,Low visibility,0,0
+1986,Mid air collision,0,0
+1986,Missing,0,0
+1986,Navigational error,0,0
+1986,Overloaded,0,0
+1986,Runway excursion,3,4
+1986,Runway incursion,0,0
+1986,Sabotage,0,0
+1986,Shot down from the ground,0,0
+1986,Shutdown of wrong engine,0,0
+1986,Simulated engine failure,0,0
+1986,Tail failure,0,0
+1986,Thunderstorm,0,0
+1986,Turbulence,0,0
+1986,Uncontained engine failure,0,0
+1986,VFR flight in IMC,0,0
+1986,Windshear/downdraft,0,0
+1986,Wing failure,0,0
+1986,Wrong installation of parts,0,0
+1986,Wrong takeoff configuration (flaps/trim),0,0
+1987,Cause undetermined,198,14
+1987,Centre of Gravity outside limits,18,1
+1987,Controlled Flight Into Terrain,95,2
+1987,Distraction in cockpit,0,0
+1987,Ditching,0,0
+1987,Engine separation,0,0
+1987,Flightcrew  un(der)qualified,0,0
+1987,Flightcrew incapacitation,0,0
+1987,"Flightcrew member's alcohol, drug usage",0,0
+1987,Forced landing on runway,0,0
+1987,Forced landing outside airport,0,0
+1987,Fuel starvation,0,0
+1987,Fuselage failure,0,0
+1987,Hijack,0,0
+1987,Icing,65,2
+1987,Insufficient rest / fatigue,2,1
+1987,Landing or takeoff on wrong runway,0,0
+1987,Lightningstrike,0,0
+1987,Locked rudders/ailerons/gustlock,0,0
+1987,Loss of control,3,1
+1987,Loss of situational awareness,0,0
+1987,Low visibility,0,0
+1987,Mid air collision,0,0
+1987,Missing,0,0
+1987,Navigational error,0,0
+1987,Overloaded,0,0
+1987,Runway excursion,5,1
+1987,Runway incursion,0,0
+1987,Sabotage,0,0
+1987,Shot down from the ground,6,1
+1987,Shutdown of wrong engine,0,0
+1987,Simulated engine failure,0,0
+1987,Tail failure,0,0
+1987,Thunderstorm,0,0
+1987,Turbulence,0,0
+1987,Uncontained engine failure,0,0
+1987,VFR flight in IMC,0,0
+1987,Windshear/downdraft,0,0
+1987,Wing failure,0,0
+1987,Wrong installation of parts,0,0
+1987,Wrong takeoff configuration (flaps/trim),0,0
+1988,Cause undetermined,18,11
+1988,Centre of Gravity outside limits,0,0
+1988,Controlled Flight Into Terrain,0,0
+1988,Distraction in cockpit,0,0
+1988,Ditching,0,0
+1988,Engine separation,0,0
+1988,Flightcrew  un(der)qualified,0,0
+1988,Flightcrew incapacitation,0,0
+1988,"Flightcrew member's alcohol, drug usage",0,0
+1988,Forced landing on runway,0,0
+1988,Forced landing outside airport,0,0
+1988,Fuel starvation,0,0
+1988,Fuselage failure,0,0
+1988,Hijack,0,0
+1988,Icing,0,0
+1988,Insufficient rest / fatigue,0,0
+1988,Landing or takeoff on wrong runway,0,0
+1988,Lightningstrike,0,0
+1988,Locked rudders/ailerons/gustlock,0,0
+1988,Loss of control,6,2
+1988,Loss of situational awareness,0,0
+1988,Low visibility,133,1
+1988,Mid air collision,2,1
+1988,Missing,0,0
+1988,Navigational error,0,0
+1988,Overloaded,0,0
+1988,Runway excursion,29,1
+1988,Runway incursion,0,0
+1988,Sabotage,0,0
+1988,Shot down from the ground,0,0
+1988,Shutdown of wrong engine,0,0
+1988,Simulated engine failure,0,0
+1988,Tail failure,0,0
+1988,Thunderstorm,0,0
+1988,Turbulence,0,0
+1988,Uncontained engine failure,0,0
+1988,VFR flight in IMC,0,0
+1988,Windshear/downdraft,0,0
+1988,Wing failure,0,0
+1988,Wrong installation of parts,0,0
+1988,Wrong takeoff configuration (flaps/trim),1,1
+1989,Cause undetermined,192,13
+1989,Centre of Gravity outside limits,0,0
+1989,Controlled Flight Into Terrain,71,4
+1989,Distraction in cockpit,0,0
+1989,Ditching,0,0
+1989,Engine separation,0,0
+1989,Flightcrew  un(der)qualified,0,0
+1989,Flightcrew incapacitation,0,0
+1989,"Flightcrew member's alcohol, drug usage",0,0
+1989,Forced landing on runway,0,0
+1989,Forced landing outside airport,0,0
+1989,Fuel starvation,0,0
+1989,Fuselage failure,0,0
+1989,Hijack,0,0
+1989,Icing,0,0
+1989,Insufficient rest / fatigue,0,0
+1989,Landing or takeoff on wrong runway,0,0
+1989,Lightningstrike,0,0
+1989,Locked rudders/ailerons/gustlock,0,0
+1989,Loss of control,11,1
+1989,Loss of situational awareness,0,0
+1989,Low visibility,0,0
+1989,Mid air collision,0,0
+1989,Missing,0,0
+1989,Navigational error,4,1
+1989,Overloaded,0,0
+1989,Runway excursion,3,1
+1989,Runway incursion,0,0
+1989,Sabotage,170,1
+1989,Shot down from the ground,7,1
+1989,Shutdown of wrong engine,0,0
+1989,Simulated engine failure,0,0
+1989,Tail failure,0,0
+1989,Thunderstorm,0,0
+1989,Turbulence,0,0
+1989,Uncontained engine failure,0,0
+1989,VFR flight in IMC,0,0
+1989,Windshear/downdraft,4,1
+1989,Wing failure,0,0
+1989,Wrong installation of parts,55,1
+1989,Wrong takeoff configuration (flaps/trim),0,0
+1990,Cause undetermined,48,5
+1990,Centre of Gravity outside limits,0,0
+1990,Controlled Flight Into Terrain,3,1
+1990,Distraction in cockpit,0,0
+1990,Ditching,0,0
+1990,Engine separation,0,0
+1990,Flightcrew  un(der)qualified,0,0
+1990,Flightcrew incapacitation,0,0
+1990,"Flightcrew member's alcohol, drug usage",0,0
+1990,Forced landing on runway,0,0
+1990,Forced landing outside airport,0,0
+1990,Fuel starvation,0,0
+1990,Fuselage failure,0,0
+1990,Hijack,0,0
+1990,Icing,0,0
+1990,Insufficient rest / fatigue,0,0
+1990,Landing or takeoff on wrong runway,0,0
+1990,Lightningstrike,0,0
+1990,Locked rudders/ailerons/gustlock,0,0
+1990,Loss of control,10,2
+1990,Loss of situational awareness,0,0
+1990,Low visibility,22,1
+1990,Mid air collision,0,0
+1990,Missing,0,0
+1990,Navigational error,0,0
+1990,Overloaded,0,0
+1990,Runway excursion,1,2
+1990,Runway incursion,0,0
+1990,Sabotage,0,0
+1990,Shot down from the ground,0,0
+1990,Shutdown of wrong engine,0,0
+1990,Simulated engine failure,0,0
+1990,Tail failure,0,0
+1990,Thunderstorm,0,0
+1990,Turbulence,0,0
+1990,Uncontained engine failure,0,0
+1990,VFR flight in IMC,0,0
+1990,Windshear/downdraft,0,0
+1990,Wing failure,0,0
+1990,Wrong installation of parts,0,0
+1990,Wrong takeoff configuration (flaps/trim),0,0
+1991,Cause undetermined,147,12
+1991,Centre of Gravity outside limits,0,0
+1991,Controlled Flight Into Terrain,11,2
+1991,Distraction in cockpit,0,0
+1991,Ditching,0,0
+1991,Engine separation,0,0
+1991,Flightcrew  un(der)qualified,0,0
+1991,Flightcrew incapacitation,0,0
+1991,"Flightcrew member's alcohol, drug usage",0,0
+1991,Forced landing on runway,0,0
+1991,Forced landing outside airport,0,0
+1991,Fuel starvation,0,0
+1991,Fuselage failure,2,1
+1991,Hijack,0,0
+1991,Icing,0,0
+1991,Insufficient rest / fatigue,0,0
+1991,Landing or takeoff on wrong runway,0,0
+1991,Lightningstrike,0,0
+1991,Locked rudders/ailerons/gustlock,0,0
+1991,Loss of control,0,0
+1991,Loss of situational awareness,0,0
+1991,Low visibility,0,0
+1991,Mid air collision,0,0
+1991,Missing,0,0
+1991,Navigational error,0,0
+1991,Overloaded,0,0
+1991,Runway excursion,0,0
+1991,Runway incursion,0,0
+1991,Sabotage,0,0
+1991,Shot down from the ground,0,0
+1991,Shutdown of wrong engine,0,0
+1991,Simulated engine failure,0,0
+1991,Tail failure,0,0
+1991,Thunderstorm,13,1
+1991,Turbulence,0,0
+1991,Uncontained engine failure,0,0
+1991,VFR flight in IMC,0,0
+1991,Windshear/downdraft,0,0
+1991,Wing failure,0,0
+1991,Wrong installation of parts,0,0
+1991,Wrong takeoff configuration (flaps/trim),0,0
+1992,Cause undetermined,320,19
+1992,Centre of Gravity outside limits,1,1
+1992,Controlled Flight Into Terrain,104,2
+1992,Distraction in cockpit,0,0
+1992,Ditching,0,0
+1992,Engine separation,4,1
+1992,Flightcrew  un(der)qualified,0,0
+1992,Flightcrew incapacitation,0,0
+1992,"Flightcrew member's alcohol, drug usage",0,0
+1992,Forced landing on runway,0,0
+1992,Forced landing outside airport,0,0
+1992,Fuel starvation,0,0
+1992,Fuselage failure,0,0
+1992,Hijack,0,0
+1992,Icing,0,0
+1992,Insufficient rest / fatigue,0,0
+1992,Landing or takeoff on wrong runway,0,0
+1992,Lightningstrike,0,0
+1992,Locked rudders/ailerons/gustlock,0,0
+1992,Loss of control,3,1
+1992,Loss of situational awareness,0,0
+1992,Low visibility,0,0
+1992,Mid air collision,7,1
+1992,Missing,0,0
+1992,Navigational error,0,0
+1992,Overloaded,0,0
+1992,Runway excursion,0,0
+1992,Runway incursion,0,0
+1992,Sabotage,0,0
+1992,Shot down from the ground,0,0
+1992,Shutdown of wrong engine,0,0
+1992,Simulated engine failure,0,0
+1992,Tail failure,0,0
+1992,Thunderstorm,0,0
+1992,Turbulence,0,0
+1992,Uncontained engine failure,0,0
+1992,VFR flight in IMC,0,0
+1992,Windshear/downdraft,0,0
+1992,Wing failure,0,0
+1992,Wrong installation of parts,0,0
+1992,Wrong takeoff configuration (flaps/trim),0,0
+1993,Cause undetermined,47,7
+1993,Centre of Gravity outside limits,0,0
+1993,Controlled Flight Into Terrain,67,4
+1993,Distraction in cockpit,0,0
+1993,Ditching,0,0
+1993,Engine separation,0,0
+1993,Flightcrew  un(der)qualified,0,0
+1993,Flightcrew incapacitation,0,0
+1993,"Flightcrew member's alcohol, drug usage",0,0
+1993,Forced landing on runway,0,0
+1993,Forced landing outside airport,0,0
+1993,Fuel starvation,0,0
+1993,Fuselage failure,0,0
+1993,Hijack,0,0
+1993,Icing,0,0
+1993,Insufficient rest / fatigue,0,0
+1993,Landing or takeoff on wrong runway,0,0
+1993,Lightningstrike,0,0
+1993,Locked rudders/ailerons/gustlock,0,0
+1993,Loss of control,3,1
+1993,Loss of situational awareness,0,0
+1993,Low visibility,0,0
+1993,Mid air collision,3,1
+1993,Missing,0,0
+1993,Navigational error,0,0
+1993,Overloaded,82,1
+1993,Runway excursion,0,0
+1993,Runway incursion,0,0
+1993,Sabotage,0,0
+1993,Shot down from the ground,27,1
+1993,Shutdown of wrong engine,0,0
+1993,Simulated engine failure,0,0
+1993,Tail failure,0,0
+1993,Thunderstorm,0,0
+1993,Turbulence,0,0
+1993,Uncontained engine failure,0,0
+1993,VFR flight in IMC,0,0
+1993,Windshear/downdraft,2,1
+1993,Wing failure,0,0
+1993,Wrong installation of parts,0,0
+1993,Wrong takeoff configuration (flaps/trim),0,0
+1994,Cause undetermined,42,14
+1994,Centre of Gravity outside limits,0,0
+1994,Controlled Flight Into Terrain,85,2
+1994,Distraction in cockpit,3,1
+1994,Ditching,0,0
+1994,Engine separation,0,0
+1994,Flightcrew  un(der)qualified,0,0
+1994,Flightcrew incapacitation,0,0
+1994,"Flightcrew member's alcohol, drug usage",0,0
+1994,Forced landing on runway,0,0
+1994,Forced landing outside airport,0,0
+1994,Fuel starvation,0,0
+1994,Fuselage failure,0,0
+1994,Hijack,7,1
+1994,Icing,0,0
+1994,Insufficient rest / fatigue,0,0
+1994,Landing or takeoff on wrong runway,0,0
+1994,Lightningstrike,0,0
+1994,Locked rudders/ailerons/gustlock,0,0
+1994,Loss of control,1,1
+1994,Loss of situational awareness,0,0
+1994,Low visibility,0,0
+1994,Mid air collision,0,0
+1994,Missing,0,0
+1994,Navigational error,0,0
+1994,Overloaded,0,0
+1994,Runway excursion,0,0
+1994,Runway incursion,0,0
+1994,Sabotage,0,0
+1994,Shot down from the ground,0,0
+1994,Shutdown of wrong engine,0,0
+1994,Simulated engine failure,0,0
+1994,Tail failure,0,0
+1994,Thunderstorm,0,0
+1994,Turbulence,0,0
+1994,Uncontained engine failure,0,0
+1994,VFR flight in IMC,7,1
+1994,Windshear/downdraft,0,0
+1994,Wing failure,0,0
+1994,Wrong installation of parts,0,0
+1994,Wrong takeoff configuration (flaps/trim),0,0
+1995,Cause undetermined,89,17
+1995,Centre of Gravity outside limits,0,0
+1995,Controlled Flight Into Terrain,127,3
+1995,Distraction in cockpit,4,1
+1995,Ditching,3,1
+1995,Engine separation,0,0
+1995,Flightcrew  un(der)qualified,0,0
+1995,Flightcrew incapacitation,0,0
+1995,"Flightcrew member's alcohol, drug usage",0,0
+1995,Forced landing on runway,0,0
+1995,Forced landing outside airport,1,1
+1995,Fuel starvation,0,0
+1995,Fuselage failure,0,0
+1995,Hijack,0,0
+1995,Icing,2,1
+1995,Insufficient rest / fatigue,0,0
+1995,Landing or takeoff on wrong runway,0,0
+1995,Lightningstrike,0,0
+1995,Locked rudders/ailerons/gustlock,0,0
+1995,Loss of control,75,1
+1995,Loss of situational awareness,0,0
+1995,Low visibility,9,1
+1995,Mid air collision,2,1
+1995,Missing,0,0
+1995,Navigational error,0,0
+1995,Overloaded,0,0
+1995,Runway excursion,2,2
+1995,Runway incursion,0,0
+1995,Sabotage,0,0
+1995,Shot down from the ground,0,0
+1995,Shutdown of wrong engine,52,1
+1995,Simulated engine failure,0,0
+1995,Tail failure,0,0
+1995,Thunderstorm,0,0
+1995,Turbulence,0,0
+1995,Uncontained engine failure,0,0
+1995,VFR flight in IMC,0,0
+1995,Windshear/downdraft,0,0
+1995,Wing failure,0,0
+1995,Wrong installation of parts,0,0
+1995,Wrong takeoff configuration (flaps/trim),0,0
+1996,Cause undetermined,485,18
+1996,Centre of Gravity outside limits,0,0
+1996,Controlled Flight Into Terrain,13,3
+1996,Distraction in cockpit,0,0
+1996,Ditching,0,0
+1996,Engine separation,0,0
+1996,Flightcrew  un(der)qualified,0,0
+1996,Flightcrew incapacitation,0,0
+1996,"Flightcrew member's alcohol, drug usage",0,0
+1996,Forced landing on runway,0,0
+1996,Forced landing outside airport,0,0
+1996,Fuel starvation,0,0
+1996,Fuselage failure,0,0
+1996,Hijack,125,3
+1996,Icing,0,0
+1996,Insufficient rest / fatigue,0,0
+1996,Landing or takeoff on wrong runway,0,0
+1996,Lightningstrike,0,0
+1996,Locked rudders/ailerons/gustlock,0,0
+1996,Loss of control,12,3
+1996,Loss of situational awareness,0,0
+1996,Low visibility,0,0
+1996,Mid air collision,46,2
+1996,Missing,0,0
+1996,Navigational error,0,0
+1996,Overloaded,14,1
+1996,Runway excursion,0,0
+1996,Runway incursion,0,0
+1996,Sabotage,0,0
+1996,Shot down from the ground,0,0
+1996,Shutdown of wrong engine,0,0
+1996,Simulated engine failure,0,0
+1996,Tail failure,0,0
+1996,Thunderstorm,0,0
+1996,Turbulence,0,0
+1996,Uncontained engine failure,0,0
+1996,VFR flight in IMC,0,0
+1996,Windshear/downdraft,0,0
+1996,Wing failure,0,0
+1996,Wrong installation of parts,0,0
+1996,Wrong takeoff configuration (flaps/trim),0,0
+1997,Cause undetermined,54,15
+1997,Centre of Gravity outside limits,4,2
+1997,Controlled Flight Into Terrain,11,4
+1997,Distraction in cockpit,0,0
+1997,Ditching,0,0
+1997,Engine separation,0,0
+1997,Flightcrew  un(der)qualified,0,0
+1997,Flightcrew incapacitation,0,0
+1997,"Flightcrew member's alcohol, drug usage",0,0
+1997,Forced landing on runway,1,1
+1997,Forced landing outside airport,0,0
+1997,Fuel starvation,0,0
+1997,Fuselage failure,0,0
+1997,Hijack,0,0
+1997,Icing,0,0
+1997,Insufficient rest / fatigue,0,0
+1997,Landing or takeoff on wrong runway,0,0
+1997,Lightningstrike,0,0
+1997,Locked rudders/ailerons/gustlock,0,0
+1997,Loss of control,0,0
+1997,Loss of situational awareness,0,0
+1997,Low visibility,0,0
+1997,Mid air collision,0,0
+1997,Missing,0,0
+1997,Navigational error,0,0
+1997,Overloaded,0,0
+1997,Runway excursion,3,1
+1997,Runway incursion,0,0
+1997,Sabotage,1,1
+1997,Shot down from the ground,0,0
+1997,Shutdown of wrong engine,0,0
+1997,Simulated engine failure,0,0
+1997,Tail failure,0,0
+1997,Thunderstorm,0,0
+1997,Turbulence,0,0
+1997,Uncontained engine failure,0,0
+1997,VFR flight in IMC,0,0
+1997,Windshear/downdraft,7,1
+1997,Wing failure,0,0
+1997,Wrong installation of parts,0,0
+1997,Wrong takeoff configuration (flaps/trim),0,0
+1998,Cause undetermined,315,14
+1998,Centre of Gravity outside limits,0,0
+1998,Controlled Flight Into Terrain,76,3
+1998,Distraction in cockpit,0,0
+1998,Ditching,0,0
+1998,Engine separation,0,0
+1998,Flightcrew  un(der)qualified,0,0
+1998,Flightcrew incapacitation,0,0
+1998,"Flightcrew member's alcohol, drug usage",0,0
+1998,Forced landing on runway,0,0
+1998,Forced landing outside airport,0,0
+1998,Fuel starvation,0,0
+1998,Fuselage failure,0,0
+1998,Hijack,0,0
+1998,Icing,7,1
+1998,Insufficient rest / fatigue,0,0
+1998,Landing or takeoff on wrong runway,0,0
+1998,Lightningstrike,0,0
+1998,Locked rudders/ailerons/gustlock,0,0
+1998,Loss of control,4,2
+1998,Loss of situational awareness,101,1
+1998,Low visibility,0,0
+1998,Mid air collision,15,2
+1998,Missing,0,0
+1998,Navigational error,0,0
+1998,Overloaded,0,0
+1998,Runway excursion,0,0
+1998,Runway incursion,0,0
+1998,Sabotage,0,0
+1998,Shot down from the ground,0,0
+1998,Shutdown of wrong engine,0,0
+1998,Simulated engine failure,0,0
+1998,Tail failure,0,0
+1998,Thunderstorm,0,0
+1998,Turbulence,0,0
+1998,Uncontained engine failure,0,0
+1998,VFR flight in IMC,0,0
+1998,Windshear/downdraft,0,0
+1998,Wing failure,0,0
+1998,Wrong installation of parts,0,0
+1998,Wrong takeoff configuration (flaps/trim),0,0
+1999,Cause undetermined,277,18
+1999,Centre of Gravity outside limits,0,0
+1999,Controlled Flight Into Terrain,38,5
+1999,Distraction in cockpit,0,0
+1999,Ditching,0,0
+1999,Engine separation,0,0
+1999,Flightcrew  un(der)qualified,0,0
+1999,Flightcrew incapacitation,0,0
+1999,"Flightcrew member's alcohol, drug usage",0,0
+1999,Forced landing on runway,0,0
+1999,Forced landing outside airport,0,0
+1999,Fuel starvation,0,0
+1999,Fuselage failure,0,0
+1999,Hijack,0,0
+1999,Icing,0,0
+1999,Insufficient rest / fatigue,0,0
+1999,Landing or takeoff on wrong runway,0,0
+1999,Lightningstrike,0,0
+1999,Locked rudders/ailerons/gustlock,0,0
+1999,Loss of control,18,1
+1999,Loss of situational awareness,0,0
+1999,Low visibility,4,1
+1999,Mid air collision,0,0
+1999,Missing,0,0
+1999,Navigational error,0,0
+1999,Overloaded,0,0
+1999,Runway excursion,0,0
+1999,Runway incursion,0,0
+1999,Sabotage,0,0
+1999,Shot down from the ground,2,1
+1999,Shutdown of wrong engine,0,0
+1999,Simulated engine failure,0,0
+1999,Tail failure,0,0
+1999,Thunderstorm,0,0
+1999,Turbulence,0,0
+1999,Uncontained engine failure,0,0
+1999,VFR flight in IMC,16,2
+1999,Windshear/downdraft,0,0
+1999,Wing failure,0,0
+1999,Wrong installation of parts,0,0
+1999,Wrong takeoff configuration (flaps/trim),63,1
+2000,Cause undetermined,195,9
+2000,Centre of Gravity outside limits,0,0
+2000,Controlled Flight Into Terrain,8,3
+2000,Distraction in cockpit,0,0
+2000,Ditching,0,0
+2000,Engine separation,0,0
+2000,Flightcrew  un(der)qualified,0,0
+2000,Flightcrew incapacitation,8,1
+2000,"Flightcrew member's alcohol, drug usage",0,0
+2000,Forced landing on runway,0,0
+2000,Forced landing outside airport,0,0
+2000,Fuel starvation,0,0
+2000,Fuselage failure,0,0
+2000,Hijack,1,1
+2000,Icing,0,0
+2000,Insufficient rest / fatigue,0,0
+2000,Landing or takeoff on wrong runway,83,1
+2000,Lightningstrike,2,1
+2000,Locked rudders/ailerons/gustlock,0,0
+2000,Loss of control,2,1
+2000,Loss of situational awareness,0,0
+2000,Low visibility,0,0
+2000,Mid air collision,0,0
+2000,Missing,0,0
+2000,Navigational error,0,0
+2000,Overloaded,0,0
+2000,Runway excursion,0,0
+2000,Runway incursion,0,0
+2000,Sabotage,0,0
+2000,Shot down from the ground,0,0
+2000,Shutdown of wrong engine,0,0
+2000,Simulated engine failure,0,0
+2000,Tail failure,0,0
+2000,Thunderstorm,0,0
+2000,Turbulence,0,0
+2000,Uncontained engine failure,0,0
+2000,VFR flight in IMC,1,1
+2000,Windshear/downdraft,0,0
+2000,Wing failure,0,0
+2000,Wrong installation of parts,0,0
+2000,Wrong takeoff configuration (flaps/trim),0,0
+2001,Cause undetermined,413,14
+2001,Centre of Gravity outside limits,8,1
+2001,Controlled Flight Into Terrain,4,3
+2001,Distraction in cockpit,0,0
+2001,Ditching,0,0
+2001,Engine separation,0,0
+2001,Flightcrew  un(der)qualified,0,0
+2001,Flightcrew incapacitation,0,0
+2001,"Flightcrew member's alcohol, drug usage",0,0
+2001,Forced landing on runway,0,0
+2001,Forced landing outside airport,0,0
+2001,Fuel starvation,0,0
+2001,Fuselage failure,0,0
+2001,Hijack,0,0
+2001,Icing,18,2
+2001,Insufficient rest / fatigue,0,0
+2001,Landing or takeoff on wrong runway,0,0
+2001,Lightningstrike,0,0
+2001,Locked rudders/ailerons/gustlock,0,0
+2001,Loss of control,2,2
+2001,Loss of situational awareness,2,1
+2001,Low visibility,110,1
+2001,Mid air collision,0,0
+2001,Missing,0,0
+2001,Navigational error,0,0
+2001,Overloaded,0,0
+2001,Runway excursion,0,0
+2001,Runway incursion,0,0
+2001,Sabotage,0,0
+2001,Shot down from the ground,0,0
+2001,Shutdown of wrong engine,0,0
+2001,Simulated engine failure,0,0
+2001,Tail failure,0,0
+2001,Thunderstorm,0,0
+2001,Turbulence,0,0
+2001,Uncontained engine failure,1,1
+2001,VFR flight in IMC,16,1
+2001,Windshear/downdraft,0,0
+2001,Wing failure,0,0
+2001,Wrong installation of parts,0,0
+2001,Wrong takeoff configuration (flaps/trim),0,0
+2002,Cause undetermined,48,10
+2002,Centre of Gravity outside limits,0,0
+2002,Controlled Flight Into Terrain,51,4
+2002,Distraction in cockpit,0,0
+2002,Ditching,0,0
+2002,Engine separation,0,0
+2002,Flightcrew  un(der)qualified,0,0
+2002,Flightcrew incapacitation,0,0
+2002,"Flightcrew member's alcohol, drug usage",0,0
+2002,Forced landing on runway,0,0
+2002,Forced landing outside airport,0,0
+2002,Fuel starvation,0,0
+2002,Fuselage failure,0,0
+2002,Hijack,0,0
+2002,Icing,0,0
+2002,Insufficient rest / fatigue,0,0
+2002,Landing or takeoff on wrong runway,0,0
+2002,Lightningstrike,0,0
+2002,Locked rudders/ailerons/gustlock,0,0
+2002,Loss of control,33,4
+2002,Loss of situational awareness,0,0
+2002,Low visibility,0,0
+2002,Mid air collision,0,0
+2002,Missing,0,0
+2002,Navigational error,0,0
+2002,Overloaded,0,0
+2002,Runway excursion,0,0
+2002,Runway incursion,0,0
+2002,Sabotage,0,0
+2002,Shot down from the ground,0,0
+2002,Shutdown of wrong engine,0,0
+2002,Simulated engine failure,0,0
+2002,Tail failure,0,0
+2002,Thunderstorm,0,0
+2002,Turbulence,1,1
+2002,Uncontained engine failure,0,0
+2002,VFR flight in IMC,0,0
+2002,Windshear/downdraft,0,0
+2002,Wing failure,3,1
+2002,Wrong installation of parts,0,0
+2002,Wrong takeoff configuration (flaps/trim),0,0
+2003,Cause undetermined,17,11
+2003,Centre of Gravity outside limits,141,2
+2003,Controlled Flight Into Terrain,90,3
+2003,Distraction in cockpit,0,0
+2003,Ditching,0,0
+2003,Engine separation,0,0
+2003,Flightcrew  un(der)qualified,0,0
+2003,Flightcrew incapacitation,0,0
+2003,"Flightcrew member's alcohol, drug usage",0,0
+2003,Forced landing on runway,0,0
+2003,Forced landing outside airport,2,1
+2003,Fuel starvation,0,0
+2003,Fuselage failure,0,0
+2003,Hijack,0,0
+2003,Icing,0,0
+2003,Insufficient rest / fatigue,0,0
+2003,Landing or takeoff on wrong runway,0,0
+2003,Lightningstrike,0,0
+2003,Locked rudders/ailerons/gustlock,0,0
+2003,Loss of control,125,4
+2003,Loss of situational awareness,0,0
+2003,Low visibility,0,0
+2003,Mid air collision,0,0
+2003,Missing,0,0
+2003,Navigational error,0,0
+2003,Overloaded,0,0
+2003,Runway excursion,1,5
+2003,Runway incursion,0,0
+2003,Sabotage,0,0
+2003,Shot down from the ground,0,0
+2003,Shutdown of wrong engine,0,0
+2003,Simulated engine failure,0,0
+2003,Tail failure,0,0
+2003,Thunderstorm,0,0
+2003,Turbulence,0,0
+2003,Uncontained engine failure,0,0
+2003,VFR flight in IMC,0,0
+2003,Windshear/downdraft,0,0
+2003,Wing failure,0,0
+2003,Wrong installation of parts,0,0
+2003,Wrong takeoff configuration (flaps/trim),0,0
+2004,Cause undetermined,1,7
+2004,Centre of Gravity outside limits,0,0
+2004,Controlled Flight Into Terrain,11,3
+2004,Distraction in cockpit,1,1
+2004,Ditching,0,0
+2004,Engine separation,0,0
+2004,Flightcrew  un(der)qualified,0,0
+2004,Flightcrew incapacitation,0,0
+2004,"Flightcrew member's alcohol, drug usage",0,0
+2004,Forced landing on runway,0,0
+2004,Forced landing outside airport,0,0
+2004,Fuel starvation,0,0
+2004,Fuselage failure,0,0
+2004,Hijack,0,0
+2004,Icing,55,2
+2004,Insufficient rest / fatigue,0,0
+2004,Landing or takeoff on wrong runway,0,0
+2004,Lightningstrike,0,0
+2004,Locked rudders/ailerons/gustlock,0,0
+2004,Loss of control,4,1
+2004,Loss of situational awareness,0,0
+2004,Low visibility,0,0
+2004,Mid air collision,0,0
+2004,Missing,0,0
+2004,Navigational error,0,0
+2004,Overloaded,0,0
+2004,Runway excursion,0,0
+2004,Runway incursion,0,0
+2004,Sabotage,0,0
+2004,Shot down from the ground,0,0
+2004,Shutdown of wrong engine,0,0
+2004,Simulated engine failure,0,0
+2004,Tail failure,0,0
+2004,Thunderstorm,0,0
+2004,Turbulence,0,0
+2004,Uncontained engine failure,0,0
+2004,VFR flight in IMC,0,0
+2004,Windshear/downdraft,0,0
+2004,Wing failure,0,0
+2004,Wrong installation of parts,0,0
+2004,Wrong takeoff configuration (flaps/trim),0,0
+2005,Cause undetermined,66,10
+2005,Centre of Gravity outside limits,0,0
+2005,Controlled Flight Into Terrain,0,0
+2005,Distraction in cockpit,0,0
+2005,Ditching,0,0
+2005,Engine separation,0,0
+2005,Flightcrew  un(der)qualified,0,0
+2005,Flightcrew incapacitation,0,0
+2005,"Flightcrew member's alcohol, drug usage",0,0
+2005,Forced landing on runway,0,0
+2005,Forced landing outside airport,0,0
+2005,Fuel starvation,0,0
+2005,Fuselage failure,0,0
+2005,Hijack,0,0
+2005,Icing,0,0
+2005,Insufficient rest / fatigue,0,0
+2005,Landing or takeoff on wrong runway,0,0
+2005,Lightningstrike,0,0
+2005,Locked rudders/ailerons/gustlock,0,0
+2005,Loss of control,183,2
+2005,Loss of situational awareness,0,0
+2005,Low visibility,0,0
+2005,Mid air collision,0,0
+2005,Missing,0,0
+2005,Navigational error,0,0
+2005,Overloaded,0,0
+2005,Runway excursion,0,0
+2005,Runway incursion,0,0
+2005,Sabotage,0,0
+2005,Shot down from the ground,0,0
+2005,Shutdown of wrong engine,0,0
+2005,Simulated engine failure,0,0
+2005,Tail failure,0,0
+2005,Thunderstorm,0,0
+2005,Turbulence,0,0
+2005,Uncontained engine failure,0,0
+2005,VFR flight in IMC,0,0
+2005,Windshear/downdraft,108,1
+2005,Wing failure,0,0
+2005,Wrong installation of parts,16,1
+2005,Wrong takeoff configuration (flaps/trim),0,0
+2006,Cause undetermined,0,0
+2006,Centre of Gravity outside limits,0,0
+2006,Controlled Flight Into Terrain,16,2
+2006,Distraction in cockpit,0,0
+2006,Ditching,0,0
+2006,Engine separation,0,0
+2006,Flightcrew  un(der)qualified,0,0
+2006,Flightcrew incapacitation,0,0
+2006,"Flightcrew member's alcohol, drug usage",0,0
+2006,Forced landing on runway,0,0
+2006,Forced landing outside airport,0,0
+2006,Fuel starvation,0,0
+2006,Fuselage failure,0,0
+2006,Hijack,0,0
+2006,Icing,0,0
+2006,Insufficient rest / fatigue,0,0
+2006,Landing or takeoff on wrong runway,0,0
+2006,Lightningstrike,0,0
+2006,Locked rudders/ailerons/gustlock,0,0
+2006,Loss of control,0,0
+2006,Loss of situational awareness,0,0
+2006,Low visibility,0,0
+2006,Mid air collision,154,2
+2006,Missing,0,0
+2006,Navigational error,0,0
+2006,Overloaded,0,0
+2006,Runway excursion,0,0
+2006,Runway incursion,0,0
+2006,Sabotage,0,0
+2006,Shot down from the ground,0,0
+2006,Shutdown of wrong engine,0,0
+2006,Simulated engine failure,0,0
+2006,Tail failure,1,1
+2006,Thunderstorm,0,0
+2006,Turbulence,0,0
+2006,Uncontained engine failure,0,0
+2006,VFR flight in IMC,0,0
+2006,Windshear/downdraft,0,0
+2006,Wing failure,0,0
+2006,Wrong installation of parts,0,0
+2006,Wrong takeoff configuration (flaps/trim),0,0
+2007,Cause undetermined,12,24
+2007,Centre of Gravity outside limits,0,0
+2007,Controlled Flight Into Terrain,0,0
+2007,Distraction in cockpit,0,0
+2007,Ditching,0,0
+2007,Engine separation,0,0
+2007,Flightcrew  un(der)qualified,0,0
+2007,Flightcrew incapacitation,0,0
+2007,"Flightcrew member's alcohol, drug usage",0,0
+2007,Forced landing on runway,0,0
+2007,Forced landing outside airport,0,0
+2007,Fuel starvation,0,0
+2007,Fuselage failure,0,0
+2007,Hijack,0,0
+2007,Icing,1,2
+2007,Insufficient rest / fatigue,0,0
+2007,Landing or takeoff on wrong runway,0,0
+2007,Lightningstrike,0,0
+2007,Locked rudders/ailerons/gustlock,0,0
+2007,Loss of control,0,0
+2007,Loss of situational awareness,0,0
+2007,Low visibility,0,0
+2007,Mid air collision,0,0
+2007,Missing,0,0
+2007,Navigational error,0,0
+2007,Overloaded,0,0
+2007,Runway excursion,1,4
+2007,Runway incursion,0,0
+2007,Sabotage,0,0
+2007,Shot down from the ground,0,0
+2007,Shutdown of wrong engine,0,0
+2007,Simulated engine failure,0,0
+2007,Tail failure,0,0
+2007,Thunderstorm,0,0
+2007,Turbulence,0,0
+2007,Uncontained engine failure,0,0
+2007,VFR flight in IMC,0,0
+2007,Windshear/downdraft,0,0
+2007,Wing failure,0,0
+2007,Wrong installation of parts,0,0
+2007,Wrong takeoff configuration (flaps/trim),0,0
+2008,Cause undetermined,21,13
+2008,Centre of Gravity outside limits,0,0
+2008,Controlled Flight Into Terrain,0,0
+2008,Distraction in cockpit,0,0
+2008,Ditching,0,0
+2008,Engine separation,0,0
+2008,Flightcrew  un(der)qualified,0,0
+2008,Flightcrew incapacitation,0,0
+2008,"Flightcrew member's alcohol, drug usage",0,0
+2008,Forced landing on runway,0,0
+2008,Forced landing outside airport,0,0
+2008,Fuel starvation,2,1
+2008,Fuselage failure,0,0
+2008,Hijack,0,0
+2008,Icing,0,0
+2008,Insufficient rest / fatigue,0,0
+2008,Landing or takeoff on wrong runway,0,0
+2008,Lightningstrike,0,0
+2008,Locked rudders/ailerons/gustlock,0,0
+2008,Loss of control,0,0
+2008,Loss of situational awareness,0,0
+2008,Low visibility,0,0
+2008,Mid air collision,0,0
+2008,Missing,0,0
+2008,Navigational error,0,0
+2008,Overloaded,2,1
+2008,Runway excursion,0,0
+2008,Runway incursion,0,0
+2008,Sabotage,0,0
+2008,Shot down from the ground,0,0
+2008,Shutdown of wrong engine,0,0
+2008,Simulated engine failure,0,0
+2008,Tail failure,0,0
+2008,Thunderstorm,0,0
+2008,Turbulence,0,0
+2008,Uncontained engine failure,0,0
+2008,VFR flight in IMC,0,0
+2008,Windshear/downdraft,0,0
+2008,Wing failure,0,0
+2008,Wrong installation of parts,3,1
+2008,Wrong takeoff configuration (flaps/trim),0,0
+2009,Cause undetermined,20,10
+2009,Centre of Gravity outside limits,0,0
+2009,Controlled Flight Into Terrain,30,3
+2009,Distraction in cockpit,0,0
+2009,Ditching,0,0
+2009,Engine separation,0,0
+2009,Flightcrew  un(der)qualified,0,0
+2009,Flightcrew incapacitation,0,0
+2009,"Flightcrew member's alcohol, drug usage",0,0
+2009,Forced landing on runway,0,0
+2009,Forced landing outside airport,0,0
+2009,Fuel starvation,0,0
+2009,Fuselage failure,0,0
+2009,Hijack,0,0
+2009,Icing,0,0
+2009,Insufficient rest / fatigue,0,0
+2009,Landing or takeoff on wrong runway,0,0
+2009,Lightningstrike,0,0
+2009,Locked rudders/ailerons/gustlock,0,0
+2009,Loss of control,2,1
+2009,Loss of situational awareness,0,0
+2009,Low visibility,0,0
+2009,Mid air collision,0,0
+2009,Missing,0,0
+2009,Navigational error,0,0
+2009,Overloaded,0,0
+2009,Runway excursion,1,5
+2009,Runway incursion,0,0
+2009,Sabotage,0,0
+2009,Shot down from the ground,0,0
+2009,Shutdown of wrong engine,1,1
+2009,Simulated engine failure,0,0
+2009,Tail failure,0,0
+2009,Thunderstorm,0,0
+2009,Turbulence,0,0
+2009,Uncontained engine failure,0,0
+2009,VFR flight in IMC,0,0
+2009,Windshear/downdraft,0,0
+2009,Wing failure,0,0
+2009,Wrong installation of parts,0,0
+2009,Wrong takeoff configuration (flaps/trim),0,0
+2010,Cause undetermined,47,11
+2010,Centre of Gravity outside limits,0,0
+2010,Controlled Flight Into Terrain,157,2
+2010,Distraction in cockpit,0,0
+2010,Ditching,0,0
+2010,Engine separation,0,0
+2010,Flightcrew  un(der)qualified,0,0
+2010,Flightcrew incapacitation,0,0
+2010,"Flightcrew member's alcohol, drug usage",0,0
+2010,Forced landing on runway,0,0
+2010,Forced landing outside airport,0,0
+2010,Fuel starvation,0,0
+2010,Fuselage failure,0,0
+2010,Hijack,0,0
+2010,Icing,68,1
+2010,Insufficient rest / fatigue,0,0
+2010,Landing or takeoff on wrong runway,0,0
+2010,Lightningstrike,0,0
+2010,Locked rudders/ailerons/gustlock,0,0
+2010,Loss of control,4,1
+2010,Loss of situational awareness,0,0
+2010,Low visibility,44,1
+2010,Mid air collision,0,0
+2010,Missing,0,0
+2010,Navigational error,0,0
+2010,Overloaded,0,0
+2010,Runway excursion,0,0
+2010,Runway incursion,0,0
+2010,Sabotage,0,0
+2010,Shot down from the ground,0,0
+2010,Shutdown of wrong engine,0,0
+2010,Simulated engine failure,0,0
+2010,Tail failure,0,0
+2010,Thunderstorm,0,0
+2010,Turbulence,0,0
+2010,Uncontained engine failure,0,0
+2010,VFR flight in IMC,0,0
+2010,Windshear/downdraft,0,0
+2010,Wing failure,0,0
+2010,Wrong installation of parts,0,0
+2010,Wrong takeoff configuration (flaps/trim),0,0
+2011,Cause undetermined,110,9
+2011,Centre of Gravity outside limits,0,0
+2011,Controlled Flight Into Terrain,0,0
+2011,Distraction in cockpit,0,0
+2011,Ditching,0,0
+2011,Engine separation,0,0
+2011,Flightcrew  un(der)qualified,0,0
+2011,Flightcrew incapacitation,0,0
+2011,"Flightcrew member's alcohol, drug usage",0,0
+2011,Forced landing on runway,0,0
+2011,Forced landing outside airport,28,1
+2011,Fuel starvation,0,0
+2011,Fuselage failure,0,0
+2011,Hijack,0,0
+2011,Icing,0,0
+2011,Insufficient rest / fatigue,0,0
+2011,Landing or takeoff on wrong runway,0,0
+2011,Lightningstrike,0,0
+2011,Locked rudders/ailerons/gustlock,0,0
+2011,Loss of control,2,2
+2011,Loss of situational awareness,0,0
+2011,Low visibility,0,0
+2011,Mid air collision,0,0
+2011,Missing,0,0
+2011,Navigational error,0,0
+2011,Overloaded,2,1
+2011,Runway excursion,0,0
+2011,Runway incursion,0,0
+2011,Sabotage,0,0
+2011,Shot down from the ground,0,0
+2011,Shutdown of wrong engine,0,0
+2011,Simulated engine failure,0,0
+2011,Tail failure,0,0
+2011,Thunderstorm,0,0
+2011,Turbulence,0,0
+2011,Uncontained engine failure,0,0
+2011,VFR flight in IMC,0,0
+2011,Windshear/downdraft,21,1
+2011,Wing failure,0,0
+2011,Wrong installation of parts,0,0
+2011,Wrong takeoff configuration (flaps/trim),0,0
+2012,Cause undetermined,6,7
+2012,Centre of Gravity outside limits,0,0
+2012,Controlled Flight Into Terrain,30,3
+2012,Distraction in cockpit,0,0
+2012,Ditching,0,0
+2012,Engine separation,0,0
+2012,Flightcrew  un(der)qualified,0,0
+2012,Flightcrew incapacitation,0,0
+2012,"Flightcrew member's alcohol, drug usage",0,0
+2012,Forced landing on runway,0,0
+2012,Forced landing outside airport,0,0
+2012,Fuel starvation,0,0
+2012,Fuselage failure,0,0
+2012,Hijack,0,0
+2012,Icing,4,1
+2012,Insufficient rest / fatigue,0,0
+2012,Landing or takeoff on wrong runway,0,0
+2012,Lightningstrike,0,0
+2012,Locked rudders/ailerons/gustlock,0,0
+2012,Loss of control,0,0
+2012,Loss of situational awareness,0,0
+2012,Low visibility,0,0
+2012,Mid air collision,0,0
+2012,Missing,0,0
+2012,Navigational error,0,0
+2012,Overloaded,0,0
+2012,Runway excursion,0,0
+2012,Runway incursion,0,0
+2012,Sabotage,0,0
+2012,Shot down from the ground,0,0
+2012,Shutdown of wrong engine,0,0
+2012,Simulated engine failure,0,0
+2012,Tail failure,0,0
+2012,Thunderstorm,0,0
+2012,Turbulence,0,0
+2012,Uncontained engine failure,0,0
+2012,VFR flight in IMC,1,1
+2012,Windshear/downdraft,0,0
+2012,Wing failure,0,0
+2012,Wrong installation of parts,0,0
+2012,Wrong takeoff configuration (flaps/trim),0,0
+2013,Cause undetermined,8,9
+2013,Centre of Gravity outside limits,0,0
+2013,Controlled Flight Into Terrain,4,1
+2013,Distraction in cockpit,0,0
+2013,Ditching,0,0
+2013,Engine separation,0,0
+2013,Flightcrew  un(der)qualified,4,1
+2013,Flightcrew incapacitation,0,0
+2013,"Flightcrew member's alcohol, drug usage",2,1
+2013,Forced landing on runway,0,0
+2013,Forced landing outside airport,0,0
+2013,Fuel starvation,0,0
+2013,Fuselage failure,0,0
+2013,Hijack,0,0
+2013,Icing,0,0
+2013,Insufficient rest / fatigue,2,1
+2013,Landing or takeoff on wrong runway,0,0
+2013,Lightningstrike,0,0
+2013,Locked rudders/ailerons/gustlock,0,0
+2013,Loss of control,16,1
+2013,Loss of situational awareness,0,0
+2013,Low visibility,0,0
+2013,Mid air collision,0,0
+2013,Missing,0,0
+2013,Navigational error,0,0
+2013,Overloaded,0,0
+2013,Runway excursion,4,5
+2013,Runway incursion,0,0
+2013,Sabotage,0,0
+2013,Shot down from the ground,0,0
+2013,Shutdown of wrong engine,0,0
+2013,Simulated engine failure,0,0
+2013,Tail failure,0,0
+2013,Thunderstorm,0,0
+2013,Turbulence,2,1
+2013,Uncontained engine failure,0,0
+2013,VFR flight in IMC,0,0
+2013,Windshear/downdraft,0,0
+2013,Wing failure,0,0
+2013,Wrong installation of parts,0,0
+2013,Wrong takeoff configuration (flaps/trim),0,0
+2014,Cause undetermined,27,12
+2014,Centre of Gravity outside limits,0,0
+2014,Controlled Flight Into Terrain,4,1
+2014,Distraction in cockpit,0,0
+2014,Ditching,0,0
+2014,Engine separation,0,0
+2014,Flightcrew  un(der)qualified,0,0
+2014,Flightcrew incapacitation,0,0
+2014,"Flightcrew member's alcohol, drug usage",0,0
+2014,Forced landing on runway,0,0
+2014,Forced landing outside airport,0,0
+2014,Fuel starvation,0,0
+2014,Fuselage failure,0,0
+2014,Hijack,0,0
+2014,Icing,3,1
+2014,Insufficient rest / fatigue,0,0
+2014,Landing or takeoff on wrong runway,0,0
+2014,Lightningstrike,0,0
+2014,Locked rudders/ailerons/gustlock,0,0
+2014,Loss of control,9,2
+2014,Loss of situational awareness,0,0
+2014,Low visibility,9,1
+2014,Mid air collision,0,0
+2014,Missing,0,0
+2014,Navigational error,0,0
+2014,Overloaded,0,0
+2014,Runway excursion,0,0
+2014,Runway incursion,0,0
+2014,Sabotage,0,0
+2014,Shot down from the ground,1,1
+2014,Shutdown of wrong engine,0,0
+2014,Simulated engine failure,0,0
+2014,Tail failure,0,0
+2014,Thunderstorm,0,0
+2014,Turbulence,0,0
+2014,Uncontained engine failure,0,0
+2014,VFR flight in IMC,0,0
+2014,Windshear/downdraft,0,0
+2014,Wing failure,0,0
+2014,Wrong installation of parts,0,0
+2014,Wrong takeoff configuration (flaps/trim),0,0
+2015,Cause undetermined,20,12
+2015,Centre of Gravity outside limits,0,0
+2015,Controlled Flight Into Terrain,54,1
+2015,Distraction in cockpit,0,0
+2015,Ditching,0,0
+2015,Engine separation,0,0
+2015,Flightcrew  un(der)qualified,0,0
+2015,Flightcrew incapacitation,0,0
+2015,"Flightcrew member's alcohol, drug usage",0,0
+2015,Forced landing on runway,0,0
+2015,Forced landing outside airport,0,0
+2015,Fuel starvation,0,0
+2015,Fuselage failure,0,0
+2015,Hijack,0,0
+2015,Icing,0,0
+2015,Insufficient rest / fatigue,0,0
+2015,Landing or takeoff on wrong runway,0,0
+2015,Lightningstrike,0,0
+2015,Locked rudders/ailerons/gustlock,11,1
+2015,Loss of control,10,2
+2015,Loss of situational awareness,0,0
+2015,Low visibility,0,0
+2015,Mid air collision,3,1
+2015,Missing,0,0
+2015,Navigational error,0,0
+2015,Overloaded,0,0
+2015,Runway excursion,0,0
+2015,Runway incursion,0,0
+2015,Sabotage,0,0
+2015,Shot down from the ground,0,0
+2015,Shutdown of wrong engine,0,0
+2015,Simulated engine failure,0,0
+2015,Tail failure,0,0
+2015,Thunderstorm,0,0
+2015,Turbulence,0,0
+2015,Uncontained engine failure,0,0
+2015,VFR flight in IMC,13,3
+2015,Windshear/downdraft,0,0
+2015,Wing failure,0,0
+2015,Wrong installation of parts,0,0
+2015,Wrong takeoff configuration (flaps/trim),0,0
+2016,Cause undetermined,95,8
+2016,Centre of Gravity outside limits,0,0
+2016,Controlled Flight Into Terrain,0,0
+2016,Distraction in cockpit,0,0
+2016,Ditching,0,0
+2016,Engine separation,0,0
+2016,Flightcrew  un(der)qualified,0,0
+2016,Flightcrew incapacitation,0,0
+2016,"Flightcrew member's alcohol, drug usage",0,0
+2016,Forced landing on runway,0,0
+2016,Forced landing outside airport,4,1
+2016,Fuel starvation,0,0
+2016,Fuselage failure,0,0
+2016,Hijack,0,0
+2016,Icing,0,0
+2016,Insufficient rest / fatigue,6,1
+2016,Landing or takeoff on wrong runway,0,0
+2016,Lightningstrike,0,0
+2016,Locked rudders/ailerons/gustlock,0,0
+2016,Loss of control,5,1
+2016,Loss of situational awareness,0,0
+2016,Low visibility,0,0
+2016,Mid air collision,0,0
+2016,Missing,0,0
+2016,Navigational error,0,0
+2016,Overloaded,0,0
+2016,Runway excursion,0,0
+2016,Runway incursion,0,0
+2016,Sabotage,0,0
+2016,Shot down from the ground,0,0
+2016,Shutdown of wrong engine,0,0
+2016,Simulated engine failure,0,0
+2016,Tail failure,0,0
+2016,Thunderstorm,0,0
+2016,Turbulence,0,0
+2016,Uncontained engine failure,0,0
+2016,VFR flight in IMC,0,0
+2016,Windshear/downdraft,0,0
+2016,Wing failure,0,0
+2016,Wrong installation of parts,0,0
+2016,Wrong takeoff configuration (flaps/trim),0,0
+2017,Cause undetermined,13,4
+2017,Centre of Gravity outside limits,0,0
+2017,Controlled Flight Into Terrain,1,1
+2017,Distraction in cockpit,0,0
+2017,Ditching,0,0
+2017,Engine separation,0,0
+2017,Flightcrew  un(der)qualified,0,0
+2017,Flightcrew incapacitation,0,0
+2017,"Flightcrew member's alcohol, drug usage",0,0
+2017,Forced landing on runway,0,0
+2017,Forced landing outside airport,0,0
+2017,Fuel starvation,0,0
+2017,Fuselage failure,0,0
+2017,Hijack,0,0
+2017,Icing,0,0
+2017,Insufficient rest / fatigue,0,0
+2017,Landing or takeoff on wrong runway,0,0
+2017,Lightningstrike,0,0
+2017,Locked rudders/ailerons/gustlock,0,0
+2017,Loss of control,0,0
+2017,Loss of situational awareness,0,0
+2017,Low visibility,0,0
+2017,Mid air collision,0,0
+2017,Missing,0,0
+2017,Navigational error,0,0
+2017,Overloaded,0,0
+2017,Runway excursion,0,0
+2017,Runway incursion,0,0
+2017,Sabotage,0,0
+2017,Shot down from the ground,0,0
+2017,Shutdown of wrong engine,0,0
+2017,Simulated engine failure,0,0
+2017,Tail failure,0,0
+2017,Thunderstorm,0,0
+2017,Turbulence,0,0
+2017,Uncontained engine failure,0,0
+2017,VFR flight in IMC,0,0
+2017,Windshear/downdraft,0,0
+2017,Wing failure,0,0
+2017,Wrong installation of parts,0,0
+2017,Wrong takeoff configuration (flaps/trim),0,0
+2018,Cause undetermined,19,2
+2018,Centre of Gravity outside limits,0,0
+2018,Controlled Flight Into Terrain,0,0
+2018,Distraction in cockpit,0,0
+2018,Ditching,0,0
+2018,Engine separation,0,0
+2018,Flightcrew  un(der)qualified,0,0
+2018,Flightcrew incapacitation,0,0
+2018,"Flightcrew member's alcohol, drug usage",0,0
+2018,Forced landing on runway,0,0
+2018,Forced landing outside airport,0,0
+2018,Fuel starvation,0,0
+2018,Fuselage failure,0,0
+2018,Hijack,0,0
+2018,Icing,0,0
+2018,Insufficient rest / fatigue,0,0
+2018,Landing or takeoff on wrong runway,0,0
+2018,Lightningstrike,0,0
+2018,Locked rudders/ailerons/gustlock,0,0
+2018,Loss of control,0,0
+2018,Loss of situational awareness,0,0
+2018,Low visibility,0,0
+2018,Mid air collision,0,0
+2018,Missing,0,0
+2018,Navigational error,0,0
+2018,Overloaded,0,0
+2018,Runway excursion,2,2
+2018,Runway incursion,0,0
+2018,Sabotage,0,0
+2018,Shot down from the ground,0,0
+2018,Shutdown of wrong engine,0,0
+2018,Simulated engine failure,0,0
+2018,Tail failure,0,0
+2018,Thunderstorm,0,0
+2018,Turbulence,0,0
+2018,Uncontained engine failure,0,0
+2018,VFR flight in IMC,0,0
+2018,Windshear/downdraft,0,0
+2018,Wing failure,0,0
+2018,Wrong installation of parts,0,0
+2018,Wrong takeoff configuration (flaps/trim),0,0

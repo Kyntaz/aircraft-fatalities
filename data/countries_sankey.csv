@@ -1,0 +1,5685 @@
+,year,key,deaths,survivors
+0,1970,Afghanistan,0,0.0
+1,1970,Algeria,0,0.0
+2,1970,Angola,0,0.0
+3,1970,Antigua and Barbuda,0,0.0
+4,1970,Argentina,0,0.0
+5,1970,Armenia,0,0.0
+6,1970,Australia,0,0.0
+7,1970,Austria,0,0.0
+8,1970,Azerbaijan,0,0.0
+9,1970,Bahamas,0,0.0
+10,1970,Bahrain,0,0.0
+11,1970,Bangladesh,0,0.0
+12,1970,Belarus,0,0.0
+13,1970,Belgium,0,0.0
+14,1970,Belize,0,0.0
+15,1970,Botswana,0,0.0
+16,1970,Brazil,0,0.0
+17,1970,Bulgaria,0,0.0
+18,1970,Cambodia,0,0.0
+19,1970,Cameroon,0,0.0
+20,1970,Canada,0,0.0
+21,1970,Chile,0,0.0
+22,1970,China,0,0.0
+23,1970,Colombia,0,42.0
+24,1970,Congo,0,0.0
+25,1970,Costa Rica,0,0.0
+26,1970,Croatia,0,0.0
+27,1970,Cuba,0,0.0
+28,1970,Denmark,0,0.0
+29,1970,Dominican Republic,0,0.0
+30,1970,Ecuador,0,0.0
+31,1970,Egypt,0,0.0
+32,1970,Equatorial Guinea,0,0.0
+33,1970,Ethiopia,0,0.0
+34,1970,Fiji,0,0.0
+35,1970,France,30,0.0
+36,1970,Gabon,0,0.0
+37,1970,Georgia,0,0.0
+38,1970,Germany,0,2.0
+39,1970,Ghana,0,0.0
+40,1970,Greece,0,0.0
+41,1970,Guatemala,0,0.0
+42,1970,Guinea,0,0.0
+43,1970,Guyana,0,0.0
+44,1970,Haiti,0,0.0
+45,1970,Honduras,0,0.0
+46,1970,Hungary,0,0.0
+47,1970,Iceland,0,0.0
+48,1970,India,39,0.0
+49,1970,Indonesia,0,0.0
+50,1970,Ireland,0,0.0
+51,1970,Israel,1,147.0
+52,1970,Italy,0,2.0
+53,1970,Japan,0,0.0
+54,1970,Jordan,0,0.0
+55,1970,Kazakhstan,0,0.0
+56,1970,Kenya,0,0.0
+57,1970,Kyrgyzstan,0,0.0
+58,1970,Latvia,0,0.0
+59,1970,Lebanon,0,0.0
+60,1970,Lesotho,0,0.0
+61,1970,Libya,0,0.0
+62,1970,Lithuania,0,0.0
+63,1970,Luxembourg,0,0.0
+64,1970,Malawi,0,0.0
+65,1970,Malaysia,0,0.0
+66,1970,Maldives,0,0.0
+67,1970,Mexico,0,79.0
+68,1970,Mongolia,0,0.0
+69,1970,Morocco,0,0.0
+70,1970,Mozambique,0,0.0
+71,1970,Myanmar,0,0.0
+72,1970,Nepal,0,0.0
+73,1970,Netherlands,0,0.0
+74,1970,New Zealand,0,0.0
+75,1970,Nicaragua,0,0.0
+76,1970,Nigeria,0,0.0
+77,1970,Norway,0,0.0
+78,1970,Pakistan,0,0.0
+79,1970,Panama,0,0.0
+80,1970,Papua New Guinea,0,0.0
+81,1970,Paraguay,0,0.0
+82,1970,Peru,0,0.0
+83,1970,Philippines,1,43.0
+84,1970,Poland,0,0.0
+85,1970,Portugal,0,0.0
+86,1970,Romania,0,0.0
+87,1970,Saudi Arabia,0,0.0
+88,1970,Senegal,0,0.0
+89,1970,Sierra Leone,0,0.0
+90,1970,Singapore,0,0.0
+91,1970,Slovakia,0,0.0
+92,1970,Slovenia,0,0.0
+93,1970,Somalia,0,0.0
+94,1970,South Africa,0,0.0
+95,1970,Spain,0,0.0
+96,1970,Sri Lanka,0,0.0
+97,1970,Sudan,0,0.0
+98,1970,Sweden,0,0.0
+99,1970,Switzerland,0,0.0
+100,1970,Tajikistan,21,0.0
+101,1970,Thailand,0,0.0
+102,1970,Togo,0,0.0
+103,1970,Tunisia,0,0.0
+104,1970,Turkey,0,0.0
+105,1970,Turkmenistan,0,0.0
+106,1970,Uganda,0,0.0
+107,1970,Ukraine,1,113.0
+108,1970,United Arab Emirates,0,0.0
+109,1970,United States of America,141,764.0
+110,1970,Uruguay,0,0.0
+111,1970,Uzbekistan,0,0.0
+112,1970,Vanuatu,0,0.0
+5635,1970,Worldwide,234,1192.0
+113,1970,Yemen,0,0.0
+114,1970,Zimbabwe,0,0.0
+115,1971,Afghanistan,0,0.0
+116,1971,Algeria,0,0.0
+117,1971,Angola,0,0.0
+118,1971,Antigua and Barbuda,0,0.0
+119,1971,Argentina,0,0.0
+120,1971,Armenia,0,0.0
+121,1971,Australia,0,0.0
+122,1971,Austria,0,0.0
+123,1971,Azerbaijan,0,0.0
+124,1971,Bahamas,0,0.0
+125,1971,Bahrain,0,0.0
+126,1971,Bangladesh,0,0.0
+127,1971,Belarus,0,0.0
+128,1971,Belgium,0,0.0
+129,1971,Belize,0,0.0
+130,1971,Botswana,0,0.0
+131,1971,Brazil,0,0.0
+132,1971,Bulgaria,0,0.0
+133,1971,Cambodia,0,0.0
+134,1971,Cameroon,0,0.0
+135,1971,Canada,0,0.0
+136,1971,Chile,0,0.0
+137,1971,China,0,0.0
+138,1971,Colombia,0,0.0
+139,1971,Congo,0,0.0
+140,1971,Costa Rica,0,0.0
+141,1971,Croatia,0,0.0
+142,1971,Cuba,0,0.0
+143,1971,Denmark,0,0.0
+144,1971,Dominican Republic,0,0.0
+145,1971,Ecuador,3,0.0
+146,1971,Egypt,0,0.0
+147,1971,Equatorial Guinea,0,0.0
+148,1971,Ethiopia,0,0.0
+149,1971,Fiji,0,0.0
+150,1971,France,6,0.0
+151,1971,Gabon,0,0.0
+152,1971,Georgia,0,0.0
+153,1971,Germany,0,0.0
+154,1971,Ghana,0,0.0
+155,1971,Greece,0,0.0
+156,1971,Guatemala,0,0.0
+157,1971,Guinea,0,0.0
+158,1971,Guyana,0,0.0
+159,1971,Haiti,0,0.0
+160,1971,Honduras,0,0.0
+161,1971,Hungary,49,0.0
+162,1971,Iceland,0,0.0
+163,1971,India,21,10.0
+164,1971,Indonesia,0,0.0
+165,1971,Ireland,0,0.0
+166,1971,Israel,0,0.0
+167,1971,Italy,0,0.0
+168,1971,Japan,162,0.0
+169,1971,Jordan,0,0.0
+170,1971,Kazakhstan,0,0.0
+171,1971,Kenya,0,0.0
+172,1971,Kyrgyzstan,0,0.0
+173,1971,Latvia,0,0.0
+174,1971,Lebanon,0,0.0
+175,1971,Lesotho,0,0.0
+176,1971,Libya,0,0.0
+177,1971,Lithuania,0,0.0
+178,1971,Luxembourg,0,0.0
+179,1971,Malawi,0,0.0
+180,1971,Malaysia,0,0.0
+181,1971,Maldives,0,0.0
+182,1971,Mexico,0,0.0
+183,1971,Mongolia,0,0.0
+184,1971,Morocco,0,0.0
+185,1971,Mozambique,0,0.0
+186,1971,Myanmar,0,0.0
+187,1971,Nepal,0,0.0
+188,1971,Netherlands,0,0.0
+189,1971,New Zealand,0,0.0
+190,1971,Nicaragua,0,0.0
+191,1971,Nigeria,0,0.0
+192,1971,Norway,0,0.0
+193,1971,Pakistan,4,0.0
+194,1971,Panama,0,0.0
+195,1971,Papua New Guinea,0,0.0
+196,1971,Paraguay,0,0.0
+197,1971,Peru,0,0.0
+198,1971,Philippines,0,0.0
+199,1971,Poland,0,0.0
+200,1971,Portugal,0,0.0
+201,1971,Romania,0,0.0
+202,1971,Saudi Arabia,0,0.0
+203,1971,Senegal,0,0.0
+204,1971,Sierra Leone,0,0.0
+205,1971,Singapore,0,0.0
+206,1971,Slovakia,0,0.0
+207,1971,Slovenia,0,0.0
+208,1971,Somalia,0,0.0
+209,1971,South Africa,0,0.0
+210,1971,Spain,0,0.0
+211,1971,Sri Lanka,0,0.0
+212,1971,Sudan,10,32.0
+213,1971,Sweden,0,0.0
+214,1971,Switzerland,0,0.0
+215,1971,Tajikistan,0,0.0
+216,1971,Thailand,0,0.0
+217,1971,Togo,0,0.0
+218,1971,Tunisia,0,0.0
+219,1971,Turkey,0,0.0
+220,1971,Turkmenistan,0,0.0
+221,1971,Uganda,0,0.0
+222,1971,Ukraine,48,0.0
+223,1971,United Arab Emirates,0,0.0
+224,1971,United States of America,98,79.0
+225,1971,Uruguay,0,0.0
+226,1971,Uzbekistan,0,0.0
+227,1971,Vanuatu,0,0.0
+5636,1971,Worldwide,401,121.0
+228,1971,Yemen,0,0.0
+229,1971,Zimbabwe,0,0.0
+230,1972,Afghanistan,0,0.0
+231,1972,Algeria,0,0.0
+232,1972,Angola,22,3.0
+233,1972,Antigua and Barbuda,0,0.0
+234,1972,Argentina,0,0.0
+235,1972,Armenia,0,0.0
+236,1972,Australia,25,6.0
+237,1972,Austria,0,0.0
+238,1972,Azerbaijan,0,0.0
+239,1972,Bahamas,0,0.0
+240,1972,Bahrain,0,0.0
+241,1972,Bangladesh,0,0.0
+242,1972,Belarus,0,0.0
+243,1972,Belgium,3,98.0
+244,1972,Belize,0,0.0
+245,1972,Botswana,0,0.0
+246,1972,Brazil,0,0.0
+247,1972,Bulgaria,0,0.0
+248,1972,Cambodia,0,0.0
+249,1972,Cameroon,0,0.0
+250,1972,Canada,3,0.0
+251,1972,Chile,0,0.0
+252,1972,China,0,0.0
+253,1972,Colombia,17,0.0
+254,1972,Congo,0,0.0
+255,1972,Costa Rica,0,0.0
+256,1972,Croatia,0,0.0
+257,1972,Cuba,0,0.0
+258,1972,Denmark,0,0.0
+259,1972,Dominican Republic,0,0.0
+260,1972,Ecuador,0,0.0
+261,1972,Egypt,6,0.0
+262,1972,Equatorial Guinea,0,0.0
+263,1972,Ethiopia,11,0.0
+264,1972,Fiji,0,0.0
+265,1972,France,60,8.0
+266,1972,Gabon,0,0.0
+267,1972,Georgia,0,0.0
+268,1972,Germany,164,5.0
+269,1972,Ghana,0,0.0
+270,1972,Greece,37,16.0
+271,1972,Guatemala,0,0.0
+272,1972,Guinea,0,0.0
+273,1972,Guyana,0,0.0
+274,1972,Haiti,0,0.0
+275,1972,Honduras,0,0.0
+276,1972,Hungary,0,0.0
+277,1972,Iceland,0,0.0
+278,1972,India,0,0.0
+279,1972,Indonesia,0,0.0
+280,1972,Ireland,0,0.0
+281,1972,Israel,0,0.0
+282,1972,Italy,27,0.0
+283,1972,Japan,61,15.0
+284,1972,Jordan,0,0.0
+285,1972,Kazakhstan,102,0.0
+286,1972,Kenya,0,0.0
+287,1972,Kyrgyzstan,0,0.0
+288,1972,Latvia,0,0.0
+289,1972,Lebanon,0,0.0
+290,1972,Lesotho,0,0.0
+291,1972,Libya,0,0.0
+292,1972,Lithuania,0,0.0
+293,1972,Luxembourg,0,0.0
+294,1972,Malawi,0,0.0
+295,1972,Malaysia,0,0.0
+296,1972,Maldives,0,0.0
+297,1972,Mexico,0,0.0
+298,1972,Mongolia,0,0.0
+299,1972,Morocco,0,0.0
+300,1972,Mozambique,0,0.0
+301,1972,Myanmar,0,0.0
+302,1972,Nepal,31,0.0
+303,1972,Netherlands,0,0.0
+304,1972,New Zealand,0,0.0
+305,1972,Nicaragua,0,0.0
+306,1972,Nigeria,0,0.0
+307,1972,Norway,17,0.0
+308,1972,Pakistan,0,0.0
+309,1972,Panama,0,0.0
+310,1972,Papua New Guinea,0,0.0
+311,1972,Paraguay,0,0.0
+312,1972,Peru,0,0.0
+313,1972,Philippines,0,0.0
+314,1972,Poland,0,0.0
+315,1972,Portugal,0,0.0
+316,1972,Romania,0,0.0
+317,1972,Saudi Arabia,0,0.0
+318,1972,Senegal,0,0.0
+319,1972,Sierra Leone,0,0.0
+320,1972,Singapore,0,0.0
+321,1972,Slovakia,0,0.0
+322,1972,Slovenia,0,0.0
+323,1972,Somalia,0,0.0
+324,1972,South Africa,0,0.0
+325,1972,Spain,10,0.0
+326,1972,Sri Lanka,0,0.0
+327,1972,Sudan,0,0.0
+328,1972,Sweden,0,0.0
+329,1972,Switzerland,2,0.0
+330,1972,Tajikistan,0,0.0
+331,1972,Thailand,0,0.0
+332,1972,Togo,0,0.0
+333,1972,Tunisia,0,0.0
+334,1972,Turkey,0,0.0
+335,1972,Turkmenistan,0,0.0
+336,1972,Uganda,0,0.0
+337,1972,Ukraine,122,0.0
+338,1972,United Arab Emirates,0,0.0
+339,1972,United States of America,104,124.0
+340,1972,Uruguay,0,0.0
+341,1972,Uzbekistan,0,0.0
+342,1972,Vanuatu,1,7.0
+5637,1972,Worldwide,825,282.0
+343,1972,Yemen,0,0.0
+344,1972,Zimbabwe,0,0.0
+345,1973,Afghanistan,0,0.0
+346,1973,Algeria,0,0.0
+347,1973,Angola,0,0.0
+348,1973,Antigua and Barbuda,0,0.0
+349,1973,Argentina,0,74.0
+350,1973,Armenia,0,0.0
+351,1973,Australia,0,0.0
+352,1973,Austria,0,0.0
+353,1973,Azerbaijan,56,8.0
+354,1973,Bahamas,0,0.0
+355,1973,Bahrain,0,0.0
+356,1973,Bangladesh,0,0.0
+357,1973,Belarus,0,0.0
+358,1973,Belgium,0,0.0
+359,1973,Belize,0,0.0
+360,1973,Botswana,0,0.0
+361,1973,Brazil,154,68.0
+362,1973,Bulgaria,0,0.0
+363,1973,Cambodia,0,0.0
+364,1973,Cameroon,0,0.0
+365,1973,Canada,0,0.0
+366,1973,Chile,0,0.0
+367,1973,China,0,0.0
+368,1973,Colombia,42,93.0
+369,1973,Congo,0,0.0
+370,1973,Costa Rica,0,0.0
+371,1973,Croatia,0,0.0
+372,1973,Cuba,0,0.0
+373,1973,Denmark,0,0.0
+374,1973,Dominican Republic,0,0.0
+375,1973,Ecuador,0,0.0
+376,1973,Egypt,0,0.0
+377,1973,Equatorial Guinea,0,0.0
+378,1973,Ethiopia,0,0.0
+379,1973,Fiji,0,0.0
+380,1973,France,1,109.0
+381,1973,Gabon,0,0.0
+382,1973,Georgia,16,59.0
+383,1973,Germany,0,0.0
+384,1973,Ghana,0,0.0
+385,1973,Greece,0,0.0
+386,1973,Guatemala,0,0.0
+387,1973,Guinea,0,0.0
+388,1973,Guyana,0,0.0
+389,1973,Haiti,0,0.0
+390,1973,Honduras,0,0.0
+391,1973,Hungary,0,0.0
+392,1973,Iceland,0,128.0
+393,1973,India,48,17.0
+394,1973,Indonesia,0,0.0
+395,1973,Ireland,0,0.0
+396,1973,Israel,0,0.0
+397,1973,Italy,0,0.0
+398,1973,Japan,0,0.0
+399,1973,Jordan,0,0.0
+400,1973,Kazakhstan,0,0.0
+401,1973,Kenya,0,0.0
+402,1973,Kyrgyzstan,0,0.0
+403,1973,Latvia,0,0.0
+404,1973,Lebanon,0,0.0
+405,1973,Lesotho,0,0.0
+406,1973,Libya,0,0.0
+407,1973,Lithuania,51,0.0
+408,1973,Luxembourg,0,0.0
+409,1973,Malawi,0,0.0
+410,1973,Malaysia,0,0.0
+411,1973,Maldives,0,0.0
+412,1973,Mexico,27,0.0
+413,1973,Mongolia,0,0.0
+414,1973,Morocco,0,0.0
+415,1973,Mozambique,0,0.0
+416,1973,Myanmar,0,0.0
+417,1973,Nepal,0,0.0
+418,1973,Netherlands,0,0.0
+419,1973,New Zealand,0,0.0
+420,1973,Nicaragua,0,0.0
+421,1973,Nigeria,0,0.0
+422,1973,Norway,0,0.0
+423,1973,Pakistan,0,0.0
+424,1973,Panama,0,0.0
+425,1973,Papua New Guinea,0,0.0
+426,1973,Paraguay,0,0.0
+427,1973,Peru,0,0.0
+428,1973,Philippines,0,0.0
+429,1973,Poland,0,0.0
+430,1973,Portugal,0,0.0
+431,1973,Romania,0,0.0
+432,1973,Saudi Arabia,0,0.0
+433,1973,Senegal,0,0.0
+434,1973,Sierra Leone,0,0.0
+435,1973,Singapore,0,0.0
+436,1973,Slovakia,0,0.0
+437,1973,Slovenia,0,0.0
+438,1973,Somalia,0,0.0
+439,1973,South Africa,0,0.0
+440,1973,Spain,0,168.0
+441,1973,Sri Lanka,0,0.0
+442,1973,Sudan,0,0.0
+443,1973,Sweden,0,0.0
+444,1973,Switzerland,0,0.0
+445,1973,Tajikistan,0,0.0
+446,1973,Thailand,0,0.0
+447,1973,Togo,0,0.0
+448,1973,Tunisia,0,0.0
+449,1973,Turkey,0,0.0
+450,1973,Turkmenistan,0,0.0
+451,1973,Uganda,0,0.0
+452,1973,Ukraine,0,0.0
+453,1973,United Arab Emirates,0,0.0
+454,1973,United States of America,143,275.0
+455,1973,Uruguay,0,0.0
+456,1973,Uzbekistan,108,0.0
+457,1973,Vanuatu,0,0.0
+5638,1973,Worldwide,646,999.0
+458,1973,Yemen,0,0.0
+459,1973,Zimbabwe,0,0.0
+460,1974,Afghanistan,0,0.0
+461,1974,Algeria,0,0.0
+462,1974,Angola,0,0.0
+463,1974,Antigua and Barbuda,0,0.0
+464,1974,Argentina,0,0.0
+465,1974,Armenia,0,0.0
+466,1974,Australia,0,0.0
+467,1974,Austria,0,0.0
+468,1974,Azerbaijan,0,0.0
+469,1974,Bahamas,0,0.0
+470,1974,Bahrain,0,0.0
+471,1974,Bangladesh,0,0.0
+472,1974,Belarus,0,0.0
+473,1974,Belgium,0,0.0
+474,1974,Belize,0,0.0
+475,1974,Botswana,0,0.0
+476,1974,Brazil,0,0.0
+477,1974,Bulgaria,0,0.0
+478,1974,Cambodia,0,0.0
+479,1974,Cameroon,0,0.0
+480,1974,Canada,32,2.0
+481,1974,Chile,0,0.0
+482,1974,China,0,0.0
+483,1974,Colombia,2,4.0
+484,1974,Congo,0,0.0
+485,1974,Costa Rica,0,0.0
+486,1974,Croatia,0,0.0
+487,1974,Cuba,0,0.0
+488,1974,Denmark,0,0.0
+489,1974,Dominican Republic,0,0.0
+490,1974,Ecuador,0,0.0
+491,1974,Egypt,0,0.0
+492,1974,Equatorial Guinea,0,0.0
+493,1974,Ethiopia,2,22.0
+494,1974,Fiji,0,0.0
+495,1974,France,0,0.0
+496,1974,Gabon,0,0.0
+497,1974,Georgia,0,0.0
+498,1974,Germany,0,0.0
+499,1974,Ghana,0,0.0
+500,1974,Greece,0,0.0
+501,1974,Guatemala,0,0.0
+502,1974,Guinea,0,0.0
+503,1974,Guyana,0,0.0
+504,1974,Haiti,0,0.0
+505,1974,Honduras,0,0.0
+506,1974,Hungary,0,0.0
+507,1974,Iceland,0,0.0
+508,1974,India,0,0.0
+509,1974,Indonesia,33,3.0
+510,1974,Ireland,0,0.0
+511,1974,Israel,0,0.0
+512,1974,Italy,0,0.0
+513,1974,Japan,0,0.0
+514,1974,Jordan,0,0.0
+515,1974,Kazakhstan,0,0.0
+516,1974,Kenya,0,0.0
+517,1974,Kyrgyzstan,0,0.0
+518,1974,Latvia,0,0.0
+519,1974,Lebanon,0,0.0
+520,1974,Lesotho,0,0.0
+521,1974,Libya,0,0.0
+522,1974,Lithuania,0,0.0
+523,1974,Luxembourg,0,0.0
+524,1974,Malawi,0,0.0
+525,1974,Malaysia,0,0.0
+526,1974,Maldives,0,0.0
+527,1974,Mexico,0,0.0
+528,1974,Mongolia,0,0.0
+529,1974,Morocco,0,0.0
+530,1974,Mozambique,0,0.0
+531,1974,Myanmar,0,0.0
+532,1974,Nepal,0,0.0
+533,1974,Netherlands,0,0.0
+534,1974,New Zealand,0,0.0
+535,1974,Nicaragua,0,0.0
+536,1974,Nigeria,0,0.0
+537,1974,Norway,0,0.0
+538,1974,Pakistan,0,0.0
+539,1974,Panama,0,0.0
+540,1974,Papua New Guinea,0,0.0
+541,1974,Paraguay,0,0.0
+542,1974,Peru,0,0.0
+543,1974,Philippines,0,0.0
+544,1974,Poland,0,0.0
+545,1974,Portugal,0,0.0
+546,1974,Romania,0,0.0
+547,1974,Saudi Arabia,0,0.0
+548,1974,Senegal,0,0.0
+549,1974,Sierra Leone,0,0.0
+550,1974,Singapore,0,0.0
+551,1974,Slovakia,0,0.0
+552,1974,Slovenia,0,0.0
+553,1974,Somalia,0,0.0
+554,1974,South Africa,0,0.0
+555,1974,Spain,0,0.0
+556,1974,Sri Lanka,0,0.0
+557,1974,Sudan,0,0.0
+558,1974,Sweden,0,0.0
+559,1974,Switzerland,0,0.0
+560,1974,Tajikistan,0,0.0
+561,1974,Thailand,0,0.0
+562,1974,Togo,3,3.0
+563,1974,Tunisia,0,0.0
+564,1974,Turkey,0,0.0
+565,1974,Turkmenistan,0,0.0
+566,1974,Uganda,0,0.0
+567,1974,Ukraine,0,0.0
+568,1974,United Arab Emirates,0,0.0
+569,1974,United States of America,88,16.0
+570,1974,Uruguay,0,0.0
+571,1974,Uzbekistan,0,0.0
+572,1974,Vanuatu,0,0.0
+5639,1974,Worldwide,160,50.0
+573,1974,Yemen,0,0.0
+574,1974,Zimbabwe,0,0.0
+575,1975,Afghanistan,0,0.0
+576,1975,Algeria,0,0.0
+577,1975,Angola,0,0.0
+578,1975,Antigua and Barbuda,0,0.0
+579,1975,Argentina,0,0.0
+580,1975,Armenia,40,0.0
+581,1975,Australia,11,0.0
+582,1975,Austria,0,0.0
+583,1975,Azerbaijan,0,0.0
+584,1975,Bahamas,0,0.0
+585,1975,Bahrain,0,0.0
+586,1975,Bangladesh,0,0.0
+587,1975,Belarus,0,0.0
+588,1975,Belgium,0,0.0
+589,1975,Belize,0,0.0
+590,1975,Botswana,0,0.0
+591,1975,Brazil,0,0.0
+592,1975,Bulgaria,3,42.0
+593,1975,Cambodia,0,0.0
+594,1975,Cameroon,0,0.0
+595,1975,Canada,0,26.0
+596,1975,Chile,0,0.0
+597,1975,China,0,0.0
+598,1975,Colombia,10,5.0
+599,1975,Congo,0,0.0
+600,1975,Costa Rica,0,0.0
+601,1975,Croatia,0,0.0
+602,1975,Cuba,0,0.0
+603,1975,Denmark,0,0.0
+604,1975,Dominican Republic,0,0.0
+605,1975,Ecuador,0,0.0
+606,1975,Egypt,0,0.0
+607,1975,Equatorial Guinea,0,0.0
+608,1975,Ethiopia,0,0.0
+609,1975,Fiji,0,0.0
+610,1975,France,0,394.0
+611,1975,Gabon,0,0.0
+612,1975,Georgia,0,0.0
+613,1975,Germany,0,0.0
+614,1975,Ghana,0,0.0
+615,1975,Greece,0,0.0
+616,1975,Guatemala,0,0.0
+617,1975,Guinea,0,0.0
+618,1975,Guyana,0,0.0
+619,1975,Haiti,0,0.0
+620,1975,Honduras,0,0.0
+621,1975,Hungary,0,0.0
+622,1975,Iceland,0,0.0
+623,1975,India,0,0.0
+624,1975,Indonesia,0,0.0
+625,1975,Ireland,0,0.0
+626,1975,Israel,0,0.0
+627,1975,Italy,0,0.0
+628,1975,Japan,0,121.0
+629,1975,Jordan,188,0.0
+630,1975,Kazakhstan,0,0.0
+631,1975,Kenya,0,19.0
+632,1975,Kyrgyzstan,0,0.0
+633,1975,Latvia,0,0.0
+634,1975,Lebanon,0,0.0
+635,1975,Lesotho,0,0.0
+636,1975,Libya,0,0.0
+637,1975,Lithuania,0,0.0
+638,1975,Luxembourg,0,0.0
+639,1975,Malawi,0,0.0
+640,1975,Malaysia,0,0.0
+641,1975,Maldives,0,0.0
+642,1975,Mexico,0,0.0
+643,1975,Mongolia,0,0.0
+644,1975,Morocco,0,0.0
+645,1975,Mozambique,0,0.0
+646,1975,Myanmar,0,0.0
+647,1975,Nepal,0,0.0
+648,1975,Netherlands,0,0.0
+649,1975,New Zealand,0,0.0
+650,1975,Nicaragua,21,0.0
+651,1975,Nigeria,0,0.0
+652,1975,Norway,0,0.0
+653,1975,Pakistan,0,0.0
+654,1975,Panama,0,0.0
+655,1975,Papua New Guinea,0,0.0
+656,1975,Paraguay,0,0.0
+657,1975,Peru,0,0.0
+658,1975,Philippines,1,63.0
+659,1975,Poland,0,0.0
+660,1975,Portugal,11,0.0
+661,1975,Romania,0,0.0
+662,1975,Saudi Arabia,0,0.0
+663,1975,Senegal,0,0.0
+664,1975,Sierra Leone,0,0.0
+665,1975,Singapore,0,0.0
+666,1975,Slovakia,0,0.0
+667,1975,Slovenia,0,0.0
+668,1975,Somalia,0,0.0
+669,1975,South Africa,0,0.0
+670,1975,Spain,0,0.0
+671,1975,Sri Lanka,0,0.0
+672,1975,Sudan,0,0.0
+673,1975,Sweden,0,0.0
+674,1975,Switzerland,0,0.0
+675,1975,Tajikistan,0,0.0
+676,1975,Thailand,0,0.0
+677,1975,Togo,0,0.0
+678,1975,Tunisia,0,0.0
+679,1975,Turkey,0,0.0
+680,1975,Turkmenistan,0,0.0
+681,1975,Uganda,0,0.0
+682,1975,Ukraine,0,0.0
+683,1975,United Arab Emirates,0,0.0
+684,1975,United States of America,16,419.0
+685,1975,Uruguay,0,57.0
+686,1975,Uzbekistan,0,0.0
+687,1975,Vanuatu,0,0.0
+5640,1975,Worldwide,301,1146.0
+688,1975,Yemen,0,0.0
+689,1975,Zimbabwe,0,0.0
+690,1976,Afghanistan,0,0.0
+691,1976,Algeria,0,0.0
+692,1976,Angola,0,0.0
+693,1976,Antigua and Barbuda,0,0.0
+694,1976,Argentina,0,0.0
+695,1976,Armenia,0,0.0
+696,1976,Australia,2,1.0
+697,1976,Austria,0,0.0
+698,1976,Azerbaijan,0,0.0
+699,1976,Bahamas,0,0.0
+700,1976,Bahrain,0,0.0
+701,1976,Bangladesh,0,0.0
+702,1976,Belarus,46,0.0
+703,1976,Belgium,0,0.0
+704,1976,Belize,0,0.0
+705,1976,Botswana,0,0.0
+706,1976,Brazil,7,0.0
+707,1976,Bulgaria,0,0.0
+708,1976,Cambodia,0,0.0
+709,1976,Cameroon,0,0.0
+710,1976,Canada,0,0.0
+711,1976,Chile,0,0.0
+712,1976,China,0,0.0
+713,1976,Colombia,36,127.0
+714,1976,Congo,0,0.0
+715,1976,Costa Rica,0,0.0
+716,1976,Croatia,0,0.0
+717,1976,Cuba,73,0.0
+718,1976,Denmark,0,0.0
+719,1976,Dominican Republic,0,0.0
+720,1976,Ecuador,0,0.0
+721,1976,Egypt,0,0.0
+722,1976,Equatorial Guinea,0,0.0
+723,1976,Ethiopia,0,0.0
+724,1976,Fiji,0,0.0
+725,1976,France,1,19.0
+726,1976,Gabon,0,0.0
+727,1976,Georgia,0,0.0
+728,1976,Germany,0,0.0
+729,1976,Ghana,0,0.0
+730,1976,Greece,50,0.0
+731,1976,Guatemala,0,0.0
+732,1976,Guinea,0,0.0
+733,1976,Guyana,0,0.0
+734,1976,Haiti,0,0.0
+735,1976,Honduras,0,0.0
+736,1976,Hungary,0,0.0
+737,1976,Iceland,0,0.0
+738,1976,India,95,0.0
+739,1976,Indonesia,0,0.0
+740,1976,Ireland,0,0.0
+741,1976,Israel,0,0.0
+742,1976,Italy,0,0.0
+743,1976,Japan,0,0.0
+744,1976,Jordan,0,0.0
+745,1976,Kazakhstan,0,0.0
+746,1976,Kenya,0,0.0
+747,1976,Kyrgyzstan,0,0.0
+748,1976,Latvia,0,0.0
+749,1976,Lebanon,0,0.0
+750,1976,Lesotho,0,0.0
+751,1976,Libya,0,0.0
+752,1976,Lithuania,0,0.0
+753,1976,Luxembourg,0,0.0
+754,1976,Malawi,0,0.0
+755,1976,Malaysia,0,0.0
+756,1976,Maldives,0,0.0
+757,1976,Mexico,0,24.0
+758,1976,Mongolia,0,0.0
+759,1976,Morocco,0,0.0
+760,1976,Mozambique,0,0.0
+761,1976,Myanmar,0,0.0
+762,1976,Nepal,0,0.0
+763,1976,Netherlands,0,0.0
+764,1976,New Zealand,0,0.0
+765,1976,Nicaragua,0,0.0
+766,1976,Nigeria,0,0.0
+767,1976,Norway,0,0.0
+768,1976,Pakistan,0,0.0
+769,1976,Panama,2,0.0
+770,1976,Papua New Guinea,0,0.0
+771,1976,Paraguay,0,0.0
+772,1976,Peru,30,0.0
+773,1976,Philippines,0,0.0
+774,1976,Poland,0,0.0
+775,1976,Portugal,2,0.0
+776,1976,Romania,0,0.0
+777,1976,Saudi Arabia,0,0.0
+778,1976,Senegal,0,0.0
+779,1976,Sierra Leone,0,0.0
+780,1976,Singapore,0,9.0
+781,1976,Slovakia,0,0.0
+782,1976,Slovenia,0,0.0
+783,1976,Somalia,0,0.0
+784,1976,South Africa,0,0.0
+785,1976,Spain,12,20.0
+786,1976,Sri Lanka,0,0.0
+787,1976,Sudan,0,0.0
+788,1976,Sweden,0,0.0
+789,1976,Switzerland,0,0.0
+790,1976,Tajikistan,0,0.0
+791,1976,Thailand,0,0.0
+792,1976,Togo,0,0.0
+793,1976,Tunisia,0,0.0
+794,1976,Turkey,154,0.0
+795,1976,Turkmenistan,0,0.0
+796,1976,Uganda,0,0.0
+797,1976,Ukraine,0,0.0
+798,1976,United Arab Emirates,0,0.0
+799,1976,United States of America,38,91.0
+800,1976,Uruguay,0,0.0
+801,1976,Uzbekistan,0,0.0
+802,1976,Vanuatu,0,0.0
+5641,1976,Worldwide,548,291.0
+803,1976,Yemen,0,0.0
+804,1976,Zimbabwe,0,0.0
+805,1977,Afghanistan,0,0.0
+806,1977,Algeria,0,0.0
+807,1977,Angola,0,0.0
+808,1977,Antigua and Barbuda,0,0.0
+809,1977,Argentina,52,33.0
+810,1977,Armenia,0,0.0
+811,1977,Australia,0,0.0
+812,1977,Austria,0,0.0
+813,1977,Azerbaijan,0,0.0
+814,1977,Bahamas,0,0.0
+815,1977,Bahrain,0,0.0
+816,1977,Bangladesh,0,0.0
+817,1977,Belarus,0,0.0
+818,1977,Belgium,0,0.0
+819,1977,Belize,0,0.0
+820,1977,Botswana,0,0.0
+821,1977,Brazil,0,0.0
+822,1977,Bulgaria,0,0.0
+823,1977,Cambodia,0,0.0
+824,1977,Cameroon,0,0.0
+825,1977,Canada,0,0.0
+826,1977,Chile,0,0.0
+827,1977,China,0,0.0
+828,1977,Colombia,0,0.0
+829,1977,Congo,0,0.0
+830,1977,Costa Rica,4,0.0
+831,1977,Croatia,0,0.0
+832,1977,Cuba,0,0.0
+833,1977,Denmark,0,0.0
+834,1977,Dominican Republic,0,0.0
+835,1977,Ecuador,33,0.0
+836,1977,Egypt,0,0.0
+837,1977,Equatorial Guinea,0,0.0
+838,1977,Ethiopia,0,0.0
+839,1977,Fiji,0,0.0
+840,1977,France,0,0.0
+841,1977,Gabon,0,0.0
+842,1977,Georgia,0,0.0
+843,1977,Germany,4,87.0
+844,1977,Ghana,0,0.0
+845,1977,Greece,0,0.0
+846,1977,Guatemala,0,0.0
+847,1977,Guinea,0,0.0
+848,1977,Guyana,0,0.0
+849,1977,Haiti,0,0.0
+850,1977,Honduras,0,0.0
+851,1977,Hungary,29,24.0
+852,1977,Iceland,0,0.0
+853,1977,India,0,0.0
+854,1977,Indonesia,2,3.0
+855,1977,Ireland,0,0.0
+856,1977,Israel,0,0.0
+857,1977,Italy,0,0.0
+858,1977,Japan,0,0.0
+859,1977,Jordan,0,0.0
+860,1977,Kazakhstan,0,0.0
+861,1977,Kenya,0,0.0
+862,1977,Kyrgyzstan,0,0.0
+863,1977,Latvia,0,0.0
+864,1977,Lebanon,0,0.0
+865,1977,Lesotho,0,0.0
+866,1977,Libya,0,0.0
+867,1977,Lithuania,0,0.0
+868,1977,Luxembourg,0,0.0
+869,1977,Malawi,0,0.0
+870,1977,Malaysia,100,0.0
+871,1977,Maldives,0,0.0
+872,1977,Mexico,13,0.0
+873,1977,Mongolia,0,0.0
+874,1977,Morocco,0,0.0
+875,1977,Mozambique,0,0.0
+876,1977,Myanmar,0,0.0
+877,1977,Nepal,0,0.0
+878,1977,Netherlands,0,0.0
+879,1977,New Zealand,0,0.0
+880,1977,Nicaragua,0,0.0
+881,1977,Nigeria,0,0.0
+882,1977,Norway,0,0.0
+883,1977,Pakistan,0,0.0
+884,1977,Panama,0,0.0
+885,1977,Papua New Guinea,0,0.0
+886,1977,Paraguay,0,0.0
+887,1977,Peru,0,0.0
+888,1977,Philippines,0,0.0
+889,1977,Poland,0,0.0
+890,1977,Portugal,0,0.0
+891,1977,Romania,5,0.0
+892,1977,Saudi Arabia,0,0.0
+893,1977,Senegal,0,0.0
+894,1977,Sierra Leone,0,0.0
+895,1977,Singapore,0,0.0
+896,1977,Slovakia,0,0.0
+897,1977,Slovenia,0,0.0
+898,1977,Somalia,0,0.0
+899,1977,South Africa,0,2.0
+900,1977,Spain,0,0.0
+901,1977,Sri Lanka,0,0.0
+902,1977,Sudan,0,0.0
+903,1977,Sweden,0,0.0
+904,1977,Switzerland,0,0.0
+905,1977,Tajikistan,0,0.0
+906,1977,Thailand,0,0.0
+907,1977,Togo,0,0.0
+908,1977,Tunisia,0,0.0
+909,1977,Turkey,0,0.0
+910,1977,Turkmenistan,0,0.0
+911,1977,Uganda,0,0.0
+912,1977,Ukraine,6,1.0
+913,1977,United Arab Emirates,0,0.0
+914,1977,United States of America,55,3.0
+915,1977,Uruguay,0,0.0
+916,1977,Uzbekistan,0,0.0
+917,1977,Vanuatu,0,0.0
+5642,1977,Worldwide,303,153.0
+918,1977,Yemen,0,0.0
+919,1977,Zimbabwe,0,0.0
+920,1978,Afghanistan,0,0.0
+921,1978,Algeria,0,0.0
+922,1978,Angola,0,0.0
+923,1978,Antigua and Barbuda,0,0.0
+924,1978,Argentina,0,0.0
+925,1978,Armenia,0,0.0
+926,1978,Australia,0,0.0
+927,1978,Austria,0,0.0
+928,1978,Azerbaijan,0,0.0
+929,1978,Bahamas,0,0.0
+930,1978,Bahrain,0,0.0
+931,1978,Bangladesh,0,0.0
+932,1978,Belarus,0,0.0
+933,1978,Belgium,0,0.0
+934,1978,Belize,0,0.0
+935,1978,Botswana,0,0.0
+936,1978,Brazil,0,0.0
+937,1978,Bulgaria,0,0.0
+938,1978,Cambodia,0,0.0
+939,1978,Cameroon,0,0.0
+940,1978,Canada,2,105.0
+941,1978,Chile,0,63.0
+942,1978,China,0,0.0
+943,1978,Colombia,8,0.0
+944,1978,Congo,0,0.0
+945,1978,Costa Rica,0,0.0
+946,1978,Croatia,0,0.0
+947,1978,Cuba,0,0.0
+948,1978,Denmark,0,0.0
+949,1978,Dominican Republic,0,0.0
+950,1978,Ecuador,0,0.0
+951,1978,Egypt,0,0.0
+952,1978,Equatorial Guinea,0,0.0
+953,1978,Ethiopia,0,0.0
+954,1978,Fiji,0,0.0
+955,1978,France,0,0.0
+956,1978,Gabon,0,0.0
+957,1978,Georgia,0,0.0
+958,1978,Germany,0,0.0
+959,1978,Ghana,0,0.0
+960,1978,Greece,0,0.0
+961,1978,Guatemala,0,0.0
+962,1978,Guinea,0,0.0
+963,1978,Guyana,0,0.0
+964,1978,Haiti,0,0.0
+965,1978,Honduras,0,0.0
+966,1978,Hungary,0,0.0
+967,1978,Iceland,0,0.0
+968,1978,India,77,0.0
+969,1978,Indonesia,0,0.0
+970,1978,Ireland,0,0.0
+971,1978,Israel,0,0.0
+972,1978,Italy,0,0.0
+973,1978,Japan,0,394.0
+974,1978,Jordan,0,0.0
+975,1978,Kazakhstan,0,0.0
+976,1978,Kenya,0,0.0
+977,1978,Kyrgyzstan,0,0.0
+978,1978,Latvia,0,0.0
+979,1978,Lebanon,0,0.0
+980,1978,Lesotho,0,0.0
+981,1978,Libya,0,0.0
+982,1978,Lithuania,0,0.0
+983,1978,Luxembourg,0,0.0
+984,1978,Malawi,0,0.0
+985,1978,Malaysia,0,0.0
+986,1978,Maldives,0,0.0
+987,1978,Mexico,0,0.0
+988,1978,Mongolia,0,0.0
+989,1978,Morocco,0,0.0
+990,1978,Mozambique,0,0.0
+991,1978,Myanmar,0,0.0
+992,1978,Nepal,0,0.0
+993,1978,Netherlands,0,0.0
+994,1978,New Zealand,0,0.0
+995,1978,Nicaragua,0,0.0
+996,1978,Nigeria,0,0.0
+997,1978,Norway,0,0.0
+998,1978,Pakistan,0,0.0
+999,1978,Panama,0,0.0
+1000,1978,Papua New Guinea,0,0.0
+1001,1978,Paraguay,0,0.0
+1002,1978,Peru,0,0.0
+1003,1978,Philippines,0,0.0
+1004,1978,Poland,0,0.0
+1005,1978,Portugal,0,0.0
+1006,1978,Romania,5,0.0
+1007,1978,Saudi Arabia,0,0.0
+1008,1978,Senegal,0,0.0
+1009,1978,Sierra Leone,0,0.0
+1010,1978,Singapore,0,0.0
+1011,1978,Slovakia,0,0.0
+1012,1978,Slovenia,0,0.0
+1013,1978,Somalia,0,0.0
+1014,1978,South Africa,0,0.0
+1015,1978,Spain,0,0.0
+1016,1978,Sri Lanka,0,0.0
+1017,1978,Sudan,0,0.0
+1018,1978,Sweden,0,0.0
+1019,1978,Switzerland,0,0.0
+1020,1978,Tajikistan,0,0.0
+1021,1978,Thailand,0,0.0
+1022,1978,Togo,0,0.0
+1023,1978,Tunisia,0,0.0
+1024,1978,Turkey,0,0.0
+1025,1978,Turkmenistan,0,0.0
+1026,1978,Uganda,0,0.0
+1027,1978,Ukraine,0,0.0
+1028,1978,United Arab Emirates,0,0.0
+1029,1978,United States of America,23,54.0
+1030,1978,Uruguay,0,0.0
+1031,1978,Uzbekistan,0,0.0
+1032,1978,Vanuatu,0,0.0
+5643,1978,Worldwide,115,616.0
+1033,1978,Yemen,0,0.0
+1034,1978,Zimbabwe,0,0.0
+1035,1979,Afghanistan,0,0.0
+1036,1979,Algeria,0,0.0
+1037,1979,Angola,0,0.0
+1038,1979,Antigua and Barbuda,0,0.0
+1039,1979,Argentina,8,0.0
+1040,1979,Armenia,0,0.0
+1041,1979,Australia,0,0.0
+1042,1979,Austria,0,0.0
+1043,1979,Azerbaijan,0,0.0
+1044,1979,Bahamas,0,0.0
+1045,1979,Bahrain,0,0.0
+1046,1979,Bangladesh,0,0.0
+1047,1979,Belarus,0,0.0
+1048,1979,Belgium,0,0.0
+1049,1979,Belize,0,0.0
+1050,1979,Botswana,0,0.0
+1051,1979,Brazil,0,0.0
+1052,1979,Bulgaria,0,0.0
+1053,1979,Cambodia,0,0.0
+1054,1979,Cameroon,0,0.0
+1055,1979,Canada,2,14.0
+1056,1979,Chile,0,0.0
+1057,1979,China,0,0.0
+1058,1979,Colombia,4,0.0
+1059,1979,Congo,0,0.0
+1060,1979,Costa Rica,0,0.0
+1061,1979,Croatia,0,0.0
+1062,1979,Cuba,0,0.0
+1063,1979,Denmark,0,0.0
+1064,1979,Dominican Republic,0,0.0
+1065,1979,Ecuador,0,0.0
+1066,1979,Egypt,0,0.0
+1067,1979,Equatorial Guinea,0,0.0
+1068,1979,Ethiopia,0,0.0
+1069,1979,Fiji,9,0.0
+1070,1979,France,0,0.0
+1071,1979,Gabon,0,0.0
+1072,1979,Georgia,0,0.0
+1073,1979,Germany,3,0.0
+1074,1979,Ghana,0,0.0
+1075,1979,Greece,0,0.0
+1076,1979,Guatemala,0,0.0
+1077,1979,Guinea,0,0.0
+1078,1979,Guyana,0,0.0
+1079,1979,Haiti,0,0.0
+1080,1979,Honduras,0,0.0
+1081,1979,Hungary,0,0.0
+1082,1979,Iceland,0,0.0
+1083,1979,India,0,53.0
+1084,1979,Indonesia,61,0.0
+1085,1979,Ireland,0,0.0
+1086,1979,Israel,0,0.0
+1087,1979,Italy,0,0.0
+1088,1979,Japan,0,0.0
+1089,1979,Jordan,0,0.0
+1090,1979,Kazakhstan,0,0.0
+1091,1979,Kenya,0,0.0
+1092,1979,Kyrgyzstan,0,0.0
+1093,1979,Latvia,0,0.0
+1094,1979,Lebanon,6,0.0
+1095,1979,Lesotho,0,0.0
+1096,1979,Libya,0,0.0
+1097,1979,Lithuania,0,0.0
+1098,1979,Luxembourg,0,0.0
+1099,1979,Malawi,0,0.0
+1100,1979,Malaysia,0,0.0
+1101,1979,Maldives,0,0.0
+1102,1979,Mexico,0,0.0
+1103,1979,Mongolia,0,0.0
+1104,1979,Morocco,0,0.0
+1105,1979,Mozambique,0,0.0
+1106,1979,Myanmar,0,0.0
+1107,1979,Nepal,0,0.0
+1108,1979,Netherlands,0,0.0
+1109,1979,New Zealand,0,0.0
+1110,1979,Nicaragua,0,0.0
+1111,1979,Nigeria,0,0.0
+1112,1979,Norway,0,0.0
+1113,1979,Pakistan,156,0.0
+1114,1979,Panama,0,0.0
+1115,1979,Papua New Guinea,16,0.0
+1116,1979,Paraguay,0,0.0
+1117,1979,Peru,0,0.0
+1118,1979,Philippines,0,0.0
+1119,1979,Poland,0,0.0
+1120,1979,Portugal,0,0.0
+1121,1979,Romania,0,0.0
+1122,1979,Saudi Arabia,0,0.0
+1123,1979,Senegal,0,0.0
+1124,1979,Sierra Leone,0,0.0
+1125,1979,Singapore,0,0.0
+1126,1979,Slovakia,0,0.0
+1127,1979,Slovenia,0,0.0
+1128,1979,Somalia,0,0.0
+1129,1979,South Africa,0,0.0
+1130,1979,Spain,0,0.0
+1131,1979,Sri Lanka,0,0.0
+1132,1979,Sudan,0,0.0
+1133,1979,Sweden,0,0.0
+1134,1979,Switzerland,14,140.0
+1135,1979,Tajikistan,0,0.0
+1136,1979,Thailand,0,0.0
+1137,1979,Togo,0,0.0
+1138,1979,Tunisia,0,0.0
+1139,1979,Turkey,0,0.0
+1140,1979,Turkmenistan,0,0.0
+1141,1979,Uganda,0,0.0
+1142,1979,Ukraine,0,0.0
+1143,1979,United Arab Emirates,0,0.0
+1144,1979,United States of America,75,366.0
+1145,1979,Uruguay,0,0.0
+1146,1979,Uzbekistan,0,0.0
+1147,1979,Vanuatu,0,0.0
+5644,1979,Worldwide,354,573.0
+1148,1979,Yemen,0,0.0
+1149,1979,Zimbabwe,0,0.0
+1150,1980,Afghanistan,0,0.0
+1151,1980,Algeria,0,0.0
+1152,1980,Angola,0,0.0
+1153,1980,Antigua and Barbuda,0,0.0
+1154,1980,Argentina,0,0.0
+1155,1980,Armenia,0,0.0
+1156,1980,Australia,0,0.0
+1157,1980,Austria,0,0.0
+1158,1980,Azerbaijan,0,0.0
+1159,1980,Bahamas,0,0.0
+1160,1980,Bahrain,0,0.0
+1161,1980,Bangladesh,0,0.0
+1162,1980,Belarus,0,0.0
+1163,1980,Belgium,0,0.0
+1164,1980,Belize,0,0.0
+1165,1980,Botswana,0,0.0
+1166,1980,Brazil,0,0.0
+1167,1980,Bulgaria,0,0.0
+1168,1980,Cambodia,0,0.0
+1169,1980,Cameroon,0,0.0
+1170,1980,Canada,0,0.0
+1171,1980,Chile,0,0.0
+1172,1980,China,0,0.0
+1173,1980,Colombia,93,0.0
+1174,1980,Congo,0,0.0
+1175,1980,Costa Rica,0,0.0
+1176,1980,Croatia,0,0.0
+1177,1980,Cuba,0,0.0
+1178,1980,Denmark,0,0.0
+1179,1980,Dominican Republic,0,0.0
+1180,1980,Ecuador,0,0.0
+1181,1980,Egypt,0,0.0
+1182,1980,Equatorial Guinea,0,0.0
+1183,1980,Ethiopia,0,0.0
+1184,1980,Fiji,0,0.0
+1185,1980,France,0,0.0
+1186,1980,Gabon,0,0.0
+1187,1980,Georgia,0,0.0
+1188,1980,Germany,0,0.0
+1189,1980,Ghana,0,0.0
+1190,1980,Greece,0,0.0
+1191,1980,Guatemala,0,0.0
+1192,1980,Guinea,0,0.0
+1193,1980,Guyana,0,0.0
+1194,1980,Haiti,0,0.0
+1195,1980,Honduras,0,0.0
+1196,1980,Hungary,0,0.0
+1197,1980,Iceland,0,0.0
+1198,1980,India,0,29.0
+1199,1980,Indonesia,0,0.0
+1200,1980,Ireland,0,0.0
+1201,1980,Israel,0,0.0
+1202,1980,Italy,81,0.0
+1203,1980,Japan,0,0.0
+1204,1980,Jordan,0,0.0
+1205,1980,Kazakhstan,0,0.0
+1206,1980,Kenya,0,0.0
+1207,1980,Kyrgyzstan,0,0.0
+1208,1980,Latvia,0,0.0
+1209,1980,Lebanon,0,0.0
+1210,1980,Lesotho,0,0.0
+1211,1980,Libya,0,0.0
+1212,1980,Lithuania,0,0.0
+1213,1980,Luxembourg,0,0.0
+1214,1980,Malawi,0,0.0
+1215,1980,Malaysia,0,0.0
+1216,1980,Maldives,0,0.0
+1217,1980,Mexico,0,0.0
+1218,1980,Mongolia,0,0.0
+1219,1980,Morocco,0,0.0
+1220,1980,Mozambique,0,0.0
+1221,1980,Myanmar,0,0.0
+1222,1980,Nepal,0,0.0
+1223,1980,Netherlands,0,0.0
+1224,1980,New Zealand,0,1.0
+1225,1980,Nicaragua,0,0.0
+1226,1980,Nigeria,0,0.0
+1227,1980,Norway,0,0.0
+1228,1980,Pakistan,0,0.0
+1229,1980,Panama,0,0.0
+1230,1980,Papua New Guinea,0,0.0
+1231,1980,Paraguay,0,0.0
+1232,1980,Peru,3,0.0
+1233,1980,Philippines,0,0.0
+1234,1980,Poland,0,0.0
+1235,1980,Portugal,0,0.0
+1236,1980,Romania,0,0.0
+1237,1980,Saudi Arabia,301,0.0
+1238,1980,Senegal,0,0.0
+1239,1980,Sierra Leone,0,0.0
+1240,1980,Singapore,0,0.0
+1241,1980,Slovakia,0,0.0
+1242,1980,Slovenia,0,0.0
+1243,1980,Somalia,0,0.0
+1244,1980,South Africa,0,0.0
+1245,1980,Spain,4,0.0
+1246,1980,Sri Lanka,0,0.0
+1247,1980,Sudan,0,0.0
+1248,1980,Sweden,0,0.0
+1249,1980,Switzerland,0,0.0
+1250,1980,Tajikistan,0,0.0
+1251,1980,Thailand,0,0.0
+1252,1980,Togo,0,0.0
+1253,1980,Tunisia,0,0.0
+1254,1980,Turkey,0,0.0
+1255,1980,Turkmenistan,0,0.0
+1256,1980,Uganda,0,0.0
+1257,1980,Ukraine,0,0.0
+1258,1980,United Arab Emirates,0,0.0
+1259,1980,United States of America,65,244.0
+1260,1980,Uruguay,0,0.0
+1261,1980,Uzbekistan,0,0.0
+1262,1980,Vanuatu,0,0.0
+5645,1980,Worldwide,547,274.0
+1263,1980,Yemen,0,0.0
+1264,1980,Zimbabwe,0,0.0
+1265,1981,Afghanistan,0,0.0
+1266,1981,Algeria,0,0.0
+1267,1981,Angola,0,0.0
+1268,1981,Antigua and Barbuda,0,0.0
+1269,1981,Argentina,4,0.0
+1270,1981,Armenia,0,0.0
+1271,1981,Australia,0,0.0
+1272,1981,Austria,0,0.0
+1273,1981,Azerbaijan,0,0.0
+1274,1981,Bahamas,0,0.0
+1275,1981,Bahrain,0,0.0
+1276,1981,Bangladesh,0,0.0
+1277,1981,Belarus,0,0.0
+1278,1981,Belgium,0,0.0
+1279,1981,Belize,0,0.0
+1280,1981,Botswana,0,0.0
+1281,1981,Brazil,0,0.0
+1282,1981,Bulgaria,0,0.0
+1283,1981,Cambodia,0,0.0
+1284,1981,Cameroon,0,0.0
+1285,1981,Canada,0,0.0
+1286,1981,Chile,0,0.0
+1287,1981,China,0,0.0
+1288,1981,Colombia,21,1.0
+1289,1981,Congo,0,0.0
+1290,1981,Costa Rica,0,0.0
+1291,1981,Croatia,0,0.0
+1292,1981,Cuba,0,0.0
+1293,1981,Denmark,0,0.0
+1294,1981,Dominican Republic,0,5.0
+1295,1981,Ecuador,0,0.0
+1296,1981,Egypt,0,0.0
+1297,1981,Equatorial Guinea,0,0.0
+1298,1981,Ethiopia,0,0.0
+1299,1981,Fiji,0,0.0
+1300,1981,France,0,0.0
+1301,1981,Gabon,0,0.0
+1302,1981,Georgia,0,0.0
+1303,1981,Germany,0,0.0
+1304,1981,Ghana,0,0.0
+1305,1981,Greece,0,0.0
+1306,1981,Guatemala,0,0.0
+1307,1981,Guinea,0,0.0
+1308,1981,Guyana,0,0.0
+1309,1981,Haiti,0,0.0
+1310,1981,Honduras,0,0.0
+1311,1981,Hungary,0,0.0
+1312,1981,Iceland,0,0.0
+1313,1981,India,0,0.0
+1314,1981,Indonesia,0,0.0
+1315,1981,Ireland,0,0.0
+1316,1981,Israel,0,0.0
+1317,1981,Italy,0,0.0
+1318,1981,Japan,0,0.0
+1319,1981,Jordan,0,0.0
+1320,1981,Kazakhstan,0,0.0
+1321,1981,Kenya,0,0.0
+1322,1981,Kyrgyzstan,0,0.0
+1323,1981,Latvia,0,0.0
+1324,1981,Lebanon,0,3.0
+1325,1981,Lesotho,0,0.0
+1326,1981,Libya,0,0.0
+1327,1981,Lithuania,0,0.0
+1328,1981,Luxembourg,0,0.0
+1329,1981,Malawi,0,0.0
+1330,1981,Malaysia,0,0.0
+1331,1981,Maldives,0,0.0
+1332,1981,Mexico,30,46.0
+1333,1981,Mongolia,0,0.0
+1334,1981,Morocco,0,0.0
+1335,1981,Mozambique,0,0.0
+1336,1981,Myanmar,0,0.0
+1337,1981,Nepal,0,0.0
+1338,1981,Netherlands,17,0.0
+1339,1981,New Zealand,0,0.0
+1340,1981,Nicaragua,0,0.0
+1341,1981,Nigeria,0,0.0
+1342,1981,Norway,0,0.0
+1343,1981,Pakistan,0,0.0
+1344,1981,Panama,0,0.0
+1345,1981,Papua New Guinea,0,0.0
+1346,1981,Paraguay,0,0.0
+1347,1981,Peru,0,0.0
+1348,1981,Philippines,0,0.0
+1349,1981,Poland,0,0.0
+1350,1981,Portugal,0,0.0
+1351,1981,Romania,0,0.0
+1352,1981,Saudi Arabia,0,0.0
+1353,1981,Senegal,0,0.0
+1354,1981,Sierra Leone,0,0.0
+1355,1981,Singapore,0,0.0
+1356,1981,Slovakia,0,0.0
+1357,1981,Slovenia,180,0.0
+1358,1981,Somalia,0,0.0
+1359,1981,South Africa,0,0.0
+1360,1981,Spain,0,0.0
+1361,1981,Sri Lanka,0,0.0
+1362,1981,Sudan,0,0.0
+1363,1981,Sweden,0,0.0
+1364,1981,Switzerland,0,0.0
+1365,1981,Tajikistan,0,0.0
+1366,1981,Thailand,0,0.0
+1367,1981,Togo,0,0.0
+1368,1981,Tunisia,0,0.0
+1369,1981,Turkey,0,0.0
+1370,1981,Turkmenistan,0,0.0
+1371,1981,Uganda,0,0.0
+1372,1981,Ukraine,0,0.0
+1373,1981,United Arab Emirates,0,0.0
+1374,1981,United States of America,6,180.0
+1375,1981,Uruguay,0,0.0
+1376,1981,Uzbekistan,0,0.0
+1377,1981,Vanuatu,0,0.0
+5646,1981,Worldwide,258,235.0
+1378,1981,Yemen,0,0.0
+1379,1981,Zimbabwe,0,0.0
+1380,1982,Afghanistan,0,0.0
+1381,1982,Algeria,0,0.0
+1382,1982,Angola,0,0.0
+1383,1982,Antigua and Barbuda,0,0.0
+1384,1982,Argentina,0,0.0
+1385,1982,Armenia,0,0.0
+1386,1982,Australia,0,0.0
+1387,1982,Austria,0,0.0
+1388,1982,Azerbaijan,0,0.0
+1389,1982,Bahamas,0,0.0
+1390,1982,Bahrain,0,0.0
+1391,1982,Bangladesh,0,0.0
+1392,1982,Belarus,0,0.0
+1393,1982,Belgium,0,0.0
+1394,1982,Belize,0,0.0
+1395,1982,Botswana,0,0.0
+1396,1982,Brazil,147,0.0
+1397,1982,Bulgaria,0,0.0
+1398,1982,Cambodia,0,0.0
+1399,1982,Cameroon,0,0.0
+1400,1982,Canada,0,0.0
+1401,1982,Chile,0,0.0
+1402,1982,China,0,0.0
+1403,1982,Colombia,0,0.0
+1404,1982,Congo,0,0.0
+1405,1982,Costa Rica,0,0.0
+1406,1982,Croatia,0,0.0
+1407,1982,Cuba,0,0.0
+1408,1982,Denmark,0,15.0
+1409,1982,Dominican Republic,0,0.0
+1410,1982,Ecuador,0,0.0
+1411,1982,Egypt,0,182.0
+1412,1982,Equatorial Guinea,0,0.0
+1413,1982,Ethiopia,0,0.0
+1414,1982,Fiji,0,0.0
+1415,1982,France,0,0.0
+1416,1982,Gabon,0,0.0
+1417,1982,Georgia,11,0.0
+1418,1982,Germany,0,0.0
+1419,1982,Ghana,0,0.0
+1420,1982,Greece,0,0.0
+1421,1982,Guatemala,0,0.0
+1422,1982,Guinea,0,0.0
+1423,1982,Guyana,0,0.0
+1424,1982,Haiti,0,0.0
+1425,1982,Honduras,0,0.0
+1426,1982,Hungary,0,0.0
+1427,1982,Iceland,0,0.0
+1428,1982,India,17,94.0
+1429,1982,Indonesia,0,0.0
+1430,1982,Ireland,0,0.0
+1431,1982,Israel,0,0.0
+1432,1982,Italy,0,0.0
+1433,1982,Japan,0,0.0
+1434,1982,Jordan,0,0.0
+1435,1982,Kazakhstan,0,0.0
+1436,1982,Kenya,0,0.0
+1437,1982,Kyrgyzstan,0,0.0
+1438,1982,Latvia,0,0.0
+1439,1982,Lebanon,0,0.0
+1440,1982,Lesotho,0,0.0
+1441,1982,Libya,0,0.0
+1442,1982,Lithuania,0,0.0
+1443,1982,Luxembourg,0,0.0
+1444,1982,Malawi,0,0.0
+1445,1982,Malaysia,0,0.0
+1446,1982,Maldives,0,0.0
+1447,1982,Mexico,0,0.0
+1448,1982,Mongolia,0,0.0
+1449,1982,Morocco,0,0.0
+1450,1982,Mozambique,0,0.0
+1451,1982,Myanmar,0,0.0
+1452,1982,Nepal,0,0.0
+1453,1982,Netherlands,0,0.0
+1454,1982,New Zealand,0,0.0
+1455,1982,Nicaragua,0,0.0
+1456,1982,Nigeria,0,73.0
+1457,1982,Norway,0,0.0
+1458,1982,Pakistan,0,0.0
+1459,1982,Panama,0,0.0
+1460,1982,Papua New Guinea,0,1.0
+1461,1982,Paraguay,0,0.0
+1462,1982,Peru,0,0.0
+1463,1982,Philippines,1,29.0
+1464,1982,Poland,0,0.0
+1465,1982,Portugal,0,0.0
+1466,1982,Romania,0,0.0
+1467,1982,Saudi Arabia,0,0.0
+1468,1982,Senegal,0,0.0
+1469,1982,Sierra Leone,0,0.0
+1470,1982,Singapore,0,0.0
+1471,1982,Slovakia,0,0.0
+1472,1982,Slovenia,0,0.0
+1473,1982,Somalia,0,0.0
+1474,1982,South Africa,0,0.0
+1475,1982,Spain,0,0.0
+1476,1982,Sri Lanka,0,0.0
+1477,1982,Sudan,0,0.0
+1478,1982,Sweden,0,0.0
+1479,1982,Switzerland,0,0.0
+1480,1982,Tajikistan,0,0.0
+1481,1982,Thailand,0,0.0
+1482,1982,Togo,0,0.0
+1483,1982,Tunisia,0,0.0
+1484,1982,Turkey,0,0.0
+1485,1982,Turkmenistan,16,0.0
+1486,1982,Uganda,0,0.0
+1487,1982,Ukraine,0,0.0
+1488,1982,United Arab Emirates,0,0.0
+1489,1982,United States of America,158,9.0
+1490,1982,Uruguay,0,0.0
+1491,1982,Uzbekistan,0,0.0
+1492,1982,Vanuatu,0,0.0
+5647,1982,Worldwide,350,403.0
+1493,1982,Yemen,0,0.0
+1494,1982,Zimbabwe,0,0.0
+1495,1983,Afghanistan,0,0.0
+1496,1983,Algeria,0,0.0
+1497,1983,Angola,130,0.0
+1498,1983,Antigua and Barbuda,0,0.0
+1499,1983,Argentina,0,0.0
+1500,1983,Armenia,0,0.0
+1501,1983,Australia,0,0.0
+1502,1983,Austria,0,0.0
+1503,1983,Azerbaijan,0,0.0
+1504,1983,Bahamas,0,0.0
+1505,1983,Bahrain,0,0.0
+1506,1983,Bangladesh,0,0.0
+1507,1983,Belarus,0,0.0
+1508,1983,Belgium,0,0.0
+1509,1983,Belize,0,0.0
+1510,1983,Botswana,0,0.0
+1511,1983,Brazil,7,8.0
+1512,1983,Bulgaria,0,0.0
+1513,1983,Cambodia,0,0.0
+1514,1983,Cameroon,0,0.0
+1515,1983,Canada,4,12.0
+1516,1983,Chile,0,0.0
+1517,1983,China,11,95.0
+1518,1983,Colombia,3,0.0
+1519,1983,Congo,0,0.0
+1520,1983,Costa Rica,0,0.0
+1521,1983,Croatia,0,0.0
+1522,1983,Cuba,0,0.0
+1523,1983,Denmark,0,0.0
+1524,1983,Dominican Republic,0,0.0
+1525,1983,Ecuador,0,0.0
+1526,1983,Egypt,0,0.0
+1527,1983,Equatorial Guinea,0,0.0
+1528,1983,Ethiopia,0,0.0
+1529,1983,Fiji,0,0.0
+1530,1983,France,0,0.0
+1531,1983,Gabon,0,0.0
+1532,1983,Georgia,0,0.0
+1533,1983,Germany,0,0.0
+1534,1983,Ghana,0,0.0
+1535,1983,Greece,0,0.0
+1536,1983,Guatemala,0,0.0
+1537,1983,Guinea,0,0.0
+1538,1983,Guyana,0,0.0
+1539,1983,Haiti,0,0.0
+1540,1983,Honduras,0,0.0
+1541,1983,Hungary,0,0.0
+1542,1983,Iceland,0,0.0
+1543,1983,India,0,0.0
+1544,1983,Indonesia,0,0.0
+1545,1983,Ireland,0,0.0
+1546,1983,Israel,0,0.0
+1547,1983,Italy,0,89.0
+1548,1983,Japan,0,3.0
+1549,1983,Jordan,0,0.0
+1550,1983,Kazakhstan,0,0.0
+1551,1983,Kenya,0,0.0
+1552,1983,Kyrgyzstan,0,0.0
+1553,1983,Latvia,0,0.0
+1554,1983,Lebanon,0,0.0
+1555,1983,Lesotho,0,0.0
+1556,1983,Libya,0,0.0
+1557,1983,Lithuania,0,0.0
+1558,1983,Luxembourg,0,0.0
+1559,1983,Malawi,0,0.0
+1560,1983,Malaysia,0,0.0
+1561,1983,Maldives,0,0.0
+1562,1983,Mexico,0,0.0
+1563,1983,Mongolia,0,0.0
+1564,1983,Morocco,0,0.0
+1565,1983,Mozambique,0,0.0
+1566,1983,Myanmar,0,0.0
+1567,1983,Nepal,0,0.0
+1568,1983,Netherlands,0,0.0
+1569,1983,New Zealand,0,0.0
+1570,1983,Nicaragua,0,0.0
+1571,1983,Nigeria,53,19.0
+1572,1983,Norway,0,0.0
+1573,1983,Pakistan,0,0.0
+1574,1983,Panama,0,0.0
+1575,1983,Papua New Guinea,0,0.0
+1576,1983,Paraguay,0,0.0
+1577,1983,Peru,0,0.0
+1578,1983,Philippines,0,0.0
+1579,1983,Poland,0,0.0
+1580,1983,Portugal,0,0.0
+1581,1983,Romania,0,0.0
+1582,1983,Saudi Arabia,0,0.0
+1583,1983,Senegal,0,0.0
+1584,1983,Sierra Leone,0,0.0
+1585,1983,Singapore,0,0.0
+1586,1983,Slovakia,0,0.0
+1587,1983,Slovenia,0,0.0
+1588,1983,Somalia,0,0.0
+1589,1983,South Africa,0,0.0
+1590,1983,Spain,51,42.0
+1591,1983,Sri Lanka,0,0.0
+1592,1983,Sudan,0,0.0
+1593,1983,Sweden,0,0.0
+1594,1983,Switzerland,0,0.0
+1595,1983,Tajikistan,0,0.0
+1596,1983,Thailand,0,0.0
+1597,1983,Togo,0,0.0
+1598,1983,Tunisia,0,0.0
+1599,1983,Turkey,0,0.0
+1600,1983,Turkmenistan,0,0.0
+1601,1983,Uganda,0,0.0
+1602,1983,Ukraine,0,0.0
+1603,1983,United Arab Emirates,0,0.0
+1604,1983,United States of America,0,864.0
+1605,1983,Uruguay,0,0.0
+1606,1983,Uzbekistan,0,0.0
+1607,1983,Vanuatu,0,0.0
+5648,1983,Worldwide,259,1132.0
+1608,1983,Yemen,0,0.0
+1609,1983,Zimbabwe,0,0.0
+1610,1984,Afghanistan,0,0.0
+1611,1984,Algeria,0,0.0
+1612,1984,Angola,0,0.0
+1613,1984,Antigua and Barbuda,0,0.0
+1614,1984,Argentina,0,0.0
+1615,1984,Armenia,0,0.0
+1616,1984,Australia,0,13.0
+1617,1984,Austria,0,0.0
+1618,1984,Azerbaijan,0,0.0
+1619,1984,Bahamas,0,0.0
+1620,1984,Bahrain,0,0.0
+1621,1984,Bangladesh,0,0.0
+1622,1984,Belarus,0,0.0
+1623,1984,Belgium,0,0.0
+1624,1984,Belize,0,0.0
+1625,1984,Botswana,0,0.0
+1626,1984,Brazil,0,0.0
+1627,1984,Bulgaria,0,0.0
+1628,1984,Cambodia,0,0.0
+1629,1984,Cameroon,0,0.0
+1630,1984,Canada,2,0.0
+1631,1984,Chile,0,0.0
+1632,1984,China,0,0.0
+1633,1984,Colombia,0,0.0
+1634,1984,Congo,0,0.0
+1635,1984,Costa Rica,0,0.0
+1636,1984,Croatia,0,0.0
+1637,1984,Cuba,0,0.0
+1638,1984,Denmark,0,0.0
+1639,1984,Dominican Republic,0,0.0
+1640,1984,Ecuador,4,0.0
+1641,1984,Egypt,0,0.0
+1642,1984,Equatorial Guinea,0,0.0
+1643,1984,Ethiopia,0,0.0
+1644,1984,Fiji,0,0.0
+1645,1984,France,6,0.0
+1646,1984,Gabon,0,0.0
+1647,1984,Georgia,0,0.0
+1648,1984,Germany,0,0.0
+1649,1984,Ghana,0,0.0
+1650,1984,Greece,0,0.0
+1651,1984,Guatemala,0,0.0
+1652,1984,Guinea,0,0.0
+1653,1984,Guyana,0,0.0
+1654,1984,Haiti,0,0.0
+1655,1984,Honduras,0,0.0
+1656,1984,Hungary,0,0.0
+1657,1984,Iceland,0,0.0
+1658,1984,India,0,0.0
+1659,1984,Indonesia,0,0.0
+1660,1984,Ireland,0,0.0
+1661,1984,Israel,0,0.0
+1662,1984,Italy,0,0.0
+1663,1984,Japan,0,0.0
+1664,1984,Jordan,0,0.0
+1665,1984,Kazakhstan,0,0.0
+1666,1984,Kenya,0,0.0
+1667,1984,Kyrgyzstan,0,0.0
+1668,1984,Latvia,0,0.0
+1669,1984,Lebanon,0,0.0
+1670,1984,Lesotho,0,0.0
+1671,1984,Libya,0,0.0
+1672,1984,Lithuania,0,0.0
+1673,1984,Luxembourg,0,0.0
+1674,1984,Malawi,0,0.0
+1675,1984,Malaysia,0,0.0
+1676,1984,Maldives,0,0.0
+1677,1984,Mexico,0,0.0
+1678,1984,Mongolia,0,0.0
+1679,1984,Morocco,0,0.0
+1680,1984,Mozambique,0,0.0
+1681,1984,Myanmar,0,0.0
+1682,1984,Nepal,0,0.0
+1683,1984,Netherlands,0,0.0
+1684,1984,New Zealand,0,0.0
+1685,1984,Nicaragua,0,0.0
+1686,1984,Nigeria,0,0.0
+1687,1984,Norway,0,0.0
+1688,1984,Pakistan,0,0.0
+1689,1984,Panama,0,0.0
+1690,1984,Papua New Guinea,0,0.0
+1691,1984,Paraguay,0,0.0
+1692,1984,Peru,0,0.0
+1693,1984,Philippines,0,0.0
+1694,1984,Poland,11,15.0
+1695,1984,Portugal,0,0.0
+1696,1984,Romania,0,0.0
+1697,1984,Saudi Arabia,0,0.0
+1698,1984,Senegal,0,0.0
+1699,1984,Sierra Leone,0,0.0
+1700,1984,Singapore,0,0.0
+1701,1984,Slovakia,0,0.0
+1702,1984,Slovenia,0,0.0
+1703,1984,Somalia,0,108.0
+1704,1984,South Africa,0,0.0
+1705,1984,Spain,0,0.0
+1706,1984,Sri Lanka,0,0.0
+1707,1984,Sudan,0,0.0
+1708,1984,Sweden,0,0.0
+1709,1984,Switzerland,0,0.0
+1710,1984,Tajikistan,0,0.0
+1711,1984,Thailand,0,0.0
+1712,1984,Togo,0,0.0
+1713,1984,Tunisia,0,0.0
+1714,1984,Turkey,0,0.0
+1715,1984,Turkmenistan,0,0.0
+1716,1984,Uganda,0,0.0
+1717,1984,Ukraine,0,0.0
+1718,1984,United Arab Emirates,0,0.0
+1719,1984,United States of America,5,8.0
+1720,1984,Uruguay,0,0.0
+1721,1984,Uzbekistan,0,0.0
+1722,1984,Vanuatu,0,0.0
+5649,1984,Worldwide,28,144.0
+1723,1984,Yemen,0,0.0
+1724,1984,Zimbabwe,0,0.0
+1725,1985,Afghanistan,52,0.0
+1726,1985,Algeria,0,0.0
+1727,1985,Angola,0,0.0
+1728,1985,Antigua and Barbuda,0,0.0
+1729,1985,Argentina,0,0.0
+1730,1985,Armenia,0,0.0
+1731,1985,Australia,2,0.0
+1732,1985,Austria,0,0.0
+1733,1985,Azerbaijan,0,0.0
+1734,1985,Bahamas,0,0.0
+1735,1985,Bahrain,0,0.0
+1736,1985,Bangladesh,0,0.0
+1737,1985,Belarus,0,0.0
+1738,1985,Belgium,0,0.0
+1739,1985,Belize,0,0.0
+1740,1985,Botswana,0,0.0
+1741,1985,Brazil,17,0.0
+1742,1985,Bulgaria,0,0.0
+1743,1985,Cambodia,0,0.0
+1744,1985,Cameroon,0,0.0
+1745,1985,Canada,0,0.0
+1746,1985,Chile,0,0.0
+1747,1985,China,0,0.0
+1748,1985,Colombia,0,0.0
+1749,1985,Congo,0,0.0
+1750,1985,Costa Rica,0,0.0
+1751,1985,Croatia,0,0.0
+1752,1985,Cuba,0,0.0
+1753,1985,Denmark,0,0.0
+1754,1985,Dominican Republic,0,0.0
+1755,1985,Ecuador,0,0.0
+1756,1985,Egypt,60,38.0
+1757,1985,Equatorial Guinea,0,0.0
+1758,1985,Ethiopia,0,0.0
+1759,1985,Fiji,0,0.0
+1760,1985,France,0,0.0
+1761,1985,Gabon,0,0.0
+1762,1985,Georgia,0,0.0
+1763,1985,Germany,0,0.0
+1764,1985,Ghana,0,0.0
+1765,1985,Greece,0,0.0
+1766,1985,Guatemala,0,0.0
+1767,1985,Guinea,0,0.0
+1768,1985,Guyana,0,0.0
+1769,1985,Haiti,0,0.0
+1770,1985,Honduras,0,0.0
+1771,1985,Hungary,0,0.0
+1772,1985,Iceland,0,0.0
+1773,1985,India,329,0.0
+1774,1985,Indonesia,0,45.0
+1775,1985,Ireland,0,123.0
+1776,1985,Israel,0,0.0
+1777,1985,Italy,0,0.0
+1778,1985,Japan,0,0.0
+1779,1985,Jordan,0,0.0
+1780,1985,Kazakhstan,0,0.0
+1781,1985,Kenya,0,0.0
+1782,1985,Kyrgyzstan,0,0.0
+1783,1985,Latvia,0,0.0
+1784,1985,Lebanon,0,0.0
+1785,1985,Lesotho,0,0.0
+1786,1985,Libya,0,0.0
+1787,1985,Lithuania,0,0.0
+1788,1985,Luxembourg,0,0.0
+1789,1985,Malawi,0,0.0
+1790,1985,Malaysia,0,0.0
+1791,1985,Maldives,0,0.0
+1792,1985,Mexico,0,0.0
+1793,1985,Mongolia,0,0.0
+1794,1985,Morocco,0,0.0
+1795,1985,Mozambique,0,0.0
+1796,1985,Myanmar,0,0.0
+1797,1985,Nepal,0,0.0
+1798,1985,Netherlands,0,0.0
+1799,1985,New Zealand,0,0.0
+1800,1985,Nicaragua,0,0.0
+1801,1985,Nigeria,0,0.0
+1802,1985,Norway,0,0.0
+1803,1985,Pakistan,0,0.0
+1804,1985,Panama,0,0.0
+1805,1985,Papua New Guinea,0,0.0
+1806,1985,Paraguay,0,0.0
+1807,1985,Peru,0,0.0
+1808,1985,Philippines,0,0.0
+1809,1985,Poland,0,0.0
+1810,1985,Portugal,0,0.0
+1811,1985,Romania,0,0.0
+1812,1985,Saudi Arabia,0,0.0
+1813,1985,Senegal,0,0.0
+1814,1985,Sierra Leone,0,0.0
+1815,1985,Singapore,0,0.0
+1816,1985,Slovakia,0,0.0
+1817,1985,Slovenia,0,0.0
+1818,1985,Somalia,0,0.0
+1819,1985,South Africa,0,0.0
+1820,1985,Spain,0,0.0
+1821,1985,Sri Lanka,0,0.0
+1822,1985,Sudan,0,0.0
+1823,1985,Sweden,0,0.0
+1824,1985,Switzerland,0,0.0
+1825,1985,Tajikistan,0,0.0
+1826,1985,Thailand,0,0.0
+1827,1985,Togo,0,0.0
+1828,1985,Tunisia,0,0.0
+1829,1985,Turkey,0,0.0
+1830,1985,Turkmenistan,0,0.0
+1831,1985,Uganda,0,0.0
+1832,1985,Ukraine,0,0.0
+1833,1985,United Arab Emirates,0,0.0
+1834,1985,United States of America,191,278.0
+1835,1985,Uruguay,0,0.0
+1836,1985,Uzbekistan,0,0.0
+1837,1985,Vanuatu,0,0.0
+5650,1985,Worldwide,651,484.0
+1838,1985,Yemen,0,0.0
+1839,1985,Zimbabwe,0,0.0
+1840,1986,Afghanistan,0,0.0
+1841,1986,Algeria,0,0.0
+1842,1986,Angola,0,0.0
+1843,1986,Antigua and Barbuda,13,0.0
+1844,1986,Argentina,0,0.0
+1845,1986,Armenia,0,0.0
+1846,1986,Australia,0,0.0
+1847,1986,Austria,0,0.0
+1848,1986,Azerbaijan,0,0.0
+1849,1986,Bahamas,0,0.0
+1850,1986,Bahrain,0,0.0
+1851,1986,Bangladesh,0,0.0
+1852,1986,Belarus,0,0.0
+1853,1986,Belgium,0,0.0
+1854,1986,Belize,0,0.0
+1855,1986,Botswana,0,0.0
+1856,1986,Brazil,0,0.0
+1857,1986,Bulgaria,0,0.0
+1858,1986,Cambodia,0,0.0
+1859,1986,Cameroon,0,0.0
+1860,1986,Canada,0,64.0
+1861,1986,Chile,0,0.0
+1862,1986,China,0,0.0
+1863,1986,Colombia,0,0.0
+1864,1986,Congo,0,0.0
+1865,1986,Costa Rica,0,0.0
+1866,1986,Croatia,0,0.0
+1867,1986,Cuba,0,0.0
+1868,1986,Denmark,0,0.0
+1869,1986,Dominican Republic,0,0.0
+1870,1986,Ecuador,0,0.0
+1871,1986,Egypt,0,0.0
+1872,1986,Equatorial Guinea,0,0.0
+1873,1986,Ethiopia,0,0.0
+1874,1986,Fiji,1,2.0
+1875,1986,France,0,0.0
+1876,1986,Gabon,0,0.0
+1877,1986,Georgia,0,0.0
+1878,1986,Germany,0,0.0
+1879,1986,Ghana,0,0.0
+1880,1986,Greece,0,0.0
+1881,1986,Guatemala,0,0.0
+1882,1986,Guinea,0,0.0
+1883,1986,Guyana,0,0.0
+1884,1986,Haiti,0,0.0
+1885,1986,Honduras,0,0.0
+1886,1986,Hungary,0,0.0
+1887,1986,Iceland,0,0.0
+1888,1986,India,0,0.0
+1889,1986,Indonesia,0,0.0
+1890,1986,Ireland,0,0.0
+1891,1986,Israel,0,0.0
+1892,1986,Italy,0,0.0
+1893,1986,Japan,4,0.0
+1894,1986,Jordan,0,0.0
+1895,1986,Kazakhstan,0,0.0
+1896,1986,Kenya,0,0.0
+1897,1986,Kyrgyzstan,0,0.0
+1898,1986,Latvia,0,0.0
+1899,1986,Lebanon,0,0.0
+1900,1986,Lesotho,0,0.0
+1901,1986,Libya,0,0.0
+1902,1986,Lithuania,0,0.0
+1903,1986,Luxembourg,0,0.0
+1904,1986,Malawi,0,0.0
+1905,1986,Malaysia,0,0.0
+1906,1986,Maldives,0,0.0
+1907,1986,Mexico,0,0.0
+1908,1986,Mongolia,0,0.0
+1909,1986,Morocco,0,0.0
+1910,1986,Mozambique,34,10.0
+1911,1986,Myanmar,0,0.0
+1912,1986,Nepal,0,0.0
+1913,1986,Netherlands,0,0.0
+1914,1986,New Zealand,0,0.0
+1915,1986,Nicaragua,0,0.0
+1916,1986,Nigeria,0,0.0
+1917,1986,Norway,0,0.0
+1918,1986,Pakistan,13,41.0
+1919,1986,Panama,0,0.0
+1920,1986,Papua New Guinea,0,0.0
+1921,1986,Paraguay,0,0.0
+1922,1986,Peru,0,0.0
+1923,1986,Philippines,0,0.0
+1924,1986,Poland,0,0.0
+1925,1986,Portugal,0,0.0
+1926,1986,Romania,3,52.0
+1927,1986,Saudi Arabia,0,0.0
+1928,1986,Senegal,0,0.0
+1929,1986,Sierra Leone,0,0.0
+1930,1986,Singapore,0,0.0
+1931,1986,Slovakia,0,0.0
+1932,1986,Slovenia,0,0.0
+1933,1986,Somalia,0,0.0
+1934,1986,South Africa,0,0.0
+1935,1986,Spain,0,0.0
+1936,1986,Sri Lanka,0,0.0
+1937,1986,Sudan,0,0.0
+1938,1986,Sweden,0,0.0
+1939,1986,Switzerland,0,0.0
+1940,1986,Tajikistan,0,0.0
+1941,1986,Thailand,0,0.0
+1942,1986,Togo,0,0.0
+1943,1986,Tunisia,0,0.0
+1944,1986,Turkey,0,0.0
+1945,1986,Turkmenistan,0,0.0
+1946,1986,Uganda,0,0.0
+1947,1986,Ukraine,0,0.0
+1948,1986,United Arab Emirates,0,0.0
+1949,1986,United States of America,8,260.0
+1950,1986,Uruguay,0,0.0
+1951,1986,Uzbekistan,0,0.0
+1952,1986,Vanuatu,0,0.0
+5651,1986,Worldwide,76,429.0
+1953,1986,Yemen,0,0.0
+1954,1986,Zimbabwe,0,0.0
+1955,1987,Afghanistan,53,2.0
+1956,1987,Algeria,0,0.0
+1957,1987,Angola,0,0.0
+1958,1987,Antigua and Barbuda,0,0.0
+1959,1987,Argentina,0,0.0
+1960,1987,Armenia,0,0.0
+1961,1987,Australia,0,0.0
+1962,1987,Austria,0,0.0
+1963,1987,Azerbaijan,0,0.0
+1964,1987,Bahamas,0,0.0
+1965,1987,Bahrain,0,0.0
+1966,1987,Bangladesh,0,0.0
+1967,1987,Belarus,0,0.0
+1968,1987,Belgium,0,0.0
+1969,1987,Belize,0,0.0
+1970,1987,Botswana,0,0.0
+1971,1987,Brazil,9,0.0
+1972,1987,Bulgaria,0,0.0
+1973,1987,Cambodia,0,0.0
+1974,1987,Cameroon,0,0.0
+1975,1987,Canada,4,4.0
+1976,1987,Chile,1,32.0
+1977,1987,China,0,0.0
+1978,1987,Colombia,0,0.0
+1979,1987,Congo,0,0.0
+1980,1987,Costa Rica,0,0.0
+1981,1987,Croatia,0,0.0
+1982,1987,Cuba,0,0.0
+1983,1987,Denmark,0,0.0
+1984,1987,Dominican Republic,0,0.0
+1985,1987,Ecuador,0,0.0
+1986,1987,Egypt,5,0.0
+1987,1987,Equatorial Guinea,0,0.0
+1988,1987,Ethiopia,0,0.0
+1989,1987,Fiji,0,0.0
+1990,1987,France,0,0.0
+1991,1987,Gabon,0,0.0
+1992,1987,Georgia,0,0.0
+1993,1987,Germany,0,0.0
+1994,1987,Ghana,0,0.0
+1995,1987,Greece,0,0.0
+1996,1987,Guatemala,0,0.0
+1997,1987,Guinea,0,0.0
+1998,1987,Guyana,0,0.0
+1999,1987,Haiti,0,0.0
+2000,1987,Honduras,0,0.0
+2001,1987,Hungary,0,0.0
+2002,1987,Iceland,0,0.0
+2003,1987,India,0,0.0
+2004,1987,Indonesia,0,0.0
+2005,1987,Ireland,0,0.0
+2006,1987,Israel,0,0.0
+2007,1987,Italy,37,0.0
+2008,1987,Japan,0,0.0
+2009,1987,Jordan,0,0.0
+2010,1987,Kazakhstan,0,0.0
+2011,1987,Kenya,0,0.0
+2012,1987,Kyrgyzstan,0,0.0
+2013,1987,Latvia,0,0.0
+2014,1987,Lebanon,0,0.0
+2015,1987,Lesotho,0,0.0
+2016,1987,Libya,0,0.0
+2017,1987,Lithuania,0,0.0
+2018,1987,Luxembourg,0,0.0
+2019,1987,Malawi,0,0.0
+2020,1987,Malaysia,0,0.0
+2021,1987,Maldives,0,0.0
+2022,1987,Mexico,0,0.0
+2023,1987,Mongolia,0,0.0
+2024,1987,Morocco,0,0.0
+2025,1987,Mozambique,0,0.0
+2026,1987,Myanmar,45,0.0
+2027,1987,Nepal,0,0.0
+2028,1987,Netherlands,0,12.0
+2029,1987,New Zealand,2,1.0
+2030,1987,Nicaragua,0,0.0
+2031,1987,Nigeria,0,0.0
+2032,1987,Norway,0,0.0
+2033,1987,Pakistan,0,0.0
+2034,1987,Panama,0,0.0
+2035,1987,Papua New Guinea,0,0.0
+2036,1987,Paraguay,0,0.0
+2037,1987,Peru,88,1.0
+2038,1987,Philippines,50,0.0
+2039,1987,Poland,0,0.0
+2040,1987,Portugal,0,0.0
+2041,1987,Romania,0,0.0
+2042,1987,Saudi Arabia,0,0.0
+2043,1987,Senegal,0,0.0
+2044,1987,Sierra Leone,0,0.0
+2045,1987,Singapore,0,0.0
+2046,1987,Slovakia,0,0.0
+2047,1987,Slovenia,0,0.0
+2048,1987,Somalia,0,0.0
+2049,1987,South Africa,0,0.0
+2050,1987,Spain,0,0.0
+2051,1987,Sri Lanka,0,0.0
+2052,1987,Sudan,0,0.0
+2053,1987,Sweden,0,0.0
+2054,1987,Switzerland,6,0.0
+2055,1987,Tajikistan,0,0.0
+2056,1987,Thailand,0,0.0
+2057,1987,Togo,0,0.0
+2058,1987,Tunisia,0,0.0
+2059,1987,Turkey,0,0.0
+2060,1987,Turkmenistan,0,0.0
+2061,1987,Uganda,0,0.0
+2062,1987,Ukraine,0,0.0
+2063,1987,United Arab Emirates,0,0.0
+2064,1987,United States of America,92,351.0
+2065,1987,Uruguay,0,0.0
+2066,1987,Uzbekistan,0,0.0
+2067,1987,Vanuatu,0,0.0
+5652,1987,Worldwide,392,403.0
+2068,1987,Yemen,0,0.0
+2069,1987,Zimbabwe,0,0.0
+2070,1988,Afghanistan,0,0.0
+2071,1988,Algeria,0,0.0
+2072,1988,Angola,6,0.0
+2073,1988,Antigua and Barbuda,0,0.0
+2074,1988,Argentina,0,0.0
+2075,1988,Armenia,0,168.0
+2076,1988,Australia,0,0.0
+2077,1988,Austria,2,0.0
+2078,1988,Azerbaijan,0,0.0
+2079,1988,Bahamas,0,0.0
+2080,1988,Bahrain,0,0.0
+2081,1988,Bangladesh,0,0.0
+2082,1988,Belarus,0,0.0
+2083,1988,Belgium,0,0.0
+2084,1988,Belize,0,0.0
+2085,1988,Botswana,0,0.0
+2086,1988,Brazil,0,0.0
+2087,1988,Bulgaria,29,8.0
+2088,1988,Cambodia,0,0.0
+2089,1988,Cameroon,0,0.0
+2090,1988,Canada,2,0.0
+2091,1988,Chile,0,0.0
+2092,1988,China,7,82.0
+2093,1988,Colombia,3,5.0
+2094,1988,Congo,0,0.0
+2095,1988,Costa Rica,0,0.0
+2096,1988,Croatia,0,0.0
+2097,1988,Cuba,0,0.0
+2098,1988,Denmark,0,0.0
+2099,1988,Dominican Republic,0,0.0
+2100,1988,Ecuador,0,0.0
+2101,1988,Egypt,0,0.0
+2102,1988,Equatorial Guinea,0,0.0
+2103,1988,Ethiopia,0,0.0
+2104,1988,Fiji,0,0.0
+2105,1988,France,4,0.0
+2106,1988,Gabon,0,0.0
+2107,1988,Georgia,0,0.0
+2108,1988,Germany,0,0.0
+2109,1988,Ghana,0,0.0
+2110,1988,Greece,0,0.0
+2111,1988,Guatemala,0,0.0
+2112,1988,Guinea,0,0.0
+2113,1988,Guyana,0,0.0
+2114,1988,Haiti,0,0.0
+2115,1988,Honduras,0,0.0
+2116,1988,Hungary,0,0.0
+2117,1988,Iceland,0,0.0
+2118,1988,India,133,100.0
+2119,1988,Indonesia,0,0.0
+2120,1988,Ireland,0,0.0
+2121,1988,Israel,0,0.0
+2122,1988,Italy,0,0.0
+2123,1988,Japan,0,0.0
+2124,1988,Jordan,0,0.0
+2125,1988,Kazakhstan,0,0.0
+2126,1988,Kenya,0,43.0
+2127,1988,Kyrgyzstan,0,0.0
+2128,1988,Latvia,0,0.0
+2129,1988,Lebanon,0,0.0
+2130,1988,Lesotho,0,0.0
+2131,1988,Libya,0,0.0
+2132,1988,Lithuania,0,0.0
+2133,1988,Luxembourg,0,0.0
+2134,1988,Malawi,0,0.0
+2135,1988,Malaysia,0,0.0
+2136,1988,Maldives,0,0.0
+2137,1988,Mexico,0,0.0
+2138,1988,Mongolia,0,0.0
+2139,1988,Morocco,0,0.0
+2140,1988,Mozambique,0,0.0
+2141,1988,Myanmar,0,0.0
+2142,1988,Nepal,0,0.0
+2143,1988,Netherlands,0,0.0
+2144,1988,New Zealand,0,0.0
+2145,1988,Nicaragua,0,0.0
+2146,1988,Nigeria,0,0.0
+2147,1988,Norway,0,0.0
+2148,1988,Pakistan,0,0.0
+2149,1988,Panama,0,0.0
+2150,1988,Papua New Guinea,0,0.0
+2151,1988,Paraguay,0,0.0
+2152,1988,Peru,0,0.0
+2153,1988,Philippines,0,16.0
+2154,1988,Poland,0,0.0
+2155,1988,Portugal,0,0.0
+2156,1988,Romania,0,0.0
+2157,1988,Saudi Arabia,0,0.0
+2158,1988,Senegal,0,0.0
+2159,1988,Sierra Leone,0,0.0
+2160,1988,Singapore,0,0.0
+2161,1988,Slovakia,0,0.0
+2162,1988,Slovenia,0,0.0
+2163,1988,Somalia,0,0.0
+2164,1988,South Africa,0,0.0
+2165,1988,Spain,0,0.0
+2166,1988,Sri Lanka,0,0.0
+2167,1988,Sudan,0,0.0
+2168,1988,Sweden,0,0.0
+2169,1988,Switzerland,0,0.0
+2170,1988,Tajikistan,0,0.0
+2171,1988,Thailand,0,0.0
+2172,1988,Togo,0,0.0
+2173,1988,Tunisia,0,0.0
+2174,1988,Turkey,0,0.0
+2175,1988,Turkmenistan,0,0.0
+2176,1988,Uganda,0,0.0
+2177,1988,Ukraine,0,0.0
+2178,1988,United Arab Emirates,0,0.0
+2179,1988,United States of America,3,283.0
+2180,1988,Uruguay,0,0.0
+2181,1988,Uzbekistan,0,0.0
+2182,1988,Vanuatu,0,0.0
+5653,1988,Worldwide,189,705.0
+2183,1988,Yemen,0,0.0
+2184,1988,Zimbabwe,0,0.0
+2185,1989,Afghanistan,0,0.0
+2186,1989,Algeria,0,0.0
+2187,1989,Angola,0,0.0
+2188,1989,Antigua and Barbuda,0,0.0
+2189,1989,Argentina,0,65.0
+2190,1989,Armenia,0,0.0
+2191,1989,Australia,4,0.0
+2192,1989,Austria,0,0.0
+2193,1989,Azerbaijan,0,0.0
+2194,1989,Bahamas,0,0.0
+2195,1989,Bahrain,0,0.0
+2196,1989,Bangladesh,0,0.0
+2197,1989,Belarus,0,0.0
+2198,1989,Belgium,0,0.0
+2199,1989,Belize,0,0.0
+2200,1989,Botswana,0,0.0
+2201,1989,Brazil,4,0.0
+2202,1989,Bulgaria,0,0.0
+2203,1989,Cambodia,0,0.0
+2204,1989,Cameroon,3,44.0
+2205,1989,Canada,4,13.0
+2206,1989,Chile,0,0.0
+2207,1989,China,0,0.0
+2208,1989,Colombia,6,0.0
+2209,1989,Congo,0,0.0
+2210,1989,Costa Rica,0,0.0
+2211,1989,Croatia,0,0.0
+2212,1989,Cuba,0,0.0
+2213,1989,Denmark,0,0.0
+2214,1989,Dominican Republic,0,0.0
+2215,1989,Ecuador,0,99.0
+2216,1989,Egypt,0,0.0
+2217,1989,Equatorial Guinea,0,0.0
+2218,1989,Ethiopia,0,0.0
+2219,1989,Fiji,0,0.0
+2220,1989,France,170,142.0
+2221,1989,Gabon,0,0.0
+2222,1989,Georgia,0,0.0
+2223,1989,Germany,0,0.0
+2224,1989,Ghana,0,0.0
+2225,1989,Greece,0,0.0
+2226,1989,Guatemala,0,0.0
+2227,1989,Guinea,0,0.0
+2228,1989,Guyana,0,0.0
+2229,1989,Haiti,0,0.0
+2230,1989,Honduras,0,0.0
+2231,1989,Hungary,0,0.0
+2232,1989,Iceland,0,0.0
+2233,1989,India,11,0.0
+2234,1989,Indonesia,0,0.0
+2235,1989,Ireland,0,0.0
+2236,1989,Israel,0,0.0
+2237,1989,Italy,0,0.0
+2238,1989,Japan,0,0.0
+2239,1989,Jordan,0,0.0
+2240,1989,Kazakhstan,0,0.0
+2241,1989,Kenya,0,0.0
+2242,1989,Kyrgyzstan,0,43.0
+2243,1989,Latvia,0,0.0
+2244,1989,Lebanon,0,0.0
+2245,1989,Lesotho,0,0.0
+2246,1989,Libya,0,0.0
+2247,1989,Lithuania,0,0.0
+2248,1989,Luxembourg,0,0.0
+2249,1989,Malawi,0,0.0
+2250,1989,Malaysia,0,0.0
+2251,1989,Maldives,0,0.0
+2252,1989,Mexico,0,0.0
+2253,1989,Mongolia,0,0.0
+2254,1989,Morocco,0,0.0
+2255,1989,Mozambique,0,0.0
+2256,1989,Myanmar,0,0.0
+2257,1989,Nepal,0,0.0
+2258,1989,Netherlands,0,0.0
+2259,1989,New Zealand,10,0.0
+2260,1989,Nicaragua,0,0.0
+2261,1989,Nigeria,0,92.0
+2262,1989,Norway,55,0.0
+2263,1989,Pakistan,54,0.0
+2264,1989,Panama,0,0.0
+2265,1989,Papua New Guinea,0,0.0
+2266,1989,Paraguay,0,0.0
+2267,1989,Peru,59,0.0
+2268,1989,Philippines,0,0.0
+2269,1989,Poland,0,0.0
+2270,1989,Portugal,0,0.0
+2271,1989,Romania,7,0.0
+2272,1989,Saudi Arabia,0,0.0
+2273,1989,Senegal,0,0.0
+2274,1989,Sierra Leone,0,0.0
+2275,1989,Singapore,0,0.0
+2276,1989,Slovakia,0,0.0
+2277,1989,Slovenia,0,0.0
+2278,1989,Somalia,0,0.0
+2279,1989,South Africa,0,0.0
+2280,1989,Spain,0,0.0
+2281,1989,Sri Lanka,0,0.0
+2282,1989,Sudan,0,0.0
+2283,1989,Sweden,0,0.0
+2284,1989,Switzerland,0,0.0
+2285,1989,Tajikistan,0,0.0
+2286,1989,Thailand,0,0.0
+2287,1989,Togo,0,0.0
+2288,1989,Tunisia,0,0.0
+2289,1989,Turkey,0,165.0
+2290,1989,Turkmenistan,0,0.0
+2291,1989,Uganda,0,0.0
+2292,1989,Ukraine,0,0.0
+2293,1989,United Arab Emirates,0,0.0
+2294,1989,United States of America,130,320.0
+2295,1989,Uruguay,0,0.0
+2296,1989,Uzbekistan,0,0.0
+2297,1989,Vanuatu,0,0.0
+5654,1989,Worldwide,517,983.0
+2298,1989,Yemen,0,0.0
+2299,1989,Zimbabwe,0,0.0
+2300,1990,Afghanistan,0,0.0
+2301,1990,Algeria,0,0.0
+2302,1990,Angola,0,0.0
+2303,1990,Antigua and Barbuda,0,0.0
+2304,1990,Argentina,0,0.0
+2305,1990,Armenia,0,0.0
+2306,1990,Australia,0,0.0
+2307,1990,Austria,0,0.0
+2308,1990,Azerbaijan,0,0.0
+2309,1990,Bahamas,0,0.0
+2310,1990,Bahrain,0,0.0
+2311,1990,Bangladesh,0,0.0
+2312,1990,Belarus,0,0.0
+2313,1990,Belgium,0,2.0
+2314,1990,Belize,0,0.0
+2315,1990,Botswana,0,0.0
+2316,1990,Brazil,31,21.0
+2317,1990,Bulgaria,0,0.0
+2318,1990,Cambodia,0,0.0
+2319,1990,Cameroon,0,0.0
+2320,1990,Canada,0,0.0
+2321,1990,Chile,0,0.0
+2322,1990,China,46,77.0
+2323,1990,Colombia,2,7.0
+2324,1990,Congo,0,0.0
+2325,1990,Costa Rica,0,0.0
+2326,1990,Croatia,0,0.0
+2327,1990,Cuba,0,0.0
+2328,1990,Denmark,0,0.0
+2329,1990,Dominican Republic,0,0.0
+2330,1990,Ecuador,0,0.0
+2331,1990,Egypt,0,0.0
+2332,1990,Equatorial Guinea,0,0.0
+2333,1990,Ethiopia,0,4.0
+2334,1990,Fiji,0,0.0
+2335,1990,France,0,3.0
+2336,1990,Gabon,0,0.0
+2337,1990,Georgia,0,0.0
+2338,1990,Germany,3,0.0
+2339,1990,Ghana,0,0.0
+2340,1990,Greece,0,0.0
+2341,1990,Guatemala,0,0.0
+2342,1990,Guinea,0,0.0
+2343,1990,Guyana,0,0.0
+2344,1990,Haiti,0,0.0
+2345,1990,Honduras,0,0.0
+2346,1990,Hungary,0,0.0
+2347,1990,Iceland,0,0.0
+2348,1990,India,0,0.0
+2349,1990,Indonesia,0,0.0
+2350,1990,Ireland,0,0.0
+2351,1990,Israel,0,0.0
+2352,1990,Italy,0,0.0
+2353,1990,Japan,0,0.0
+2354,1990,Jordan,0,0.0
+2355,1990,Kazakhstan,0,0.0
+2356,1990,Kenya,0,0.0
+2357,1990,Kyrgyzstan,0,0.0
+2358,1990,Latvia,0,0.0
+2359,1990,Lebanon,0,0.0
+2360,1990,Lesotho,0,0.0
+2361,1990,Libya,0,0.0
+2362,1990,Lithuania,0,0.0
+2363,1990,Luxembourg,0,0.0
+2364,1990,Malawi,0,0.0
+2365,1990,Malaysia,1,39.0
+2366,1990,Maldives,0,0.0
+2367,1990,Mexico,0,0.0
+2368,1990,Mongolia,0,0.0
+2369,1990,Morocco,0,0.0
+2370,1990,Mozambique,0,0.0
+2371,1990,Myanmar,0,0.0
+2372,1990,Nepal,0,0.0
+2373,1990,Netherlands,0,0.0
+2374,1990,New Zealand,0,0.0
+2375,1990,Nicaragua,0,0.0
+2376,1990,Nigeria,0,0.0
+2377,1990,Norway,0,0.0
+2378,1990,Pakistan,0,0.0
+2379,1990,Panama,0,0.0
+2380,1990,Papua New Guinea,0,0.0
+2381,1990,Paraguay,0,0.0
+2382,1990,Peru,0,0.0
+2383,1990,Philippines,0,3.0
+2384,1990,Poland,0,0.0
+2385,1990,Portugal,0,0.0
+2386,1990,Romania,0,0.0
+2387,1990,Saudi Arabia,0,0.0
+2388,1990,Senegal,0,0.0
+2389,1990,Sierra Leone,0,0.0
+2390,1990,Singapore,0,0.0
+2391,1990,Slovakia,0,0.0
+2392,1990,Slovenia,0,0.0
+2393,1990,Somalia,0,0.0
+2394,1990,South Africa,0,0.0
+2395,1990,Spain,0,0.0
+2396,1990,Sri Lanka,0,0.0
+2397,1990,Sudan,0,0.0
+2398,1990,Sweden,0,0.0
+2399,1990,Switzerland,0,0.0
+2400,1990,Tajikistan,0,0.0
+2401,1990,Thailand,0,0.0
+2402,1990,Togo,0,0.0
+2403,1990,Tunisia,0,0.0
+2404,1990,Turkey,0,0.0
+2405,1990,Turkmenistan,0,0.0
+2406,1990,Uganda,0,0.0
+2407,1990,Ukraine,0,0.0
+2408,1990,United Arab Emirates,0,0.0
+2409,1990,United States of America,1,530.0
+2410,1990,Uruguay,0,0.0
+2411,1990,Uzbekistan,0,0.0
+2412,1990,Vanuatu,0,0.0
+5655,1990,Worldwide,84,686.0
+2413,1990,Yemen,0,0.0
+2414,1990,Zimbabwe,0,0.0
+2415,1991,Afghanistan,0,0.0
+2416,1991,Algeria,0,0.0
+2417,1991,Angola,0,0.0
+2418,1991,Antigua and Barbuda,0,0.0
+2419,1991,Argentina,0,0.0
+2420,1991,Armenia,0,0.0
+2421,1991,Australia,0,0.0
+2422,1991,Austria,0,0.0
+2423,1991,Azerbaijan,0,0.0
+2424,1991,Bahamas,0,0.0
+2425,1991,Bahrain,0,0.0
+2426,1991,Bangladesh,0,0.0
+2427,1991,Belarus,0,0.0
+2428,1991,Belgium,0,0.0
+2429,1991,Belize,0,0.0
+2430,1991,Botswana,0,0.0
+2431,1991,Brazil,15,0.0
+2432,1991,Bulgaria,0,0.0
+2433,1991,Cambodia,0,0.0
+2434,1991,Cameroon,0,0.0
+2435,1991,Canada,2,0.0
+2436,1991,Chile,0,0.0
+2437,1991,China,0,0.0
+2438,1991,Colombia,7,0.0
+2439,1991,Congo,0,0.0
+2440,1991,Costa Rica,0,0.0
+2441,1991,Croatia,0,0.0
+2442,1991,Cuba,0,112.0
+2443,1991,Denmark,0,0.0
+2444,1991,Dominican Republic,0,0.0
+2445,1991,Ecuador,0,0.0
+2446,1991,Egypt,0,0.0
+2447,1991,Equatorial Guinea,0,0.0
+2448,1991,Ethiopia,0,0.0
+2449,1991,Fiji,0,0.0
+2450,1991,France,0,0.0
+2451,1991,Gabon,0,0.0
+2452,1991,Georgia,0,0.0
+2453,1991,Germany,0,0.0
+2454,1991,Ghana,0,0.0
+2455,1991,Greece,0,0.0
+2456,1991,Guatemala,0,0.0
+2457,1991,Guinea,0,0.0
+2458,1991,Guyana,0,0.0
+2459,1991,Haiti,0,0.0
+2460,1991,Honduras,0,0.0
+2461,1991,Hungary,0,0.0
+2462,1991,Iceland,0,0.0
+2463,1991,India,69,0.0
+2464,1991,Indonesia,17,0.0
+2465,1991,Ireland,0,0.0
+2466,1991,Israel,0,0.0
+2467,1991,Italy,0,96.0
+2468,1991,Japan,0,0.0
+2469,1991,Jordan,0,0.0
+2470,1991,Kazakhstan,0,0.0
+2471,1991,Kenya,0,0.0
+2472,1991,Kyrgyzstan,0,0.0
+2473,1991,Latvia,0,0.0
+2474,1991,Lebanon,0,0.0
+2475,1991,Lesotho,0,0.0
+2476,1991,Libya,0,199.0
+2477,1991,Lithuania,0,0.0
+2478,1991,Luxembourg,0,0.0
+2479,1991,Malawi,0,0.0
+2480,1991,Malaysia,0,0.0
+2481,1991,Maldives,0,0.0
+2482,1991,Mexico,0,0.0
+2483,1991,Mongolia,0,0.0
+2484,1991,Morocco,0,0.0
+2485,1991,Mozambique,0,0.0
+2486,1991,Myanmar,0,0.0
+2487,1991,Nepal,0,0.0
+2488,1991,Netherlands,0,0.0
+2489,1991,New Zealand,0,0.0
+2490,1991,Nicaragua,0,0.0
+2491,1991,Nigeria,0,0.0
+2492,1991,Norway,0,0.0
+2493,1991,Pakistan,0,0.0
+2494,1991,Panama,0,0.0
+2495,1991,Papua New Guinea,0,0.0
+2496,1991,Paraguay,0,0.0
+2497,1991,Peru,15,0.0
+2498,1991,Philippines,0,0.0
+2499,1991,Poland,0,0.0
+2500,1991,Portugal,0,0.0
+2501,1991,Romania,9,0.0
+2502,1991,Saudi Arabia,0,0.0
+2503,1991,Senegal,0,0.0
+2504,1991,Sierra Leone,0,0.0
+2505,1991,Singapore,0,0.0
+2506,1991,Slovakia,0,0.0
+2507,1991,Slovenia,0,0.0
+2508,1991,Somalia,0,0.0
+2509,1991,South Africa,0,0.0
+2510,1991,Spain,0,3.0
+2511,1991,Sri Lanka,0,0.0
+2512,1991,Sudan,0,0.0
+2513,1991,Sweden,0,129.0
+2514,1991,Switzerland,0,0.0
+2515,1991,Tajikistan,0,0.0
+2516,1991,Thailand,0,0.0
+2517,1991,Togo,0,0.0
+2518,1991,Tunisia,0,0.0
+2519,1991,Turkey,0,0.0
+2520,1991,Turkmenistan,0,0.0
+2521,1991,Uganda,0,0.0
+2522,1991,Ukraine,13,0.0
+2523,1991,United Arab Emirates,0,0.0
+2524,1991,United States of America,26,5.0
+2525,1991,Uruguay,0,0.0
+2526,1991,Uzbekistan,0,0.0
+2527,1991,Vanuatu,0,0.0
+5656,1991,Worldwide,173,544.0
+2528,1991,Yemen,0,0.0
+2529,1991,Zimbabwe,0,0.0
+2530,1992,Afghanistan,0,0.0
+2531,1992,Algeria,0,0.0
+2532,1992,Angola,0,0.0
+2533,1992,Antigua and Barbuda,0,0.0
+2534,1992,Argentina,0,0.0
+2535,1992,Armenia,0,0.0
+2536,1992,Australia,0,105.0
+2537,1992,Austria,0,0.0
+2538,1992,Azerbaijan,0,0.0
+2539,1992,Bahamas,0,0.0
+2540,1992,Bahrain,0,0.0
+2541,1992,Bangladesh,0,0.0
+2542,1992,Belarus,0,0.0
+2543,1992,Belgium,0,0.0
+2544,1992,Belize,0,0.0
+2545,1992,Botswana,0,0.0
+2546,1992,Brazil,3,5.0
+2547,1992,Bulgaria,0,0.0
+2548,1992,Cambodia,0,0.0
+2549,1992,Cameroon,0,0.0
+2550,1992,Canada,0,0.0
+2551,1992,Chile,0,0.0
+2552,1992,China,14,21.0
+2553,1992,Colombia,11,3.0
+2554,1992,Congo,0,0.0
+2555,1992,Costa Rica,0,0.0
+2556,1992,Croatia,0,0.0
+2557,1992,Cuba,34,0.0
+2558,1992,Denmark,0,0.0
+2559,1992,Dominican Republic,0,0.0
+2560,1992,Ecuador,0,0.0
+2561,1992,Egypt,0,0.0
+2562,1992,Equatorial Guinea,0,0.0
+2563,1992,Ethiopia,0,0.0
+2564,1992,Fiji,0,0.0
+2565,1992,France,0,0.0
+2566,1992,Gabon,0,0.0
+2567,1992,Georgia,0,0.0
+2568,1992,Germany,0,0.0
+2569,1992,Ghana,0,0.0
+2570,1992,Greece,0,2.0
+2571,1992,Guatemala,0,0.0
+2572,1992,Guinea,0,0.0
+2573,1992,Guyana,0,0.0
+2574,1992,Haiti,0,0.0
+2575,1992,Honduras,0,0.0
+2576,1992,Hungary,0,0.0
+2577,1992,Iceland,0,0.0
+2578,1992,India,1,0.0
+2579,1992,Indonesia,70,0.0
+2580,1992,Ireland,0,0.0
+2581,1992,Israel,4,0.0
+2582,1992,Italy,4,0.0
+2583,1992,Japan,0,0.0
+2584,1992,Jordan,0,0.0
+2585,1992,Kazakhstan,0,0.0
+2586,1992,Kenya,0,0.0
+2587,1992,Kyrgyzstan,0,0.0
+2588,1992,Latvia,0,0.0
+2589,1992,Lebanon,0,0.0
+2590,1992,Lesotho,0,0.0
+2591,1992,Libya,0,0.0
+2592,1992,Lithuania,0,0.0
+2593,1992,Luxembourg,0,0.0
+2594,1992,Malawi,0,0.0
+2595,1992,Malaysia,0,34.0
+2596,1992,Maldives,0,0.0
+2597,1992,Mexico,4,0.0
+2598,1992,Mongolia,0,0.0
+2599,1992,Morocco,0,0.0
+2600,1992,Mozambique,0,0.0
+2601,1992,Myanmar,0,0.0
+2602,1992,Nepal,0,18.0
+2603,1992,Netherlands,0,0.0
+2604,1992,New Zealand,0,0.0
+2605,1992,Nicaragua,0,0.0
+2606,1992,Nigeria,159,0.0
+2607,1992,Norway,0,0.0
+2608,1992,Pakistan,0,0.0
+2609,1992,Panama,0,0.0
+2610,1992,Papua New Guinea,0,0.0
+2611,1992,Paraguay,0,0.0
+2612,1992,Peru,0,0.0
+2613,1992,Philippines,0,0.0
+2614,1992,Poland,0,0.0
+2615,1992,Portugal,0,0.0
+2616,1992,Romania,0,0.0
+2617,1992,Saudi Arabia,0,0.0
+2618,1992,Senegal,0,0.0
+2619,1992,Sierra Leone,0,0.0
+2620,1992,Singapore,0,0.0
+2621,1992,Slovakia,0,0.0
+2622,1992,Slovenia,0,0.0
+2623,1992,Somalia,0,0.0
+2624,1992,South Africa,0,0.0
+2625,1992,Spain,0,0.0
+2626,1992,Sri Lanka,0,0.0
+2627,1992,Sudan,0,0.0
+2628,1992,Sweden,0,0.0
+2629,1992,Switzerland,0,0.0
+2630,1992,Tajikistan,0,0.0
+2631,1992,Thailand,113,0.0
+2632,1992,Togo,0,0.0
+2633,1992,Tunisia,0,0.0
+2634,1992,Turkey,0,0.0
+2635,1992,Turkmenistan,0,0.0
+2636,1992,Uganda,0,0.0
+2637,1992,Ukraine,0,0.0
+2638,1992,United Arab Emirates,0,0.0
+2639,1992,United States of America,22,300.0
+2640,1992,Uruguay,0,0.0
+2641,1992,Uzbekistan,0,0.0
+2642,1992,Vanuatu,0,0.0
+5657,1992,Worldwide,439,488.0
+2643,1992,Yemen,0,0.0
+2644,1992,Zimbabwe,0,0.0
+2645,1993,Afghanistan,0,0.0
+2646,1993,Algeria,0,0.0
+2647,1993,Angola,0,0.0
+2648,1993,Antigua and Barbuda,0,0.0
+2649,1993,Argentina,0,0.0
+2650,1993,Armenia,0,0.0
+2651,1993,Australia,0,0.0
+2652,1993,Austria,0,0.0
+2653,1993,Azerbaijan,0,0.0
+2654,1993,Bahamas,0,0.0
+2655,1993,Bahrain,0,0.0
+2656,1993,Bangladesh,0,0.0
+2657,1993,Belarus,0,0.0
+2658,1993,Belgium,0,0.0
+2659,1993,Belize,0,0.0
+2660,1993,Botswana,0,0.0
+2661,1993,Brazil,0,0.0
+2662,1993,Bulgaria,0,0.0
+2663,1993,Cambodia,0,0.0
+2664,1993,Cameroon,0,0.0
+2665,1993,Canada,3,0.0
+2666,1993,Chile,0,0.0
+2667,1993,China,12,240.0
+2668,1993,Colombia,0,0.0
+2669,1993,Congo,0,0.0
+2670,1993,Costa Rica,0,0.0
+2671,1993,Croatia,0,0.0
+2672,1993,Cuba,0,0.0
+2673,1993,Denmark,0,0.0
+2674,1993,Dominican Republic,0,0.0
+2675,1993,Ecuador,0,0.0
+2676,1993,Egypt,0,0.0
+2677,1993,Equatorial Guinea,0,0.0
+2678,1993,Ethiopia,0,0.0
+2679,1993,Fiji,0,0.0
+2680,1993,France,0,272.0
+2681,1993,Gabon,0,0.0
+2682,1993,Georgia,28,29.0
+2683,1993,Germany,2,68.0
+2684,1993,Ghana,0,0.0
+2685,1993,Greece,0,0.0
+2686,1993,Guatemala,0,0.0
+2687,1993,Guinea,0,0.0
+2688,1993,Guyana,0,0.0
+2689,1993,Haiti,0,0.0
+2690,1993,Honduras,0,94.0
+2691,1993,Hungary,0,0.0
+2692,1993,Iceland,0,0.0
+2693,1993,India,0,262.0
+2694,1993,Indonesia,41,2.0
+2695,1993,Ireland,0,0.0
+2696,1993,Israel,0,0.0
+2697,1993,Italy,0,0.0
+2698,1993,Japan,0,0.0
+2699,1993,Jordan,0,0.0
+2700,1993,Kazakhstan,0,0.0
+2701,1993,Kenya,0,0.0
+2702,1993,Kyrgyzstan,0,0.0
+2703,1993,Latvia,0,0.0
+2704,1993,Lebanon,0,3.0
+2705,1993,Lesotho,0,0.0
+2706,1993,Libya,0,0.0
+2707,1993,Lithuania,0,0.0
+2708,1993,Luxembourg,0,0.0
+2709,1993,Malawi,0,0.0
+2710,1993,Malaysia,0,0.0
+2711,1993,Maldives,0,0.0
+2712,1993,Mexico,0,0.0
+2713,1993,Mongolia,0,0.0
+2714,1993,Morocco,0,0.0
+2715,1993,Mozambique,0,0.0
+2716,1993,Myanmar,0,45.0
+2717,1993,Nepal,19,0.0
+2718,1993,Netherlands,0,0.0
+2719,1993,New Zealand,0,0.0
+2720,1993,Nicaragua,0,0.0
+2721,1993,Nigeria,0,0.0
+2722,1993,Norway,6,13.0
+2723,1993,Pakistan,0,0.0
+2724,1993,Panama,0,0.0
+2725,1993,Papua New Guinea,0,0.0
+2726,1993,Paraguay,0,0.0
+2727,1993,Peru,0,0.0
+2728,1993,Philippines,30,0.0
+2729,1993,Poland,0,0.0
+2730,1993,Portugal,0,0.0
+2731,1993,Romania,0,0.0
+2732,1993,Saudi Arabia,0,0.0
+2733,1993,Senegal,3,0.0
+2734,1993,Sierra Leone,0,0.0
+2735,1993,Singapore,0,0.0
+2736,1993,Slovakia,0,0.0
+2737,1993,Slovenia,0,0.0
+2738,1993,Somalia,0,0.0
+2739,1993,South Africa,0,0.0
+2740,1993,Spain,0,0.0
+2741,1993,Sri Lanka,0,0.0
+2742,1993,Sudan,0,0.0
+2743,1993,Sweden,0,0.0
+2744,1993,Switzerland,0,0.0
+2745,1993,Tajikistan,82,4.0
+2746,1993,Thailand,0,0.0
+2747,1993,Togo,0,0.0
+2748,1993,Tunisia,0,0.0
+2749,1993,Turkey,0,0.0
+2750,1993,Turkmenistan,0,0.0
+2751,1993,Uganda,0,0.0
+2752,1993,Ukraine,0,0.0
+2753,1993,United Arab Emirates,0,0.0
+2754,1993,United States of America,5,90.0
+2755,1993,Uruguay,0,0.0
+2756,1993,Uzbekistan,0,0.0
+2757,1993,Vanuatu,0,0.0
+5658,1993,Worldwide,231,1122.0
+2758,1993,Yemen,0,0.0
+2759,1993,Zimbabwe,0,0.0
+2760,1994,Afghanistan,0,0.0
+2761,1994,Algeria,0,0.0
+2762,1994,Angola,0,0.0
+2763,1994,Antigua and Barbuda,0,0.0
+2764,1994,Argentina,0,0.0
+2765,1994,Armenia,0,0.0
+2766,1994,Australia,0,0.0
+2767,1994,Austria,0,0.0
+2768,1994,Azerbaijan,0,0.0
+2769,1994,Bahamas,0,0.0
+2770,1994,Bahrain,0,0.0
+2771,1994,Bangladesh,0,0.0
+2772,1994,Belarus,0,0.0
+2773,1994,Belgium,0,0.0
+2774,1994,Belize,0,0.0
+2775,1994,Botswana,0,0.0
+2776,1994,Brazil,21,0.0
+2777,1994,Bulgaria,0,0.0
+2778,1994,Cambodia,0,0.0
+2779,1994,Cameroon,0,0.0
+2780,1994,Canada,4,0.0
+2781,1994,Chile,0,0.0
+2782,1994,China,0,0.0
+2783,1994,Colombia,0,5.0
+2784,1994,Congo,0,0.0
+2785,1994,Costa Rica,0,0.0
+2786,1994,Croatia,0,0.0
+2787,1994,Cuba,0,0.0
+2788,1994,Denmark,0,0.0
+2789,1994,Dominican Republic,0,0.0
+2790,1994,Ecuador,0,5.0
+2791,1994,Egypt,0,0.0
+2792,1994,Equatorial Guinea,0,0.0
+2793,1994,Ethiopia,0,0.0
+2794,1994,Fiji,0,0.0
+2795,1994,France,7,190.0
+2796,1994,Gabon,0,21.0
+2797,1994,Georgia,0,0.0
+2798,1994,Germany,1,6.0
+2799,1994,Ghana,0,0.0
+2800,1994,Greece,0,0.0
+2801,1994,Guatemala,0,0.0
+2802,1994,Guinea,0,0.0
+2803,1994,Guyana,0,0.0
+2804,1994,Haiti,0,0.0
+2805,1994,Honduras,0,0.0
+2806,1994,Hungary,0,0.0
+2807,1994,Iceland,0,0.0
+2808,1994,India,0,0.0
+2809,1994,Indonesia,0,175.0
+2810,1994,Ireland,0,0.0
+2811,1994,Israel,0,0.0
+2812,1994,Italy,0,0.0
+2813,1994,Japan,0,0.0
+2814,1994,Jordan,0,0.0
+2815,1994,Kazakhstan,0,0.0
+2816,1994,Kenya,0,3.0
+2817,1994,Kyrgyzstan,0,0.0
+2818,1994,Latvia,0,0.0
+2819,1994,Lebanon,0,0.0
+2820,1994,Lesotho,0,0.0
+2821,1994,Libya,0,0.0
+2822,1994,Lithuania,0,0.0
+2823,1994,Luxembourg,0,0.0
+2824,1994,Malawi,0,0.0
+2825,1994,Malaysia,0,0.0
+2826,1994,Maldives,0,0.0
+2827,1994,Mexico,12,0.0
+2828,1994,Mongolia,0,0.0
+2829,1994,Morocco,0,0.0
+2830,1994,Mozambique,0,0.0
+2831,1994,Myanmar,0,0.0
+2832,1994,Nepal,0,0.0
+2833,1994,Netherlands,0,0.0
+2834,1994,New Zealand,0,0.0
+2835,1994,Nicaragua,0,0.0
+2836,1994,Nigeria,5,5.0
+2837,1994,Norway,0,0.0
+2838,1994,Pakistan,0,0.0
+2839,1994,Panama,0,0.0
+2840,1994,Papua New Guinea,28,0.0
+2841,1994,Paraguay,0,0.0
+2842,1994,Peru,0,0.0
+2843,1994,Philippines,0,0.0
+2844,1994,Poland,0,0.0
+2845,1994,Portugal,0,0.0
+2846,1994,Romania,0,0.0
+2847,1994,Saudi Arabia,0,0.0
+2848,1994,Senegal,0,0.0
+2849,1994,Sierra Leone,0,0.0
+2850,1994,Singapore,0,0.0
+2851,1994,Slovakia,0,0.0
+2852,1994,Slovenia,0,0.0
+2853,1994,Somalia,0,0.0
+2854,1994,South Africa,0,19.0
+2855,1994,Spain,0,0.0
+2856,1994,Sri Lanka,0,0.0
+2857,1994,Sudan,0,0.0
+2858,1994,Sweden,0,0.0
+2859,1994,Switzerland,0,0.0
+2860,1994,Tajikistan,0,0.0
+2861,1994,Thailand,0,0.0
+2862,1994,Togo,0,0.0
+2863,1994,Tunisia,0,0.0
+2864,1994,Turkey,57,19.0
+2865,1994,Turkmenistan,0,0.0
+2866,1994,Uganda,0,0.0
+2867,1994,Ukraine,0,0.0
+2868,1994,United Arab Emirates,0,0.0
+2869,1994,United States of America,10,156.0
+2870,1994,Uruguay,0,0.0
+2871,1994,Uzbekistan,0,0.0
+2872,1994,Vanuatu,0,0.0
+5659,1994,Worldwide,145,604.0
+2873,1994,Yemen,0,0.0
+2874,1994,Zimbabwe,0,0.0
+2875,1995,Afghanistan,3,43.0
+2876,1995,Algeria,0,0.0
+2877,1995,Angola,0,0.0
+2878,1995,Antigua and Barbuda,0,0.0
+2879,1995,Argentina,53,0.0
+2880,1995,Armenia,0,0.0
+2881,1995,Australia,2,1.0
+2882,1995,Austria,0,0.0
+2883,1995,Azerbaijan,52,30.0
+2884,1995,Bahamas,0,0.0
+2885,1995,Bahrain,0,0.0
+2886,1995,Bangladesh,0,0.0
+2887,1995,Belarus,0,0.0
+2888,1995,Belgium,0,0.0
+2889,1995,Belize,0,0.0
+2890,1995,Botswana,0,0.0
+2891,1995,Brazil,0,0.0
+2892,1995,Bulgaria,0,0.0
+2893,1995,Cambodia,0,0.0
+2894,1995,Cameroon,71,5.0
+2895,1995,Canada,0,0.0
+2896,1995,Chile,0,0.0
+2897,1995,China,0,0.0
+2898,1995,Colombia,17,0.0
+2899,1995,Congo,0,0.0
+2900,1995,Costa Rica,0,0.0
+2901,1995,Croatia,0,0.0
+2902,1995,Cuba,0,0.0
+2903,1995,Denmark,0,0.0
+2904,1995,Dominican Republic,0,0.0
+2905,1995,Ecuador,0,0.0
+2906,1995,Egypt,0,0.0
+2907,1995,Equatorial Guinea,0,0.0
+2908,1995,Ethiopia,0,0.0
+2909,1995,Fiji,0,0.0
+2910,1995,France,0,0.0
+2911,1995,Gabon,0,0.0
+2912,1995,Georgia,0,0.0
+2913,1995,Germany,0,0.0
+2914,1995,Ghana,0,0.0
+2915,1995,Greece,0,0.0
+2916,1995,Guatemala,65,0.0
+2917,1995,Guinea,0,0.0
+2918,1995,Guyana,0,0.0
+2919,1995,Haiti,0,14.0
+2920,1995,Honduras,0,0.0
+2921,1995,Hungary,0,0.0
+2922,1995,Iceland,0,0.0
+2923,1995,India,0,0.0
+2924,1995,Indonesia,1,19.0
+2925,1995,Ireland,0,0.0
+2926,1995,Israel,0,0.0
+2927,1995,Italy,0,0.0
+2928,1995,Japan,0,0.0
+2929,1995,Jordan,0,0.0
+2930,1995,Kazakhstan,0,0.0
+2931,1995,Kenya,0,0.0
+2932,1995,Kyrgyzstan,0,0.0
+2933,1995,Latvia,0,0.0
+2934,1995,Lebanon,0,0.0
+2935,1995,Lesotho,0,0.0
+2936,1995,Libya,0,0.0
+2937,1995,Lithuania,0,0.0
+2938,1995,Luxembourg,0,0.0
+2939,1995,Malawi,0,0.0
+2940,1995,Malaysia,3,3.0
+2941,1995,Maldives,0,0.0
+2942,1995,Mexico,9,6.0
+2943,1995,Mongolia,0,0.0
+2944,1995,Morocco,0,0.0
+2945,1995,Mozambique,0,0.0
+2946,1995,Myanmar,0,0.0
+2947,1995,Nepal,0,0.0
+2948,1995,Netherlands,0,0.0
+2949,1995,New Zealand,4,17.0
+2950,1995,Nicaragua,0,0.0
+2951,1995,Nigeria,0,91.0
+2952,1995,Norway,0,0.0
+2953,1995,Pakistan,0,0.0
+2954,1995,Panama,0,0.0
+2955,1995,Papua New Guinea,4,11.0
+2956,1995,Paraguay,0,0.0
+2957,1995,Peru,0,0.0
+2958,1995,Philippines,0,0.0
+2959,1995,Poland,0,0.0
+2960,1995,Portugal,0,0.0
+2961,1995,Romania,0,0.0
+2962,1995,Saudi Arabia,0,0.0
+2963,1995,Senegal,0,0.0
+2964,1995,Sierra Leone,0,0.0
+2965,1995,Singapore,0,0.0
+2966,1995,Slovakia,0,0.0
+2967,1995,Slovenia,0,0.0
+2968,1995,Somalia,0,0.0
+2969,1995,South Africa,0,0.0
+2970,1995,Spain,0,0.0
+2971,1995,Sri Lanka,75,0.0
+2972,1995,Sudan,0,0.0
+2973,1995,Sweden,0,0.0
+2974,1995,Switzerland,0,0.0
+2975,1995,Tajikistan,0,0.0
+2976,1995,Thailand,0,0.0
+2977,1995,Togo,0,0.0
+2978,1995,Tunisia,0,0.0
+2979,1995,Turkey,0,0.0
+2980,1995,Turkmenistan,0,0.0
+2981,1995,Uganda,0,0.0
+2982,1995,Ukraine,0,0.0
+2983,1995,United Arab Emirates,0,0.0
+2984,1995,United States of America,7,621.0
+2985,1995,Uruguay,0,0.0
+2986,1995,Uzbekistan,0,0.0
+2987,1995,Vanuatu,0,0.0
+5660,1995,Worldwide,366,861.0
+2988,1995,Yemen,0,0.0
+2989,1995,Zimbabwe,0,0.0
+2990,1996,Afghanistan,0,0.0
+2991,1996,Algeria,0,232.0
+2992,1996,Angola,4,4.0
+2993,1996,Antigua and Barbuda,0,0.0
+2994,1996,Argentina,2,6.0
+2995,1996,Armenia,0,0.0
+2996,1996,Australia,0,0.0
+2997,1996,Austria,0,0.0
+2998,1996,Azerbaijan,0,0.0
+2999,1996,Bahamas,0,0.0
+3000,1996,Bahrain,0,0.0
+3001,1996,Bangladesh,0,0.0
+3002,1996,Belarus,0,0.0
+3003,1996,Belgium,0,0.0
+3004,1996,Belize,0,0.0
+3005,1996,Botswana,0,0.0
+3006,1996,Brazil,11,0.0
+3007,1996,Bulgaria,0,0.0
+3008,1996,Cambodia,0,0.0
+3009,1996,Cameroon,0,0.0
+3010,1996,Canada,1,23.0
+3011,1996,Chile,0,0.0
+3012,1996,China,2,10.0
+3013,1996,Colombia,14,10.0
+3014,1996,Congo,0,0.0
+3015,1996,Costa Rica,0,0.0
+3016,1996,Croatia,0,0.0
+3017,1996,Cuba,0,0.0
+3018,1996,Denmark,9,0.0
+3019,1996,Dominican Republic,0,0.0
+3020,1996,Ecuador,0,0.0
+3021,1996,Egypt,0,0.0
+3022,1996,Equatorial Guinea,0,0.0
+3023,1996,Ethiopia,125,50.0
+3024,1996,Fiji,0,0.0
+3025,1996,France,0,4.0
+3026,1996,Gabon,0,0.0
+3027,1996,Georgia,0,0.0
+3028,1996,Germany,0,0.0
+3029,1996,Ghana,0,0.0
+3030,1996,Greece,0,0.0
+3031,1996,Guatemala,0,0.0
+3032,1996,Guinea,0,0.0
+3033,1996,Guyana,0,0.0
+3034,1996,Haiti,0,0.0
+3035,1996,Honduras,0,0.0
+3036,1996,Hungary,0,0.0
+3037,1996,Iceland,0,0.0
+3038,1996,India,9,2.0
+3039,1996,Indonesia,0,48.0
+3040,1996,Ireland,0,3.0
+3041,1996,Israel,0,0.0
+3042,1996,Italy,0,0.0
+3043,1996,Japan,0,0.0
+3044,1996,Jordan,0,0.0
+3045,1996,Kazakhstan,37,0.0
+3046,1996,Kenya,0,0.0
+3047,1996,Kyrgyzstan,0,0.0
+3048,1996,Latvia,0,0.0
+3049,1996,Lebanon,0,0.0
+3050,1996,Lesotho,0,0.0
+3051,1996,Libya,0,0.0
+3052,1996,Lithuania,0,0.0
+3053,1996,Luxembourg,0,0.0
+3054,1996,Malawi,0,0.0
+3055,1996,Malaysia,0,0.0
+3056,1996,Maldives,0,0.0
+3057,1996,Mexico,5,0.0
+3058,1996,Mongolia,0,0.0
+3059,1996,Morocco,0,0.0
+3060,1996,Mozambique,0,0.0
+3061,1996,Myanmar,0,0.0
+3062,1996,Nepal,0,0.0
+3063,1996,Netherlands,0,45.0
+3064,1996,New Zealand,0,0.0
+3065,1996,Nicaragua,0,0.0
+3066,1996,Nigeria,144,0.0
+3067,1996,Norway,0,0.0
+3068,1996,Pakistan,0,0.0
+3069,1996,Panama,0,0.0
+3070,1996,Papua New Guinea,0,0.0
+3071,1996,Paraguay,0,0.0
+3072,1996,Peru,70,0.0
+3073,1996,Philippines,0,0.0
+3074,1996,Poland,0,0.0
+3075,1996,Portugal,0,0.0
+3076,1996,Romania,0,0.0
+3077,1996,Saudi Arabia,0,0.0
+3078,1996,Senegal,0,0.0
+3079,1996,Sierra Leone,0,0.0
+3080,1996,Singapore,0,0.0
+3081,1996,Slovakia,0,0.0
+3082,1996,Slovenia,0,0.0
+3083,1996,Somalia,0,0.0
+3084,1996,South Africa,0,0.0
+3085,1996,Spain,0,232.0
+3086,1996,Sri Lanka,0,0.0
+3087,1996,Sudan,0,0.0
+3088,1996,Sweden,0,0.0
+3089,1996,Switzerland,0,0.0
+3090,1996,Tajikistan,0,0.0
+3091,1996,Thailand,0,0.0
+3092,1996,Togo,0,0.0
+3093,1996,Tunisia,0,0.0
+3094,1996,Turkey,0,0.0
+3095,1996,Turkmenistan,0,0.0
+3096,1996,Uganda,0,0.0
+3097,1996,Ukraine,0,0.0
+3098,1996,United Arab Emirates,0,0.0
+3099,1996,United States of America,262,6.0
+3100,1996,Uruguay,0,0.0
+3101,1996,Uzbekistan,0,0.0
+3102,1996,Vanuatu,0,0.0
+5661,1996,Worldwide,695,675.0
+3103,1996,Yemen,0,0.0
+3104,1996,Zimbabwe,0,0.0
+3105,1997,Afghanistan,0,0.0
+3106,1997,Algeria,0,0.0
+3107,1997,Angola,0,0.0
+3108,1997,Antigua and Barbuda,0,0.0
+3109,1997,Argentina,0,16.0
+3110,1997,Armenia,0,0.0
+3111,1997,Australia,0,0.0
+3112,1997,Austria,0,0.0
+3113,1997,Azerbaijan,0,0.0
+3114,1997,Bahamas,0,0.0
+3115,1997,Bahrain,0,0.0
+3116,1997,Bangladesh,0,89.0
+3117,1997,Belarus,0,0.0
+3118,1997,Belgium,0,0.0
+3119,1997,Belize,0,0.0
+3120,1997,Botswana,0,0.0
+3121,1997,Brazil,4,59.0
+3122,1997,Bulgaria,0,0.0
+3123,1997,Cambodia,0,0.0
+3124,1997,Cameroon,0,0.0
+3125,1997,Canada,4,222.0
+3126,1997,Chile,0,0.0
+3127,1997,China,0,0.0
+3128,1997,Colombia,0,0.0
+3129,1997,Congo,0,0.0
+3130,1997,Costa Rica,0,0.0
+3131,1997,Croatia,0,0.0
+3132,1997,Cuba,0,0.0
+3133,1997,Denmark,0,0.0
+3134,1997,Dominican Republic,0,0.0
+3135,1997,Ecuador,0,56.0
+3136,1997,Egypt,0,0.0
+3137,1997,Equatorial Guinea,0,0.0
+3138,1997,Ethiopia,0,0.0
+3139,1997,Fiji,0,0.0
+3140,1997,France,0,0.0
+3141,1997,Gabon,0,0.0
+3142,1997,Georgia,0,0.0
+3143,1997,Germany,24,0.0
+3144,1997,Ghana,0,0.0
+3145,1997,Greece,5,0.0
+3146,1997,Guatemala,0,0.0
+3147,1997,Guinea,0,0.0
+3148,1997,Guyana,0,0.0
+3149,1997,Haiti,0,0.0
+3150,1997,Honduras,0,0.0
+3151,1997,Hungary,0,0.0
+3152,1997,Iceland,0,0.0
+3153,1997,India,0,0.0
+3154,1997,Indonesia,3,0.0
+3155,1997,Ireland,0,0.0
+3156,1997,Israel,0,0.0
+3157,1997,Italy,0,0.0
+3158,1997,Japan,0,0.0
+3159,1997,Jordan,0,0.0
+3160,1997,Kazakhstan,0,0.0
+3161,1997,Kenya,0,0.0
+3162,1997,Kyrgyzstan,0,0.0
+3163,1997,Latvia,0,0.0
+3164,1997,Lebanon,0,0.0
+3165,1997,Lesotho,0,0.0
+3166,1997,Libya,0,0.0
+3167,1997,Lithuania,0,0.0
+3168,1997,Luxembourg,0,0.0
+3169,1997,Malawi,0,0.0
+3170,1997,Malaysia,0,0.0
+3171,1997,Maldives,0,0.0
+3172,1997,Mexico,0,0.0
+3173,1997,Mongolia,7,5.0
+3174,1997,Morocco,0,0.0
+3175,1997,Mozambique,0,0.0
+3176,1997,Myanmar,0,0.0
+3177,1997,Nepal,0,0.0
+3178,1997,Netherlands,0,0.0
+3179,1997,New Zealand,0,0.0
+3180,1997,Nicaragua,0,0.0
+3181,1997,Nigeria,0,0.0
+3182,1997,Norway,0,0.0
+3183,1997,Pakistan,0,0.0
+3184,1997,Panama,0,0.0
+3185,1997,Papua New Guinea,2,2.0
+3186,1997,Paraguay,0,0.0
+3187,1997,Peru,0,0.0
+3188,1997,Philippines,0,0.0
+3189,1997,Poland,0,0.0
+3190,1997,Portugal,0,0.0
+3191,1997,Romania,0,26.0
+3192,1997,Saudi Arabia,0,85.0
+3193,1997,Senegal,0,0.0
+3194,1997,Sierra Leone,0,0.0
+3195,1997,Singapore,0,0.0
+3196,1997,Slovakia,0,0.0
+3197,1997,Slovenia,0,0.0
+3198,1997,Somalia,0,0.0
+3199,1997,South Africa,0,0.0
+3200,1997,Spain,8,27.0
+3201,1997,Sri Lanka,0,0.0
+3202,1997,Sudan,0,0.0
+3203,1997,Sweden,0,0.0
+3204,1997,Switzerland,0,0.0
+3205,1997,Tajikistan,0,0.0
+3206,1997,Thailand,0,0.0
+3207,1997,Togo,0,0.0
+3208,1997,Tunisia,0,0.0
+3209,1997,Turkey,0,0.0
+3210,1997,Turkmenistan,0,0.0
+3211,1997,Uganda,0,0.0
+3212,1997,Ukraine,0,0.0
+3213,1997,United Arab Emirates,0,0.0
+3214,1997,United States of America,24,403.0
+3215,1997,Uruguay,0,0.0
+3216,1997,Uzbekistan,0,0.0
+3217,1997,Vanuatu,0,0.0
+5662,1997,Worldwide,81,990.0
+3218,1997,Yemen,0,0.0
+3219,1997,Zimbabwe,0,0.0
+3220,1998,Afghanistan,0,0.0
+3221,1998,Algeria,0,0.0
+3222,1998,Angola,4,0.0
+3223,1998,Antigua and Barbuda,0,0.0
+3224,1998,Argentina,0,0.0
+3225,1998,Armenia,0,0.0
+3226,1998,Australia,0,0.0
+3227,1998,Austria,0,0.0
+3228,1998,Azerbaijan,0,5.0
+3229,1998,Bahamas,0,0.0
+3230,1998,Bahrain,0,0.0
+3231,1998,Bangladesh,0,0.0
+3232,1998,Belarus,0,0.0
+3233,1998,Belgium,0,259.0
+3234,1998,Belize,0,0.0
+3235,1998,Botswana,0,0.0
+3236,1998,Brazil,3,40.0
+3237,1998,Bulgaria,0,0.0
+3238,1998,Cambodia,0,0.0
+3239,1998,Cameroon,0,0.0
+3240,1998,Canada,7,5.0
+3241,1998,Chile,0,0.0
+3242,1998,China,0,0.0
+3243,1998,Colombia,0,6.0
+3244,1998,Congo,0,0.0
+3245,1998,Costa Rica,0,0.0
+3246,1998,Croatia,0,0.0
+3247,1998,Cuba,70,21.0
+3248,1998,Denmark,0,0.0
+3249,1998,Dominican Republic,0,0.0
+3250,1998,Ecuador,0,0.0
+3251,1998,Egypt,0,0.0
+3252,1998,Equatorial Guinea,0,0.0
+3253,1998,Ethiopia,0,0.0
+3254,1998,Fiji,0,0.0
+3255,1998,France,14,0.0
+3256,1998,Gabon,0,0.0
+3257,1998,Georgia,0,0.0
+3258,1998,Germany,0,0.0
+3259,1998,Ghana,0,0.0
+3260,1998,Greece,0,0.0
+3261,1998,Guatemala,0,0.0
+3262,1998,Guinea,0,0.0
+3263,1998,Guyana,0,0.0
+3264,1998,Haiti,0,0.0
+3265,1998,Honduras,0,0.0
+3266,1998,Hungary,0,0.0
+3267,1998,Iceland,0,0.0
+3268,1998,India,6,0.0
+3269,1998,Indonesia,0,0.0
+3270,1998,Ireland,0,0.0
+3271,1998,Israel,0,0.0
+3272,1998,Italy,0,0.0
+3273,1998,Japan,0,0.0
+3274,1998,Jordan,0,0.0
+3275,1998,Kazakhstan,0,0.0
+3276,1998,Kenya,3,0.0
+3277,1998,Kyrgyzstan,0,0.0
+3278,1998,Latvia,0,0.0
+3279,1998,Lebanon,0,0.0
+3280,1998,Lesotho,0,0.0
+3281,1998,Libya,0,0.0
+3282,1998,Lithuania,0,0.0
+3283,1998,Luxembourg,0,0.0
+3284,1998,Malawi,0,0.0
+3285,1998,Malaysia,0,0.0
+3286,1998,Maldives,0,0.0
+3287,1998,Mexico,0,7.0
+3288,1998,Mongolia,0,0.0
+3289,1998,Morocco,0,0.0
+3290,1998,Mozambique,0,0.0
+3291,1998,Myanmar,36,0.0
+3292,1998,Nepal,0,0.0
+3293,1998,Netherlands,0,0.0
+3294,1998,New Zealand,0,0.0
+3295,1998,Nicaragua,0,0.0
+3296,1998,Nigeria,0,5.0
+3297,1998,Norway,2,0.0
+3298,1998,Pakistan,0,0.0
+3299,1998,Panama,0,0.0
+3300,1998,Papua New Guinea,0,0.0
+3301,1998,Paraguay,0,0.0
+3302,1998,Peru,0,0.0
+3303,1998,Philippines,0,0.0
+3304,1998,Poland,0,0.0
+3305,1998,Portugal,0,0.0
+3306,1998,Romania,0,0.0
+3307,1998,Saudi Arabia,0,0.0
+3308,1998,Senegal,0,0.0
+3309,1998,Sierra Leone,0,0.0
+3310,1998,Singapore,0,0.0
+3311,1998,Slovakia,0,0.0
+3312,1998,Slovenia,0,0.0
+3313,1998,Somalia,0,0.0
+3314,1998,South Africa,0,0.0
+3315,1998,Spain,38,0.0
+3316,1998,Sri Lanka,0,0.0
+3317,1998,Sudan,0,0.0
+3318,1998,Sweden,0,0.0
+3319,1998,Switzerland,229,0.0
+3320,1998,Tajikistan,0,0.0
+3321,1998,Thailand,101,45.0
+3322,1998,Togo,0,0.0
+3323,1998,Tunisia,0,0.0
+3324,1998,Turkey,0,0.0
+3325,1998,Turkmenistan,0,0.0
+3326,1998,Uganda,0,0.0
+3327,1998,Ukraine,0,0.0
+3328,1998,United Arab Emirates,0,0.0
+3329,1998,United States of America,5,278.0
+3330,1998,Uruguay,0,0.0
+3331,1998,Uzbekistan,0,0.0
+3332,1998,Vanuatu,0,0.0
+5663,1998,Worldwide,518,671.0
+3333,1998,Yemen,0,0.0
+3334,1998,Zimbabwe,0,0.0
+3335,1999,Afghanistan,0,0.0
+3336,1999,Algeria,0,0.0
+3337,1999,Angola,0,5.0
+3338,1999,Antigua and Barbuda,0,0.0
+3339,1999,Argentina,63,40.0
+3340,1999,Armenia,0,0.0
+3341,1999,Australia,0,0.0
+3342,1999,Austria,0,0.0
+3343,1999,Azerbaijan,0,0.0
+3344,1999,Bahamas,0,0.0
+3345,1999,Bahrain,0,0.0
+3346,1999,Bangladesh,0,0.0
+3347,1999,Belarus,0,0.0
+3348,1999,Belgium,0,0.0
+3349,1999,Belize,0,0.0
+3350,1999,Botswana,1,0.0
+3351,1999,Brazil,0,0.0
+3352,1999,Bulgaria,0,0.0
+3353,1999,Cambodia,0,0.0
+3354,1999,Cameroon,0,0.0
+3355,1999,Canada,1,9.0
+3356,1999,Chile,0,0.0
+3357,1999,China,0,0.0
+3358,1999,Colombia,5,0.0
+3359,1999,Congo,0,0.0
+3360,1999,Costa Rica,0,0.0
+3361,1999,Croatia,0,0.0
+3362,1999,Cuba,0,0.0
+3363,1999,Denmark,0,0.0
+3364,1999,Dominican Republic,0,0.0
+3365,1999,Ecuador,0,0.0
+3366,1999,Egypt,217,0.0
+3367,1999,Equatorial Guinea,0,0.0
+3368,1999,Ethiopia,0,0.0
+3369,1999,Fiji,17,0.0
+3370,1999,France,0,0.0
+3371,1999,Gabon,0,0.0
+3372,1999,Georgia,0,0.0
+3373,1999,Germany,0,0.0
+3374,1999,Ghana,0,8.0
+3375,1999,Greece,0,0.0
+3376,1999,Guatemala,0,0.0
+3377,1999,Guinea,0,0.0
+3378,1999,Guyana,0,0.0
+3379,1999,Haiti,0,0.0
+3380,1999,Honduras,0,0.0
+3381,1999,Hungary,0,0.0
+3382,1999,Iceland,0,0.0
+3383,1999,India,0,92.0
+3384,1999,Indonesia,0,0.0
+3385,1999,Ireland,0,0.0
+3386,1999,Israel,0,0.0
+3387,1999,Italy,3,0.0
+3388,1999,Japan,0,0.0
+3389,1999,Jordan,0,0.0
+3390,1999,Kazakhstan,0,0.0
+3391,1999,Kenya,0,0.0
+3392,1999,Kyrgyzstan,0,0.0
+3393,1999,Latvia,0,0.0
+3394,1999,Lebanon,0,0.0
+3395,1999,Lesotho,0,0.0
+3396,1999,Libya,0,0.0
+3397,1999,Lithuania,0,0.0
+3398,1999,Luxembourg,0,0.0
+3399,1999,Malawi,0,0.0
+3400,1999,Malaysia,0,0.0
+3401,1999,Maldives,0,0.0
+3402,1999,Mexico,22,0.0
+3403,1999,Mongolia,0,0.0
+3404,1999,Morocco,0,0.0
+3405,1999,Mozambique,0,0.0
+3406,1999,Myanmar,0,0.0
+3407,1999,Nepal,25,0.0
+3408,1999,Netherlands,0,0.0
+3409,1999,New Zealand,0,0.0
+3410,1999,Nicaragua,16,0.0
+3411,1999,Nigeria,0,0.0
+3412,1999,Norway,0,0.0
+3413,1999,Pakistan,16,0.0
+3414,1999,Panama,0,0.0
+3415,1999,Papua New Guinea,0,0.0
+3416,1999,Paraguay,0,0.0
+3417,1999,Peru,0,0.0
+3418,1999,Philippines,17,0.0
+3419,1999,Poland,0,0.0
+3420,1999,Portugal,0,0.0
+3421,1999,Romania,0,0.0
+3422,1999,Saudi Arabia,0,0.0
+3423,1999,Senegal,0,0.0
+3424,1999,Sierra Leone,0,0.0
+3425,1999,Singapore,0,0.0
+3426,1999,Slovakia,0,0.0
+3427,1999,Slovenia,0,0.0
+3428,1999,Somalia,0,0.0
+3429,1999,South Africa,0,0.0
+3430,1999,Spain,0,0.0
+3431,1999,Sri Lanka,0,0.0
+3432,1999,Sudan,0,0.0
+3433,1999,Sweden,0,0.0
+3434,1999,Switzerland,0,0.0
+3435,1999,Tajikistan,0,0.0
+3436,1999,Thailand,0,0.0
+3437,1999,Togo,0,0.0
+3438,1999,Tunisia,0,0.0
+3439,1999,Turkey,0,0.0
+3440,1999,Turkmenistan,0,0.0
+3441,1999,Uganda,0,0.0
+3442,1999,Ukraine,0,0.0
+3443,1999,United Arab Emirates,0,0.0
+3444,1999,United States of America,8,41.0
+3445,1999,Uruguay,0,0.0
+3446,1999,Uzbekistan,7,33.0
+3447,1999,Vanuatu,0,0.0
+5664,1999,Worldwide,418,228.0
+3448,1999,Yemen,0,0.0
+3449,1999,Zimbabwe,0,0.0
+3450,2000,Afghanistan,0,0.0
+3451,2000,Algeria,0,0.0
+3452,2000,Angola,49,0.0
+3453,2000,Antigua and Barbuda,0,0.0
+3454,2000,Argentina,0,0.0
+3455,2000,Armenia,0,0.0
+3456,2000,Australia,8,0.0
+3457,2000,Austria,0,0.0
+3458,2000,Azerbaijan,0,0.0
+3459,2000,Bahamas,0,0.0
+3460,2000,Bahrain,143,0.0
+3461,2000,Bangladesh,0,0.0
+3462,2000,Belarus,0,0.0
+3463,2000,Belgium,0,0.0
+3464,2000,Belize,0,0.0
+3465,2000,Botswana,0,0.0
+3466,2000,Brazil,0,0.0
+3467,2000,Bulgaria,0,0.0
+3468,2000,Cambodia,0,0.0
+3469,2000,Cameroon,0,0.0
+3470,2000,Canada,3,6.0
+3471,2000,Chile,0,0.0
+3472,2000,China,0,0.0
+3473,2000,Colombia,0,0.0
+3474,2000,Congo,0,0.0
+3475,2000,Costa Rica,0,0.0
+3476,2000,Croatia,0,0.0
+3477,2000,Cuba,0,0.0
+3478,2000,Denmark,0,0.0
+3479,2000,Dominican Republic,0,0.0
+3480,2000,Ecuador,1,2.0
+3481,2000,Egypt,0,0.0
+3482,2000,Equatorial Guinea,0,0.0
+3483,2000,Ethiopia,0,0.0
+3484,2000,Fiji,0,0.0
+3485,2000,France,0,0.0
+3486,2000,Gabon,0,0.0
+3487,2000,Georgia,0,0.0
+3488,2000,Germany,0,151.0
+3489,2000,Ghana,0,0.0
+3490,2000,Greece,2,0.0
+3491,2000,Guatemala,0,0.0
+3492,2000,Guinea,0,0.0
+3493,2000,Guyana,0,0.0
+3494,2000,Haiti,0,0.0
+3495,2000,Honduras,0,0.0
+3496,2000,Hungary,0,94.0
+3497,2000,Iceland,0,0.0
+3498,2000,India,5,0.0
+3499,2000,Indonesia,0,0.0
+3500,2000,Ireland,0,0.0
+3501,2000,Israel,0,0.0
+3502,2000,Italy,0,0.0
+3503,2000,Japan,0,0.0
+3504,2000,Jordan,1,95.0
+3505,2000,Kazakhstan,0,0.0
+3506,2000,Kenya,0,0.0
+3507,2000,Kyrgyzstan,0,0.0
+3508,2000,Latvia,0,0.0
+3509,2000,Lebanon,0,0.0
+3510,2000,Lesotho,0,13.0
+3511,2000,Libya,0,0.0
+3512,2000,Lithuania,0,0.0
+3513,2000,Luxembourg,0,0.0
+3514,2000,Malawi,0,0.0
+3515,2000,Malaysia,0,0.0
+3516,2000,Maldives,0,0.0
+3517,2000,Mexico,0,88.0
+3518,2000,Mongolia,0,0.0
+3519,2000,Morocco,0,0.0
+3520,2000,Mozambique,0,0.0
+3521,2000,Myanmar,0,0.0
+3522,2000,Nepal,0,0.0
+3523,2000,Netherlands,0,0.0
+3524,2000,New Zealand,0,0.0
+3525,2000,Nicaragua,0,0.0
+3526,2000,Nigeria,0,0.0
+3527,2000,Norway,0,0.0
+3528,2000,Pakistan,0,0.0
+3529,2000,Panama,0,0.0
+3530,2000,Papua New Guinea,0,0.0
+3531,2000,Paraguay,0,0.0
+3532,2000,Peru,0,0.0
+3533,2000,Philippines,0,5.0
+3534,2000,Poland,0,0.0
+3535,2000,Portugal,0,0.0
+3536,2000,Romania,0,0.0
+3537,2000,Saudi Arabia,0,0.0
+3538,2000,Senegal,0,0.0
+3539,2000,Sierra Leone,0,0.0
+3540,2000,Singapore,83,96.0
+3541,2000,Slovakia,0,0.0
+3542,2000,Slovenia,0,0.0
+3543,2000,Somalia,0,0.0
+3544,2000,South Africa,0,0.0
+3545,2000,Spain,0,208.0
+3546,2000,Sri Lanka,0,0.0
+3547,2000,Sudan,0,0.0
+3548,2000,Sweden,0,0.0
+3549,2000,Switzerland,0,0.0
+3550,2000,Tajikistan,0,0.0
+3551,2000,Thailand,0,0.0
+3552,2000,Togo,0,0.0
+3553,2000,Tunisia,0,0.0
+3554,2000,Turkey,0,0.0
+3555,2000,Turkmenistan,0,0.0
+3556,2000,Uganda,0,0.0
+3557,2000,Ukraine,0,0.0
+3558,2000,United Arab Emirates,0,0.0
+3559,2000,United States of America,5,107.0
+3560,2000,Uruguay,0,0.0
+3561,2000,Uzbekistan,0,0.0
+3562,2000,Vanuatu,0,0.0
+5665,2000,Worldwide,300,865.0
+3563,2000,Yemen,0,0.0
+3564,2000,Zimbabwe,0,0.0
+3565,2001,Afghanistan,0,0.0
+3566,2001,Algeria,0,0.0
+3567,2001,Angola,0,0.0
+3568,2001,Antigua and Barbuda,0,0.0
+3569,2001,Argentina,0,0.0
+3570,2001,Armenia,0,0.0
+3571,2001,Australia,0,0.0
+3572,2001,Austria,0,0.0
+3573,2001,Azerbaijan,0,0.0
+3574,2001,Bahamas,0,0.0
+3575,2001,Bahrain,0,0.0
+3576,2001,Bangladesh,0,0.0
+3577,2001,Belarus,0,0.0
+3578,2001,Belgium,0,0.0
+3579,2001,Belize,0,0.0
+3580,2001,Botswana,0,0.0
+3581,2001,Brazil,1,201.0
+3582,2001,Bulgaria,0,0.0
+3583,2001,Cambodia,0,0.0
+3584,2001,Cameroon,0,0.0
+3585,2001,Canada,0,14.0
+3586,2001,Chile,0,0.0
+3587,2001,China,0,0.0
+3588,2001,Colombia,16,0.0
+3589,2001,Congo,0,0.0
+3590,2001,Costa Rica,0,0.0
+3591,2001,Croatia,0,0.0
+3592,2001,Cuba,0,0.0
+3593,2001,Denmark,0,0.0
+3594,2001,Dominican Republic,0,0.0
+3595,2001,Ecuador,0,0.0
+3596,2001,Egypt,0,0.0
+3597,2001,Equatorial Guinea,0,0.0
+3598,2001,Ethiopia,0,0.0
+3599,2001,Fiji,0,0.0
+3600,2001,France,0,0.0
+3601,2001,Gabon,0,0.0
+3602,2001,Georgia,0,0.0
+3603,2001,Germany,11,4.0
+3604,2001,Ghana,1,12.0
+3605,2001,Greece,0,0.0
+3606,2001,Guatemala,8,5.0
+3607,2001,Guinea,0,0.0
+3608,2001,Guyana,0,0.0
+3609,2001,Haiti,0,0.0
+3610,2001,Honduras,0,0.0
+3611,2001,Hungary,0,0.0
+3612,2001,Iceland,0,0.0
+3613,2001,India,0,0.0
+3614,2001,Indonesia,0,0.0
+3615,2001,Ireland,0,0.0
+3616,2001,Israel,0,0.0
+3617,2001,Italy,0,0.0
+3618,2001,Japan,0,0.0
+3619,2001,Jordan,0,0.0
+3620,2001,Kazakhstan,0,0.0
+3621,2001,Kenya,0,0.0
+3622,2001,Kyrgyzstan,0,0.0
+3623,2001,Latvia,0,0.0
+3624,2001,Lebanon,0,0.0
+3625,2001,Lesotho,0,0.0
+3626,2001,Libya,0,0.0
+3627,2001,Lithuania,0,0.0
+3628,2001,Luxembourg,0,0.0
+3629,2001,Malawi,0,0.0
+3630,2001,Malaysia,0,0.0
+3631,2001,Maldives,0,0.0
+3632,2001,Mexico,0,0.0
+3633,2001,Mongolia,0,0.0
+3634,2001,Morocco,0,0.0
+3635,2001,Mozambique,0,0.0
+3636,2001,Myanmar,0,0.0
+3637,2001,Nepal,0,0.0
+3638,2001,Netherlands,0,0.0
+3639,2001,New Zealand,0,0.0
+3640,2001,Nicaragua,0,0.0
+3641,2001,Nigeria,0,0.0
+3642,2001,Norway,0,0.0
+3643,2001,Pakistan,0,205.0
+3644,2001,Panama,0,0.0
+3645,2001,Papua New Guinea,0,0.0
+3646,2001,Paraguay,0,0.0
+3647,2001,Peru,0,0.0
+3648,2001,Philippines,0,0.0
+3649,2001,Poland,0,0.0
+3650,2001,Portugal,0,0.0
+3651,2001,Romania,0,0.0
+3652,2001,Saudi Arabia,0,0.0
+3653,2001,Senegal,0,0.0
+3654,2001,Sierra Leone,0,0.0
+3655,2001,Singapore,0,0.0
+3656,2001,Slovakia,0,0.0
+3657,2001,Slovenia,0,0.0
+3658,2001,Somalia,0,0.0
+3659,2001,South Africa,0,0.0
+3660,2001,Spain,10,0.0
+3661,2001,Sri Lanka,0,0.0
+3662,2001,Sudan,0,0.0
+3663,2001,Sweden,110,0.0
+3664,2001,Switzerland,2,0.0
+3665,2001,Tajikistan,0,0.0
+3666,2001,Thailand,0,0.0
+3667,2001,Togo,0,3.0
+3668,2001,Tunisia,0,0.0
+3669,2001,Turkey,0,0.0
+3670,2001,Turkmenistan,0,0.0
+3671,2001,Uganda,6,0.0
+3672,2001,Ukraine,0,0.0
+3673,2001,United Arab Emirates,0,0.0
+3674,2001,United States of America,409,207.0
+3675,2001,Uruguay,0,0.0
+3676,2001,Uzbekistan,0,0.0
+3677,2001,Vanuatu,0,0.0
+5666,2001,Worldwide,574,651.0
+3678,2001,Yemen,0,0.0
+3679,2001,Zimbabwe,0,0.0
+3680,2002,Afghanistan,0,0.0
+3681,2002,Algeria,0,0.0
+3682,2002,Angola,0,0.0
+3683,2002,Antigua and Barbuda,0,0.0
+3684,2002,Argentina,0,0.0
+3685,2002,Armenia,0,0.0
+3686,2002,Australia,0,0.0
+3687,2002,Austria,0,0.0
+3688,2002,Azerbaijan,0,0.0
+3689,2002,Bahamas,0,0.0
+3690,2002,Bahrain,0,0.0
+3691,2002,Bangladesh,0,0.0
+3692,2002,Belarus,0,0.0
+3693,2002,Belgium,0,0.0
+3694,2002,Belize,0,0.0
+3695,2002,Botswana,0,0.0
+3696,2002,Brazil,24,50.0
+3697,2002,Bulgaria,0,0.0
+3698,2002,Cambodia,0,0.0
+3699,2002,Cameroon,0,0.0
+3700,2002,Canada,0,4.0
+3701,2002,Chile,0,0.0
+3702,2002,China,3,0.0
+3703,2002,Colombia,0,71.0
+3704,2002,Congo,0,0.0
+3705,2002,Costa Rica,0,0.0
+3706,2002,Croatia,0,0.0
+3707,2002,Cuba,0,0.0
+3708,2002,Denmark,0,2.0
+3709,2002,Dominican Republic,0,0.0
+3710,2002,Ecuador,0,0.0
+3711,2002,Egypt,0,0.0
+3712,2002,Equatorial Guinea,0,0.0
+3713,2002,Ethiopia,0,0.0
+3714,2002,Fiji,0,0.0
+3715,2002,France,0,0.0
+3716,2002,Gabon,0,0.0
+3717,2002,Georgia,0,0.0
+3718,2002,Germany,0,0.0
+3719,2002,Ghana,0,0.0
+3720,2002,Greece,0,0.0
+3721,2002,Guatemala,0,0.0
+3722,2002,Guinea,0,0.0
+3723,2002,Guyana,0,0.0
+3724,2002,Haiti,0,0.0
+3725,2002,Honduras,0,0.0
+3726,2002,Hungary,0,0.0
+3727,2002,Iceland,0,446.0
+3728,2002,India,0,0.0
+3729,2002,Indonesia,7,3.0
+3730,2002,Ireland,0,0.0
+3731,2002,Israel,0,271.0
+3732,2002,Italy,0,0.0
+3733,2002,Japan,0,3.0
+3734,2002,Jordan,0,0.0
+3735,2002,Kazakhstan,0,0.0
+3736,2002,Kenya,0,0.0
+3737,2002,Kyrgyzstan,0,0.0
+3738,2002,Latvia,0,0.0
+3739,2002,Lebanon,0,0.0
+3740,2002,Lesotho,0,0.0
+3741,2002,Libya,0,0.0
+3742,2002,Lithuania,0,0.0
+3743,2002,Luxembourg,20,2.0
+3744,2002,Malawi,0,0.0
+3745,2002,Malaysia,0,0.0
+3746,2002,Maldives,0,0.0
+3747,2002,Mexico,0,90.0
+3748,2002,Mongolia,0,0.0
+3749,2002,Morocco,0,0.0
+3750,2002,Mozambique,0,0.0
+3751,2002,Myanmar,0,0.0
+3752,2002,Nepal,4,0.0
+3753,2002,Netherlands,0,5.0
+3754,2002,New Zealand,0,0.0
+3755,2002,Nicaragua,0,0.0
+3756,2002,Nigeria,0,0.0
+3757,2002,Norway,0,0.0
+3758,2002,Pakistan,0,0.0
+3759,2002,Panama,1,0.0
+3760,2002,Papua New Guinea,0,0.0
+3761,2002,Paraguay,0,0.0
+3762,2002,Peru,0,0.0
+3763,2002,Philippines,19,15.0
+3764,2002,Poland,0,0.0
+3765,2002,Portugal,0,0.0
+3766,2002,Romania,0,0.0
+3767,2002,Saudi Arabia,0,0.0
+3768,2002,Senegal,0,0.0
+3769,2002,Sierra Leone,0,0.0
+3770,2002,Singapore,0,0.0
+3771,2002,Slovakia,0,0.0
+3772,2002,Slovenia,0,0.0
+3773,2002,Somalia,0,0.0
+3774,2002,South Africa,0,0.0
+3775,2002,Spain,0,0.0
+3776,2002,Sri Lanka,0,0.0
+3777,2002,Sudan,0,0.0
+3778,2002,Sweden,0,0.0
+3779,2002,Switzerland,0,0.0
+3780,2002,Tajikistan,0,0.0
+3781,2002,Thailand,0,0.0
+3782,2002,Togo,0,0.0
+3783,2002,Tunisia,0,0.0
+3784,2002,Turkey,0,0.0
+3785,2002,Turkmenistan,0,0.0
+3786,2002,Uganda,0,0.0
+3787,2002,Ukraine,44,0.0
+3788,2002,United Arab Emirates,0,0.0
+3789,2002,United States of America,14,183.0
+3790,2002,Uruguay,0,0.0
+3791,2002,Uzbekistan,0,0.0
+3792,2002,Vanuatu,0,0.0
+5667,2002,Worldwide,136,1145.0
+3793,2002,Yemen,0,0.0
+3794,2002,Zimbabwe,0,0.0
+3795,2003,Afghanistan,0,0.0
+3796,2003,Algeria,5,0.0
+3797,2003,Angola,0,0.0
+3798,2003,Antigua and Barbuda,0,0.0
+3799,2003,Argentina,5,0.0
+3800,2003,Armenia,0,0.0
+3801,2003,Australia,0,0.0
+3802,2003,Austria,0,0.0
+3803,2003,Azerbaijan,0,0.0
+3804,2003,Bahamas,0,0.0
+3805,2003,Bahrain,0,0.0
+3806,2003,Bangladesh,0,0.0
+3807,2003,Belarus,0,0.0
+3808,2003,Belgium,0,0.0
+3809,2003,Belize,0,0.0
+3810,2003,Botswana,0,0.0
+3811,2003,Brazil,0,172.0
+3812,2003,Bulgaria,0,0.0
+3813,2003,Cambodia,0,0.0
+3814,2003,Cameroon,0,0.0
+3815,2003,Canada,8,0.0
+3816,2003,Chile,0,0.0
+3817,2003,China,0,0.0
+3818,2003,Colombia,0,0.0
+3819,2003,Congo,0,0.0
+3820,2003,Costa Rica,0,13.0
+3821,2003,Croatia,0,0.0
+3822,2003,Cuba,0,0.0
+3823,2003,Denmark,0,0.0
+3824,2003,Dominican Republic,0,0.0
+3825,2003,Ecuador,0,0.0
+3826,2003,Egypt,0,0.0
+3827,2003,Equatorial Guinea,0,0.0
+3828,2003,Ethiopia,0,0.0
+3829,2003,Fiji,0,0.0
+3830,2003,France,1,23.0
+3831,2003,Gabon,0,131.0
+3832,2003,Georgia,0,0.0
+3833,2003,Germany,0,0.0
+3834,2003,Ghana,0,0.0
+3835,2003,Greece,0,0.0
+3836,2003,Guatemala,0,0.0
+3837,2003,Guinea,141,22.0
+3838,2003,Guyana,2,5.0
+3839,2003,Haiti,0,0.0
+3840,2003,Honduras,0,0.0
+3841,2003,Hungary,0,0.0
+3842,2003,Iceland,0,0.0
+3843,2003,India,0,0.0
+3844,2003,Indonesia,0,0.0
+3845,2003,Ireland,0,0.0
+3846,2003,Israel,0,0.0
+3847,2003,Italy,0,0.0
+3848,2003,Japan,0,0.0
+3849,2003,Jordan,0,0.0
+3850,2003,Kazakhstan,0,0.0
+3851,2003,Kenya,0,27.0
+3852,2003,Kyrgyzstan,0,0.0
+3853,2003,Latvia,0,0.0
+3854,2003,Lebanon,0,0.0
+3855,2003,Lesotho,0,0.0
+3856,2003,Libya,0,0.0
+3857,2003,Lithuania,0,0.0
+3858,2003,Luxembourg,0,0.0
+3859,2003,Malawi,0,9.0
+3860,2003,Malaysia,0,0.0
+3861,2003,Maldives,0,0.0
+3862,2003,Mexico,0,0.0
+3863,2003,Mongolia,0,0.0
+3864,2003,Morocco,0,0.0
+3865,2003,Mozambique,0,0.0
+3866,2003,Myanmar,0,0.0
+3867,2003,Nepal,0,0.0
+3868,2003,Netherlands,0,0.0
+3869,2003,New Zealand,0,0.0
+3870,2003,Nicaragua,0,0.0
+3871,2003,Nigeria,0,0.0
+3872,2003,Norway,0,0.0
+3873,2003,Pakistan,0,0.0
+3874,2003,Panama,0,0.0
+3875,2003,Papua New Guinea,0,0.0
+3876,2003,Paraguay,0,0.0
+3877,2003,Peru,0,4.0
+3878,2003,Philippines,0,0.0
+3879,2003,Poland,0,0.0
+3880,2003,Portugal,0,0.0
+3881,2003,Romania,0,0.0
+3882,2003,Saudi Arabia,0,0.0
+3883,2003,Senegal,0,0.0
+3884,2003,Sierra Leone,0,0.0
+3885,2003,Singapore,0,0.0
+3886,2003,Slovakia,0,0.0
+3887,2003,Slovenia,0,0.0
+3888,2003,Somalia,0,0.0
+3889,2003,South Africa,14,9.0
+3890,2003,Spain,0,0.0
+3891,2003,Sri Lanka,0,0.0
+3892,2003,Sudan,116,1.0
+3893,2003,Sweden,0,2.0
+3894,2003,Switzerland,0,0.0
+3895,2003,Tajikistan,0,0.0
+3896,2003,Thailand,0,0.0
+3897,2003,Togo,0,0.0
+3898,2003,Tunisia,0,0.0
+3899,2003,Turkey,0,149.0
+3900,2003,Turkmenistan,0,0.0
+3901,2003,Uganda,0,0.0
+3902,2003,Ukraine,75,0.0
+3903,2003,United Arab Emirates,0,0.0
+3904,2003,United States of America,9,20.0
+3905,2003,Uruguay,0,0.0
+3906,2003,Uzbekistan,0,0.0
+3907,2003,Vanuatu,0,0.0
+5668,2003,Worldwide,376,587.0
+3908,2003,Yemen,0,0.0
+3909,2003,Zimbabwe,0,0.0
+3910,2004,Afghanistan,0,0.0
+3911,2004,Algeria,0,0.0
+3912,2004,Angola,0,0.0
+3913,2004,Antigua and Barbuda,0,0.0
+3914,2004,Argentina,0,0.0
+3915,2004,Armenia,0,0.0
+3916,2004,Australia,0,0.0
+3917,2004,Austria,0,0.0
+3918,2004,Azerbaijan,0,0.0
+3919,2004,Bahamas,0,0.0
+3920,2004,Bahrain,0,0.0
+3921,2004,Bangladesh,0,83.0
+3922,2004,Belarus,0,0.0
+3923,2004,Belgium,0,0.0
+3924,2004,Belize,0,0.0
+3925,2004,Botswana,0,0.0
+3926,2004,Brazil,0,3.0
+3927,2004,Bulgaria,0,0.0
+3928,2004,Cambodia,0,0.0
+3929,2004,Cameroon,0,0.0
+3930,2004,Canada,0,17.0
+3931,2004,Chile,0,0.0
+3932,2004,China,53,0.0
+3933,2004,Colombia,0,0.0
+3934,2004,Congo,0,0.0
+3935,2004,Costa Rica,0,0.0
+3936,2004,Croatia,0,0.0
+3937,2004,Cuba,0,0.0
+3938,2004,Denmark,0,0.0
+3939,2004,Dominican Republic,0,0.0
+3940,2004,Ecuador,0,0.0
+3941,2004,Egypt,0,0.0
+3942,2004,Equatorial Guinea,0,0.0
+3943,2004,Ethiopia,0,0.0
+3944,2004,Fiji,0,0.0
+3945,2004,France,0,0.0
+3946,2004,Gabon,0,0.0
+3947,2004,Georgia,0,0.0
+3948,2004,Germany,0,0.0
+3949,2004,Ghana,0,0.0
+3950,2004,Greece,0,0.0
+3951,2004,Guatemala,0,0.0
+3952,2004,Guinea,0,0.0
+3953,2004,Guyana,0,0.0
+3954,2004,Haiti,0,0.0
+3955,2004,Honduras,0,0.0
+3956,2004,Hungary,0,0.0
+3957,2004,Iceland,0,0.0
+3958,2004,India,0,0.0
+3959,2004,Indonesia,0,0.0
+3960,2004,Ireland,0,0.0
+3961,2004,Israel,0,0.0
+3962,2004,Italy,0,0.0
+3963,2004,Japan,0,0.0
+3964,2004,Jordan,0,0.0
+3965,2004,Kazakhstan,0,0.0
+3966,2004,Kenya,3,0.0
+3967,2004,Kyrgyzstan,0,0.0
+3968,2004,Latvia,0,0.0
+3969,2004,Lebanon,0,0.0
+3970,2004,Lesotho,0,0.0
+3971,2004,Libya,0,0.0
+3972,2004,Lithuania,0,0.0
+3973,2004,Luxembourg,0,0.0
+3974,2004,Malawi,0,0.0
+3975,2004,Malaysia,0,0.0
+3976,2004,Maldives,0,0.0
+3977,2004,Mexico,0,6.0
+3978,2004,Mongolia,0,0.0
+3979,2004,Morocco,0,0.0
+3980,2004,Mozambique,0,0.0
+3981,2004,Myanmar,0,0.0
+3982,2004,Nepal,0,0.0
+3983,2004,Netherlands,0,146.0
+3984,2004,New Zealand,0,0.0
+3985,2004,Nicaragua,0,0.0
+3986,2004,Nigeria,0,0.0
+3987,2004,Norway,0,9.0
+3988,2004,Pakistan,0,0.0
+3989,2004,Panama,0,7.0
+3990,2004,Papua New Guinea,0,0.0
+3991,2004,Paraguay,0,0.0
+3992,2004,Peru,0,0.0
+3993,2004,Philippines,0,0.0
+3994,2004,Poland,0,0.0
+3995,2004,Portugal,0,0.0
+3996,2004,Romania,0,0.0
+3997,2004,Saudi Arabia,0,0.0
+3998,2004,Senegal,0,0.0
+3999,2004,Sierra Leone,0,0.0
+4000,2004,Singapore,0,0.0
+4001,2004,Slovakia,0,0.0
+4002,2004,Slovenia,0,0.0
+4003,2004,Somalia,0,0.0
+4004,2004,South Africa,0,4.0
+4005,2004,Spain,0,0.0
+4006,2004,Sri Lanka,0,0.0
+4007,2004,Sudan,4,0.0
+4008,2004,Sweden,0,0.0
+4009,2004,Switzerland,0,0.0
+4010,2004,Tajikistan,0,0.0
+4011,2004,Thailand,0,0.0
+4012,2004,Togo,0,0.0
+4013,2004,Tunisia,0,0.0
+4014,2004,Turkey,0,108.0
+4015,2004,Turkmenistan,0,0.0
+4016,2004,Uganda,0,0.0
+4017,2004,Ukraine,0,0.0
+4018,2004,United Arab Emirates,0,0.0
+4019,2004,United States of America,12,7.0
+4020,2004,Uruguay,0,0.0
+4021,2004,Uzbekistan,0,0.0
+4022,2004,Vanuatu,0,0.0
+5669,2004,Worldwide,72,390.0
+4023,2004,Yemen,0,0.0
+4024,2004,Zimbabwe,0,0.0
+4025,2005,Afghanistan,0,0.0
+4026,2005,Algeria,0,0.0
+4027,2005,Angola,0,0.0
+4028,2005,Antigua and Barbuda,0,0.0
+4029,2005,Argentina,0,0.0
+4030,2005,Armenia,0,0.0
+4031,2005,Australia,0,0.0
+4032,2005,Austria,0,0.0
+4033,2005,Azerbaijan,23,0.0
+4034,2005,Bahamas,0,0.0
+4035,2005,Bahrain,0,0.0
+4036,2005,Bangladesh,0,0.0
+4037,2005,Belarus,0,0.0
+4038,2005,Belgium,0,0.0
+4039,2005,Belize,0,0.0
+4040,2005,Botswana,0,0.0
+4041,2005,Brazil,0,0.0
+4042,2005,Bulgaria,0,0.0
+4043,2005,Cambodia,0,0.0
+4044,2005,Cameroon,0,0.0
+4045,2005,Canada,0,0.0
+4046,2005,Chile,0,0.0
+4047,2005,China,0,0.0
+4048,2005,Colombia,160,0.0
+4049,2005,Congo,0,0.0
+4050,2005,Costa Rica,0,0.0
+4051,2005,Croatia,3,0.0
+4052,2005,Cuba,0,0.0
+4053,2005,Denmark,0,0.0
+4054,2005,Dominican Republic,0,0.0
+4055,2005,Ecuador,0,0.0
+4056,2005,Egypt,0,0.0
+4057,2005,Equatorial Guinea,60,0.0
+4058,2005,Ethiopia,0,0.0
+4059,2005,Fiji,0,0.0
+4060,2005,France,0,309.0
+4061,2005,Gabon,0,0.0
+4062,2005,Georgia,0,0.0
+4063,2005,Germany,0,0.0
+4064,2005,Ghana,0,0.0
+4065,2005,Greece,0,0.0
+4066,2005,Guatemala,0,0.0
+4067,2005,Guinea,0,0.0
+4068,2005,Guyana,0,0.0
+4069,2005,Haiti,0,0.0
+4070,2005,Honduras,0,0.0
+4071,2005,Hungary,0,0.0
+4072,2005,Iceland,0,0.0
+4073,2005,India,0,0.0
+4074,2005,Indonesia,3,35.0
+4075,2005,Ireland,0,0.0
+4076,2005,Israel,0,0.0
+4077,2005,Italy,0,0.0
+4078,2005,Japan,0,0.0
+4079,2005,Jordan,0,0.0
+4080,2005,Kazakhstan,0,0.0
+4081,2005,Kenya,0,0.0
+4082,2005,Kyrgyzstan,0,0.0
+4083,2005,Latvia,0,0.0
+4084,2005,Lebanon,0,0.0
+4085,2005,Lesotho,0,0.0
+4086,2005,Libya,0,0.0
+4087,2005,Lithuania,0,0.0
+4088,2005,Luxembourg,0,0.0
+4089,2005,Malawi,0,0.0
+4090,2005,Malaysia,0,0.0
+4091,2005,Maldives,0,0.0
+4092,2005,Mexico,0,0.0
+4093,2005,Mongolia,0,0.0
+4094,2005,Morocco,0,0.0
+4095,2005,Mozambique,0,0.0
+4096,2005,Myanmar,0,0.0
+4097,2005,Nepal,0,0.0
+4098,2005,Netherlands,0,19.0
+4099,2005,New Zealand,0,0.0
+4100,2005,Nicaragua,0,0.0
+4101,2005,Nigeria,108,93.0
+4102,2005,Norway,0,0.0
+4103,2005,Pakistan,0,0.0
+4104,2005,Panama,0,0.0
+4105,2005,Papua New Guinea,0,0.0
+4106,2005,Paraguay,0,0.0
+4107,2005,Peru,0,0.0
+4108,2005,Philippines,0,23.0
+4109,2005,Poland,0,0.0
+4110,2005,Portugal,0,0.0
+4111,2005,Romania,0,0.0
+4112,2005,Saudi Arabia,0,0.0
+4113,2005,Senegal,0,0.0
+4114,2005,Sierra Leone,0,0.0
+4115,2005,Singapore,0,0.0
+4116,2005,Slovakia,0,0.0
+4117,2005,Slovenia,0,0.0
+4118,2005,Somalia,0,0.0
+4119,2005,South Africa,0,0.0
+4120,2005,Spain,0,0.0
+4121,2005,Sri Lanka,0,0.0
+4122,2005,Sudan,0,0.0
+4123,2005,Sweden,0,0.0
+4124,2005,Switzerland,0,0.0
+4125,2005,Tajikistan,0,0.0
+4126,2005,Thailand,0,28.0
+4127,2005,Togo,0,0.0
+4128,2005,Tunisia,16,23.0
+4129,2005,Turkey,0,0.0
+4130,2005,Turkmenistan,0,0.0
+4131,2005,Uganda,0,0.0
+4132,2005,Ukraine,0,0.0
+4133,2005,United Arab Emirates,0,0.0
+4134,2005,United States of America,0,33.0
+4135,2005,Uruguay,0,0.0
+4136,2005,Uzbekistan,0,0.0
+4137,2005,Vanuatu,0,0.0
+5670,2005,Worldwide,373,563.0
+4138,2005,Yemen,0,0.0
+4139,2005,Zimbabwe,0,0.0
+4140,2006,Afghanistan,0,0.0
+4141,2006,Algeria,0,0.0
+4142,2006,Angola,0,0.0
+4143,2006,Antigua and Barbuda,0,0.0
+4144,2006,Argentina,0,0.0
+4145,2006,Armenia,0,0.0
+4146,2006,Australia,0,0.0
+4147,2006,Austria,0,0.0
+4148,2006,Azerbaijan,0,0.0
+4149,2006,Bahamas,0,0.0
+4150,2006,Bahrain,0,3.0
+4151,2006,Bangladesh,0,0.0
+4152,2006,Belarus,0,0.0
+4153,2006,Belgium,0,0.0
+4154,2006,Belize,0,0.0
+4155,2006,Botswana,0,0.0
+4156,2006,Brazil,154,0.0
+4157,2006,Bulgaria,0,0.0
+4158,2006,Cambodia,0,0.0
+4159,2006,Cameroon,0,0.0
+4160,2006,Canada,0,109.0
+4161,2006,Chile,0,0.0
+4162,2006,China,0,0.0
+4163,2006,Colombia,3,3.0
+4164,2006,Congo,0,0.0
+4165,2006,Costa Rica,0,0.0
+4166,2006,Croatia,0,0.0
+4167,2006,Cuba,0,0.0
+4168,2006,Denmark,0,0.0
+4169,2006,Dominican Republic,0,0.0
+4170,2006,Ecuador,0,0.0
+4171,2006,Egypt,0,0.0
+4172,2006,Equatorial Guinea,0,0.0
+4173,2006,Ethiopia,0,0.0
+4174,2006,Fiji,0,0.0
+4175,2006,France,0,0.0
+4176,2006,Gabon,0,0.0
+4177,2006,Georgia,0,0.0
+4178,2006,Germany,1,0.0
+4179,2006,Ghana,0,0.0
+4180,2006,Greece,0,0.0
+4181,2006,Guatemala,0,0.0
+4182,2006,Guinea,0,0.0
+4183,2006,Guyana,0,0.0
+4184,2006,Haiti,0,0.0
+4185,2006,Honduras,0,0.0
+4186,2006,Hungary,0,0.0
+4187,2006,Iceland,0,0.0
+4188,2006,India,0,0.0
+4189,2006,Indonesia,0,169.0
+4190,2006,Ireland,0,0.0
+4191,2006,Israel,0,0.0
+4192,2006,Italy,0,0.0
+4193,2006,Japan,0,0.0
+4194,2006,Jordan,0,0.0
+4195,2006,Kazakhstan,0,0.0
+4196,2006,Kenya,0,0.0
+4197,2006,Kyrgyzstan,0,0.0
+4198,2006,Latvia,0,3.0
+4199,2006,Lebanon,0,0.0
+4200,2006,Lesotho,0,0.0
+4201,2006,Libya,0,0.0
+4202,2006,Lithuania,0,0.0
+4203,2006,Luxembourg,0,0.0
+4204,2006,Malawi,0,0.0
+4205,2006,Malaysia,0,0.0
+4206,2006,Maldives,0,0.0
+4207,2006,Mexico,0,2.0
+4208,2006,Mongolia,0,0.0
+4209,2006,Morocco,0,0.0
+4210,2006,Mozambique,0,0.0
+4211,2006,Myanmar,0,0.0
+4212,2006,Nepal,0,3.0
+4213,2006,Netherlands,0,0.0
+4214,2006,New Zealand,0,0.0
+4215,2006,Nicaragua,0,0.0
+4216,2006,Nigeria,13,5.0
+4217,2006,Norway,0,0.0
+4218,2006,Pakistan,0,0.0
+4219,2006,Panama,0,0.0
+4220,2006,Papua New Guinea,0,0.0
+4221,2006,Paraguay,0,12.0
+4222,2006,Peru,0,0.0
+4223,2006,Philippines,0,3.0
+4224,2006,Poland,0,0.0
+4225,2006,Portugal,0,0.0
+4226,2006,Romania,0,0.0
+4227,2006,Saudi Arabia,0,0.0
+4228,2006,Senegal,0,0.0
+4229,2006,Sierra Leone,0,9.0
+4230,2006,Singapore,0,0.0
+4231,2006,Slovakia,0,0.0
+4232,2006,Slovenia,0,0.0
+4233,2006,Somalia,0,0.0
+4234,2006,South Africa,0,0.0
+4235,2006,Spain,0,0.0
+4236,2006,Sri Lanka,0,0.0
+4237,2006,Sudan,0,0.0
+4238,2006,Sweden,0,0.0
+4239,2006,Switzerland,0,0.0
+4240,2006,Tajikistan,0,0.0
+4241,2006,Thailand,0,0.0
+4242,2006,Togo,0,0.0
+4243,2006,Tunisia,0,0.0
+4244,2006,Turkey,0,113.0
+4245,2006,Turkmenistan,0,0.0
+4246,2006,Uganda,0,0.0
+4247,2006,Ukraine,0,0.0
+4248,2006,United Arab Emirates,0,0.0
+4249,2006,United States of America,0,91.0
+4250,2006,Uruguay,0,0.0
+4251,2006,Uzbekistan,0,0.0
+4252,2006,Vanuatu,0,0.0
+5671,2006,Worldwide,171,525.0
+4253,2006,Yemen,0,0.0
+4254,2006,Zimbabwe,0,0.0
+4255,2007,Afghanistan,0,0.0
+4256,2007,Algeria,0,0.0
+4257,2007,Angola,0,0.0
+4258,2007,Antigua and Barbuda,0,0.0
+4259,2007,Argentina,0,0.0
+4260,2007,Armenia,0,0.0
+4261,2007,Australia,0,0.0
+4262,2007,Austria,0,0.0
+4263,2007,Azerbaijan,0,0.0
+4264,2007,Bahamas,0,0.0
+4265,2007,Bahrain,0,0.0
+4266,2007,Bangladesh,0,0.0
+4267,2007,Belarus,0,0.0
+4268,2007,Belgium,0,0.0
+4269,2007,Belize,0,0.0
+4270,2007,Botswana,0,0.0
+4271,2007,Brazil,2,25.0
+4272,2007,Bulgaria,0,0.0
+4273,2007,Cambodia,0,5.0
+4274,2007,Cameroon,0,0.0
+4275,2007,Canada,1,14.0
+4276,2007,Chile,0,0.0
+4277,2007,China,0,0.0
+4278,2007,Colombia,0,14.0
+4279,2007,Congo,0,0.0
+4280,2007,Costa Rica,0,0.0
+4281,2007,Croatia,0,0.0
+4282,2007,Cuba,0,0.0
+4283,2007,Denmark,0,0.0
+4284,2007,Dominican Republic,0,0.0
+4285,2007,Ecuador,0,0.0
+4286,2007,Egypt,0,0.0
+4287,2007,Equatorial Guinea,0,0.0
+4288,2007,Ethiopia,0,0.0
+4289,2007,Fiji,0,0.0
+4290,2007,France,0,0.0
+4291,2007,Gabon,0,0.0
+4292,2007,Georgia,0,0.0
+4293,2007,Germany,1,3.0
+4294,2007,Ghana,0,0.0
+4295,2007,Greece,0,0.0
+4296,2007,Guatemala,0,0.0
+4297,2007,Guinea,0,0.0
+4298,2007,Guyana,0,0.0
+4299,2007,Haiti,0,6.0
+4300,2007,Honduras,0,0.0
+4301,2007,Hungary,0,0.0
+4302,2007,Iceland,0,0.0
+4303,2007,India,0,53.0
+4304,2007,Indonesia,0,94.0
+4305,2007,Ireland,0,0.0
+4306,2007,Israel,0,0.0
+4307,2007,Italy,0,0.0
+4308,2007,Japan,0,0.0
+4309,2007,Jordan,0,0.0
+4310,2007,Kazakhstan,0,0.0
+4311,2007,Kenya,0,2.0
+4312,2007,Kyrgyzstan,1,8.0
+4313,2007,Latvia,0,0.0
+4314,2007,Lebanon,0,0.0
+4315,2007,Lesotho,0,0.0
+4316,2007,Libya,0,0.0
+4317,2007,Lithuania,0,0.0
+4318,2007,Luxembourg,0,0.0
+4319,2007,Malawi,0,0.0
+4320,2007,Malaysia,0,0.0
+4321,2007,Maldives,0,0.0
+4322,2007,Mexico,3,15.0
+4323,2007,Mongolia,0,0.0
+4324,2007,Morocco,0,0.0
+4325,2007,Mozambique,0,0.0
+4326,2007,Myanmar,0,60.0
+4327,2007,Nepal,0,0.0
+4328,2007,Netherlands,0,0.0
+4329,2007,New Zealand,0,0.0
+4330,2007,Nicaragua,0,0.0
+4331,2007,Nigeria,0,0.0
+4332,2007,Norway,0,0.0
+4333,2007,Pakistan,0,0.0
+4334,2007,Panama,0,13.0
+4335,2007,Papua New Guinea,0,0.0
+4336,2007,Paraguay,0,0.0
+4337,2007,Peru,0,0.0
+4338,2007,Philippines,0,154.0
+4339,2007,Poland,0,0.0
+4340,2007,Portugal,0,0.0
+4341,2007,Romania,0,0.0
+4342,2007,Saudi Arabia,0,0.0
+4343,2007,Senegal,0,0.0
+4344,2007,Sierra Leone,0,0.0
+4345,2007,Singapore,0,0.0
+4346,2007,Slovakia,0,0.0
+4347,2007,Slovenia,0,0.0
+4348,2007,Somalia,0,0.0
+4349,2007,South Africa,2,0.0
+4350,2007,Spain,0,122.0
+4351,2007,Sri Lanka,0,0.0
+4352,2007,Sudan,0,8.0
+4353,2007,Sweden,0,117.0
+4354,2007,Switzerland,0,0.0
+4355,2007,Tajikistan,0,0.0
+4356,2007,Thailand,0,0.0
+4357,2007,Togo,0,0.0
+4358,2007,Tunisia,0,0.0
+4359,2007,Turkey,0,0.0
+4360,2007,Turkmenistan,0,0.0
+4361,2007,Uganda,0,0.0
+4362,2007,Ukraine,0,0.0
+4363,2007,United Arab Emirates,0,0.0
+4364,2007,United States of America,4,15.0
+4365,2007,Uruguay,0,0.0
+4366,2007,Uzbekistan,0,0.0
+4367,2007,Vanuatu,0,0.0
+5672,2007,Worldwide,14,728.0
+4368,2007,Yemen,0,0.0
+4369,2007,Zimbabwe,0,0.0
+4370,2008,Afghanistan,0,0.0
+4371,2008,Algeria,0,0.0
+4372,2008,Angola,0,0.0
+4373,2008,Antigua and Barbuda,0,0.0
+4374,2008,Argentina,0,0.0
+4375,2008,Armenia,0,0.0
+4376,2008,Australia,0,0.0
+4377,2008,Austria,0,0.0
+4378,2008,Azerbaijan,0,0.0
+4379,2008,Bahamas,0,0.0
+4380,2008,Bahrain,0,0.0
+4381,2008,Bangladesh,0,0.0
+4382,2008,Belarus,0,0.0
+4383,2008,Belgium,0,6.0
+4384,2008,Belize,0,5.0
+4385,2008,Botswana,0,0.0
+4386,2008,Brazil,2,8.0
+4387,2008,Bulgaria,0,0.0
+4388,2008,Cambodia,0,0.0
+4389,2008,Cameroon,0,0.0
+4390,2008,Canada,0,16.0
+4391,2008,Chile,0,0.0
+4392,2008,China,0,0.0
+4393,2008,Colombia,0,31.0
+4394,2008,Congo,0,0.0
+4395,2008,Costa Rica,0,0.0
+4396,2008,Croatia,0,0.0
+4397,2008,Cuba,0,0.0
+4398,2008,Denmark,0,0.0
+4399,2008,Dominican Republic,0,0.0
+4400,2008,Ecuador,0,0.0
+4401,2008,Egypt,0,0.0
+4402,2008,Equatorial Guinea,0,0.0
+4403,2008,Ethiopia,0,0.0
+4404,2008,Fiji,0,0.0
+4405,2008,France,0,0.0
+4406,2008,Gabon,0,0.0
+4407,2008,Georgia,0,0.0
+4408,2008,Germany,0,0.0
+4409,2008,Ghana,0,0.0
+4410,2008,Greece,0,0.0
+4411,2008,Guatemala,0,0.0
+4412,2008,Guinea,0,0.0
+4413,2008,Guyana,0,0.0
+4414,2008,Haiti,0,0.0
+4415,2008,Honduras,0,0.0
+4416,2008,Hungary,0,0.0
+4417,2008,Iceland,0,0.0
+4418,2008,India,0,0.0
+4419,2008,Indonesia,0,130.0
+4420,2008,Ireland,0,172.0
+4421,2008,Israel,0,0.0
+4422,2008,Italy,0,6.0
+4423,2008,Japan,0,0.0
+4424,2008,Jordan,0,0.0
+4425,2008,Kazakhstan,0,0.0
+4426,2008,Kenya,0,0.0
+4427,2008,Kyrgyzstan,0,0.0
+4428,2008,Latvia,0,0.0
+4429,2008,Lebanon,0,0.0
+4430,2008,Lesotho,0,0.0
+4431,2008,Libya,0,0.0
+4432,2008,Lithuania,0,0.0
+4433,2008,Luxembourg,0,0.0
+4434,2008,Malawi,0,0.0
+4435,2008,Malaysia,0,0.0
+4436,2008,Maldives,0,0.0
+4437,2008,Mexico,0,0.0
+4438,2008,Mongolia,0,0.0
+4439,2008,Morocco,0,0.0
+4440,2008,Mozambique,0,0.0
+4441,2008,Myanmar,0,0.0
+4442,2008,Nepal,0,0.0
+4443,2008,Netherlands,0,0.0
+4444,2008,New Zealand,0,0.0
+4445,2008,Nicaragua,0,0.0
+4446,2008,Nigeria,0,0.0
+4447,2008,Norway,0,0.0
+4448,2008,Pakistan,0,0.0
+4449,2008,Panama,0,0.0
+4450,2008,Papua New Guinea,0,0.0
+4451,2008,Paraguay,0,0.0
+4452,2008,Peru,0,0.0
+4453,2008,Philippines,0,0.0
+4454,2008,Poland,0,0.0
+4455,2008,Portugal,0,0.0
+4456,2008,Romania,0,0.0
+4457,2008,Saudi Arabia,0,0.0
+4458,2008,Senegal,0,0.0
+4459,2008,Sierra Leone,0,0.0
+4460,2008,Singapore,0,0.0
+4461,2008,Slovakia,0,0.0
+4462,2008,Slovenia,0,0.0
+4463,2008,Somalia,0,0.0
+4464,2008,South Africa,0,10.0
+4465,2008,Spain,0,122.0
+4466,2008,Sri Lanka,0,0.0
+4467,2008,Sudan,7,1.0
+4468,2008,Sweden,0,0.0
+4469,2008,Switzerland,0,0.0
+4470,2008,Tajikistan,0,0.0
+4471,2008,Thailand,0,0.0
+4472,2008,Togo,0,0.0
+4473,2008,Tunisia,0,0.0
+4474,2008,Turkey,0,0.0
+4475,2008,Turkmenistan,0,0.0
+4476,2008,Uganda,0,0.0
+4477,2008,Ukraine,0,0.0
+4478,2008,United Arab Emirates,0,0.0
+4479,2008,United States of America,17,9.0
+4480,2008,Uruguay,0,0.0
+4481,2008,Uzbekistan,0,0.0
+4482,2008,Vanuatu,2,8.0
+5673,2008,Worldwide,28,524.0
+4483,2008,Yemen,0,0.0
+4484,2008,Zimbabwe,0,0.0
+4485,2009,Afghanistan,0,0.0
+4486,2009,Algeria,0,0.0
+4487,2009,Angola,0,0.0
+4488,2009,Antigua and Barbuda,0,0.0
+4489,2009,Argentina,0,0.0
+4490,2009,Armenia,0,0.0
+4491,2009,Australia,0,6.0
+4492,2009,Austria,0,0.0
+4493,2009,Azerbaijan,0,0.0
+4494,2009,Bahamas,0,21.0
+4495,2009,Bahrain,0,0.0
+4496,2009,Bangladesh,0,0.0
+4497,2009,Belarus,0,0.0
+4498,2009,Belgium,0,0.0
+4499,2009,Belize,0,0.0
+4500,2009,Botswana,0,0.0
+4501,2009,Brazil,0,4.0
+4502,2009,Bulgaria,0,0.0
+4503,2009,Cambodia,0,0.0
+4504,2009,Cameroon,0,0.0
+4505,2009,Canada,2,2.0
+4506,2009,Chile,0,0.0
+4507,2009,China,0,0.0
+4508,2009,Colombia,0,0.0
+4509,2009,Congo,6,0.0
+4510,2009,Costa Rica,0,0.0
+4511,2009,Croatia,0,0.0
+4512,2009,Cuba,0,0.0
+4513,2009,Denmark,0,0.0
+4514,2009,Dominican Republic,0,0.0
+4515,2009,Ecuador,0,0.0
+4516,2009,Egypt,0,0.0
+4517,2009,Equatorial Guinea,0,0.0
+4518,2009,Ethiopia,0,0.0
+4519,2009,Fiji,0,0.0
+4520,2009,France,0,0.0
+4521,2009,Gabon,0,0.0
+4522,2009,Georgia,0,0.0
+4523,2009,Germany,0,6.0
+4524,2009,Ghana,0,0.0
+4525,2009,Greece,0,0.0
+4526,2009,Guatemala,0,0.0
+4527,2009,Guinea,0,0.0
+4528,2009,Guyana,0,0.0
+4529,2009,Haiti,0,0.0
+4530,2009,Honduras,0,0.0
+4531,2009,Hungary,0,0.0
+4532,2009,Iceland,0,0.0
+4533,2009,India,0,42.0
+4534,2009,Indonesia,19,0.0
+4535,2009,Ireland,0,0.0
+4536,2009,Israel,0,0.0
+4537,2009,Italy,0,0.0
+4538,2009,Japan,0,11.0
+4539,2009,Jordan,0,0.0
+4540,2009,Kazakhstan,0,0.0
+4541,2009,Kenya,0,0.0
+4542,2009,Kyrgyzstan,0,0.0
+4543,2009,Latvia,0,0.0
+4544,2009,Lebanon,0,0.0
+4545,2009,Lesotho,0,0.0
+4546,2009,Libya,0,0.0
+4547,2009,Lithuania,0,0.0
+4548,2009,Luxembourg,0,0.0
+4549,2009,Malawi,0,0.0
+4550,2009,Malaysia,0,0.0
+4551,2009,Maldives,0,0.0
+4552,2009,Mexico,0,0.0
+4553,2009,Mongolia,0,0.0
+4554,2009,Morocco,0,0.0
+4555,2009,Mozambique,0,0.0
+4556,2009,Myanmar,0,0.0
+4557,2009,Nepal,0,0.0
+4558,2009,Netherlands,0,0.0
+4559,2009,New Zealand,0,0.0
+4560,2009,Nicaragua,0,0.0
+4561,2009,Nigeria,0,0.0
+4562,2009,Norway,0,0.0
+4563,2009,Pakistan,0,0.0
+4564,2009,Panama,0,0.0
+4565,2009,Papua New Guinea,13,0.0
+4566,2009,Paraguay,0,0.0
+4567,2009,Peru,0,0.0
+4568,2009,Philippines,0,37.0
+4569,2009,Poland,0,0.0
+4570,2009,Portugal,0,0.0
+4571,2009,Romania,0,0.0
+4572,2009,Saudi Arabia,0,0.0
+4573,2009,Senegal,0,0.0
+4574,2009,Sierra Leone,0,0.0
+4575,2009,Singapore,0,0.0
+4576,2009,Slovakia,0,0.0
+4577,2009,Slovenia,0,0.0
+4578,2009,Somalia,0,0.0
+4579,2009,South Africa,1,2.0
+4580,2009,Spain,0,0.0
+4581,2009,Sri Lanka,0,0.0
+4582,2009,Sudan,0,0.0
+4583,2009,Sweden,0,0.0
+4584,2009,Switzerland,0,0.0
+4585,2009,Tajikistan,0,0.0
+4586,2009,Thailand,1,71.0
+4587,2009,Togo,0,0.0
+4588,2009,Tunisia,0,0.0
+4589,2009,Turkey,0,0.0
+4590,2009,Turkmenistan,0,0.0
+4591,2009,Uganda,0,0.0
+4592,2009,Ukraine,0,0.0
+4593,2009,United Arab Emirates,0,0.0
+4594,2009,United States of America,9,324.0
+4595,2009,Uruguay,0,0.0
+4596,2009,Uzbekistan,0,0.0
+4597,2009,Vanuatu,0,0.0
+5674,2009,Worldwide,54,530.0
+4598,2009,Yemen,0,0.0
+4599,2009,Zimbabwe,3,4.0
+4600,2010,Afghanistan,0,0.0
+4601,2010,Algeria,0,0.0
+4602,2010,Angola,0,0.0
+4603,2010,Antigua and Barbuda,0,0.0
+4604,2010,Argentina,0,10.0
+4605,2010,Armenia,0,0.0
+4606,2010,Australia,0,0.0
+4607,2010,Austria,0,0.0
+4608,2010,Azerbaijan,0,0.0
+4609,2010,Bahamas,0,0.0
+4610,2010,Bahrain,0,0.0
+4611,2010,Bangladesh,0,0.0
+4612,2010,Belarus,0,0.0
+4613,2010,Belgium,0,0.0
+4614,2010,Belize,0,0.0
+4615,2010,Botswana,0,0.0
+4616,2010,Brazil,0,3.0
+4617,2010,Bulgaria,0,0.0
+4618,2010,Cambodia,0,0.0
+4619,2010,Cameroon,0,0.0
+4620,2010,Canada,0,6.0
+4621,2010,Chile,0,0.0
+4622,2010,China,44,52.0
+4623,2010,Colombia,0,3.0
+4624,2010,Congo,0,0.0
+4625,2010,Costa Rica,0,0.0
+4626,2010,Croatia,0,0.0
+4627,2010,Cuba,68,0.0
+4628,2010,Denmark,0,0.0
+4629,2010,Dominican Republic,0,0.0
+4630,2010,Ecuador,0,0.0
+4631,2010,Egypt,0,0.0
+4632,2010,Equatorial Guinea,0,0.0
+4633,2010,Ethiopia,0,0.0
+4634,2010,Fiji,0,0.0
+4635,2010,France,0,0.0
+4636,2010,Gabon,0,0.0
+4637,2010,Georgia,8,0.0
+4638,2010,Germany,0,2.0
+4639,2010,Ghana,0,0.0
+4640,2010,Greece,0,0.0
+4641,2010,Guatemala,0,0.0
+4642,2010,Guinea,0,0.0
+4643,2010,Guyana,0,0.0
+4644,2010,Haiti,0,0.0
+4645,2010,Honduras,0,0.0
+4646,2010,Hungary,0,0.0
+4647,2010,Iceland,0,0.0
+4648,2010,India,0,0.0
+4649,2010,Indonesia,0,175.0
+4650,2010,Ireland,0,0.0
+4651,2010,Israel,0,0.0
+4652,2010,Italy,0,129.0
+4653,2010,Japan,0,0.0
+4654,2010,Jordan,0,0.0
+4655,2010,Kazakhstan,0,0.0
+4656,2010,Kenya,0,0.0
+4657,2010,Kyrgyzstan,0,0.0
+4658,2010,Latvia,0,0.0
+4659,2010,Lebanon,0,0.0
+4660,2010,Lesotho,0,0.0
+4661,2010,Libya,0,0.0
+4662,2010,Lithuania,0,0.0
+4663,2010,Luxembourg,0,0.0
+4664,2010,Malawi,0,0.0
+4665,2010,Malaysia,0,0.0
+4666,2010,Maldives,0,0.0
+4667,2010,Mexico,5,0.0
+4668,2010,Mongolia,0,0.0
+4669,2010,Morocco,0,0.0
+4670,2010,Mozambique,0,17.0
+4671,2010,Myanmar,0,0.0
+4672,2010,Nepal,22,0.0
+4673,2010,Netherlands,0,0.0
+4674,2010,New Zealand,0,0.0
+4675,2010,Nicaragua,0,0.0
+4676,2010,Nigeria,0,0.0
+4677,2010,Norway,0,0.0
+4678,2010,Pakistan,152,0.0
+4679,2010,Panama,0,0.0
+4680,2010,Papua New Guinea,0,0.0
+4681,2010,Paraguay,0,0.0
+4682,2010,Peru,0,19.0
+4683,2010,Philippines,0,0.0
+4684,2010,Poland,0,4.0
+4685,2010,Portugal,0,0.0
+4686,2010,Romania,12,2.0
+4687,2010,Saudi Arabia,0,0.0
+4688,2010,Senegal,0,0.0
+4689,2010,Sierra Leone,0,0.0
+4690,2010,Singapore,0,0.0
+4691,2010,Slovakia,0,0.0
+4692,2010,Slovenia,0,0.0
+4693,2010,Somalia,0,0.0
+4694,2010,South Africa,0,0.0
+4695,2010,Spain,0,0.0
+4696,2010,Sri Lanka,0,0.0
+4697,2010,Sudan,0,0.0
+4698,2010,Sweden,0,0.0
+4699,2010,Switzerland,0,0.0
+4700,2010,Tajikistan,0,0.0
+4701,2010,Thailand,0,0.0
+4702,2010,Togo,0,0.0
+4703,2010,Tunisia,0,0.0
+4704,2010,Turkey,0,0.0
+4705,2010,Turkmenistan,0,0.0
+4706,2010,Uganda,0,0.0
+4707,2010,Ukraine,0,0.0
+4708,2010,United Arab Emirates,0,0.0
+4709,2010,United States of America,9,11.0
+4710,2010,Uruguay,0,0.0
+4711,2010,Uzbekistan,0,0.0
+4712,2010,Vanuatu,0,0.0
+5675,2010,Worldwide,320,433.0
+4713,2010,Yemen,0,0.0
+4714,2010,Zimbabwe,0,0.0
+4715,2011,Afghanistan,0,0.0
+4716,2011,Algeria,0,0.0
+4717,2011,Angola,0,0.0
+4718,2011,Antigua and Barbuda,0,0.0
+4719,2011,Argentina,0,0.0
+4720,2011,Armenia,0,0.0
+4721,2011,Australia,0,0.0
+4722,2011,Austria,0,0.0
+4723,2011,Azerbaijan,0,0.0
+4724,2011,Bahamas,0,0.0
+4725,2011,Bahrain,0,0.0
+4726,2011,Bangladesh,0,0.0
+4727,2011,Belarus,0,0.0
+4728,2011,Belgium,0,0.0
+4729,2011,Belize,0,0.0
+4730,2011,Botswana,0,0.0
+4731,2011,Brazil,0,0.0
+4732,2011,Bulgaria,0,0.0
+4733,2011,Cambodia,0,0.0
+4734,2011,Cameroon,0,0.0
+4735,2011,Canada,4,14.0
+4736,2011,Chile,21,0.0
+4737,2011,China,0,0.0
+4738,2011,Colombia,0,0.0
+4739,2011,Congo,0,0.0
+4740,2011,Costa Rica,0,0.0
+4741,2011,Croatia,0,0.0
+4742,2011,Cuba,0,0.0
+4743,2011,Denmark,0,0.0
+4744,2011,Dominican Republic,0,0.0
+4745,2011,Ecuador,0,103.0
+4746,2011,Egypt,0,0.0
+4747,2011,Equatorial Guinea,0,0.0
+4748,2011,Ethiopia,0,0.0
+4749,2011,Fiji,0,0.0
+4750,2011,France,0,119.0
+4751,2011,Gabon,0,0.0
+4752,2011,Georgia,0,0.0
+4753,2011,Germany,0,0.0
+4754,2011,Ghana,0,0.0
+4755,2011,Greece,0,0.0
+4756,2011,Guatemala,0,0.0
+4757,2011,Guinea,0,0.0
+4758,2011,Guyana,0,0.0
+4759,2011,Haiti,3,0.0
+4760,2011,Honduras,0,0.0
+4761,2011,Hungary,0,0.0
+4762,2011,Iceland,0,0.0
+4763,2011,India,0,4.0
+4764,2011,Indonesia,3,138.0
+4765,2011,Ireland,0,0.0
+4766,2011,Israel,0,0.0
+4767,2011,Italy,0,0.0
+4768,2011,Japan,0,0.0
+4769,2011,Jordan,0,0.0
+4770,2011,Kazakhstan,0,0.0
+4771,2011,Kenya,0,0.0
+4772,2011,Kyrgyzstan,0,88.0
+4773,2011,Latvia,0,0.0
+4774,2011,Lebanon,0,0.0
+4775,2011,Lesotho,0,0.0
+4776,2011,Libya,0,0.0
+4777,2011,Lithuania,0,0.0
+4778,2011,Luxembourg,0,0.0
+4779,2011,Malawi,0,0.0
+4780,2011,Malaysia,0,0.0
+4781,2011,Maldives,0,0.0
+4782,2011,Mexico,0,0.0
+4783,2011,Mongolia,0,0.0
+4784,2011,Morocco,80,0.0
+4785,2011,Mozambique,0,0.0
+4786,2011,Myanmar,0,0.0
+4787,2011,Nepal,19,12.0
+4788,2011,Netherlands,0,0.0
+4789,2011,New Zealand,0,0.0
+4790,2011,Nicaragua,0,0.0
+4791,2011,Nigeria,0,0.0
+4792,2011,Norway,0,0.0
+4793,2011,Pakistan,0,0.0
+4794,2011,Panama,0,0.0
+4795,2011,Papua New Guinea,28,4.0
+4796,2011,Paraguay,0,0.0
+4797,2011,Peru,0,0.0
+4798,2011,Philippines,0,0.0
+4799,2011,Poland,0,0.0
+4800,2011,Portugal,0,0.0
+4801,2011,Romania,0,0.0
+4802,2011,Saudi Arabia,0,0.0
+4803,2011,Senegal,0,0.0
+4804,2011,Sierra Leone,0,0.0
+4805,2011,Singapore,0,0.0
+4806,2011,Slovakia,0,0.0
+4807,2011,Slovenia,0,0.0
+4808,2011,Somalia,0,0.0
+4809,2011,South Africa,0,0.0
+4810,2011,Spain,0,0.0
+4811,2011,Sri Lanka,0,0.0
+4812,2011,Sudan,0,45.0
+4813,2011,Sweden,0,0.0
+4814,2011,Switzerland,0,0.0
+4815,2011,Tajikistan,0,0.0
+4816,2011,Thailand,0,0.0
+4817,2011,Togo,0,0.0
+4818,2011,Tunisia,0,0.0
+4819,2011,Turkey,0,0.0
+4820,2011,Turkmenistan,0,0.0
+4821,2011,Uganda,0,0.0
+4822,2011,Ukraine,0,0.0
+4823,2011,United Arab Emirates,0,0.0
+4824,2011,United States of America,1,10.0
+4825,2011,Uruguay,0,0.0
+4826,2011,Uzbekistan,0,0.0
+4827,2011,Vanuatu,0,0.0
+5676,2011,Worldwide,163,548.0
+4828,2011,Yemen,4,11.0
+4829,2011,Zimbabwe,0,0.0
+4830,2012,Afghanistan,0,0.0
+4831,2012,Algeria,6,0.0
+4832,2012,Angola,0,0.0
+4833,2012,Antigua and Barbuda,0,0.0
+4834,2012,Argentina,0,0.0
+4835,2012,Armenia,0,0.0
+4836,2012,Australia,0,0.0
+4837,2012,Austria,0,0.0
+4838,2012,Azerbaijan,0,0.0
+4839,2012,Bahamas,0,0.0
+4840,2012,Bahrain,0,0.0
+4841,2012,Bangladesh,0,0.0
+4842,2012,Belarus,0,0.0
+4843,2012,Belgium,0,0.0
+4844,2012,Belize,0,0.0
+4845,2012,Botswana,0,0.0
+4846,2012,Brazil,0,3.0
+4847,2012,Bulgaria,0,0.0
+4848,2012,Cambodia,0,0.0
+4849,2012,Cameroon,0,0.0
+4850,2012,Canada,1,10.0
+4851,2012,Chile,0,0.0
+4852,2012,China,0,0.0
+4853,2012,Colombia,0,0.0
+4854,2012,Congo,0,0.0
+4855,2012,Costa Rica,0,0.0
+4856,2012,Croatia,0,0.0
+4857,2012,Cuba,0,0.0
+4858,2012,Denmark,0,0.0
+4859,2012,Dominican Republic,0,0.0
+4860,2012,Ecuador,0,0.0
+4861,2012,Egypt,0,0.0
+4862,2012,Equatorial Guinea,0,0.0
+4863,2012,Ethiopia,0,0.0
+4864,2012,Fiji,0,0.0
+4865,2012,France,0,0.0
+4866,2012,Gabon,0,0.0
+4867,2012,Georgia,0,0.0
+4868,2012,Germany,0,0.0
+4869,2012,Ghana,0,0.0
+4870,2012,Greece,0,0.0
+4871,2012,Guatemala,0,0.0
+4872,2012,Guinea,0,0.0
+4873,2012,Guyana,0,0.0
+4874,2012,Haiti,0,0.0
+4875,2012,Honduras,0,19.0
+4876,2012,Hungary,0,0.0
+4877,2012,Iceland,0,0.0
+4878,2012,India,0,0.0
+4879,2012,Indonesia,0,0.0
+4880,2012,Ireland,0,0.0
+4881,2012,Israel,0,0.0
+4882,2012,Italy,0,0.0
+4883,2012,Japan,0,0.0
+4884,2012,Jordan,0,0.0
+4885,2012,Kazakhstan,27,0.0
+4886,2012,Kenya,0,57.0
+4887,2012,Kyrgyzstan,0,0.0
+4888,2012,Latvia,0,0.0
+4889,2012,Lebanon,0,0.0
+4890,2012,Lesotho,0,0.0
+4891,2012,Libya,0,0.0
+4892,2012,Lithuania,0,0.0
+4893,2012,Luxembourg,0,0.0
+4894,2012,Malawi,0,0.0
+4895,2012,Malaysia,0,0.0
+4896,2012,Maldives,0,0.0
+4897,2012,Mexico,0,0.0
+4898,2012,Mongolia,0,0.0
+4899,2012,Morocco,0,0.0
+4900,2012,Mozambique,0,0.0
+4901,2012,Myanmar,1,70.0
+4902,2012,Nepal,0,7.0
+4903,2012,Netherlands,0,0.0
+4904,2012,New Zealand,0,0.0
+4905,2012,Nicaragua,0,0.0
+4906,2012,Nigeria,0,0.0
+4907,2012,Norway,0,0.0
+4908,2012,Pakistan,0,0.0
+4909,2012,Panama,0,0.0
+4910,2012,Papua New Guinea,0,0.0
+4911,2012,Paraguay,0,0.0
+4912,2012,Peru,4,0.0
+4913,2012,Philippines,0,0.0
+4914,2012,Poland,0,0.0
+4915,2012,Portugal,0,0.0
+4916,2012,Romania,0,0.0
+4917,2012,Saudi Arabia,0,0.0
+4918,2012,Senegal,0,0.0
+4919,2012,Sierra Leone,0,0.0
+4920,2012,Singapore,0,0.0
+4921,2012,Slovakia,0,0.0
+4922,2012,Slovenia,0,0.0
+4923,2012,Somalia,0,0.0
+4924,2012,South Africa,0,0.0
+4925,2012,Spain,0,2.0
+4926,2012,Sri Lanka,0,0.0
+4927,2012,Sudan,0,0.0
+4928,2012,Sweden,0,0.0
+4929,2012,Switzerland,0,0.0
+4930,2012,Tajikistan,0,0.0
+4931,2012,Thailand,0,0.0
+4932,2012,Togo,0,0.0
+4933,2012,Tunisia,0,0.0
+4934,2012,Turkey,0,196.0
+4935,2012,Turkmenistan,0,0.0
+4936,2012,Uganda,0,0.0
+4937,2012,Ukraine,0,0.0
+4938,2012,United Arab Emirates,0,0.0
+4939,2012,United States of America,2,8.0
+4940,2012,Uruguay,0,0.0
+4941,2012,Uzbekistan,0,0.0
+4942,2012,Vanuatu,0,0.0
+5677,2012,Worldwide,41,372.0
+4943,2012,Yemen,0,0.0
+4944,2012,Zimbabwe,0,0.0
+4945,2013,Afghanistan,0,0.0
+4946,2013,Algeria,0,0.0
+4947,2013,Angola,0,0.0
+4948,2013,Antigua and Barbuda,0,0.0
+4949,2013,Argentina,0,88.0
+4950,2013,Armenia,0,0.0
+4951,2013,Australia,0,0.0
+4952,2013,Austria,0,0.0
+4953,2013,Azerbaijan,0,0.0
+4954,2013,Bahamas,0,0.0
+4955,2013,Bahrain,0,0.0
+4956,2013,Bangladesh,0,0.0
+4957,2013,Belarus,0,0.0
+4958,2013,Belgium,0,0.0
+4959,2013,Belize,0,0.0
+4960,2013,Botswana,0,0.0
+4961,2013,Brazil,0,0.0
+4962,2013,Bulgaria,0,0.0
+4963,2013,Cambodia,0,0.0
+4964,2013,Cameroon,0,0.0
+4965,2013,Canada,6,2.0
+4966,2013,Chile,2,0.0
+4967,2013,China,0,0.0
+4968,2013,Colombia,0,0.0
+4969,2013,Congo,0,0.0
+4970,2013,Costa Rica,0,0.0
+4971,2013,Croatia,0,0.0
+4972,2013,Cuba,0,0.0
+4973,2013,Denmark,0,0.0
+4974,2013,Dominican Republic,0,0.0
+4975,2013,Ecuador,0,0.0
+4976,2013,Egypt,0,0.0
+4977,2013,Equatorial Guinea,0,0.0
+4978,2013,Ethiopia,0,0.0
+4979,2013,Fiji,0,0.0
+4980,2013,France,0,0.0
+4981,2013,Gabon,0,0.0
+4982,2013,Georgia,0,0.0
+4983,2013,Germany,0,3.0
+4984,2013,Ghana,0,0.0
+4985,2013,Greece,0,0.0
+4986,2013,Guatemala,0,0.0
+4987,2013,Guinea,0,0.0
+4988,2013,Guyana,0,0.0
+4989,2013,Haiti,0,0.0
+4990,2013,Honduras,0,0.0
+4991,2013,Hungary,0,0.0
+4992,2013,Iceland,0,0.0
+4993,2013,India,0,0.0
+4994,2013,Indonesia,0,0.0
+4995,2013,Ireland,0,0.0
+4996,2013,Israel,0,0.0
+4997,2013,Italy,0,0.0
+4998,2013,Japan,0,0.0
+4999,2013,Jordan,0,0.0
+5000,2013,Kazakhstan,0,0.0
+5001,2013,Kenya,0,0.0
+5002,2013,Kyrgyzstan,0,0.0
+5003,2013,Latvia,0,0.0
+5004,2013,Lebanon,0,0.0
+5005,2013,Lesotho,0,0.0
+5006,2013,Libya,0,0.0
+5007,2013,Lithuania,0,0.0
+5008,2013,Luxembourg,0,0.0
+5009,2013,Malawi,0,0.0
+5010,2013,Malaysia,2,14.0
+5011,2013,Maldives,0,0.0
+5012,2013,Mexico,4,7.0
+5013,2013,Mongolia,0,0.0
+5014,2013,Morocco,0,0.0
+5015,2013,Mozambique,0,0.0
+5016,2013,Myanmar,0,0.0
+5017,2013,Nepal,0,0.0
+5018,2013,Netherlands,0,0.0
+5019,2013,New Zealand,0,0.0
+5020,2013,Nicaragua,0,0.0
+5021,2013,Nigeria,16,4.0
+5022,2013,Norway,0,0.0
+5023,2013,Pakistan,0,0.0
+5024,2013,Panama,0,0.0
+5025,2013,Papua New Guinea,0,0.0
+5026,2013,Paraguay,0,0.0
+5027,2013,Peru,0,0.0
+5028,2013,Philippines,0,75.0
+5029,2013,Poland,0,0.0
+5030,2013,Portugal,0,0.0
+5031,2013,Romania,0,0.0
+5032,2013,Saudi Arabia,0,5.0
+5033,2013,Senegal,0,0.0
+5034,2013,Sierra Leone,0,0.0
+5035,2013,Singapore,0,0.0
+5036,2013,Slovakia,0,0.0
+5037,2013,Slovenia,0,0.0
+5038,2013,Somalia,0,0.0
+5039,2013,South Africa,0,0.0
+5040,2013,Spain,0,0.0
+5041,2013,Sri Lanka,0,0.0
+5042,2013,Sudan,0,55.0
+5043,2013,Sweden,0,0.0
+5044,2013,Switzerland,0,64.0
+5045,2013,Tajikistan,0,0.0
+5046,2013,Thailand,0,302.0
+5047,2013,Togo,0,0.0
+5048,2013,Tunisia,0,0.0
+5049,2013,Turkey,0,0.0
+5050,2013,Turkmenistan,0,0.0
+5051,2013,Uganda,0,0.0
+5052,2013,Ukraine,0,0.0
+5053,2013,United Arab Emirates,0,0.0
+5054,2013,United States of America,12,237.0
+5055,2013,Uruguay,0,0.0
+5056,2013,Uzbekistan,0,0.0
+5057,2013,Vanuatu,0,0.0
+5678,2013,Worldwide,42,856.0
+5058,2013,Yemen,0,0.0
+5059,2013,Zimbabwe,0,0.0
+5060,2014,Afghanistan,0,0.0
+5061,2014,Algeria,0,0.0
+5062,2014,Angola,0,0.0
+5063,2014,Antigua and Barbuda,0,0.0
+5064,2014,Argentina,2,0.0
+5065,2014,Armenia,0,0.0
+5066,2014,Australia,0,0.0
+5067,2014,Austria,0,0.0
+5068,2014,Azerbaijan,0,0.0
+5069,2014,Bahamas,9,0.0
+5070,2014,Bahrain,0,0.0
+5071,2014,Bangladesh,0,48.0
+5072,2014,Belarus,0,0.0
+5073,2014,Belgium,0,0.0
+5074,2014,Belize,0,0.0
+5075,2014,Botswana,0,0.0
+5076,2014,Brazil,7,0.0
+5077,2014,Bulgaria,0,0.0
+5078,2014,Cambodia,0,0.0
+5079,2014,Cameroon,0,0.0
+5080,2014,Canada,0,0.0
+5081,2014,Chile,0,0.0
+5082,2014,China,0,0.0
+5083,2014,Colombia,0,0.0
+5084,2014,Congo,0,0.0
+5085,2014,Costa Rica,0,0.0
+5086,2014,Croatia,0,0.0
+5087,2014,Cuba,0,0.0
+5088,2014,Denmark,0,0.0
+5089,2014,Dominican Republic,0,13.0
+5090,2014,Ecuador,0,0.0
+5091,2014,Egypt,0,0.0
+5092,2014,Equatorial Guinea,0,0.0
+5093,2014,Ethiopia,0,0.0
+5094,2014,Fiji,0,0.0
+5095,2014,France,0,3.0
+5096,2014,Gabon,0,0.0
+5097,2014,Georgia,0,0.0
+5098,2014,Germany,0,34.0
+5099,2014,Ghana,0,0.0
+5100,2014,Greece,0,0.0
+5101,2014,Guatemala,0,0.0
+5102,2014,Guinea,0,0.0
+5103,2014,Guyana,2,0.0
+5104,2014,Haiti,0,0.0
+5105,2014,Honduras,0,0.0
+5106,2014,Hungary,0,0.0
+5107,2014,Iceland,0,0.0
+5108,2014,India,0,0.0
+5109,2014,Indonesia,0,12.0
+5110,2014,Ireland,0,261.0
+5111,2014,Israel,0,0.0
+5112,2014,Italy,0,0.0
+5113,2014,Japan,0,0.0
+5114,2014,Jordan,0,180.0
+5115,2014,Kazakhstan,0,0.0
+5116,2014,Kenya,6,1.0
+5117,2014,Kyrgyzstan,0,0.0
+5118,2014,Latvia,0,0.0
+5119,2014,Lebanon,0,0.0
+5120,2014,Lesotho,0,0.0
+5121,2014,Libya,0,0.0
+5122,2014,Lithuania,0,0.0
+5123,2014,Luxembourg,0,0.0
+5124,2014,Malawi,0,0.0
+5125,2014,Malaysia,0,0.0
+5126,2014,Maldives,0,0.0
+5127,2014,Mexico,0,0.0
+5128,2014,Mongolia,0,0.0
+5129,2014,Morocco,0,0.0
+5130,2014,Mozambique,0,0.0
+5131,2014,Myanmar,0,0.0
+5132,2014,Nepal,0,0.0
+5133,2014,Netherlands,0,0.0
+5134,2014,New Zealand,0,0.0
+5135,2014,Nicaragua,0,0.0
+5136,2014,Nigeria,0,0.0
+5137,2014,Norway,0,0.0
+5138,2014,Pakistan,1,189.0
+5139,2014,Panama,0,0.0
+5140,2014,Papua New Guinea,4,5.0
+5141,2014,Paraguay,0,0.0
+5142,2014,Peru,0,0.0
+5143,2014,Philippines,0,0.0
+5144,2014,Poland,0,0.0
+5145,2014,Portugal,0,0.0
+5146,2014,Romania,0,0.0
+5147,2014,Saudi Arabia,0,0.0
+5148,2014,Senegal,0,0.0
+5149,2014,Sierra Leone,0,0.0
+5150,2014,Singapore,0,0.0
+5151,2014,Slovakia,0,0.0
+5152,2014,Slovenia,0,0.0
+5153,2014,Somalia,0,0.0
+5154,2014,South Africa,0,0.0
+5155,2014,Spain,0,0.0
+5156,2014,Sri Lanka,5,0.0
+5157,2014,Sudan,0,0.0
+5158,2014,Sweden,0,0.0
+5159,2014,Switzerland,0,0.0
+5160,2014,Tajikistan,0,0.0
+5161,2014,Thailand,0,0.0
+5162,2014,Togo,0,0.0
+5163,2014,Tunisia,0,0.0
+5164,2014,Turkey,0,0.0
+5165,2014,Turkmenistan,0,0.0
+5166,2014,Uganda,0,0.0
+5167,2014,Ukraine,13,0.0
+5168,2014,United Arab Emirates,0,0.0
+5169,2014,United States of America,4,278.0
+5170,2014,Uruguay,0,0.0
+5171,2014,Uzbekistan,0,0.0
+5172,2014,Vanuatu,0,0.0
+5679,2014,Worldwide,53,1024.0
+5173,2014,Yemen,0,0.0
+5174,2014,Zimbabwe,0,0.0
+5175,2015,Afghanistan,0,0.0
+5176,2015,Algeria,0,0.0
+5177,2015,Angola,0,0.0
+5178,2015,Antigua and Barbuda,0,0.0
+5179,2015,Argentina,0,0.0
+5180,2015,Armenia,0,0.0
+5181,2015,Australia,0,2.0
+5182,2015,Austria,0,0.0
+5183,2015,Azerbaijan,0,0.0
+5184,2015,Bahamas,0,0.0
+5185,2015,Bahrain,0,0.0
+5186,2015,Bangladesh,0,0.0
+5187,2015,Belarus,0,0.0
+5188,2015,Belgium,0,0.0
+5189,2015,Belize,0,0.0
+5190,2015,Botswana,0,0.0
+5191,2015,Brazil,3,0.0
+5192,2015,Bulgaria,0,0.0
+5193,2015,Cambodia,0,0.0
+5194,2015,Cameroon,0,0.0
+5195,2015,Canada,0,4.0
+5196,2015,Chile,0,0.0
+5197,2015,China,0,0.0
+5198,2015,Colombia,11,0.0
+5199,2015,Congo,0,0.0
+5200,2015,Costa Rica,0,0.0
+5201,2015,Croatia,0,0.0
+5202,2015,Cuba,0,0.0
+5203,2015,Denmark,0,0.0
+5204,2015,Dominican Republic,0,0.0
+5205,2015,Ecuador,0,0.0
+5206,2015,Egypt,0,6.0
+5207,2015,Equatorial Guinea,0,0.0
+5208,2015,Ethiopia,0,0.0
+5209,2015,Fiji,0,0.0
+5210,2015,France,0,0.0
+5211,2015,Gabon,0,0.0
+5212,2015,Georgia,0,0.0
+5213,2015,Germany,0,1.0
+5214,2015,Ghana,0,76.0
+5215,2015,Greece,0,0.0
+5216,2015,Guatemala,0,0.0
+5217,2015,Guinea,0,0.0
+5218,2015,Guyana,0,0.0
+5219,2015,Haiti,0,0.0
+5220,2015,Honduras,0,0.0
+5221,2015,Hungary,0,0.0
+5222,2015,Iceland,0,0.0
+5223,2015,India,10,0.0
+5224,2015,Indonesia,64,125.0
+5225,2015,Ireland,0,0.0
+5226,2015,Israel,0,0.0
+5227,2015,Italy,0,0.0
+5228,2015,Japan,0,14.0
+5229,2015,Jordan,0,0.0
+5230,2015,Kazakhstan,0,0.0
+5231,2015,Kenya,0,0.0
+5232,2015,Kyrgyzstan,0,0.0
+5233,2015,Latvia,0,0.0
+5234,2015,Lebanon,0,0.0
+5235,2015,Lesotho,0,0.0
+5236,2015,Libya,0,0.0
+5237,2015,Lithuania,0,0.0
+5238,2015,Luxembourg,0,0.0
+5239,2015,Malawi,0,0.0
+5240,2015,Malaysia,0,0.0
+5241,2015,Maldives,0,14.0
+5242,2015,Mexico,0,2.0
+5243,2015,Mongolia,0,0.0
+5244,2015,Morocco,0,0.0
+5245,2015,Mozambique,0,0.0
+5246,2015,Myanmar,0,0.0
+5247,2015,Nepal,0,0.0
+5248,2015,Netherlands,0,0.0
+5249,2015,New Zealand,0,0.0
+5250,2015,Nicaragua,0,0.0
+5251,2015,Nigeria,0,0.0
+5252,2015,Norway,0,0.0
+5253,2015,Pakistan,0,0.0
+5254,2015,Panama,0,0.0
+5255,2015,Papua New Guinea,0,0.0
+5256,2015,Paraguay,0,0.0
+5257,2015,Peru,0,139.0
+5258,2015,Philippines,0,0.0
+5259,2015,Poland,0,0.0
+5260,2015,Portugal,0,0.0
+5261,2015,Romania,0,0.0
+5262,2015,Saudi Arabia,0,0.0
+5263,2015,Senegal,0,0.0
+5264,2015,Sierra Leone,0,0.0
+5265,2015,Singapore,0,0.0
+5266,2015,Slovakia,3,16.0
+5267,2015,Slovenia,0,0.0
+5268,2015,Somalia,0,0.0
+5269,2015,South Africa,0,0.0
+5270,2015,Spain,0,0.0
+5271,2015,Sri Lanka,0,0.0
+5272,2015,Sudan,0,0.0
+5273,2015,Sweden,0,0.0
+5274,2015,Switzerland,0,0.0
+5275,2015,Tajikistan,0,0.0
+5276,2015,Thailand,0,0.0
+5277,2015,Togo,0,0.0
+5278,2015,Tunisia,0,0.0
+5279,2015,Turkey,0,0.0
+5280,2015,Turkmenistan,0,0.0
+5281,2015,Uganda,0,0.0
+5282,2015,Ukraine,0,0.0
+5283,2015,United Arab Emirates,0,1.0
+5284,2015,United States of America,20,14.0
+5285,2015,Uruguay,0,0.0
+5286,2015,Uzbekistan,0,0.0
+5287,2015,Vanuatu,0,0.0
+5680,2015,Worldwide,111,414.0
+5288,2015,Yemen,0,0.0
+5289,2015,Zimbabwe,0,0.0
+5290,2016,Afghanistan,0,0.0
+5291,2016,Algeria,0,0.0
+5292,2016,Angola,0,0.0
+5293,2016,Antigua and Barbuda,0,0.0
+5294,2016,Argentina,0,0.0
+5295,2016,Armenia,0,0.0
+5296,2016,Australia,0,0.0
+5297,2016,Austria,0,0.0
+5298,2016,Azerbaijan,0,0.0
+5299,2016,Bahamas,0,0.0
+5300,2016,Bahrain,0,0.0
+5301,2016,Bangladesh,0,0.0
+5302,2016,Belarus,0,0.0
+5303,2016,Belgium,0,0.0
+5304,2016,Belize,0,0.0
+5305,2016,Botswana,0,0.0
+5306,2016,Brazil,0,0.0
+5307,2016,Bulgaria,0,0.0
+5308,2016,Cambodia,0,0.0
+5309,2016,Cameroon,0,0.0
+5310,2016,Canada,0,4.0
+5311,2016,Chile,0,0.0
+5312,2016,China,0,0.0
+5313,2016,Colombia,9,8.0
+5314,2016,Congo,0,0.0
+5315,2016,Costa Rica,0,0.0
+5316,2016,Croatia,0,0.0
+5317,2016,Cuba,0,0.0
+5318,2016,Denmark,0,0.0
+5319,2016,Dominican Republic,0,0.0
+5320,2016,Ecuador,0,0.0
+5321,2016,Egypt,0,0.0
+5322,2016,Equatorial Guinea,0,0.0
+5323,2016,Ethiopia,0,0.0
+5324,2016,Fiji,0,0.0
+5325,2016,France,0,0.0
+5326,2016,Gabon,0,0.0
+5327,2016,Georgia,0,0.0
+5328,2016,Germany,0,0.0
+5329,2016,Ghana,0,0.0
+5330,2016,Greece,0,0.0
+5331,2016,Guatemala,0,0.0
+5332,2016,Guinea,0,0.0
+5333,2016,Guyana,0,0.0
+5334,2016,Haiti,0,0.0
+5335,2016,Honduras,0,0.0
+5336,2016,Hungary,0,0.0
+5337,2016,Iceland,0,0.0
+5338,2016,India,29,0.0
+5339,2016,Indonesia,13,8.0
+5340,2016,Ireland,0,0.0
+5341,2016,Israel,0,0.0
+5342,2016,Italy,0,0.0
+5343,2016,Japan,0,0.0
+5344,2016,Jordan,0,0.0
+5345,2016,Kazakhstan,0,0.0
+5346,2016,Kenya,0,0.0
+5347,2016,Kyrgyzstan,0,0.0
+5348,2016,Latvia,0,0.0
+5349,2016,Lebanon,0,0.0
+5350,2016,Lesotho,0,0.0
+5351,2016,Libya,0,118.0
+5352,2016,Lithuania,0,0.0
+5353,2016,Luxembourg,5,0.0
+5354,2016,Malawi,0,0.0
+5355,2016,Malaysia,1,3.0
+5356,2016,Maldives,0,0.0
+5357,2016,Mexico,0,0.0
+5358,2016,Mongolia,0,0.0
+5359,2016,Morocco,0,0.0
+5360,2016,Mozambique,0,0.0
+5361,2016,Myanmar,0,0.0
+5362,2016,Nepal,0,0.0
+5363,2016,Netherlands,0,0.0
+5364,2016,New Zealand,0,0.0
+5365,2016,Nicaragua,0,0.0
+5366,2016,Nigeria,0,0.0
+5367,2016,Norway,0,0.0
+5368,2016,Pakistan,47,0.0
+5369,2016,Panama,0,0.0
+5370,2016,Papua New Guinea,0,0.0
+5371,2016,Paraguay,0,0.0
+5372,2016,Peru,0,0.0
+5373,2016,Philippines,0,0.0
+5374,2016,Poland,0,0.0
+5375,2016,Portugal,0,0.0
+5376,2016,Romania,0,0.0
+5377,2016,Saudi Arabia,0,0.0
+5378,2016,Senegal,0,0.0
+5379,2016,Sierra Leone,0,0.0
+5380,2016,Singapore,0,0.0
+5381,2016,Slovakia,0,0.0
+5382,2016,Slovenia,0,0.0
+5383,2016,Somalia,0,0.0
+5384,2016,South Africa,0,0.0
+5385,2016,Spain,0,0.0
+5386,2016,Sri Lanka,0,0.0
+5387,2016,Sudan,0,0.0
+5388,2016,Sweden,0,0.0
+5389,2016,Switzerland,0,0.0
+5390,2016,Tajikistan,0,0.0
+5391,2016,Thailand,0,0.0
+5392,2016,Togo,0,0.0
+5393,2016,Tunisia,0,0.0
+5394,2016,Turkey,0,0.0
+5395,2016,Turkmenistan,0,0.0
+5396,2016,Uganda,0,0.0
+5397,2016,Ukraine,0,0.0
+5398,2016,United Arab Emirates,0,0.0
+5399,2016,United States of America,6,304.0
+5400,2016,Uruguay,0,0.0
+5401,2016,Uzbekistan,0,0.0
+5402,2016,Vanuatu,0,0.0
+5681,2016,Worldwide,110,445.0
+5403,2016,Yemen,0,0.0
+5404,2016,Zimbabwe,0,0.0
+5405,2017,Afghanistan,0,0.0
+5406,2017,Algeria,0,0.0
+5407,2017,Angola,7,0.0
+5408,2017,Antigua and Barbuda,0,0.0
+5409,2017,Argentina,0,0.0
+5410,2017,Armenia,0,0.0
+5411,2017,Australia,0,0.0
+5412,2017,Austria,0,0.0
+5413,2017,Azerbaijan,0,0.0
+5414,2017,Bahamas,0,0.0
+5415,2017,Bahrain,0,0.0
+5416,2017,Bangladesh,0,0.0
+5417,2017,Belarus,0,0.0
+5418,2017,Belgium,0,0.0
+5419,2017,Belize,0,7.0
+5420,2017,Botswana,0,0.0
+5421,2017,Brazil,0,0.0
+5422,2017,Bulgaria,0,0.0
+5423,2017,Cambodia,0,0.0
+5424,2017,Cameroon,0,0.0
+5425,2017,Canada,1,31.0
+5426,2017,Chile,0,0.0
+5427,2017,China,0,0.0
+5428,2017,Colombia,0,0.0
+5429,2017,Congo,0,0.0
+5430,2017,Costa Rica,0,0.0
+5431,2017,Croatia,0,0.0
+5432,2017,Cuba,0,0.0
+5433,2017,Denmark,0,0.0
+5434,2017,Dominican Republic,0,0.0
+5435,2017,Ecuador,0,0.0
+5436,2017,Egypt,0,0.0
+5437,2017,Equatorial Guinea,0,0.0
+5438,2017,Ethiopia,0,0.0
+5439,2017,Fiji,0,0.0
+5440,2017,France,0,0.0
+5441,2017,Gabon,0,0.0
+5442,2017,Georgia,0,0.0
+5443,2017,Germany,0,0.0
+5444,2017,Ghana,0,0.0
+5445,2017,Greece,0,0.0
+5446,2017,Guatemala,0,0.0
+5447,2017,Guinea,0,0.0
+5448,2017,Guyana,0,0.0
+5449,2017,Haiti,0,0.0
+5450,2017,Honduras,0,0.0
+5451,2017,Hungary,0,0.0
+5452,2017,Iceland,0,0.0
+5453,2017,India,0,0.0
+5454,2017,Indonesia,0,0.0
+5455,2017,Ireland,0,0.0
+5456,2017,Israel,0,0.0
+5457,2017,Italy,0,0.0
+5458,2017,Japan,0,0.0
+5459,2017,Jordan,0,0.0
+5460,2017,Kazakhstan,5,0.0
+5461,2017,Kenya,0,0.0
+5462,2017,Kyrgyzstan,0,0.0
+5463,2017,Latvia,0,0.0
+5464,2017,Lebanon,0,0.0
+5465,2017,Lesotho,0,0.0
+5466,2017,Libya,0,0.0
+5467,2017,Lithuania,0,0.0
+5468,2017,Luxembourg,0,0.0
+5469,2017,Malawi,0,0.0
+5470,2017,Malaysia,0,0.0
+5471,2017,Maldives,0,0.0
+5472,2017,Mexico,0,0.0
+5473,2017,Mongolia,0,0.0
+5474,2017,Morocco,0,0.0
+5475,2017,Mozambique,0,0.0
+5476,2017,Myanmar,0,0.0
+5477,2017,Nepal,0,16.0
+5478,2017,Netherlands,0,0.0
+5479,2017,New Zealand,0,0.0
+5480,2017,Nicaragua,0,0.0
+5481,2017,Nigeria,0,0.0
+5482,2017,Norway,0,0.0
+5483,2017,Pakistan,0,0.0
+5484,2017,Panama,0,0.0
+5485,2017,Papua New Guinea,1,0.0
+5486,2017,Paraguay,0,0.0
+5487,2017,Peru,0,0.0
+5488,2017,Philippines,0,0.0
+5489,2017,Poland,0,0.0
+5490,2017,Portugal,0,0.0
+5491,2017,Romania,0,0.0
+5492,2017,Saudi Arabia,0,0.0
+5493,2017,Senegal,0,0.0
+5494,2017,Sierra Leone,0,0.0
+5495,2017,Singapore,0,0.0
+5496,2017,Slovakia,0,0.0
+5497,2017,Slovenia,0,0.0
+5498,2017,Somalia,0,0.0
+5499,2017,South Africa,0,0.0
+5500,2017,Spain,0,0.0
+5501,2017,Sri Lanka,0,0.0
+5502,2017,Sudan,0,0.0
+5503,2017,Sweden,0,0.0
+5504,2017,Switzerland,0,0.0
+5505,2017,Tajikistan,0,0.0
+5506,2017,Thailand,0,0.0
+5507,2017,Togo,0,0.0
+5508,2017,Tunisia,0,0.0
+5509,2017,Turkey,0,0.0
+5510,2017,Turkmenistan,0,0.0
+5511,2017,Uganda,0,0.0
+5512,2017,Ukraine,0,0.0
+5513,2017,United Arab Emirates,0,0.0
+5514,2017,United States of America,0,0.0
+5515,2017,Uruguay,0,0.0
+5516,2017,Uzbekistan,0,0.0
+5517,2017,Vanuatu,0,0.0
+5682,2017,Worldwide,14,54.0
+5518,2017,Yemen,0,0.0
+5519,2017,Zimbabwe,0,0.0
+5520,2018,Afghanistan,0,0.0
+5521,2018,Algeria,0,0.0
+5522,2018,Angola,0,0.0
+5523,2018,Antigua and Barbuda,0,0.0
+5524,2018,Argentina,0,0.0
+5525,2018,Armenia,0,0.0
+5526,2018,Australia,0,0.0
+5527,2018,Austria,0,0.0
+5528,2018,Azerbaijan,0,0.0
+5529,2018,Bahamas,0,0.0
+5530,2018,Bahrain,0,0.0
+5531,2018,Bangladesh,0,0.0
+5532,2018,Belarus,0,0.0
+5533,2018,Belgium,0,0.0
+5534,2018,Belize,0,0.0
+5535,2018,Botswana,0,0.0
+5536,2018,Brazil,0,0.0
+5537,2018,Bulgaria,0,0.0
+5538,2018,Cambodia,0,0.0
+5539,2018,Cameroon,0,0.0
+5540,2018,Canada,0,0.0
+5541,2018,Chile,0,0.0
+5542,2018,China,0,0.0
+5543,2018,Colombia,0,0.0
+5544,2018,Congo,0,0.0
+5545,2018,Costa Rica,0,0.0
+5546,2018,Croatia,0,0.0
+5547,2018,Cuba,0,0.0
+5548,2018,Denmark,0,0.0
+5549,2018,Dominican Republic,0,0.0
+5550,2018,Ecuador,0,0.0
+5551,2018,Egypt,0,0.0
+5552,2018,Equatorial Guinea,0,0.0
+5553,2018,Ethiopia,18,0.0
+5554,2018,Fiji,0,0.0
+5555,2018,France,0,0.0
+5556,2018,Gabon,0,0.0
+5557,2018,Georgia,0,0.0
+5558,2018,Germany,0,0.0
+5559,2018,Ghana,0,0.0
+5560,2018,Greece,0,0.0
+5561,2018,Guatemala,0,0.0
+5562,2018,Guinea,0,0.0
+5563,2018,Guyana,0,0.0
+5564,2018,Haiti,0,0.0
+5565,2018,Honduras,0,0.0
+5566,2018,Hungary,0,0.0
+5567,2018,Iceland,0,0.0
+5568,2018,India,0,0.0
+5569,2018,Indonesia,0,2.0
+5570,2018,Ireland,0,0.0
+5571,2018,Israel,0,0.0
+5572,2018,Italy,0,0.0
+5573,2018,Japan,0,0.0
+5574,2018,Jordan,0,0.0
+5575,2018,Kazakhstan,0,0.0
+5576,2018,Kenya,0,0.0
+5577,2018,Kyrgyzstan,0,0.0
+5578,2018,Latvia,0,0.0
+5579,2018,Lebanon,0,0.0
+5580,2018,Lesotho,0,0.0
+5581,2018,Libya,0,0.0
+5582,2018,Lithuania,0,0.0
+5583,2018,Luxembourg,0,0.0
+5584,2018,Malawi,0,0.0
+5585,2018,Malaysia,0,0.0
+5586,2018,Maldives,0,0.0
+5587,2018,Mexico,0,105.0
+5588,2018,Mongolia,0,0.0
+5589,2018,Morocco,0,0.0
+5590,2018,Mozambique,0,0.0
+5591,2018,Myanmar,0,0.0
+5592,2018,Nepal,0,0.0
+5593,2018,Netherlands,0,0.0
+5594,2018,New Zealand,0,0.0
+5595,2018,Nicaragua,0,0.0
+5596,2018,Nigeria,0,0.0
+5597,2018,Norway,0,0.0
+5598,2018,Pakistan,0,0.0
+5599,2018,Panama,0,0.0
+5600,2018,Papua New Guinea,0,0.0
+5601,2018,Paraguay,0,0.0
+5602,2018,Peru,0,0.0
+5603,2018,Philippines,0,0.0
+5604,2018,Poland,0,0.0
+5605,2018,Portugal,0,0.0
+5606,2018,Romania,0,0.0
+5607,2018,Saudi Arabia,0,0.0
+5608,2018,Senegal,0,0.0
+5609,2018,Sierra Leone,0,0.0
+5610,2018,Singapore,0,0.0
+5611,2018,Slovakia,0,0.0
+5612,2018,Slovenia,0,0.0
+5613,2018,Somalia,0,0.0
+5614,2018,South Africa,1,18.0
+5615,2018,Spain,0,0.0
+5616,2018,Sri Lanka,0,0.0
+5617,2018,Sudan,0,0.0
+5618,2018,Sweden,0,0.0
+5619,2018,Switzerland,0,0.0
+5620,2018,Tajikistan,0,0.0
+5621,2018,Thailand,0,0.0
+5622,2018,Togo,0,0.0
+5623,2018,Tunisia,0,0.0
+5624,2018,Turkey,0,0.0
+5625,2018,Turkmenistan,0,0.0
+5626,2018,Uganda,0,0.0
+5627,2018,Ukraine,0,0.0
+5628,2018,United Arab Emirates,0,0.0
+5629,2018,United States of America,2,17.0
+5630,2018,Uruguay,0,0.0
+5631,2018,Uzbekistan,0,0.0
+5632,2018,Vanuatu,0,0.0
+5683,2018,Worldwide,21,142.0
+5633,2018,Yemen,0,0.0
+5634,2018,Zimbabwe,0,0.0
